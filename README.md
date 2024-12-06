@@ -7,3 +7,4 @@
 1. [owenyoung](https://owenyoung.com) 沉浸式翻译作者
 1. [https://www.pseudoyu.com/](https://www.pseudoyu.com/)
 1. [艾逗笔](https://idoubi.cc/)
+1. [枫言枫语justin](https://justinyan.me)
