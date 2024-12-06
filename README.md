@@ -6,3 +6,4 @@
 1. [https://littlecheesecake.me/](https://littlecheesecake.me/) OR [https://yulu.github.io](https://yulu.github.io)
 1. [owenyoung](https://owenyoung.com) 沉浸式翻译作者
 1. [https://www.pseudoyu.com/](https://www.pseudoyu.com/)
+1. [艾逗笔](https://idoubi.cc/)
