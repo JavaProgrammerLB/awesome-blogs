@@ -8,3 +8,4 @@
 1. [https://www.pseudoyu.com/](https://www.pseudoyu.com/)
 1. [艾逗笔](https://idoubi.cc/)
 1. [枫言枫语justin](https://justinyan.me)
+1. [Paul Graham](https://paulgraham.com/articl.html)
