@@ -12,3 +12,4 @@
 1. [Nicholas Carlini](https://nicholas.carlini.com/writing) 是Google(Deep Mind)的Research Scientist，[这篇博客](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)讲了作者是怎么使用AI的<br><img src="https://nicholas.carlini.com/nicholas.jpg" width="300px" height="300px" alt="Nicholas Carlini">
 1. [Oliver Nguyen](https://olivernguyen.io/w) 一个用Go语言和Javascript进行开发的开发者，从HN上看到博主的[这篇文章](https://olivernguyen.io/w/namespace.error/) <br><img src="https://olivernguyen.io/images/me.png" width="300px" height="auto" alt="Oliver Nguyen">
 1. [Perl Calendar](https://perladvent.org/) 一个Perl编程语言相关的文章类别网站，从HN上看到的是[这篇文章](https://perladvent.org/2024/2024-12-19.html)
+1. [Roel Hollander](https://roelsworld.eu/blog-music/) A philosophical, semiscientific, contemplative blog by Roel Hollander about Music, Sound, Arts, Sacred Geometry, Photography and much more. <br><img src="https://roelsworld.eu/wp-content/uploads/Roel_s_World_blog__2.png" width="300px" height="auto" alt="Roel Hollander">
