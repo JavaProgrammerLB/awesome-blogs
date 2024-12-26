@@ -14,3 +14,4 @@
 1. [Perl Calendar](https://perladvent.org/) 一个Perl编程语言相关的文章类别网站，从HN上看到的是[这篇文章](https://perladvent.org/2024/2024-12-19.html)
 1. [Roel Hollander](https://roelsworld.eu/blog-music/) A philosophical, semiscientific, contemplative blog by Roel Hollander about Music, Sound, Arts, Sacred Geometry, Photography and much more. <br><img src="https://roelsworld.eu/wp-content/uploads/Roel_s_World_blog__2.png" width="300px" height="auto" alt="Roel Hollander">
 1. [Hawstein](https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/) 把indie hacker翻译成独立创作者的人
+1. [bernsteinbear](https://bernsteinbear.com/blog/)
