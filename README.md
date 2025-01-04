@@ -15,3 +15,4 @@
 1. [Roel Hollander](https://roelsworld.eu/blog-music/) A philosophical, semiscientific, contemplative blog by Roel Hollander about Music, Sound, Arts, Sacred Geometry, Photography and much more. <br><img src="https://roelsworld.eu/wp-content/uploads/Roel_s_World_blog__2.png" width="300px" height="auto" alt="Roel Hollander">
 1. [Hawstein](https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/) 把indie hacker翻译成独立创作者的人
 1. [bernsteinbear](https://bernsteinbear.com/blog/)
+1. [Jacob Vosmaer](https://jacobvosmaer.nl)
