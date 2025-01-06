@@ -16,3 +16,4 @@
 1. [Hawstein](https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/) 把indie hacker翻译成独立创作者的人
 1. [bernsteinbear](https://bernsteinbear.com/blog/)
 1. [Jacob Vosmaer](https://blog.jacobvosmaer.nl)
+1. [Sam Altman](https://blog.samaltman.com/)
