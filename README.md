@@ -17,3 +17,4 @@
 1. [bernsteinbear](https://bernsteinbear.com/blog/)
 1. [Jacob Vosmaer](https://blog.jacobvosmaer.nl)
 1. [Sam Altman](https://blog.samaltman.com/)
+1. [David Crawshaw](https://crawshaw.io/blog)
