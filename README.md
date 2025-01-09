@@ -18,3 +18,4 @@
 1. [Jacob Vosmaer](https://blog.jacobvosmaer.nl)
 1. [Sam Altman](https://blog.samaltman.com/)
 1. [David Crawshaw](https://crawshaw.io/blog)
+1. [Bernardo](https://sidhion.com/blog/)
