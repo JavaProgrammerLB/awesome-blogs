@@ -20,3 +20,4 @@
 1. [David Crawshaw](https://crawshaw.io/blog)
 1. [Bernardo](https://sidhion.com/blog/)
 1. [云风](https://blog.codingnow.com)
+1. [Julia Evans](https://jvns.ca/blog/) **Make hard things Easy**, known him by [PATH blog](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
