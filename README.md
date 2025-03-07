@@ -21,4 +21,4 @@
 1. [Bernardo](https://sidhion.com/blog/)
 1. [云风](https://blog.codingnow.com)
 1. [Julia Evans](https://jvns.ca/blog/) **Make hard things Easy**, known him by [PATH blog](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
-1. [balatro author](https://localthunk.com)
+1. [balatro author](https://localthunk.com/blog)
