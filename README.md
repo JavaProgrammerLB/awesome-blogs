@@ -22,4 +22,5 @@
 1. [云风](https://blog.codingnow.com)
 1. [Julia Evans](https://jvns.ca/blog/) **Make hard things Easy**, known him by [PATH blog](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 1. [balatro author](https://localthunk.com/blog)
-1. [wunderwuzzi](https://embracethered.com/blog/) the author [post](https://news.ycombinator.com/item?id=43616282) a [study paper about MCP](https://arxiv.org/abs/2503.23278) 
+1. [wunderwuzzi](https://embracethered.com/blog/) the author [post](https://news.ycombinator.com/item?id=43616282) a [study paper about MCP](https://arxiv.org/abs/2503.23278)
+1. [Scott Chacon](https://blog.gitbutler.com/) the founder of github <br><img src="https://scottchacon.com/assets/images/dogs.jpg" width="300px" height="auto" alt="Scott Chacon">
