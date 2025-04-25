@@ -24,3 +24,4 @@
 1. [balatro author](https://localthunk.com/blog)
 1. [wunderwuzzi](https://embracethered.com/blog/) the author [post](https://news.ycombinator.com/item?id=43616282) a [study paper about MCP](https://arxiv.org/abs/2503.23278)
 1. [Scott Chacon](https://blog.gitbutler.com/) the founder of github <br><img src="https://scottchacon.com/assets/images/dogs.jpg" width="300px" height="auto" alt="Scott Chacon">
+1. [Sharon Brizinov](https://sharonbrizinov.com/) a security researcher who write [how i made 64k from deleted files](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b) <br><img src="https://sharonbrizinov.com/avatar.png" width="300px" height="auto" alt="Sharon Brizinov">
