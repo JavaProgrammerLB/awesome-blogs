@@ -22,7 +22,6 @@
 1. [云风](https://blog.codingnow.com)
 1. [Julia Evans](https://jvns.ca/blog/) **Make hard things Easy**, known him by [PATH blog](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 1. [balatro author](https://localthunk.com/blog)
-1. [wunderwuzzi](https://embracethered.com/blog/) the author [post](https://news.ycombinator.com/item?id=43616282) a [study paper about MCP](https://arxiv.org/abs/2503.23278) <img src="https://github.com/user-attachments/assets/0bb4f823-f0f8-4a8d-a035-3e9d7d72084c" width="300px" height="auto" alt="wunderwuzzi">
-
+1. [wunderwuzzi](https://embracethered.com/blog/) the author [post](https://news.ycombinator.com/item?id=43616282) a [study paper about MCP](https://arxiv.org/abs/2503.23278) <br><img src="https://github.com/user-attachments/assets/0bb4f823-f0f8-4a8d-a035-3e9d7d72084c" width="300px" height="auto" alt="wunderwuzzi">
 1. [Scott Chacon](https://blog.gitbutler.com/) the founder of github <br><img src="https://scottchacon.com/assets/images/dogs.jpg" width="300px" height="auto" alt="Scott Chacon">
 1. [Sharon Brizinov](https://sharonbrizinov.com/) a security researcher who write [how i made 64k from deleted files](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b) <br><img src="https://sharonbrizinov.com/avatar.png" width="300px" height="auto" alt="Sharon Brizinov">
