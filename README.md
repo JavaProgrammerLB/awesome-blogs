@@ -26,3 +26,4 @@
 1. [Scott Chacon](https://blog.gitbutler.com/) the founder of github <br><img src="https://scottchacon.com/assets/images/dogs.jpg" width="300px" height="auto" alt="Scott Chacon">
 1. [Sharon Brizinov](https://sharonbrizinov.com/) a security researcher who write [how i made 64k from deleted files](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b) <br><img src="https://sharonbrizinov.com/avatar.png" width="300px" height="auto" alt="Sharon Brizinov">
 1. [Daniel Stenberg](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/) the author of [curl](https://curl.se/) <br><img src="https://daniel.haxx.se/blog/wp-content/uploads/2022/03/final-12-1000x1000-1.jpg" width="300px" height="auto" alt="Daniel Stenberg">
+1. 自称'良渚文化村村民'的独立开发者-[图拉鼎](https://imtx.me/) <br> <img src="https://avatars.githubusercontent.com/u/35811?v=4" width="300px" height="auto" alt="图拉鼎">
