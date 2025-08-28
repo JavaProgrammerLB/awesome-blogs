@@ -26,13 +26,13 @@ jobs:
 
       - name: Convert README.md to HTML
         run: |
-          mkdir -p page
-          python -c "import markdown, pathlib; html = markdown.markdown(pathlib.Path('README.md').read_text()); pathlib.Path('page/index.html').write_text(html)"
+          mkdir -p docs
+          python -c "import markdown, pathlib; html = markdown.markdown(pathlib.Path('README.md').read_text()); pathlib.Path('docs/index.html').write_text(html)"
 
       - name: Commit and push index.html
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add page/index.html
+          git add docs/index.html
           git commit -m 'Auto-generate index.html from README.md' || echo 'No changes to commit'
           git push
