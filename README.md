@@ -27,4 +27,5 @@
 1. [Sharon Brizinov](https://sharonbrizinov.com/) a security researcher who write [how i made 64k from deleted files](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b) <br><img src="https://sharonbrizinov.com/avatar.png" width="300px" height="auto" alt="Sharon Brizinov">
 1. [Daniel Stenberg](https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/) the author of [curl](https://curl.se/) <br><img src="https://daniel.haxx.se/blog/wp-content/uploads/2022/03/final-12-1000x1000-1.jpg" width="300px" height="auto" alt="Daniel Stenberg">
 1. '良渚文化村村民'独立开发者-[图拉鼎](https://imtx.me/) <br> <img src="https://avatars.githubusercontent.com/u/35811?v=4" width="300px" height="auto" alt="图拉鼎">
-1. [Alec Radford](https://newmu.github.io) <br> <img src="http://newmu.github.io//images/avatar.jpg" width="300px" height="auto" alt="Alex Radford">
+1. [Alec Radford](https://newmu.github.io) <br> <img src="http://newmu.github.io/images/avatar.jpg" width="300px" height="auto" alt="Alex Radford">
+1. [Randy](https://lutaonan.com/) [《代码之外》博客主播](https://bento.me/beyondcode)，[程序员如何vide coding](https://www.youtube.com/watch?v=by3qe66xjPs)的视频拍的比较简单有趣，给人在AI快速发展的当下仍然能静下来玩电脑 <br> <img src="https://lutaonan.com/avatar.jpg" width="300px" height="auto" alt="Randy">
