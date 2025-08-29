@@ -29,3 +29,4 @@
 1. '良渚文化村村民'独立开发者-[图拉鼎](https://imtx.me/) <br> <img src="https://avatars.githubusercontent.com/u/35811?v=4" width="300px" height="auto" alt="图拉鼎">
 1. [Alec Radford](https://newmu.github.io) <br> <img src="http://newmu.github.io/images/avatar.jpg" width="300px" height="auto" alt="Alex Radford">
 1. [Randy](https://lutaonan.com/)-[《代码之外》](https://bento.me/beyondcode)播客主播，[程序员如何vide coding](https://www.youtube.com/watch?v=by3qe66xjPs)的视频拍的比较简单有趣，给人在AI快速发展的当下仍然能静下来玩电脑 <br> <img src="https://lutaonan.com/avatar.jpg" width="300px" height="auto" alt="Randy">
+1. [Derek Sivers](https://sive.rs/about)一个和90后父辈差不多年纪的，有自己的生活哲学，喜欢创作，远离让自己成瘾的事情的人 <br> <img src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/144960_254x191.jpg" width="300px" height="auto" alt="Derek Sivers">
