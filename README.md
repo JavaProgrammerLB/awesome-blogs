@@ -1,8 +1,8 @@
 # awesome-blogs
-收集高质量博客的仓库（如果收集到100个网站，我就为这些博客做一个导航站）
+- 收集高质量博客的仓库（如果收集到100个网站，我就为这些博客做一个导航站）
 - 排名不分先后，在于我看到的时间的前后
 
-1. [https://littlecheesecake.me/](https://littlecheesecake.me/) OR [https://yulu.github.io](https://yulu.github.io)<br><img src="https://github.com/user-attachments/assets/bfe91f28-650c-41c0-aa6f-a806f30d7367" width="300px" height="auto" alt="yulu">
+1. [https://littlecheesecake.me/](https://littlecheesecake.me/) 新开了[博客的理财频道](https://littlecheesecake.me/money.sense/cn/posts/)<br><img src="https://github.com/user-attachments/assets/bfe91f28-650c-41c0-aa6f-a806f30d7367" width="300px" height="auto" alt="yulu">
 1. [owenyoung](https://owenyoung.com) 沉浸式翻译作者 <br><img src="https://cdn.justinbot.com/wp-content/uploads/2025/04/Podcast-Cover-v139-v3.png" width="300px" height="auto" alt="owen"/>
 1. [https://www.pseudoyu.com/](https://www.pseudoyu.com/)
 1. [艾逗笔](https://idoubi.cc/)
