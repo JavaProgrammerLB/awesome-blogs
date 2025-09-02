@@ -34,3 +34,4 @@
 1. [勾股](https://jiongks.name/) [weex](https://weexapp.com/zh)重要开发者<br><img src="https://avatars.githubusercontent.com/u/206848?v=4" width="300px" height="auto" alt="勾股">
 1. [Limboy](https://bytetalk.fm/) 图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者
 1. [Linghao Zhang](https://linghao.io/posts) 生活在湾区的Google程序员,从limboy的播客中认识的<br> <img src="https://bytetalk.fm/posts/episode-10/cover.jpg" width="300px" height="auto" alt="Linghao Zhang">
+1. [Shu Ding](https://shud.in/thoughts) 在Vercel工作的程序员与设计师,也是limboy采访过的工程师<br><img src="https://bytetalk.fm/posts/episode-8/cover.jpg" width="300px" height="auto" alt="Shu Ding">
