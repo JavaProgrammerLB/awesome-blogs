@@ -32,3 +32,4 @@
 1. [Derek Sivers](https://sive.rs/about)一个和90后父辈差不多年纪的，有自己的生活哲学，喜欢创作，远离让自己成瘾的事情的人 <br> <img src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/144960_254x191.jpg" width="300px" height="auto" alt="Derek Sivers">
 1. [geekplux](https://geekplux.com/posts) 代码之外主播 <br> <img src="https://geekplux.com/_next/image?url=%2Fimages%2Fmyself.jpeg&w=256&q=75" width="300px" height="auto" alt="geekplux">
 1. [勾股](https://jiongks.name/) [weex](https://weexapp.com/zh)重要开发者<br><img src="https://avatars.githubusercontent.com/u/206848?v=4" width="300px" height="auto" alt="勾股">
+1. [Limboy](https://bytetalk.fm/) 图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者
