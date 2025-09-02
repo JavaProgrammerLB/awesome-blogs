@@ -19,7 +19,7 @@
 1. [Sam Altman](https://blog.samaltman.com/)
 1. [David Crawshaw](https://crawshaw.io/blog)
 1. [Bernardo](https://sidhion.com/blog/)
-1. [云风](https://blog.codingnow.com)
+1. [云风](https://blog.codingnow.com) 原网易游戏核心成员，《大话西游》重要开发者<br><img src="https://avatars.githubusercontent.com/u/729648?v=4" widht="300px" height="auto" alt="云风">
 1. [Julia Evans](https://jvns.ca/blog/) **Make hard things Easy**, known him by [PATH blog](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 1. [balatro author](https://localthunk.com/blog)
 1. [wunderwuzzi](https://embracethered.com/blog/) the author [post](https://news.ycombinator.com/item?id=43616282) a [study paper about MCP](https://arxiv.org/abs/2503.23278) <br><img src="https://github.com/user-attachments/assets/0bb4f823-f0f8-4a8d-a035-3e9d7d72084c" width="300px" height="auto" alt="wunderwuzzi">
