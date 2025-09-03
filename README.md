@@ -35,3 +35,4 @@
 1. [Linghao Zhang](https://linghao.io/posts) 生活在湾区的Google程序员,从limboy的播客中认识的<br> <img src="https://bytetalk.fm/posts/episode-10/cover.jpg" width="300px" height="auto" alt="Linghao Zhang">
 1. [Shu Ding](https://shud.in/thoughts) 在Vercel工作的程序员与设计师,也是limboy采访过的工程师<br><img src="https://bytetalk.fm/posts/episode-8/cover.jpg" width="300px" height="auto" alt="Shu Ding">
 1. [yihong](https://blog.yihong0618.me/) 一个生活在大连喜欢使用github的沈阳人、开发者
+1. [antfu](https://antfu.me/posts) [这篇文章](https://antfu.me/posts/about-yak-shaving-zh)写的超级好
