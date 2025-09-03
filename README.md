@@ -37,3 +37,4 @@
 1. [yihong](https://blog.yihong0618.me/) 一个生活在大连喜欢使用github的沈阳人、开发者
 1. [antfu](https://antfu.me/posts) [这篇文章](https://antfu.me/posts/about-yak-shaving-zh)写的超级好
 1. [Frost](https://frostming.com/) python开发者,和yetone都在BentoML工作
+1. [xuanwo](https://xuanwo.io/) yihong写在我崇拜的人里的人
