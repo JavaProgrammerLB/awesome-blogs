@@ -38,3 +38,4 @@
 1. [antfu](https://antfu.me/posts) [这篇文章](https://antfu.me/posts/about-yak-shaving-zh)写的超级好
 1. [Frost](https://frostming.com/) python开发者,和yetone都在BentoML工作
 1. [xuanwo](https://xuanwo.io/) yihong写在我崇拜的人里的人
+1. [Ola Hungerford](https://www.olahungerford.com/) MCP inspector仓库的核心开发<br><img src="https://www.olahungerford.com/" width="300px" height="auto" alt="Ola Hungerford">
