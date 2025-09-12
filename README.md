@@ -39,3 +39,4 @@
 1. [Frost](https://frostming.com/) python开发者,和yetone都在BentoML工作
 1. [xuanwo](https://xuanwo.io/) yihong写在我崇拜的人里的人
 1. [Ola Hungerford](https://www.olahungerford.com/) MCP inspector仓库的核心开发<br><img src="https://avatars0.githubusercontent.com/u/16480113?s=400&v=4" width="300px" height="auto" alt="Ola Hungerford">
+1. [汪二 (Haozes)](https://blog.yaoyaojumprope.com/) 独立开发者，Apple Watch平台上开发了乐摇摇APP，统计跳绳的个数，既能当程序员，又能赚钱，还有个好身体，汪二的工作太有意义啦
