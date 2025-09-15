@@ -1,0 +1,230 @@
+[
+  {
+    "name": "littlecheesecake",
+    "url": "https://littlecheesecake.me/",
+    "describe": "新开了博客的理财频道 https://littlecheesecake.me/money.sense/cn/posts/",
+    "avatar": "https://github.com/user-attachments/assets/bfe91f28-650c-41c0-aa6f-a806f30d7367"
+  },
+  {
+    "name": "owenyoung",
+    "url": "https://owenyoung.com",
+    "describe": "沉浸式翻译作者",
+    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2025/04/Podcast-Cover-v139-v3.png"
+  },
+  {
+    "name": "pseudoyu",
+    "url": "https://www.pseudoyu.com/",
+    "describe": "pseudoyu",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "艾逗笔",
+    "url": "https://idoubi.cc/",
+    "describe": "艾逗笔",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Justin",
+    "url": "https://justinyan.me",
+    "describe": "枫言枫语播客主播",
+    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2023/08/developers_meetup_03.jpeg?imageMogr2/quality/80|imageMogr2/format/webp"
+  },
+  {
+    "name": "Paul Graham",
+    "url": "https://paulgraham.com/articles.html",
+    "describe": "《黑客与画家》作者，YC创始人",
+    "avatar": "https://s.turbifycdn.com/aah/paulgraham/bio-11.gif"
+  },
+  {
+    "name": "ntietz",
+    "url": "https://www.ntietz.com/blog/",
+    "describe": "在HN阅读台中看到作者的这篇博客 https://www.ntietz.com/blog/evolving-ergo-setup/，博客看上去很整洁，网站的响应速度很快，看网站的footer（© 2015-2024 Nicole Tietz-Sokolsaya），作者写博客快10年了",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Nicholas Carlini",
+    "url": "https://nicholas.carlini.com/writing",
+    "describe": "是Google(Deep Mind)的Research Scientist，这篇博客 https://nicholas.carlini.com/writing/2024/how-i-use-ai.html 讲了作者是怎么使用AI的",
+    "avatar": "https://nicholas.carlini.com/nicholas.jpg"
+  },
+  {
+    "name": "Oliver Nguyen",
+    "url": "https://olivernguyen.io/w",
+    "describe": "一个用Go语言和Javascript进行开发的开发者，从HN上看到博主的这篇文章 https://olivernguyen.io/w/namespace.error/ ",
+    "avatar": "https://olivernguyen.io/images/me.png"
+  },
+  {
+    "name": "Perl Calendar",
+    "url": "https://perladvent.org/",
+    "describe": "一个Perl编程语言相关的文章类别网站，从HN上看到的是这篇文章 https://perladvent.org/2024/2024-12-19.html",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Roel Hollander",
+    "url": "https://roelsworld.eu/blog-music/",
+    "describe": "A philosophical, semiscientific, contemplative blog by Roel Hollander about Music, Sound, Arts, Sacred Geometry, Photography and much more.",
+    "avatar": "https://roelsworld.eu/wp-content/uploads/Roel_s_World_blog__2.png"
+  },
+  {
+    "name": "Hawstein",
+    "url": "https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/",
+    "describe": "把indie hacker翻译成独立创作者的人",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "bernsteinbear",
+    "url": "https://bernsteinbear.com/blog/",
+    "describe": "bernsteinbear",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Jacob Vosmaer",
+    "url": "https://blog.jacobvosmaer.nl",
+    "describe": "Jacob Vosmaer",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Sam Altman",
+    "url": "https://blog.samaltman.com/",
+    "describe": "Sam Altman",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "David Crawshaw",
+    "url": "https://crawshaw.io/blog",
+    "describe": "David Crawshaw",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Bernardo",
+    "url": "https://sidhion.com/blog/",
+    "describe": "Bernardo",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "云风",
+    "url": "https://blog.codingnow.com",
+    "describe": "原网易游戏核心成员，《大话西游》重要开发者",
+    "avatar": "https://avatars.githubusercontent.com/u/729648?v=4"
+  },
+  {
+    "name": "Julia Evans",
+    "url": "https://jvns.ca/blog/",
+    "describe": "Make hard things Easy, known him by PATH blog https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "balatro author",
+    "url": "https://localthunk.com/blog",
+    "describe": "balatro author",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "wunderwuzzi",
+    "url": "https://embracethered.com/blog/",
+    "describe": "the author post https://news.ycombinator.com/item?id=43616282 a study paper about MCP https://arxiv.org/abs/2503.23278 ",
+    "avatar": "https://github.com/user-attachments/assets/0bb4f823-f0f8-4a8d-a035-3e9d7d72084c"
+  },
+  {
+    "name": "Scott Chacon",
+    "url": "https://blog.gitbutler.com/",
+    "describe": "the founder of github",
+    "avatar": "https://scottchacon.com/assets/images/dogs.jpg"
+  },
+  {
+    "name": "Sharon Brizinov",
+    "url": "https://sharonbrizinov.com/",
+    "describe": "a security researcher who write how i made 64k from deleted files https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b",
+    "avatar": "https://sharonbrizinov.com/avatar.png"
+  },
+  {
+    "name": "Daniel Stenberg",
+    "url": "https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/",
+    "describe": "the author of curl https://curl.se/",
+    "avatar": "https://daniel.haxx.se/blog/wp-content/uploads/2022/03/final-12-1000x1000-1.jpg"
+  },
+  {
+    "name": "图拉鼎",
+    "url": "https://imtx.me/",
+    "describe": "'良渚文化村村民'独立开发者",
+    "avatar": "https://avatars.githubusercontent.com/u/35811?v=4"
+  },
+  {
+    "name": "Randy",
+    "url": "https://lutaonan.com/",
+    "describe": "《代码之外》播客主播，程序员如何vide coding的视频拍的比较简单有趣，给人在AI快速发展的当下仍然能静下来玩电脑 https://www.youtube.com/watch?v=by3qe66xjPs",
+    "avatar": "https://lutaonan.com/avatar.jpg"
+  },
+  {
+    "name": "Derek Sivers",
+    "url": "https://sive.rs/about",
+    "describe": "一个和90后父辈差不多年纪的，有自己的生活哲学，喜欢创作，远离让自己成瘾的事情的人",
+    "avatar": "https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/144960_254x191.jpg"
+  },
+  {
+    "name": "geekplux",
+    "url": "https://geekplux.com/posts",
+    "describe": "代码之外主播",
+    "avatar": "https://geekplux.com/_next/image?url=%2Fimages%2Fmyself.jpeg&w=256&q=75"
+  },
+  {
+    "name": "勾股",
+    "url": "https://jiongks.name/",
+    "describe": "weex重要开发者",
+    "avatar": "https://avatars.githubusercontent.com/u/206848?v=4"
+  },
+  {
+    "name": "Limboy",
+    "url": "https://bytetalk.fm/",
+    "describe": "图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Linghao Zhang",
+    "url": "https://linghao.io/posts",
+    "describe": "生活在湾区的Google程序员,从limboy的播客中认识的",
+    "avatar": "https://bytetalk.fm/posts/episode-10/cover.jpg"
+  },
+  {
+    "name": "Shu Ding",
+    "url": "https://shud.in/thoughts",
+    "describe": "在Vercel工作的程序员与设计师,也是limboy采访过的工程师",
+    "avatar": "https://bytetalk.fm/posts/episode-8/cover.jpg"
+  },
+  {
+    "name": "yihong",
+    "url": "https://blog.yihong0618.me/",
+    "describe": "一个生活在大连喜欢使用github的沈阳人、开发者",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "antfu",
+    "url": "https://antfu.me/posts",
+    "describe": "这篇文章 https://antfu.me/posts/about-yak-shaving-zh 写的超级好",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Frost",
+    "url": "https://frostming.com/",
+    "describe": "python开发者,和yetone都在BentoML工作",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "xuanwo",
+    "url": "https://xuanwo.io/",
+    "describe": "yihong写在我崇拜的人里的人",
+    "avatar": "avatar.png"
+  },
+  {
+    "name": "Ola Hungerford",
+    "url": "https://www.olahungerford.com/",
+    "describe": "MCP inspector仓库的核心开发",
+    "avatar": "https://avatars0.githubusercontent.com/u/16480113?s=400&v=4"
+  },
+  {
+    "name": "汪二 (Haozes)",
+    "url": "https://blog.yaoyaojumprope.com/",
+    "describe": "独立开发者，Apple Watch平台上开发了乐摇摇APP，统计跳绳的个数，既能当程序员，又能赚钱，还有个好身体，汪二的工作太有意义啦",
+    "avatar": "https://yaoyaojumprope.com/img/tim.jpg"
+  }
+]
