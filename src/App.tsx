@@ -1,6 +1,14 @@
 import { Card } from '@radix-ui/themes/dist/cjs/components/index.js'
 import './App.css'
 import blogsData from './assets/blogs.json'
+import avatar from './assets/avatar.png'
+
+
+function resolveAvatar(path: string): string {
+  if (!path) return '';
+  if (path === 'avatar.png') return avatar;
+  return path;
+}
 
 interface Blog {
   name: string;
@@ -20,7 +28,7 @@ function App() {
           <Card key={blog.name} className="w-full">
             <div className="flex flex-col items-center justify-center gap-3">
               <div className="w-64 aspect-square overflow-hidden rounded-lg">
-                <img src={blog.avatar} alt={blog.name} className="w-full h-full object-cover object-center" />
+                <img src={resolveAvatar(blog.avatar)} alt={blog.name} className="w-full h-full object-cover object-center" />
               </div>
               <div>
                 <h3 className="text-3xl font-thick">
