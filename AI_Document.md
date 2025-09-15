@@ -27,3 +27,70 @@
 - 支持子目录：可以把 glob 改成 `./assets/**/*`。
 
 如需再改进或遇到其他加载问题，可以继续提出。
+
+---
+
+# GitHub Actions 自动部署到 GitHub Pages 说明
+
+本仓库已添加工作流：`.github/workflows/deployToGithubPages.yml`
+
+## 触发方式
+1. 推送到 `master` 分支（`git push origin master`）。
+2. 手动触发：在 GitHub 仓库页面 -> Actions -> 选择该工作流 -> Run workflow。
+
+## 工作流执行步骤概览
+| 步骤 | 说明 |
+| ---- | ---- |
+| checkout | 拉取仓库最新代码 |
+| setup-node | 使用 Node.js 20 并启用 npm 缓存 |
+| npm ci | 安装依赖（更快且保证与 lockfile 一致） |
+| npm run deploy | 执行 `vite build && gh-pages -d dist` 将 `dist` 发布到 `gh-pages` 分支 |
+| upload artifact | （可选）上传构建产物供调试/下载 |
+
+## `npm run deploy` 细节
+脚本定义：`vite build && gh-pages -d dist`
+
+`gh-pages` 包会：
+1. 如果没有 `gh-pages` 分支则创建。
+2. 将 `dist` 目录内容强制推送到该分支根目录。
+3. 使用默认提供的 `GITHUB_TOKEN` 进行认证（工作流中已通过 `env` 注入）。
+
+## 首次配置 GitHub Pages
+1. 打开仓库 Settings -> Pages。
+2. Source 选择：`Deploy from a branch`。
+3. Branch 选择：`gh-pages`，文件夹保持 `/ (root)`。
+4. 保存，等待几分钟即可访问。
+
+## 自定义域名 (CNAME)
+仓库根目录已有 `CNAME` 文件；`gh-pages` 发布后会自动包含在构建产物里（确保 `dist` 中最终包含该文件）。如果发现被覆盖：
+1. 可在 `vite.config.ts` 中通过 `build.copyPublicDir` 确保 `public/CNAME` 被复制。
+2. 或在 deploy 前手动将根目录 `CNAME` 复制到 `dist/`：可以改写脚本：
+  ```jsonc
+  "deploy": "vite build && cp CNAME dist/CNAME && gh-pages -d dist"
+  ```
+
+当前如果访问不到自定义域名，请确认：
+- DNS A 记录 或 CNAME 记录 已指向 `username.github.io`。
+- Pages 设置里成功识别该域名（会显示绿色小盾牌或正在验证）。
+
+## 常见问题排查
+| 问题 | 可能原因 | 解决 |
+| ---- | -------- | ---- |
+| 页面空白/404 | 路由使用 BrowserHistory 且未配置 base | 若为纯静态单页无需更改；多路由建议使用 Hash 路由或在 `vite.config.ts` 设置 `base: '/<repo>/'` （如果不是自定义域名场景） |
+| 样式不生效 | 构建 `base` 前缀错误 | 检查 `vite.config.ts` 的 `base` 是否匹配部署路径 |
+| CNAME 丢失 | 未复制到 dist | 参见上面 CNAME 处理 |
+| 构建失败 | 缓存损坏或 lock 不一致 | 重跑工作流或删除 `node_modules` 后本地验证 `npm ci` |
+
+## 手动本地验证发布内容
+```
+npm ci
+npm run build
+npx serve dist   # 或者 npx http-server dist
+```
+
+## 后续可改进
+1. 添加缓存命中统计（actions/cache 手动控制）。
+2. 将 `gh-pages` 步骤替换为官方 Pages Action（`actions/deploy-pages`）并开启构建产物保护。
+3. 增加一个工作流检测 `blogs.json` 的结构有效性。
+
+如需我继续改成官方 Pages 方案或增强校验，请直接告诉我。
