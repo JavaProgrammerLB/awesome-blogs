@@ -1,12 +1,12 @@
 import { Card } from '@radix-ui/themes/dist/cjs/components/index.js'
 import './App.css'
 import blogsData from './assets/blogs.json'
-import avatar from './assets/avatar.png'
+import avatar from './assets/avatar.webp'
 
 
 function resolveAvatar(path: string): string {
   if (!path) return '';
-  if (path === 'avatar.png') return avatar;
+  if (path === 'avatar.webp') return avatar;
   return path;
 }
 
