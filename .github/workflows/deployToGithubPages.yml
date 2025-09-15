@@ -3,39 +3,53 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ "master" ]
-  # Allow manual trigger
   workflow_dispatch:
 
+# Official Pages actions need these explicit permissions
 permissions:
-  contents: write
+  contents: read      # to checkout
+  pages: write        # to deploy
+  id-token: write     # required by deploy-pages for OIDC
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-            node-version: '20'
-            cache: 'npm'
+          node-version: 20
+          cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Build & Deploy to gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          npm run deploy
+      - name: Build (Vite)
+        run: npm run build
 
-      - name: Upload artifact (dist) for reference
-        if: success()
-        uses: actions/upload-artifact@v4
+      - name: Include CNAME (if exists)
+        run: |
+          if [ -f CNAME ]; then cp CNAME dist/CNAME; fi
+
+      - name: Upload artifact to Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: dist
           path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

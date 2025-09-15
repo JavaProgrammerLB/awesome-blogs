@@ -147,3 +147,80 @@ npx serve dist   # 打开 http://localhost:3000 或 serve 输出的端口
 3. 如果需要保留旧链接（/awesome-blogs/）做兼容，可在根目录放一个 `awesome-blogs/index.html`，里边用 `<meta http-equiv="refresh">` 方式 301/模拟跳转到根。
 
 ---
+
+# 已迁移到官方 GitHub Pages Actions 工作流 (2025-09-15)
+
+## 迁移动机
+原方案使用 `gh-pages` NPM 包直接 push 到 `gh-pages` 分支，需要处理：
+1. Git 认证（可能出现 `could not read Username`）。
+2. 手动保证 CNAME 复制。
+3. 无 Pages 环境保护（Environment URL、审计、Rollbacks 功能有限）。
+
+官方 Actions 组合（`upload-pages-artifact` + `deploy-pages`）提供：
+- 内置 OIDC 签发，不需要手动注入 token 到 git remote。
+- 自动生成 Environment（`github-pages`）并暴露 URL。
+- 更稳定的缓存与最小权限（`contents: read`, `pages: write`）。
+
+## 新工作流文件
+路径：`.github/workflows/deployToGithubPages.yml`
+
+核心步骤：
+1. build Job：checkout → setup-node → npm ci → vite build → 复制 CNAME → 上传构建产物。
+2. deploy Job：使用 `actions/deploy-pages@v4` 部署上传的 artifact。
+
+并发控制：
+```
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+```
+避免快速多次 push 时出现中途构建产物被覆盖的不一致状态。
+
+## 权限说明
+```
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+```
+`id-token: write` 是 `deploy-pages` 通过 OIDC 获取短期访问令牌的必要权限。
+
+## 自定义域名处理
+工作流中保留：
+```
+if [ -f CNAME ]; then cp CNAME dist/CNAME; fi
+```
+确保根目录 `CNAME` 被复制进部署目录。保持仓库根的 `CNAME` 文件即可。
+
+## 本地与线上一致性验证
+1. 本地执行：`npm ci && npm run build`，检查 `dist/` 包含 `index.html` 与资源。
+2. 手动确认 `dist/CNAME`（若本地复制脚本也需要，可运行：`cp CNAME dist/CNAME`）。
+3. 推送到 `master` 后，在 Actions 页面查看：
+   - build 任务成功并显示 artifact 上传。
+   - deploy 任务显示 `✅ Deployed`，Environment 面板出现 URL。
+
+## 旧脚本及依赖清理（可选）
+现在发布不再需要 `gh-pages` 包，可选择：
+1. 从 `package.json` 删除 `gh-pages` 依赖。
+2. 修改 `scripts.deploy`（保留本地手动预览可改成仅构建）：
+   ```jsonc
+   "deploy": "npm run build"
+   ```
+3. 若想安全过渡，可暂时保留，一段时间后再移除。
+
+## 如果仍想保留手动推送方式
+可新增一个单独脚本如：`"legacy:publish": "vite build && gh-pages -d dist"`，仅在本地或特殊场景使用。
+
+## 回滚方式
+若官方工作流异常（罕见）：
+1. 在 Settings → Pages 将 Source 切回 Branch: `gh-pages`。
+2. 恢复旧 workflow（保存在 git 历史中）。
+
+## 后续可增量增强
+- 添加 `actions/cache` 缓存 `~/.npm`（需注意 vite 和 Tailwind 版本变动）。
+- 在 build 前跑 `npm run lint` 或轻量验证脚本（比如校验 `blogs.json` 结构）。
+- 添加一个 `preview` workflow 用于 PR 预览（`actions/deploy-pages` 支持 PR 部署预览）。
+
+如需继续删除 `gh-pages` 依赖或添加缓存优化告诉我即可。
+
+---
