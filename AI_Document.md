@@ -94,3 +94,56 @@ npx serve dist   # 或者 npx http-server dist
 3. 增加一个工作流检测 `blogs.json` 的结构有效性。
 
 如需我继续改成官方 Pages 方案或增强校验，请直接告诉我。
+
+---
+
+# 404 问题排查与修复记录 (2025-09-15)
+
+## 现象
+在自定义域名 `https://friends.yitianyigexiangfa.com/` 访问页面时，浏览器控制台出现若干静态资源（JS/CSS）返回 404，页面白屏或样式缺失。
+
+## 根因分析
+`vite.config.ts` 中配置了：
+```ts
+base: '/awesome-blogs/'
+```
+该配置适用于部署在 `https://<username>.github.io/awesome-blogs/` 这种“仓库二级路径”场景；但当前仓库使用 **自定义独立域名**，Pages 会把站点挂在域名根路径 `/`。继续带前缀会导致最终 HTML 中引用：
+```
+<script src="/awesome-blogs/assets/index-xxxx.js"></script>
+```
+而真实发布路径其实是：
+```
+/assets/index-xxxx.js
+```
+因此所有带 `/awesome-blogs/` 前缀的资源请求均 404。
+
+## 修复措施
+1. 修改 `vite.config.ts`：
+  ```diff
+  - base: '/awesome-blogs/',
+  + base: '/',
+  ```
+2. 重新执行 `npm run build` / 部署。
+3. 刷新页面（必要时清缓存 / 强刷）。
+
+## 验证步骤
+本地：
+```
+npm run build
+npx serve dist   # 打开 http://localhost:3000 或 serve 输出的端口
+```
+查看生成的 `dist/index.html` 中静态资源引用前缀应为：`/assets/...` 或相对路径，不再含 `/awesome-blogs/`。
+
+## 何时应该使用非根 base
+| 场景 | base 设置 |
+| ---- | --------- |
+| GitHub Pages 默认：`https://<user>.github.io/<repo>/` | `base: '/<repo>/'` |
+| 自定义域名：`CNAME -> friends.yitianyigexiangfa.com` | `base: '/'` |
+| 反向代理挂载到子路径：`https://domain.com/friends/` | `base: '/friends/'` |
+
+## 额外建议（可选）
+1. 若未来改用 GitHub Pages 官方 Actions（`actions/deploy-pages`），可在 workflow 中显式写入构建产物；当前 `gh-pages` 包方式保持即可。
+2. 可在本地加一个小脚本自动检测 `dist/index.html` 中是否仍残留错误前缀，避免回归。
+3. 如果需要保留旧链接（/awesome-blogs/）做兼容，可在根目录放一个 `awesome-blogs/index.html`，里边用 `<meta http-equiv="refresh">` 方式 301/模拟跳转到根。
+
+---
