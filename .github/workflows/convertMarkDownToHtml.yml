@@ -1,0 +1,38 @@
+name: Convert MarkDown To Html
+
+on:
+  push:
+    branches: [ "master" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install markdown package
+        run: pip install markdown
+
+      - name: Convert README.md to HTML
+        run: |
+          mkdir -p docs
+          python -c "import markdown, pathlib; html = markdown.markdown(pathlib.Path('README.md').read_text()); pathlib.Path('docs/index.html').write_text(html)"
+
+      - name: Commit and push index.html
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/index.html
+          git commit -m 'Auto-generate index.html from README.md' || echo 'No changes to commit'
+          git push
