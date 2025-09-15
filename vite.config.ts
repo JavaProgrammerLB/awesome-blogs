@@ -8,7 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  // When using a custom domain (CNAME), assets should be served from root.
-  // Previously set to "/awesome-blogs/" which causes 404s on custom domain.
   base: '/',
 })
