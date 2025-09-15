@@ -2,7 +2,14 @@ import { Card } from '@radix-ui/themes/dist/cjs/components/index.js'
 import './App.css'
 import blogsData from './assets/blogs.json'
 
-const blogs = blogsData;
+interface Blog {
+  name: string;
+  url: string;
+  describe?: string;
+  avatar?: string;
+}
+
+const blogs: Blog[] = blogsData as Blog[];
 
 function App() {
 
@@ -10,8 +17,8 @@ function App() {
     <div className="m-3">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {blogs.map((blog) => (
-          <Card className="w-full">
-            <div key={blog.name} className="flex flex-col items-center justify-center gap-3">
+          <Card key={blog.name} className="w-full">
+            <div className="flex flex-col items-center justify-center gap-3">
               <div className="w-64 aspect-square overflow-hidden rounded-lg">
                 <img src={blog.avatar} alt={blog.name} className="w-full h-full object-cover object-center" />
               </div>
