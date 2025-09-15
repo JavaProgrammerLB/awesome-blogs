@@ -5,8 +5,8 @@ import blogsData from './assets/blogs.json'
 interface Blog {
   name: string;
   url: string;
-  describe?: string;
-  avatar?: string;
+  describe: string;
+  avatar: string;
 }
 
 const blogs: Blog[] = blogsData as Blog[];
