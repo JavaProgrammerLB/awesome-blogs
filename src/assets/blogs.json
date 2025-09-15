@@ -1,0 +1,102 @@
+[
+  {
+    "name": "littlecheesecake",
+    "url": "https://littlecheesecake.me/",
+    "describe": "新开了博客的理财频道 https://littlecheesecake.me/money.sense/cn/posts/",
+    "avatar": "https://github.com/user-attachments/assets/bfe91f28-650c-41c0-aa6f-a806f30d7367"
+  },
+  {
+    "name": "owenyoung",
+    "url": "https://owenyoung.com",
+    "describe": "沉浸式翻译作者",
+    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2025/04/Podcast-Cover-v139-v3.png"
+  },
+  {
+    "name": "pseudoyu",
+    "url": "https://www.pseudoyu.com/"
+  },
+  {
+    "name": "艾逗笔",
+    "url": "https://idoubi.cc/"
+  },
+  {
+    "name": "Justin",
+    "url": "https://justinyan.me",
+    "describe": "枫言枫语播客主播",
+    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2023/08/developers_meetup_03.jpeg?imageMogr2/quality/80|imageMogr2/format/webp"
+  },
+  {
+    "name": "Paul Graham",
+    "url": "https://paulgraham.com/articles.html",
+    "describe": "《黑客与画家》作者，YC创始人",
+    "avatar": "https://s.turbifycdn.com/aah/paulgraham/bio-11.gif"
+  },
+  {
+    "name": "ntietz",
+    "url": "https://www.ntietz.com/blog/",
+    "describe": "在HN阅读台中看到作者的这篇博客 https://www.ntietz.com/blog/evolving-ergo-setup/，博客看上去很整洁，网站的响应速度很快，看网站的footer（© 2015-2024 Nicole Tietz-Sokolsaya），作者写博客快10年了"
+  },
+  {
+    "name": "Nicholas Carlini",
+    "url": "https://nicholas.carlini.com/writing",
+    "describe": "是Google(Deep Mind)的Research Scientist，这篇博客 https://nicholas.carlini.com/writing/2024/how-i-use-ai.html 讲了作者是怎么使用AI的",
+    "avatar": "https://nicholas.carlini.com/nicholas.jpg"
+  },
+  {
+    "name": "Oliver Nguyen",
+    "url": "https://olivernguyen.io/w",
+    "describe": "一个用Go语言和Javascript进行开发的开发者，从HN上看到博主的这篇文章 https://olivernguyen.io/w/namespace.error/ ",
+    "avatar": "https://olivernguyen.io/images/me.png"
+  },
+  {
+    "name": "Perl Calendar",
+    "url": "https://perladvent.org/",
+    "describe": "一个Perl编程语言相关的文章类别网站，从HN上看到的是这篇文章 https://perladvent.org/2024/2024-12-19.html"
+  },
+  {
+    "name": "Roel Hollander",
+    "url": "https://roelsworld.eu/blog-music/",
+    "describe": "A philosophical, semiscientific, contemplative blog by Roel Hollander about Music, Sound, Arts, Sacred Geometry, Photography and much more.",
+    "avatar": "https://roelsworld.eu/wp-content/uploads/Roel_s_World_blog__2.png"
+  },
+  {
+    "name": "Hawstein",
+    "url": "https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/",
+    "describe": "把indie hacker翻译成独立创作者的人"
+  },
+  {
+    "name": "bernsteinbear",
+    "url": "https://bernsteinbear.com/blog/"
+  },
+  {
+    "name": "Jacob Vosmaer",
+    "url": "https://blog.jacobvosmaer.nl"
+  },
+  {
+    "name": "Sam Altman",
+    "url": "https://blog.samaltman.com/"
+  },
+  {
+    "name": "David Crawshaw",
+    "url": "https://crawshaw.io/blog"
+  },
+  {
+    "name": "Bernardo",
+    "url": "https://sidhion.com/blog/"
+  },
+  {
+    "name": "云风",
+    "url": "https://blog.codingnow.com",
+    "describe": "原网易游戏核心成员，《大话西游》重要开发者",
+    "avatar": "https://avatars.githubusercontent.com/u/729648?v=4"
+  },
+  {
+    "name": "Julia Evans",
+    "url": "https://jvns.ca/blog/",
+    "describe": "Make hard things Easy, known him by PATH blog https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"
+  },
+  {
+    "name": "balatro author",
+    "url": "https://localthunk.com/blog"
+  }
+]
