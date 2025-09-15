@@ -1,22 +1,35 @@
-import { Flex, Text, Button } from '@radix-ui/themes/dist/cjs/components/index.js'
+import { Card } from '@radix-ui/themes/dist/cjs/components/index.js'
 import './App.css'
 import blogsData from './assets/blogs.json'
 
-const blogs = blogsData
+const blogs = blogsData;
 
 function App() {
-  console.log(blogs)
-  return (
-    <>
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
 
-      <Flex direction="column" gap="2">
-        <Text>Hello from Radix Themes :)</Text>
-        <Button>Let's go</Button>
-      </Flex>
-    </>
+  return (
+    <div className="m-3">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {blogs.map((blog) => (
+          <Card className="w-full">
+            <div key={blog.name} className="flex flex-col items-center justify-center gap-3">
+              <div className="w-64 aspect-square overflow-hidden rounded-lg">
+                <img src={blog.avatar} alt={blog.name} className="w-full h-full object-cover object-center" />
+              </div>
+              <div>
+                <h3 className="text-3xl font-thick">
+                  <a href={blog.url} target="_blank" rel="noopener noreferrer">
+                    {blog.name}
+                  </a>
+                </h3>
+              </div>
+              <div className="flex flex-col justify-start items-start">
+                <p className="text-sm text-gray-700">{blog.describe}</p>
+              </div>
+            </div>
+          </Card>
+        ))}
+      </div>
+    </div>
   )
 }
 
