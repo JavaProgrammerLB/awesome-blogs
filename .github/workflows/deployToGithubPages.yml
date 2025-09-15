@@ -28,6 +28,17 @@ jobs:
           node-version: 20
           cache: 'npm'
 
+      - name: Cache build output (Vite + TS)
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/vite
+            ~/.npm
+            node_modules/.cache
+          key: ${{ runner.os }}-build-${{ hashFiles('package-lock.json', 'tsconfig*.json', 'vite.config.*') }}
+          restore-keys: |
+            ${{ runner.os }}-build-
+
       - name: Install dependencies
         run: npm ci
 

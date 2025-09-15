@@ -224,3 +224,69 @@ if [ -f CNAME ]; then cp CNAME dist/CNAME; fi
 如需继续删除 `gh-pages` 依赖或添加缓存优化告诉我即可。
 
 ---
+
+# 依赖清理与缓存优化记录 (2025-09-15)
+
+## 变更概览
+本次调整：
+1. 删除 `devDependencies` 中的 `gh-pages` 依赖（已完全迁移到官方 `deploy-pages` 工作流，不再需要本地推送分支方案）。
+2. 修改 `package.json` 中 `deploy` 脚本：
+  - 旧：`vite build && cp CNAME dist/CNAME && gh-pages -d dist`
+  - 新：`npm run build && cp CNAME dist/CNAME`
+  说明：现在部署由 GitHub Actions 完成，`deploy` 仅保留本地构建+写入 CNAME 的能力（调试 dist 用）。
+3. 在 `.github/workflows/deployToGithubPages.yml` 中新增缓存步骤：
+  ```yaml
+  - name: Cache build output (Vite + TS)
+    uses: actions/cache@v4
+    with:
+     path: |
+      ~/.cache/vite
+      ~/.npm
+      node_modules/.cache
+     key: ${{ runner.os }}-build-${{ hashFiles('package-lock.json', 'tsconfig*.json', 'vite.config.*') }}
+     restore-keys: |
+      ${{ runner.os }}-build-
+  ```
+
+## 为什么可以安全移除 `gh-pages`
+当前部署链路：构建 → 上传 artifact → `actions/deploy-pages`。官方 Action 会将 artifact 发布为 Pages 版本，不需要再维护 `gh-pages` 分支，因此 `gh-pages` 包的 git push 逻辑失效。移除后：
+* 减少一次依赖安装体积与安全面。
+* 避免开发者误运行旧发布脚本导致分支状态漂移。
+
+## 缓存策略说明
+虽然 `setup-node` 已启用 `cache: npm`，但仍追加：
+* `~/.cache/vite`：Vite/ESBuild/Tailwind 某些中间缓存可能命中（视版本与配置而定，命中率不保证，但成本低）。
+* `node_modules/.cache`：若未来引入 SWC/PostCSS 之类缓存目录可直接受益。
+* 同时包含 `~/.npm` 使得即便 `setup-node` 行为变更也有二级兜底（轻冗余，可视需要再精简）。
+
+键设计：
+```
+${{ runner.os }}-build-${{ hashFiles('package-lock.json', 'tsconfig*.json', 'vite.config.*') }}
+```
+当依赖锁 / TS 配置 / Vite 配置变化时触发失效，保证缓存正确性。
+
+## 本地影响
+本地开发与运行不受影响；`npm run deploy` 现在不会再试图推送 Git 分支，只用于生成 `dist` 供手动预览：
+```
+npm run deploy
+npx serve dist
+```
+
+## 若需要恢复 `gh-pages` 旧方案
+可回滚到历史提交重新取回：
+1. 恢复依赖：`npm i -D gh-pages`
+2. 还原脚本：`"deploy": "vite build && cp CNAME dist/CNAME && gh-pages -d dist"`
+3. 新建（或继续使用） `gh-pages` 分支，并在 Settings → Pages 切换 Source。
+
+## 后续可考虑的进一步优化
+1. 在缓存步骤中分离 npm 缓存与构建缓存（减少 key 变化时的完全失效）。
+2. 添加 `lint` 步骤保证主分支质量：
+  ```yaml
+  - run: npm run lint --max-warnings=0
+  ```
+3. 增加一个 `pull_request` 触发，仅执行构建与预览（可用 Pages 预览环境）。
+4. 若 Tailwind 配置增多，可专门缓存 `tailwind.config.*` 参与 key 计算。
+
+如需继续压缩构建时间或加入预览环境，告知即可继续调整。
+
+---
