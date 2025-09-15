@@ -15,13 +15,13 @@
     "name": "pseudoyu",
     "url": "https://www.pseudoyu.com/",
     "describe": "pseudoyu",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "艾逗笔",
     "url": "https://idoubi.cc/",
     "describe": "艾逗笔",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Justin",
@@ -39,7 +39,7 @@
     "name": "ntietz",
     "url": "https://www.ntietz.com/blog/",
     "describe": "在HN阅读台中看到作者的这篇博客 https://www.ntietz.com/blog/evolving-ergo-setup/，博客看上去很整洁，网站的响应速度很快，看网站的footer（© 2015-2024 Nicole Tietz-Sokolsaya），作者写博客快10年了",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Nicholas Carlini",
@@ -57,7 +57,7 @@
     "name": "Perl Calendar",
     "url": "https://perladvent.org/",
     "describe": "一个Perl编程语言相关的文章类别网站，从HN上看到的是这篇文章 https://perladvent.org/2024/2024-12-19.html",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Roel Hollander",
@@ -69,37 +69,37 @@
     "name": "Hawstein",
     "url": "https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/",
     "describe": "把indie hacker翻译成独立创作者的人",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "bernsteinbear",
     "url": "https://bernsteinbear.com/blog/",
     "describe": "bernsteinbear",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Jacob Vosmaer",
     "url": "https://blog.jacobvosmaer.nl",
     "describe": "Jacob Vosmaer",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Sam Altman",
     "url": "https://blog.samaltman.com/",
     "describe": "Sam Altman",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "David Crawshaw",
     "url": "https://crawshaw.io/blog",
     "describe": "David Crawshaw",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Bernardo",
     "url": "https://sidhion.com/blog/",
     "describe": "Bernardo",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "云风",
@@ -111,13 +111,13 @@
     "name": "Julia Evans",
     "url": "https://jvns.ca/blog/",
     "describe": "Make hard things Easy, known him by PATH blog https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "balatro author",
     "url": "https://localthunk.com/blog",
     "describe": "balatro author",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "wunderwuzzi",
@@ -177,7 +177,7 @@
     "name": "Limboy",
     "url": "https://bytetalk.fm/",
     "describe": "图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Linghao Zhang",
@@ -195,25 +195,25 @@
     "name": "yihong",
     "url": "https://blog.yihong0618.me/",
     "describe": "一个生活在大连喜欢使用github的沈阳人、开发者",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "antfu",
     "url": "https://antfu.me/posts",
     "describe": "这篇文章 https://antfu.me/posts/about-yak-shaving-zh 写的超级好",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Frost",
     "url": "https://frostming.com/",
     "describe": "python开发者,和yetone都在BentoML工作",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "xuanwo",
     "url": "https://xuanwo.io/",
     "describe": "yihong写在我崇拜的人里的人",
-    "avatar": "https://obs202211121201.obs.cn-north-4.myhuaweicloud.com/liubeiAvatar.jpeg"
+    "avatar": "avatar.png"
   },
   {
     "name": "Ola Hungerford",
