@@ -232,5 +232,11 @@
     "url": "https://www.devas.life/",
     "describe": "Inkdrop（笔记SaaS）作者，独立开发者，沉浸式编程",
     "avatar": "https://www.craftz.dog/_next/image?url=%2Fimages%2Ftakuya.jpg&w=256&q=75"
+  },
+  {
+    "name": "Eric Migicovsky",
+    "url": "https://ericmigi.com",
+    "describe": "一个教人怎么自己做智能手表的人",
+    "avatar": "avatar.webp"
   }
 ]
