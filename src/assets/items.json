@@ -1,0 +1,355 @@
+{
+  "update_time": "2025-09-19T09:37:37.344502+00:00",
+  "items": [
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "《良好生活的哲学》读书笔记",
+      "item_url": "https://www.owenyoung.com/blog/books/philosophy-life/",
+      "time": "2025-07-22T09:46:07+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2025.06.14: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2025-06-14/",
+      "time": "2025-06-13T11:29:31+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2025.05.28: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2025-05-28/",
+      "time": "2025-05-27T11:29:31+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "我的普鲁斯特问卷回答 - 《请回答普鲁斯特》播客访谈文字稿",
+      "item_url": "https://www.owenyoung.com/blog/proust/",
+      "time": "2025-04-05T21:50:59+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2025.03.24: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2025-03-24/",
+      "time": "2025-03-23T11:45:06+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2025.01.27: 各种链接之 - 来点艺术家的震撼",
+      "item_url": "https://www.owenyoung.com/blog/journals/2025-01-27/",
+      "time": "2025-01-26T09:04:34+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
+      "item_url": "https://www.owenyoung.com/blog/ai-expert-guidance/",
+      "time": "2025-01-23T13:28:03+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2025.01.22: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2025-01-22/",
+      "time": "2025-01-21T22:14:01+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.12.09: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-12-09/",
+      "time": "2024-12-08T08:14:25+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "现在应该是小宇宙播客最甜蜜的时期",
+      "item_url": "https://www.owenyoung.com/blog/podcast/",
+      "time": "2024-11-29T10:22:09+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.11.27: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-11-27/",
+      "time": "2024-11-26T11:00:59+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.10.10: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-10-10/",
+      "time": "2024-10-09T08:15:01+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.08.26: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-08-26/",
+      "time": "2024-08-25T12:54:32+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.07.15: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-07-15/",
+      "time": "2024-07-14T08:31:04+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.06.09: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-06-09/",
+      "time": "2024-06-08T08:35:07+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.05.30: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-05-30/",
+      "time": "2024-05-29T08:20:02+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.05.01: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-05-01/",
+      "time": "2024-04-30T09:17:46+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "J人的本命笔记软件：Capacities",
+      "item_url": "https://www.owenyoung.com/blog/capacities/",
+      "time": "2024-03-16T11:44:10+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.03.03: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-03-03/",
+      "time": "2024-03-03T05:28:53+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "《洞察力：少数好选择的巨大影响力》读书笔记",
+      "item_url": "https://www.owenyoung.com/blog/books/pebbles-of-perception/",
+      "time": "2024-02-17T08:58:21+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "Make - 独立创造者小书 读书笔记",
+      "item_url": "https://www.owenyoung.com/blog/books/make/",
+      "time": "2024-02-14T10:27:32+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.02.15: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-02-15/",
+      "time": "2024-02-14T08:58:43+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "如何分类？",
+      "item_url": "https://www.owenyoung.com/how-to-categorize/",
+      "time": "2024-02-12T02:12:15+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.01.08: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-01-08/",
+      "time": "2024-01-07T12:04:17+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2024.01.01: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2024-01-07/",
+      "time": "2023-12-31T10:33:47+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.12.24: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-12-24/",
+      "time": "2023-12-23T14:17:27+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "我的 Kobo 电子书阅读器设置",
+      "item_url": "https://www.owenyoung.com/blog/kobo-setup/",
+      "time": "2023-12-03T03:59:07+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "一种新的雇佣方案",
+      "item_url": "https://www.owenyoung.com/blog/new-salary/",
+      "time": "2023-12-02T12:14:15+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.12.03: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-12-03/",
+      "time": "2023-12-02T10:21:23+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "关于笔记，笔记工具",
+      "item_url": "https://www.owenyoung.com/note-taking/",
+      "time": "2023-11-24T04:09:06+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "Paid Things",
+      "item_url": "https://www.owenyoung.com/paid/",
+      "time": "2023-11-24T02:54:37+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "公开写作的好处",
+      "item_url": "https://www.owenyoung.com/writing/",
+      "time": "2023-11-23T08:55:43+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "有意思的实物",
+      "item_url": "https://www.owenyoung.com/goods/",
+      "time": "2023-11-17T16:00:00+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.09.10: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-09-10/",
+      "time": "2023-09-09T08:26:47+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "对“假开源”事件的反省",
+      "item_url": "https://www.owenyoung.com/blog/fake-open-source/",
+      "time": "2023-08-05T08:26:25+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.08.02: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-08-02/",
+      "time": "2023-08-01T11:08:02+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "家居收纳归类方法",
+      "item_url": "https://www.owenyoung.com/home-organizing/",
+      "time": "2023-07-02T09:37:01+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.07.02: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-07-02/",
+      "time": "2023-07-01T10:18:28+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "重新思考何为幸福的人生",
+      "item_url": "https://www.owenyoung.com/blog/money/",
+      "time": "2023-06-23T11:24:30+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "我要是有钱...",
+      "item_url": "https://www.owenyoung.com/blog/basic-income/",
+      "time": "2023-06-23T09:38:22+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.06.18: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-06-18/",
+      "time": "2023-06-18T01:26:58+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "刷社交网络，阅读文章以及读书的区别是什么？",
+      "item_url": "https://www.owenyoung.com/blog/why-we-should-write/",
+      "time": "2023-06-15T08:09:07+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "Amp it up（加速）- 摘抄",
+      "item_url": "https://www.owenyoung.com/blog/books/amp-it-up/",
+      "time": "2023-06-15T01:39:17+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "米德尔马契",
+      "item_url": "https://www.owenyoung.com/blog/books/middlemarch/",
+      "time": "2023-06-10T05:53:19+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.06.04: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-06-04/",
+      "time": "2023-06-04T04:33:52+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "城市与国家的财富/分离主义的问题 - 阅读笔记",
+      "item_url": "https://www.owenyoung.com/blog/cities-and-the-wealth-of-nation/",
+      "time": "2023-05-20T08:40:13+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.03.26: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-03-26/",
+      "time": "2023-03-25T13:29:15+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.03.20: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-03-20/",
+      "time": "2023-03-19T12:47:01+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.03.18: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-03-18/",
+      "time": "2023-03-18T00:17:21+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "AI 相关的笔记收集",
+      "item_url": "https://www.owenyoung.com/ai/",
+      "time": "2023-03-16T08:04:28+00:00"
+    }
+  ]
+}
