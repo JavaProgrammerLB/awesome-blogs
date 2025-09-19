@@ -27,7 +27,7 @@ function News() {
     blogMap[blog.name] = blog;
   });
   return (
-    <div className='container mx-auto p-4 flex flex-col gap-4'>
+    <div className='container mx-auto flex flex-col gap-4'>
       {items.slice(0, 20).map(item => (
       <div className='flex flex-row gap-2' key={item.item_url}>
         <div>

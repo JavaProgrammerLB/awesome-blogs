@@ -23,7 +23,7 @@ const blogs: Blog[] = blogsData as Blog[];
 
 function Them() {
   return (
-    <div className="m-3">
+    <div className='container mx-auto flex flex-col gap-4'>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {blogs.map((blog) => (
           <Card key={blog.name} className="w-full">
