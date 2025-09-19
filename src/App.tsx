@@ -4,6 +4,7 @@ import './App.css'
 import blogsData from './assets/blogs.json'
 import avatar from './assets/avatar.webp'
 import News from './components/News'
+import Footer from './components/Footer'
 
 function resolveAvatar(path: string): string {
   if (!path) return '';
@@ -50,7 +51,7 @@ function Them() {
 
 function App() {
   return (
-    <div>
+    <div className="min-h-screen flex flex-col">
       {/* 导航栏 */}
       <nav className="bg-gray-100 p-4 mb-4">
         <div className="max-w-7xl mx-auto flex gap-10">
@@ -60,10 +61,15 @@ function App() {
       </nav>
 
       {/* 路由内容 */}
-      <Routes>
-        <Route path="/" element={<Them />} />
-        <Route path="/news" element={<News />} />
-      </Routes>
+      <main className="flex-1">
+        <Routes>
+          <Route path="/" element={<Them />} />
+          <Route path="/news" element={<News />} />
+        </Routes>
+      </main>
+
+      {/* Footer */}
+      <Footer />
     </div>
   )
 }
