@@ -8,13 +8,14 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "npm run build && cp CNAME dist/CNAME"
+    "deploy": "npm run build && cp CNAME dist/CNAME && cp public/404.html dist/404.html"
   },
   "dependencies": {
     "@radix-ui/themes": "^3.2.1",
     "@tailwindcss/vite": "^4.1.13",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-router": "^7.9.1",
     "tailwindcss": "^4.1.13"
   },
   "devDependencies": {

@@ -1,4 +1,101 @@
-# Avatar 本地资源加载说明
+# GitHub Pages React Router 支持文档
+
+## 概述
+
+GitHub Pages 支持 React Router，但需要特殊配置来处理客户端路由。本项目已配置完成，支持以下路由：
+
+- `/` - 友链列表页（原首页内容）
+- `/home` - 主页
+- `/about` - 关于页面
+
+## 实现原理
+
+### 问题
+GitHub Pages 是静态文件托管服务，当用户直接访问 `/home` 或 `/about` 时，服务器会寻找对应的物理文件，但这些路由是由 React Router 在客户端处理的，不存在实际的文件，因此会返回 404 错误。
+
+### 解决方案
+使用 SPA（Single Page Application）GitHub Pages 解决方案：
+
+1. **404.html 重定向**: 创建 `public/404.html` 文件，将所有 404 请求重定向到主应用
+2. **URL 参数处理**: 在 `index.html` 中添加脚本处理重定向的 URL 参数
+3. **React Router 配置**: 配置 BrowserRouter 和路由规则
+
+## 配置文件
+
+### public/404.html
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Friends</title>
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      var pathSegmentsToKeep = 0;
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
+        l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
+```
+
+### index.html 中的处理脚本
+```javascript
+<script type="text/javascript">
+  (function(l) {
+    if (l.search[1] === '/' ) {
+      var decoded = l.search.slice(1).split('&').map(function(s) { 
+        return s.replace(/~and~/g, '&')
+      }).join('?');
+      window.history.replaceState(null, null,
+          l.pathname.slice(0, -1) + decoded + l.hash
+      );
+    }
+  }(window.location))
+</script>
+```
+
+## 路由组件
+
+### src/components/Home.tsx
+主页组件，展示欢迎信息
+
+### src/components/About.tsx
+关于页面组件，展示网站介绍信息
+
+## 导航
+应用包含顶部导航栏，支持在不同页面间跳转：
+- 友链列表
+- 主页
+- 关于
+
+## 部署
+运行 `npm run deploy` 命令会：
+1. 构建应用
+2. 复制 CNAME 文件到 dist 目录
+3. 复制 404.html 文件到 dist 目录
+
+## 注意事项
+1. 所有路由在本地开发和 GitHub Pages 上都能正常工作
+2. 直接访问路由 URL（如 https://yoursite.github.io/home）会正确跳转
+3. 浏览器前进/后退按钮正常工作
+4. 页面刷新不会出现 404 错误
+
+## 技术栈
+- React 19
+- React Router 7
+- Vite
+- TypeScript
+- Tailwind CSS
+- Radix UI
 
 在 `blogs.json` 中，有的条目的 `avatar` 字段是完整的远程 URL（以 https:// 开头），有的条目使用了相对文件名，比如 `avatar.png`。
 

@@ -1,8 +1,9 @@
-import { Card } from '@radix-ui/themes/dist/cjs/components/index.js'
+import { Card, Text } from '@radix-ui/themes/dist/cjs/components/index.js'
+import { Routes, Route, Link } from 'react-router'
 import './App.css'
 import blogsData from './assets/blogs.json'
 import avatar from './assets/avatar.webp'
-
+import News from './components/News'
 
 function resolveAvatar(path: string): string {
   if (!path) return '';
@@ -19,8 +20,7 @@ interface Blog {
 
 const blogs: Blog[] = blogsData as Blog[];
 
-function App() {
-
+function Them() {
   return (
     <div className="m-3">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -44,6 +44,26 @@ function App() {
           </Card>
         ))}
       </div>
+    </div>
+  )
+}
+
+function App() {
+  return (
+    <div>
+      {/* 导航栏 */}
+      <nav className="bg-gray-100 p-4 mb-4">
+        <div className="max-w-7xl mx-auto flex gap-10">
+          <Link to="/"><Text weight="light" size="5" color='gray'>Them</Text></Link>
+          <Link to="/news"><Text weight="light" size="5" color='green' className='hover:underline underline-offset-2'>NEWS</Text></Link>
+        </div>
+      </nav>
+
+      {/* 路由内容 */}
+      <Routes>
+        <Route path="/" element={<Them />} />
+        <Route path="/news" element={<News />} />
+      </Routes>
     </div>
   )
 }
