@@ -9,13 +9,15 @@
     "name": "owenyoung",
     "url": "https://owenyoung.com",
     "describe": "沉浸式翻译作者",
-    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2025/04/Podcast-Cover-v139-v3.png"
+    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2025/04/Podcast-Cover-v139-v3.png",
+    "feed": "https://www.owenyoung.com/atom.xml"
   },
   {
     "name": "pseudoyu",
     "url": "https://www.pseudoyu.com/",
     "describe": "pseudoyu",
-    "avatar": "https://www.pseudoyu.com/avatar.webp"
+    "avatar": "https://www.pseudoyu.com/avatar.webp",
+    "feed": "https://www.pseudoyu.com/feed.xml"
   },
   {
     "name": "艾逗笔",
@@ -27,19 +29,22 @@
     "name": "Justin",
     "url": "https://justinyan.me",
     "describe": "枫言枫语播客主播",
-    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2023/08/developers_meetup_03.jpeg?imageMogr2/quality/80|imageMogr2/format/webp"
+    "avatar": "https://cdn.justinbot.com/wp-content/uploads/2023/08/developers_meetup_03.jpeg?imageMogr2/quality/80|imageMogr2/format/webp",
+    "feed": "https://justinyan.me/feed"
   },
   {
     "name": "Paul Graham",
     "url": "https://paulgraham.com/articles.html",
     "describe": "《黑客与画家》作者，YC创始人",
-    "avatar": "https://s.turbifycdn.com/aah/paulgraham/bio-11.gif"
+    "avatar": "https://s.turbifycdn.com/aah/paulgraham/bio-11.gif",
+    "feed": "http://www.aaronsw.com/2002/feeds/pgessays.rss"
   },
   {
     "name": "ntietz",
     "url": "https://www.ntietz.com/blog/",
     "describe": "在HN阅读台中看到作者的这篇博客 https://www.ntietz.com/blog/evolving-ergo-setup/，博客看上去很整洁，网站的响应速度很快，看网站的footer（© 2015-2024 Nicole Tietz-Sokolsaya），作者写博客快10年了",
-    "avatar": "https://www.ntietz.com/processed_images/iteration1.364479210f9a8f2f.png"
+    "avatar": "https://www.ntietz.com/processed_images/iteration1.364479210f9a8f2f.png",
+    "feed": "https://www.ntietz.com/atom.xml"
   },
   {
     "name": "Nicholas Carlini",
@@ -67,27 +72,31 @@
   },
   {
     "name": "Hawstein",
-    "url": "https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/",
+    "url": "https://hawstein.com",
     "describe": "把indie hacker翻译成独立创作者的人",
-    "avatar": "https://hawstein.com/assets/images/favicon.ico"
+    "avatar": "https://hawstein.com/assets/images/favicon.ico",
+    "feed": "https://hawstein.com/thoughts-feed.xml"
   },
   {
     "name": "bernsteinbear",
     "url": "https://bernsteinbear.com/blog/",
     "describe": "bernsteinbear",
-    "avatar": "avatar.webp"
+    "avatar": "avatar.webp",
+    "feed": "https://bernsteinbear.com/feed.xml"
   },
   {
     "name": "Jacob Vosmaer",
     "url": "https://blog.jacobvosmaer.nl",
     "describe": "Jacob Vosmaer",
-    "avatar": "avatar.webp"
+    "avatar": "avatar.webp",
+    "feed": "https://blog.jacobvosmaer.nl/atom.xml"
   },
   {
     "name": "Sam Altman",
     "url": "https://blog.samaltman.com/",
     "describe": "Sam Altman",
-    "avatar": "avatar.webp"
+    "avatar": "avatar.webp",
+    "feed": "https://blog.samaltman.com/posts.atom"
   },
   {
     "name": "David Crawshaw",
@@ -105,25 +114,29 @@
     "name": "云风",
     "url": "https://blog.codingnow.com",
     "describe": "原网易游戏核心成员，《大话西游》重要开发者",
-    "avatar": "https://avatars.githubusercontent.com/u/729648?v=4"
+    "avatar": "https://avatars.githubusercontent.com/u/729648?v=4",
+    "feed": "https://blog.codingnow.com/atom.xml"
   },
   {
     "name": "Julia Evans",
     "url": "https://jvns.ca/blog/",
     "describe": "Make hard things Easy, known him by PATH blog https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
-    "avatar": "avatar.webp"
+    "avatar": "avatar.webp",
+    "feed": "https://jvns.ca/atom.xml"
   },
   {
     "name": "balatro author",
     "url": "https://localthunk.com/blog",
     "describe": "balatro author",
-    "avatar": "avatar.webp"
+    "avatar": "avatar.webp",
+    "feed": "https://localthunk.com/?format=rss"
   },
   {
     "name": "wunderwuzzi",
     "url": "https://embracethered.com/blog/",
     "describe": "the author post https://news.ycombinator.com/item?id=43616282 a study paper about MCP https://arxiv.org/abs/2503.23278 ",
-    "avatar": "https://github.com/user-attachments/assets/0bb4f823-f0f8-4a8d-a035-3e9d7d72084c"
+    "avatar": "https://github.com/user-attachments/assets/0bb4f823-f0f8-4a8d-a035-3e9d7d72084c",
+    "feed": "https://embracethered.com/blog/index.xml"
   },
   {
     "name": "Scott Chacon",
@@ -141,7 +154,8 @@
     "name": "Daniel Stenberg",
     "url": "https://daniel.haxx.se/blog/2025/07/13/how-i-do-it/",
     "describe": "the author of curl https://curl.se/",
-    "avatar": "https://daniel.haxx.se/blog/wp-content/uploads/2022/03/final-12-1000x1000-1.jpg"
+    "avatar": "https://daniel.haxx.se/blog/wp-content/uploads/2022/03/final-12-1000x1000-1.jpg",
+    "feed": "https://daniel.haxx.se/blog/feed/"
   },
   {
     "name": "图拉鼎",
@@ -153,7 +167,8 @@
     "name": "Randy",
     "url": "https://lutaonan.com/",
     "describe": "《代码之外》播客主播，程序员如何vide coding的视频拍的比较简单有趣，给人在AI快速发展的当下仍然能静下来玩电脑 https://www.youtube.com/watch?v=by3qe66xjPs",
-    "avatar": "https://lutaonan.com/avatar.jpg"
+    "avatar": "https://lutaonan.com/avatar.jpg",
+    "feed": "https://lutaonan.com/rss.xml"
   },
   {
     "name": "Derek Sivers",
@@ -165,13 +180,15 @@
     "name": "geekplux",
     "url": "https://geekplux.com/posts",
     "describe": "代码之外主播",
-    "avatar": "https://geekplux.com/_next/image?url=%2Fimages%2Fmyself.jpeg&w=256&q=75"
+    "avatar": "https://geekplux.com/_next/image?url=%2Fimages%2Fmyself.jpeg&w=256&q=75",
+    "feed": "https://geekplux.com/feed.xml"
   },
   {
     "name": "勾股",
     "url": "https://jiongks.name/",
     "describe": "weex重要开发者",
-    "avatar": "https://avatars.githubusercontent.com/u/206848?v=4"
+    "avatar": "https://avatars.githubusercontent.com/u/206848?v=4",
+    "feed": "https://jiongks.name/atom.xml"
   },
   {
     "name": "Limboy",
@@ -183,7 +200,8 @@
     "name": "Linghao Zhang",
     "url": "https://linghao.io/posts",
     "describe": "生活在湾区的Google程序员,从limboy的播客中认识的",
-    "avatar": "https://bytetalk.fm/posts/episode-10/cover.jpg"
+    "avatar": "https://bytetalk.fm/posts/episode-10/cover.jpg",
+    "feed": "https://linghao.io/feed.xml"
   },
   {
     "name": "Shu Ding",
@@ -201,7 +219,8 @@
     "name": "Anthony Fu",
     "url": "https://antfu.me/posts",
     "describe": "这篇文章 https://antfu.me/posts/about-yak-shaving-zh 写的超级好",
-    "avatar": "https://bytetalk.fm/posts/episode-6/cover.jpg"
+    "avatar": "https://bytetalk.fm/posts/episode-6/cover.jpg",
+    "feed": "https://antfu.me/feed.xml"
   },
   {
     "name": "Frost",
@@ -213,7 +232,8 @@
     "name": "xuanwo",
     "url": "https://xuanwo.io/",
     "describe": "yihong写在我崇拜的人里的人",
-    "avatar": "avatar.webp"
+    "avatar": "avatar.webp",
+    "feed": "https://xuanwo.io/index.xml"
   },
   {
     "name": "Ola Hungerford",
@@ -225,7 +245,8 @@
     "name": "汪二 (Haozes)",
     "url": "https://blog.yaoyaojumprope.com/",
     "describe": "独立开发者，Apple Watch平台上开发了乐摇摇APP，统计跳绳的个数，既能当程序员，又能赚钱，还有个好身体，汪二的工作太有意义啦",
-    "avatar": "https://yaoyaojumprope.com/img/tim.jpg"
+    "avatar": "https://yaoyaojumprope.com/img/tim.jpg",
+    "feed": "https://blog.yaoyaojumprope.com/feed.xml"
   },
   {
     "name": "Takuya Matsuyama",
@@ -237,6 +258,7 @@
     "name": "Eric Migicovsky",
     "url": "https://ericmigi.com",
     "describe": "一个教人怎么自己做智能手表的人",
-    "avatar": "avatar.webp"
+    "avatar": "avatar.webp",
+    "feed": "https://ericmigi.com/rss.xml"
   }
 ]
