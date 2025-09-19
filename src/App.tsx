@@ -4,6 +4,7 @@ import './App.css'
 import blogsData from './assets/blogs.json'
 import avatar from './assets/avatar.webp'
 import News from './components/News'
+import { Footer } from './components/Footer'
 
 function resolveAvatar(path: string): string {
   if (!path) return '';
@@ -64,6 +65,9 @@ function App() {
         <Route path="/" element={<Them />} />
         <Route path="/news" element={<News />} />
       </Routes>
+
+      {/* 底部信息 */}
+      <Footer />
     </div>
   )
 }

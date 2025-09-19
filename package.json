@@ -11,6 +11,7 @@
     "deploy": "npm run build && cp CNAME dist/CNAME && cp public/404.html dist/404.html"
   },
   "dependencies": {
+    "@radix-ui/react-icons": "^1.3.2",
     "@radix-ui/themes": "^3.2.1",
     "@tailwindcss/vite": "^4.1.13",
     "react": "^19.1.1",
