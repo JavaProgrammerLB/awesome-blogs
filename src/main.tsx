@@ -9,7 +9,7 @@ import { BrowserRouter } from 'react-router';
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <BrowserRouter>
-      <Theme>
+      <Theme accentColor='green'>
         <App />
       </Theme>
     </BrowserRouter>
