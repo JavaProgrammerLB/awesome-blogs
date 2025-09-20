@@ -29,7 +29,9 @@ function Them() {
           <Card key={blog.name} className="w-full">
             <div className="flex flex-col items-center justify-center gap-3">
               <div className="w-64 aspect-square overflow-hidden rounded-lg">
-                <img src={resolveAvatar(blog.avatar)} alt={blog.name} className="w-full h-full object-cover object-center" />
+                <a href={blog.url} target="_blank" rel="noopener noreferrer">
+                  <img src={resolveAvatar(blog.avatar)} alt={blog.name} className="w-full h-full object-cover object-center" />
+                </a>
               </div>
               <div>
                 <h3 className="text-3xl font-thick">
