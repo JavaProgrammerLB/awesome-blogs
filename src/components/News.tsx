@@ -73,18 +73,17 @@ function News() {
       ))}
       
       {/* 分页导航 */}
-      <div className='flex justify-center items-center gap-2 mt-8 mb-4'>
-        {/* 上一页按钮 */}
-        <Button 
-          variant="outline" 
+      <div className="flex justify-center items-center gap-2 mt-8 mb-4">
+        {/* 上一页按钮，所有屏幕都显示 */}
+        <Button
+          variant="outline"
           disabled={currentPage === 1}
           onClick={() => handlePageChange(currentPage - 1)}
         >
           上一页
         </Button>
-        
-        {/* 页码显示 */}
-        <div className='flex items-center gap-2'>
+        {/* 只在大屏显示页码按钮 */}
+        <div className="hidden sm:flex items-center gap-2">
           {/* 显示前几页 */}
           {currentPage > 3 && (
             <>
@@ -92,7 +91,6 @@ function News() {
               {currentPage > 4 && <span className='text-gray-500'>...</span>}
             </>
           )}
-          
           {/* 显示当前页周围的页码 */}
           {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
             const page = Math.max(1, Math.min(totalPages - 4, currentPage - 2)) + i;
@@ -107,7 +105,6 @@ function News() {
               </Button>
             );
           })}
-          
           {/* 显示后几页 */}
           {currentPage < totalPages - 2 && (
             <>
@@ -116,10 +113,9 @@ function News() {
             </>
           )}
         </div>
-        
-        {/* 下一页按钮 */}
-        <Button 
-          variant="outline" 
+        {/* 下一页按钮，所有屏幕都显示 */}
+        <Button
+          variant="outline"
           disabled={currentPage === totalPages}
           onClick={() => handlePageChange(currentPage + 1)}
         >
