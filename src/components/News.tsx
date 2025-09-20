@@ -57,7 +57,7 @@ function News() {
       {currentItems.map(item => (
         <Card key={item.item_url}>
           <div className='flex flex-row gap-2'>
-            <div className='w-20 aspect-square overflow-hidden rounded-lg'>
+            <div className='w-20 min-w-20 aspect-square overflow-hidden rounded-lg'>
               <img src={blogMap[item.blog_id]?.avatar === 'avatar.webp' ? avatar : blogMap[item.blog_id]?.avatar} />
             </div>
             <div className='flex flex-col gap-1'>
