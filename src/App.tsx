@@ -2,15 +2,10 @@ import { Card, Text } from '@radix-ui/themes/dist/cjs/components/index.js'
 import { Routes, Route, Link } from 'react-router'
 import './App.css'
 import blogsData from './assets/blogs.json'
-import avatar from './assets/avatar.webp'
+import { resolveAvatar } from './services/avatarService'
 import News from './components/News'
 import { Footer } from './components/Footer'
 
-function resolveAvatar(path: string): string {
-  if (!path) return '';
-  if (path === 'avatar.webp') return avatar;
-  return path;
-}
 
 interface Blog {
   name: string;

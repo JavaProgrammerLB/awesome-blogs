@@ -3,7 +3,8 @@ import rawItemData from '../assets/items.json'
 import rawBlogData from '../assets/blogs.json'
 import type { Blog } from '../App';
 import { Link } from 'react-router';
-import avatar from '../assets/avatar.webp'
+import { resolveAvatar } from '../services/avatarService'
+
 import { Card, Button } from '@radix-ui/themes';
 
 interface Item {
@@ -58,7 +59,7 @@ function News() {
         <Card key={item.item_url}>
           <div className='flex flex-row gap-2'>
             <div className='w-20 min-w-20 aspect-square overflow-hidden rounded-lg'>
-              <img src={blogMap[item.blog_id]?.avatar === 'avatar.webp' ? avatar : blogMap[item.blog_id]?.avatar} />
+              <img src={resolveAvatar(blogMap[item.blog_id]?.avatar)} />
             </div>
             <div className='flex flex-col gap-1'>
               <Link to={item.item_url}><h2 className='font-mono hover:underline'>{item.item_name}</h2></Link>
