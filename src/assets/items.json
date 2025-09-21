@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-09-19T10:15:42.843154+00:00",
+  "update_time": "2025-09-21T13:28:08.495999+00:00",
   "items": [
     {
       "blog_id": "Daniel Stenberg",
@@ -93,11 +93,32 @@
       "time": "2025-09-07T23:10:50+00:00"
     },
     {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "做了一个展示 360 全景图的时空胶囊页面",
+      "item_url": "https://blog.douchi.space/360-panorama-time-capsule/?utm_source=rss",
+      "time": "2025-09-07T18:49:00+00:00"
+    },
+    {
       "blog_id": "Justin",
       "feed": "https://justinyan.me/feed",
       "item_name": "I Wish I Could Go Travelling Again",
       "item_url": "https://justinyan.me/post/6432",
       "time": "2025-09-07T18:34:33+00:00"
+    },
+    {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "关我辟事 Vol.44：上山下水夏天的尾巴",
+      "item_url": "https://blog.douchi.space/spark-joy-digest-2025-8/?utm_source=rss",
+      "time": "2025-09-01T21:25:00+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "WordPress 插件 – 旅行地图 WP Travel Map",
+      "item_url": "https://anotherdayu.com/2025/7336/",
+      "time": "2025-09-01T12:57:41+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -107,11 +128,25 @@
       "time": "2025-08-30T17:20:58+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "Weekly Plog 1",
+      "item_url": "https://anotherdayu.com/2025/7301/",
+      "time": "2025-08-30T04:45:50+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "AgentHopper: An AI Virus",
       "item_url": "https://embracethered.com/blog/posts/2025/agenthopper-a-poc-ai-virus/",
       "time": "2025-08-29T19:20:58+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "iA Writer",
+      "item_url": "https://anotherdayu.com/2025/7299/",
+      "time": "2025-08-29T06:04:10+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -128,11 +163,32 @@
       "time": "2025-08-28T11:20:58+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "《一一》道来",
+      "item_url": "https://anotherdayu.com/2025/7288/",
+      "time": "2025-08-28T05:27:50+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Cline: Vulnerable To Data Exfiltration And How To Protect Your Data",
       "item_url": "https://embracethered.com/blog/posts/2025/cline-vulnerable-to-data-exfiltration/",
       "time": "2025-08-27T07:20:58+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "WordPress 友情链接插件 Simple 版",
+      "item_url": "https://anotherdayu.com/2025/7248/",
+      "time": "2025-08-27T05:19:45+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "减肥前的准备工作 – Strava Running Sync WordPress 插件",
+      "item_url": "https://anotherdayu.com/2025/7223/",
+      "time": "2025-08-27T02:11:41+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -163,6 +219,13 @@
       "time": "2025-08-25T03:00:58+00:00"
     },
     {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "开始跑步这一年",
+      "item_url": "https://blog.douchi.space/running-one-year/?utm_source=rss",
+      "time": "2025-08-24T21:40:00+00:00"
+    },
+    {
       "blog_id": "Justin",
       "feed": "https://justinyan.me/feed",
       "item_name": "我的MacBook贴纸",
@@ -184,10 +247,24 @@
       "time": "2025-08-24T17:03:35+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "An Unfinished Film",
+      "item_url": "https://anotherdayu.com/2025/7172/",
+      "time": "2025-08-24T04:23:35+00:00"
+    },
+    {
       "blog_id": "bernsteinbear",
       "feed": "https://bernsteinbear.com/feed.xml",
       "item_name": "Linear scan with lifetime holes",
       "item_url": "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/?utm_source=rss",
+      "time": "2025-08-23T16:00:00+00:00"
+    },
+    {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "Kayak on Lake Union",
+      "item_url": "https://blog.douchi.space/time-capsule/20250824-kayak-lake-union/?utm_source=rss",
       "time": "2025-08-23T16:00:00+00:00"
     },
     {
@@ -196,6 +273,27 @@
       "item_name": "Sneaking Invisible Instructions by Developers in Windsurf",
       "item_url": "https://embracethered.com/blog/posts/2025/windsurf-sneaking-invisible-instructions-for-prompt-injection/",
       "time": "2025-08-23T15:20:58+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "静水深流",
+      "item_url": "https://anotherdayu.com/2025/7169/",
+      "time": "2025-08-23T05:13:30+00:00"
+    },
+    {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "被 Covid 偷走的五年",
+      "item_url": "https://blog.douchi.space/5-years-stolen-by-covid/?utm_source=rss",
+      "time": "2025-08-22T16:45:00+00:00"
+    },
+    {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "Big Four Ice Cave",
+      "item_url": "https://blog.douchi.space/time-capsule/20250823-ice-cave/?utm_source=rss",
+      "time": "2025-08-22T16:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -240,6 +338,13 @@
       "time": "2025-08-20T03:00:00+00:00"
     },
     {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "像素装备设定页之爬山模组",
+      "item_url": "https://blog.douchi.space/gear-setting-hiking/?utm_source=rss",
+      "time": "2025-08-19T22:45:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Amazon Q Developer: Remote Code Execution with Prompt Injection",
@@ -259,6 +364,13 @@
       "item_name": "Amazon Q Developer: Secrets Leaked via DNS and Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/amazon-q-developer-data-exfil-via-dns/",
       "time": "2025-08-18T11:20:58+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "macOS Tahoe Public Beta 体验",
+      "item_url": "https://anotherdayu.com/2025/7127/",
+      "time": "2025-08-18T08:02:37+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -303,6 +415,13 @@
       "time": "2025-08-15T01:20:58+00:00"
     },
     {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "给站点设置维护状态页和对长毛象的一些吐槽",
+      "item_url": "https://blog.douchi.space/status-redirect-page/?utm_source=rss",
+      "time": "2025-08-14T22:59:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "car brands running curl",
@@ -331,6 +450,13 @@
       "time": "2025-08-13T17:20:58+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "PIVOT Vol.19 有 19 个链接",
+      "item_url": "https://anotherdayu.com/2025/7121/",
+      "time": "2025-08-13T13:58:32+00:00"
+    },
+    {
       "blog_id": "bernsteinbear",
       "feed": "https://bernsteinbear.com/feed.xml",
       "item_name": "Liveness analysis with Datalog",
@@ -357,6 +483,13 @@
       "item_name": "GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)",
       "item_url": "https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/",
       "time": "2025-08-12T13:20:58+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "当思考按字数收费",
+      "item_url": "https://anotherdayu.com/2025/7115/",
+      "time": "2025-08-11T03:47:17+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -429,6 +562,13 @@
       "time": "2025-08-07T07:20:58+00:00"
     },
     {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "Blaugust, cuz why not",
+      "item_url": "https://blog.douchi.space/blaugust/?utm_source=rss",
+      "time": "2025-08-06T22:59:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "I Spent $500 To Test Devin AI For Prompt Injection So That You Don't Have To",
@@ -457,11 +597,25 @@
       "time": "2025-08-05T02:43:00+00:00"
     },
     {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "子宫没了之后卵细胞去哪了？",
+      "item_url": "https://blog.douchi.space/where-do-the-eggs-go/?utm_source=rss",
+      "time": "2025-08-04T22:45:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Cursor IDE: Arbitrary Data Exfiltration Via Mermaid (CVE-2025-54132)",
       "item_url": "https://embracethered.com/blog/posts/2025/cursor-data-exfiltration-with-mermaid/",
       "time": "2025-08-03T23:04:58+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "First of Blaugust 2025 院子里的小果子，河边的小龙虾",
+      "item_url": "https://anotherdayu.com/2025/7106/",
+      "time": "2025-08-03T12:57:01+00:00"
     },
     {
       "blog_id": "Justin",
@@ -499,11 +653,25 @@
       "time": "2025-08-01T07:00:58+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "Keyboard Maestro – 实现 Screennote 的功能",
+      "item_url": "https://anotherdayu.com/2025/7092/",
+      "time": "2025-07-31T02:32:01+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "The Month of AI Bugs 2025",
       "item_url": "https://embracethered.com/blog/posts/2025/announcement-the-month-of-ai-bugs/",
       "time": "2025-07-28T09:20:58+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "解锁 TestFlight App 的小福利",
+      "item_url": "https://anotherdayu.com/2025/7088/",
+      "time": "2025-07-27T06:35:05+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -548,11 +716,25 @@
       "time": "2025-07-19T20:21:00+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "梦",
+      "item_url": "https://anotherdayu.com/2025/7077/",
+      "time": "2025-07-14T07:44:18+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "极度未来（ Deep Future ）给我的启发",
       "item_url": "https://blog.codingnow.com/2025/07/deep_future.html",
       "time": "2025-07-12T20:50:02+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "PIVOT Vol.18 这期有 21 个链接",
+      "item_url": "https://anotherdayu.com/2025/7071/",
+      "time": "2025-07-09T04:52:21+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -574,6 +756,13 @@
       "item_name": "ClassDistribution from S6 JIT is really neat",
       "item_url": "https://bernsteinbear.com/blog/class-distribution/?utm_source=rss",
       "time": "2025-07-01T16:00:00+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "原来夏天真的可以不用空调",
+      "item_url": "https://anotherdayu.com/2025/7066/",
+      "time": "2025-07-01T04:59:33+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -674,6 +863,13 @@
       "time": "2025-06-10T13:12:47+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "篝火",
+      "item_url": "https://anotherdayu.com/2025/7051/",
+      "time": "2025-06-10T10:56:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Using `make` to compile C programs (for non-C-programmers)",
@@ -695,11 +891,25 @@
       "time": "2025-06-08T21:30:40+00:00"
     },
     {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "ChatGPT 记忆模式",
+      "item_url": "https://anotherdayu.com/2025/7034/",
+      "time": "2025-06-06T06:38:20+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "28 岁的自白：去找寻自己",
       "item_url": "https://www.pseudoyu.com/posts/yearly_review_28",
       "time": "2025-06-05T18:24:26+00:00"
+    },
+    {
+      "blog_id": "大宇",
+      "feed": "https://anotherdayu.com/feed/",
+      "item_name": "DEVONthink Tips 1 自动化工作流",
+      "item_url": "https://anotherdayu.com/2025/7024/",
+      "time": "2025-06-02T07:30:52+00:00"
     },
     {
       "blog_id": "bernsteinbear",
