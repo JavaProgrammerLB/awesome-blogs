@@ -266,5 +266,12 @@
     "url": "https://littlecheesecake.me/money.sense/cn/posts/",
     "describe": "littlecheesecake的理财频道",
     "avatar": "avatar/littlecheesecake.webp"
+  },
+  {
+    "name": "大宇",
+    "url": "https://anotherdayu.com/",
+    "describe": "关注独立博客的博主",
+    "avatar": "avatar/anotherdayu.webp",
+    "feed": "https://anotherdayu.com/feed/"
   }
 ]
