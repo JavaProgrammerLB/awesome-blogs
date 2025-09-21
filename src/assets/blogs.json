@@ -273,5 +273,12 @@
     "describe": "关注独立博客的博主",
     "avatar": "avatar/anotherdayu.webp",
     "feed": "https://anotherdayu.com/feed/"
+  },
+  {
+    "name": "椒盐豆豉",
+    "url": "https://blog.douchi.space/posts",
+    "describe": "【关我屁事】，【重启电脑】，【喜欢就买】有很多这种分类文章的博主",
+    "avatar": "avatar/dino.gif",
+    "feed": "https://blog.douchi.space/index.xml"
   }
 ]
