@@ -4,6 +4,8 @@ import './App.css'
 import blogsData from './assets/blogs.json'
 import { resolveAvatar } from './services/avatarService'
 import News from './components/News'
+import { usePagination } from './hooks/usePagination';
+import { Pagination } from './components/Pagination';
 import { Footer } from './components/Footer'
 
 
@@ -17,10 +19,14 @@ interface Blog {
 const blogs: Blog[] = blogsData as Blog[];
 
 function Them() {
+  const { currentItems, currentPage, totalPages, startIndex, endIndex, totalItems, setPage } = usePagination(blogs, 20);
   return (
     <div className='container mx-auto flex flex-col gap-4'>
+      <div className='text-center text-sm text-gray-500 mb-2'>
+        显示第 {startIndex + 1} - {endIndex} 项，共 {totalItems} 项
+      </div>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {blogs.map((blog) => (
+        {currentItems.map((blog) => (
           <Card key={blog.name} className="w-full">
             <div className="flex flex-col items-center justify-center gap-3">
               <div className="w-64 aspect-square overflow-hidden rounded-lg">
@@ -42,8 +48,9 @@ function Them() {
           </Card>
         ))}
       </div>
+      <Pagination currentPage={currentPage} totalPages={totalPages} onChange={setPage} />
     </div>
-  )
+  );
 }
 
 function App() {
