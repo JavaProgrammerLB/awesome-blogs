@@ -280,5 +280,138 @@
     "describe": "【关我屁事】，【重启电脑】，【喜欢就买】有很多这种分类文章的博主",
     "avatar": "avatar/dino.gif",
     "feed": "https://blog.douchi.space/index.xml"
+  },
+  {
+    "name": "Allison",
+    "url": "https://thewanderingallison.vercel.app/",
+    "describe": "Allison",
+    "avatar": "avatar/allison.webp",
+    "feed": "https://thewanderingallison.vercel.app/rss.xml"
+  },
+  {
+    "name": "云五的自留地",
+    "url": "https://yukieyun.net/",
+    "describe": "云五的自留地",
+    "avatar": "avatar/yukieyun.webp",
+    "feed": "https://yukieyun.net/index.xml"
+  },
+  {
+    "name": "四喜丸子",
+    "url": "https://fourhappylions.com/",
+    "describe": "四喜丸子",
+    "avatar": "avatar/fourhappylions.webp",
+    "feed": "https://fourhappylions.com/index.xml"
+  },
+  {
+    "name": "第三夏尔",
+    "url": "https://thirdshire.com/",
+    "describe": "第三夏尔",
+    "avatar": "avatar/thirdshire.webp",
+    "feed": "https://thirdshire.com/index.xml"
+  },
+  {
+    "name": "李一桃",
+    "url": "https://yitaoli2023.github.io/yitaoli/",
+    "describe": "李一桃",
+    "avatar": "avatar/yitaoli.webp",
+    "feed": "https://yitaoli2023.github.io/yitaoli/index.xml"
+  },
+  {
+    "name": "To the lighthouse",
+    "url": "http://owlswims.com/",
+    "describe": "To the lighthouse",
+    "avatar": "avatar/owlswims.webp",
+    "feed": "https://owlswims.com/feed/"
+  },
+  {
+    "name": "猫和柴的野游",
+    "url": "https://meowshiba.com/",
+    "describe": "猫和柴的野游",
+    "avatar": "avatar/meowshiba.webp",
+    "feed": "https://meowshiba.com/feed/"
+  },
+  {
+    "name": "无竹斋",
+    "url": "http://bamboobone9.com/",
+    "describe": "无竹斋",
+    "avatar": "avatar/bamboobone9.webp",
+    "feed": "http://bamboobone9.com/index.xml"
+  },
+  {
+    "name": "After27",
+    "url": "http://after27.me/",
+    "describe": "After27",
+    "avatar": "avatar/after27.webp",
+    "feed": "https://www.after27.me/blog?format=rss"
+  },
+  {
+    "name": "Ouroboros",
+    "url": "https://utopia.pursuitus.com/",
+    "describe": "Ouroboros",
+    "avatar": "avatar/ouroboros.webp",
+    "feed": "https://utopia.pursuitus.com/feed/"
+  },
+  {
+    "name": "Nise",
+    "url": "https://blog.wraith615.xyz/",
+    "describe": "Nise",
+    "avatar": "avatar/nise.webp",
+    "feed": "https://blog.wraith615.xyz/rss.xml"
+  },
+  {
+    "name": "嘰嘰乞乞",
+    "url": "https://tiffahahahu7.github.io/gigigatgat/zh-tw/",
+    "describe": "嘰嘰乞乞",
+    "avatar": "avatar/jijiqiqi.webp",
+    "feed": "https://tiffahahahu7.github.io/gigigatgat/zh-tw/index.xml"
+  },
+  {
+    "name": "一支咏叹调",
+    "url": "https://turquoise.one/",
+    "describe": "一支咏叹调",
+    "avatar": "avatar.webp",
+    "feed": "https://turquoise.one/feed/"
+  },
+  {
+    "name": "天仙子",
+    "url": "https://tianxianzi.me/",
+    "describe": "天仙子",
+    "avatar": "avatar.webp",
+    "feed": "https://tianxianzi.me/index.xml"
+  },
+  {
+    "name": "Moon in Nowhere",
+    "url": "https://innowhere.icu/",
+    "describe": "Moon in Nowhere",
+    "avatar": "avatar/mooninnowhere.webp",
+    "feed": "https://innowhere.icu/index.xml"
+  },
+  {
+    "name": "Yelle🦋",
+    "url": "https://yelleis.top/",
+    "describe": "Yelle🦋",
+    "avatar": "avatar/yelle.webp",
+    "feed": "https://yelleis.top/index.xml"
+  },
+  {
+    "name": "Liminal Negative Space",
+    "url": "https://liminalnegativespace.github.io/blog/",
+    "describe": "Liminal Negative Space",
+    "avatar": "avatar/liminalnegativespace.webp",
+    "feed": "https://liminalnegativespace.github.io/blog/index.xml"
+  },
+  {
+    "name": "Shixiaocaia",
+    "url": "https://outofsea.fun/",
+    "describe": "Shixiaocaia",
+    "avatar": "avatar/outofsea.webp",
+    "feed": "https://outofsea.fun/index.xml"
+  },
+  {
+    "name": "豚骨拉面馆",
+    "url": "https://ignativssss.com/",
+    "describe": "豚骨拉面馆",
+    "avatar": "avatar/ignativssss.webp",
+    "feed": "https://ignativssss.github.io/index.xml"
   }
 ]
