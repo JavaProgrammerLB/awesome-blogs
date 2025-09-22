@@ -21,9 +21,10 @@
   },
   {
     "name": "艾逗笔",
-    "url": "https://idoubi.cc/",
+    "url": "https://idoubi.cv/blogs",
     "describe": "艾逗笔",
-    "avatar": "avatar/aidoubi.webp"
+    "avatar": "avatar/aidoubi.webp",
+    "feed": "https://idoubi.cv/feed"
   },
   {
     "name": "Justin",
