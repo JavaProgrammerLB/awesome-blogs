@@ -1,6 +1,13 @@
 {
-  "update_time": "2025-09-22T07:43:45.525152+00:00",
+  "update_time": "2025-09-23T03:52:16.917663+00:00",
   "items": [
+    {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "CRA compliant curl",
+      "item_url": "https://daniel.haxx.se/blog/2025/09/22/cra-compliant-curl/",
+      "time": "2025-09-21T23:57:31+00:00"
+    },
     {
       "blog_id": "椒盐豆豉",
       "feed": "https://blog.douchi.space/index.xml",
@@ -14,6 +21,20 @@
       "item_name": "天下之物生于有，有生于无。",
       "item_url": "https://justinyan.me/post/6478",
       "time": "2025-09-21T19:04:53+00:00"
+    },
+    {
+      "blog_id": "xuanwo",
+      "feed": "https://xuanwo.io/index.xml",
+      "item_name": "How I Vibe Coding? (Sept 2025 Edition)",
+      "item_url": "https://xuanwo.io/2025/06-how-i-vibe-coding-sept-2025-edition/",
+      "time": "2025-09-21T17:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "第七期-一台NAS",
+      "item_url": "https://blog.asyncx.top/posts/2025-09-21/",
+      "time": "2025-09-21T13:09:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -331,6 +352,13 @@
       "time": "2025-08-23T05:13:30+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "8月小结-锻炼/探索/进步(踩雷)",
+      "item_url": "https://blog.asyncx.top/posts/2025-08-23/",
+      "time": "2025-08-23T03:08:00+00:00"
+    },
+    {
       "blog_id": "椒盐豆豉",
       "feed": "https://blog.douchi.space/index.xml",
       "item_name": "被 Covid 偷走的五年",
@@ -548,6 +576,13 @@
       "time": "2025-08-12T13:20:58+00:00"
     },
     {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Blaugust 02：「就这？我也能画/写/做」",
+      "item_url": "https://albuspensieve.github.io/2025/08/11/2025-08-11-blaugust02/",
+      "time": "2025-08-11T06:18:17+00:00"
+    },
+    {
       "blog_id": "大宇",
       "feed": "https://anotherdayu.com/feed/",
       "item_name": "当思考按字数收费",
@@ -611,11 +646,18 @@
       "time": "2025-08-08T16:00:00+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "HTTP is not simple",
-      "item_url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
-      "time": "2025-08-08T01:27:17+00:00"
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "Astro-blog记录(7) - 小修小改和 Status Cafe组件",
+      "item_url": "https://blog.asyncx.top/posts/2025-08-08/",
+      "time": "2025-08-08T14:08:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Blaugust 01：最后一次",
+      "item_url": "https://albuspensieve.github.io/2025/08/08/2025-08-08-blaugust01/",
+      "time": "2025-08-08T08:20:18+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -623,6 +665,13 @@
       "item_name": "AI Kill Chain in Action: Devin AI Exposes Ports to the Internet with Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/devin-ai-kill-chain-exposing-ports/",
       "time": "2025-08-07T23:02:58+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Blaugust 00：该怎么开始呢？",
+      "item_url": "https://albuspensieve.github.io/2025/08/07/2025-08-07-blaugust00/",
+      "time": "2025-08-07T13:03:21+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -737,6 +786,13 @@
       "time": "2025-07-31T02:32:01+00:00"
     },
     {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "五月到七月的书影游总结",
+      "item_url": "https://albuspensieve.github.io/2025/07/30/2025-07-30-may-jul-books/",
+      "time": "2025-07-30T06:28:36+00:00"
+    },
+    {
       "blog_id": "无竹斋",
       "feed": "http://bamboobone9.com/index.xml",
       "item_name": "2025-07-29",
@@ -833,6 +889,20 @@
       "item_name": "极度未来（ Deep Future ）给我的启发",
       "item_url": "https://blog.codingnow.com/2025/07/deep_future.html",
       "time": "2025-07-12T20:50:02+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "Astro-blog记录(6) - 制作一个自同步运动数据页",
+      "item_url": "https://blog.asyncx.top/posts/2025-07-13/",
+      "time": "2025-07-11T05:07:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "4-7月小结-庸庸碌碌",
+      "item_url": "https://blog.asyncx.top/posts/2025-07-11/",
+      "time": "2025-07-11T05:07:00+00:00"
     },
     {
       "blog_id": "大宇",
@@ -1015,6 +1085,13 @@
       "item_name": "育儿的一些日常",
       "item_url": "https://blog.codingnow.com/2025/06/kids.html",
       "time": "2025-06-15T02:52:47+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "A little poem on the 14th consecutive raining Saturday",
+      "item_url": "https://albuspensieve.github.io/2025/06/14/2025-06-14-weatherpoem/",
+      "time": "2025-06-14T14:19:13+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -1227,6 +1304,20 @@
       "time": "2025-05-07T22:48:19+00:00"
     },
     {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "三个月，十六本书：立春到立夏的阅读笔记",
+      "item_url": "https://albuspensieve.github.io/2025/05/07/2025-05-07-feb-april-books/",
+      "time": "2025-05-07T04:46:40+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "《如雪如山》：细腻笔触下的人性洞察",
+      "item_url": "https://albuspensieve.github.io/2025/05/06/2025-05-06-snow-mountain/",
+      "time": "2025-05-06T02:02:33+00:00"
+    },
+    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "立夏 | 2025 年 4 月小结",
@@ -1360,6 +1451,13 @@
       "time": "2025-04-13T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "3月小结-自得其乐",
+      "item_url": "https://blog.asyncx.top/posts/2025-04-13/",
+      "time": "2025-04-13T13:04:00+00:00"
+    },
+    {
       "blog_id": "四喜丸子",
       "feed": "https://fourhappylions.com/index.xml",
       "item_name": "恭喜您选择了躺平，所以没有 W-2 该怎么过",
@@ -1463,6 +1561,13 @@
       "item_name": "我们高估了智力的重要性",
       "item_url": "https://lutaonan.com/blog/oi",
       "time": "2025-03-31T16:00:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "失眠",
+      "item_url": "https://albuspensieve.github.io/2025/03/31/2025-03-31-insomnia/",
+      "time": "2025-03-31T11:51:44+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -1710,6 +1815,13 @@
       "time": "2025-03-02T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "2月小结-悠闲生活",
+      "item_url": "https://blog.asyncx.top/posts/2025-02-28/",
+      "time": "2025-02-28T13:02:00+00:00"
+    },
+    {
       "blog_id": "无竹斋",
       "feed": "http://bamboobone9.com/index.xml",
       "item_name": "2025-03-02",
@@ -1736,13 +1848,6 @@
       "item_name": "Q4 2024 Expenses | 2024年第四季度消费总结",
       "item_url": "https://www.after27.me/blog/q4-2024-expenses",
       "time": "2025-02-27T07:31:51+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "Release Arrow Rust 54.2.1 in 6 hours",
-      "item_url": "https://xuanwo.io/links/2025/02/release-arrow-rust-54-2-1-in-6-hours/",
-      "time": "2025-02-26T18:00:00+00:00"
     },
     {
       "blog_id": "balatro author",
@@ -1815,6 +1920,13 @@
       "time": "2025-02-13T04:27:56+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "Astro-blog记录(5) - 添加NeoDB影音页",
+      "item_url": "https://blog.asyncx.top/posts/2025-02-12/",
+      "time": "2025-02-12T07:02:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Hacking Gemini's Memory with Prompt Injection and Delayed Tool Invocation",
@@ -1850,11 +1962,25 @@
       "time": "2025-02-07T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "1月小结-天大寒, 过年",
+      "item_url": "https://blog.asyncx.top/posts/2025-02-06/",
+      "time": "2025-02-06T15:02:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "How to help us build open source Pebble software!",
       "item_url": "https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software",
       "time": "2025-02-05T16:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "第六期-一些Kindle的使用方法",
+      "item_url": "https://blog.asyncx.top/posts/2025-02-05/",
+      "time": "2025-02-05T15:02:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1904,6 +2030,13 @@
       "item_name": "周报 #84 - 想起他们 Echos of Reverie",
       "item_url": "https://www.pseudoyu.com/zh/2025/02/03/weekly_review_84",
       "time": "2025-02-02T08:57:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Albus 的 Weekly Digest (2025.01.20-2025.01.26)",
+      "item_url": "https://albuspensieve.github.io/2025/01/27/2025-01-27-2025digest01/",
+      "time": "2025-01-27T08:26:15+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -1995,6 +2128,27 @@
       "item_name": "周报 #83 - 年初收纳（房间、设备、服务、软件）",
       "item_url": "https://www.pseudoyu.com/zh/2025/01/20/weekly_review_83",
       "time": "2025-01-19T14:48:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "不要让自己的努力随着时间淡化",
+      "item_url": "https://blog.asyncx.top/posts/2025-01-18/",
+      "time": "2025-01-18T04:01:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "新的一年, 新的blog.",
+      "item_url": "https://blog.asyncx.top/posts/2025-01-16/",
+      "time": "2025-01-16T13:01:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "11/12月小结-低谷",
+      "item_url": "https://blog.asyncx.top/posts/2025-01-15/",
+      "time": "2025-01-15T07:01:00+00:00"
     },
     {
       "blog_id": "To the lighthouse",
@@ -2121,6 +2275,13 @@
       "item_name": "书单｜推理/犯罪小说迷的冷门推荐 Vol.1",
       "item_url": "http://bamboobone9.com/posts/cultural/book-list-mystery-crime-detective-novel-underrated-recs-1/",
       "time": "2024-12-30T21:54:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "2024干啥了",
+      "item_url": "https://albuspensieve.github.io/2024/12/31/2024-12-31-summary2024/",
+      "time": "2024-12-30T16:00:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -2256,6 +2417,13 @@
       "time": "2024-12-08T08:14:25+00:00"
     },
     {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Albus 的 Weekly Digest (2024.12.02-2024.12.08)",
+      "item_url": "https://albuspensieve.github.io/2024/12/08/2024-12-08-2024digest08/",
+      "time": "2024-12-08T01:26:15+00:00"
+    },
+    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "大雪｜2024年11月小结",
@@ -2305,6 +2473,13 @@
       "time": "2024-12-01T04:30:00+00:00"
     },
     {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Albus 的 Weekly Digest (2024.11.25-2024.12.01)",
+      "item_url": "https://albuspensieve.github.io/2024/11/30/2024-11-30-2024digest07/",
+      "time": "2024-11-30T08:26:15+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "DeepSeek AI: From Prompt Injection To Account Takeover",
@@ -2319,6 +2494,13 @@
       "time": "2024-11-29T10:22:09+00:00"
     },
     {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Consider the Turkey: 火鸡背后的真相与反思",
+      "item_url": "https://albuspensieve.github.io/2024/11/29/2024-11-29-considerTurkey/",
+      "time": "2024-11-29T08:13:05+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Why pipes sometimes get \"stuck\": buffering",
@@ -2331,6 +2513,13 @@
       "item_name": "周报 #79 - 清迈旅居、曼谷之行与 Follow",
       "item_url": "https://www.pseudoyu.com/zh/2024/11/29/weekly_review_20241129",
       "time": "2024-11-28T17:20:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "2024秋季的一些玩耍",
+      "item_url": "https://albuspensieve.github.io/2024/11/28/2024-11-28-2024OctOutings/",
+      "time": "2024-11-28T04:18:45+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -2352,6 +2541,27 @@
       "item_name": "Terminology isn't universal",
       "item_url": "https://ntietz.com/blog/terminology-isnt-universal/?utm_source=atom&utm_medium=feed",
       "time": "2024-11-24T16:00:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Albus 的 Weekly Digest (2024.11.18-2024.11.24)",
+      "item_url": "https://albuspensieve.github.io/2024/11/23/2024-11-23-2024digest06/",
+      "time": "2024-11-23T11:11:51+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "2024年十月读书记录：《悉达多》，《素食者》，字体主题漫画",
+      "item_url": "https://albuspensieve.github.io/2024/11/22/2024-11-22-2024OctBook/",
+      "time": "2024-11-22T08:31:13+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "思想和智慧的结束",
+      "item_url": "https://blog.asyncx.top/posts/2024-11-20/",
+      "time": "2024-11-20T04:11:00+00:00"
     },
     {
       "blog_id": "After27",
@@ -2382,6 +2592,13 @@
       "time": "2024-11-17T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "酒(Alcoholism)和认同感",
+      "item_url": "https://blog.asyncx.top/posts/2024-11-12/",
+      "time": "2024-11-12T11:11:00+00:00"
+    },
+    {
       "blog_id": "ntietz",
       "feed": "https://www.ntietz.com/atom.xml",
       "item_name": "Supporting coworkers, employees, and friends in this time",
@@ -2401,6 +2618,13 @@
       "item_name": "我跑通了全球收付款的流程",
       "item_url": "https://idoubi.cv/blogs/get-paied-all-over-the-world",
       "time": "2024-11-08T16:00:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "2024年十月古典音乐演出记录",
+      "item_url": "https://albuspensieve.github.io/2024/11/07/2024-11-07-2024OctBSO/",
+      "time": "2024-11-07T12:23:13+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -2485,6 +2709,13 @@
       "item_name": "They want your ethics for $105",
       "item_url": "https://ntietz.com/blog/ethics-105-dollars/?utm_source=atom&utm_medium=feed",
       "time": "2024-10-27T16:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "10月小结-和解, 旅游",
+      "item_url": "https://blog.asyncx.top/posts/2024-10-27/",
+      "time": "2024-10-27T03:10:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -2578,6 +2809,20 @@
       "time": "2024-10-08T16:00:00+00:00"
     },
     {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Albus 的 Weekly Digest (2024.9.30-2024.10.6)",
+      "item_url": "https://albuspensieve.github.io/2024/10/08/2024-10-08-2024digest05/",
+      "time": "2024-10-08T14:31:13+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "Astro-blog记录(4) - 为Astro添加NeoDB卡片",
+      "item_url": "https://blog.asyncx.top/posts/2024-10-07/",
+      "time": "2024-10-07T15:10:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Some notes on upgrading Hugo",
@@ -2606,6 +2851,13 @@
       "time": "2024-10-05T05:17:19+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "9月小结-课业和生活",
+      "item_url": "https://blog.asyncx.top/posts/2024-10-01/",
+      "time": "2024-10-01T11:10:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Terminal colours are tricky",
@@ -2632,6 +2884,13 @@
       "item_name": "Rust needs a web framework for lazy developers",
       "item_url": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/?utm_source=atom&utm_medium=feed",
       "time": "2024-09-29T16:00:00+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "Albus 的 Weekly Digest (2024.9.23-2024.9.29)",
+      "item_url": "https://albuspensieve.github.io/2024/09/29/2024-09-29-2024digest04/",
+      "time": "2024-09-29T14:31:13+00:00"
     },
     {
       "blog_id": "Nise",
@@ -2711,6 +2970,13 @@
       "time": "2024-09-08T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "第五期-我的效率工具",
+      "item_url": "https://blog.asyncx.top/posts/2024-09-08/",
+      "time": "2024-09-08T11:09:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
@@ -2723,6 +2989,13 @@
       "item_name": "世纪公园秋迁开始",
       "item_url": "http://blog.wraith615.xyz/articles/42rh3az79g47mrsz",
       "time": "2024-09-07T05:01:11+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "入加记(4)-货币/超市",
+      "item_url": "https://blog.asyncx.top/posts/2024-09-06/",
+      "time": "2024-09-06T08:09:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2746,6 +3019,20 @@
       "time": "2024-09-01T07:30:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "入加记(3)-开卡历程",
+      "item_url": "https://blog.asyncx.top/posts/2024-09-01/",
+      "time": "2024-09-01T01:09:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "入加记(2.5)-外话",
+      "item_url": "https://blog.asyncx.top/posts/2024-08-31/",
+      "time": "2024-08-31T01:08:00+00:00"
+    },
+    {
       "blog_id": "Shixiaocaia",
       "feed": "https://outofsea.fun/index.xml",
       "item_name": "Monthly | 今年夏天",
@@ -2758,6 +3045,13 @@
       "item_name": "二零二四 | 回国小记",
       "item_url": "https://turquoise.one/2024-gohome/",
       "time": "2024-08-28T05:46:05+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "入加记(2)-抵达",
+      "item_url": "https://blog.asyncx.top/posts/2024-08-27/",
+      "time": "2024-08-27T03:08:00+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -2788,11 +3082,25 @@
       "time": "2024-08-25T12:54:32+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "入加记(1)-启程",
+      "item_url": "https://blog.asyncx.top/posts/2024-08-24/",
+      "time": "2024-08-24T13:08:00+00:00"
+    },
+    {
       "blog_id": "Nise",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "西双版纳自然行 part2",
       "item_url": "http://blog.wraith615.xyz/articles/gx1yhe8v65iarcmi",
       "time": "2024-08-24T00:36:40+00:00"
+    },
+    {
+      "blog_id": "邓布利多的冥想盆",
+      "feed": "https://pensieve.wangxindi.org/feed.xml",
+      "item_name": "博物馆探访记：美国亚美尼亚博物馆",
+      "item_url": "https://albuspensieve.github.io/2024/08/23/2024-08-23-armenia/",
+      "time": "2024-08-23T08:31:55+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -2858,6 +3166,13 @@
       "time": "2024-08-09T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "博德之门3自用MOD留存",
+      "item_url": "https://blog.asyncx.top/posts/2024-08-09/",
+      "time": "2024-08-09T04:08:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "使用 GoatCounter 与 Zeabur 搭建网站数据统计系统",
@@ -2912,6 +3227,13 @@
       "item_name": "初学者的冥想入门 101",
       "item_url": "https://thirdshire.com/meditation/",
       "time": "2024-07-24T06:11:01+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "润加记(4)-SDS学签(附时间线)",
+      "item_url": "https://blog.asyncx.top/posts/2024-07-24/",
+      "time": "2024-07-24T03:07:00+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -2975,6 +3297,13 @@
       "item_name": "2024.07.15: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-07-15/",
       "time": "2024-07-14T08:31:04+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "润加记(3)-CAQ(魁北克学习证明)",
+      "item_url": "https://blog.asyncx.top/posts/2024-07-14/",
+      "time": "2024-07-14T02:07:00+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -3096,11 +3425,32 @@
       "time": "2024-06-19T00:32:59+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "近日杂谈/毛毛2岁了",
+      "item_url": "https://blog.asyncx.top/posts/2024-06-16/",
+      "time": "2024-06-16T06:06:00+00:00"
+    },
+    {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "裁员浪潮下的北美找工小技巧",
+      "item_url": "https://kuohu.xyz/posts/2024-07-20job_searching_tools/",
+      "time": "2024-06-13T08:44:34+00:00"
+    },
+    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "克服启动困难和拖延症的 N 种尝试",
       "item_url": "https://thirdshire.com/procrastination/",
       "time": "2024-06-09T21:02:56+00:00"
+    },
+    {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "用Grafana Alloy监控MySQL数据库",
+      "item_url": "https://kuohu.xyz/posts/2024-06-08-grafana-alloy/",
+      "time": "2024-06-09T09:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -3117,11 +3467,25 @@
       "time": "2024-06-01T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "润加记(2)-硕士申请",
+      "item_url": "https://blog.asyncx.top/posts/2024-05-30/",
+      "time": "2024-05-30T05:05:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2024.05.30: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-05-30/",
       "time": "2024-05-29T08:20:02+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "润加记(1)-英语成绩",
+      "item_url": "https://blog.asyncx.top/posts/2024-05-23/",
+      "time": "2024-05-22T23:05:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -3285,6 +3649,20 @@
       "time": "2024-03-31T05:29:19+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "第四期-在安卓上使用Rime",
+      "item_url": "https://blog.asyncx.top/posts/2024-03-29/",
+      "time": "2024-03-29T08:03:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "Astro-blog记录(3) - 修改部分渲染组件",
+      "item_url": "https://blog.asyncx.top/posts/2024-03-27/",
+      "time": "2024-03-27T08:03:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "我参与《代码之外 Beyond Code》的故事",
@@ -3306,11 +3684,25 @@
       "time": "2024-03-25T06:20:45+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "解决手柄无法在Macbook玩星露谷的问题",
+      "item_url": "https://blog.asyncx.top/posts/2023-10-26/",
+      "time": "2024-03-24T11:45:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Anthony's Roads to Open Source - The Set Theory (React ver.)",
       "item_url": "https://antfu.me/posts/roads-to-oss-set-theory-react-paris-2024",
       "time": "2024-03-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "献给阿尔吉侬的花束",
+      "item_url": "https://blog.asyncx.top/posts/2024-03-20/",
+      "time": "2024-03-20T03:03:00+00:00"
     },
     {
       "blog_id": "Shixiaocaia",
@@ -3341,11 +3733,25 @@
       "time": "2024-03-14T17:44:08+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "Astro-blog记录(2) - 一些优化",
+      "item_url": "https://blog.asyncx.top/posts/2024-03-13/",
+      "time": "2024-03-13T03:03:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "The Evolution of Shiki v1.0",
       "item_url": "https://antfu.me/posts/evolution-of-shiki-v1",
       "time": "2024-03-11T04:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "Astro-blog记录(1) - 初步实现的需求",
+      "item_url": "https://blog.asyncx.top/posts/2024-03-11/",
+      "time": "2024-03-11T03:03:00+00:00"
     },
     {
       "blog_id": "Yelle",
@@ -3360,6 +3766,13 @@
       "item_name": "深蹲 App(DunDun) 重制版发布啦",
       "item_url": "http://haozes.me/blog/2024/03/08/yaoyao-dundun-remaster/",
       "time": "2024-03-07T08:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "一个碎片般的短期规划",
+      "item_url": "https://blog.asyncx.top/posts/2024-03-06/",
+      "time": "2024-03-06T09:03:00+00:00"
     },
     {
       "blog_id": "无竹斋",
@@ -3488,6 +3901,13 @@
       "time": "2024-01-28T04:20:20+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "第三期-Notion指南",
+      "item_url": "https://blog.asyncx.top/posts/2024-01-28/",
+      "time": "2024-01-24T07:01:00+00:00"
+    },
+    {
       "blog_id": "李一桃",
       "feed": "https://yitaoli2023.github.io/yitaoli/index.xml",
       "item_name": "手把手教你建立边界感(二)",
@@ -3542,6 +3962,13 @@
       "item_name": "Yearly | 2023年落幕",
       "item_url": "https://outofsea.fun/posts/a6306dfc/",
       "time": "2024-01-10T23:03:19+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "第二期-Vitepress配制指南",
+      "item_url": "https://blog.asyncx.top/posts/2024-01-09/",
+      "time": "2024-01-09T09:01:00+00:00"
     },
     {
       "blog_id": "To the lighthouse",
@@ -3621,6 +4048,13 @@
       "time": "2023-12-30T06:23:31+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "使用MCSManager搭建泰拉瑞亚服务器",
+      "item_url": "https://blog.asyncx.top/posts/2023-12-29/",
+      "time": "2023-12-29T06:12:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "在美国拥有一辆 Tesla 的成本",
@@ -3682,6 +4116,13 @@
       "item_name": "Beeper – Moving Forward",
       "item_url": "https://ericmigi.com/blog/beeper-moving-forward",
       "time": "2023-12-20T16:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "额外技能-如何穿手串",
+      "item_url": "https://blog.asyncx.top/posts/2023-12-20/",
+      "time": "2023-12-20T02:12:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -3796,6 +4237,13 @@
       "time": "2023-11-29T14:47:52+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "[更新]首考PTE的一些问题/快速入门",
+      "item_url": "https://blog.asyncx.top/posts/2023-10-25/",
+      "time": "2023-11-29T04:09:00+00:00"
+    },
+    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "更改Hugo博客的永久URL链接，并用Netlify实现旧博文跳转",
@@ -3815,6 +4263,13 @@
       "item_name": "Yearly | 二十四的我，是情绪怪物",
       "item_url": "https://outofsea.fun/posts/8dab065f/",
       "time": "2023-11-25T23:31:08+00:00"
+    },
+    {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "十万个人生难题",
+      "item_url": "https://kuohu.xyz/posts/2019-11-29questions/",
+      "time": "2023-11-24T09:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -3850,6 +4305,13 @@
       "item_name": "测评 | Review",
       "item_url": "https://thirdshire.com/review/product/",
       "time": "2023-11-23T03:22:42+00:00"
+    },
+    {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "2023年购物成果一览",
+      "item_url": "https://kuohu.xyz/posts/2023-11-22-thanksgiving-list/",
+      "time": "2023-11-22T09:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -3922,6 +4384,13 @@
       "time": "2023-11-09T16:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "重构博客,底层换成Astro时候遇到的问题",
+      "item_url": "https://blog.asyncx.top/posts/2023-11-09/",
+      "time": "2023-11-09T03:11:00+00:00"
+    },
+    {
       "blog_id": "Shixiaocaia",
       "feed": "https://outofsea.fun/index.xml",
       "item_name": "Monthly | 九点遛狗",
@@ -3929,11 +4398,32 @@
       "time": "2023-11-08T17:10:10+00:00"
     },
     {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "花束般的恋爱，但是西海岸",
+      "item_url": "https://kuohu.xyz/posts/2023-11-05-love-like-a-flower-bouquet/",
+      "time": "2023-11-05T09:00:00+00:00"
+    },
+    {
       "blog_id": "Nise",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "奥地利湖区+德国国王湖之行 part3",
       "item_url": "http://blog.wraith615.xyz/articles/o5mbba0r8396a6cg",
       "time": "2023-11-04T19:30:29+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "熵,生命",
+      "item_url": "https://blog.asyncx.top/posts/2023-11-03/",
+      "time": "2023-11-02T16:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "如何使用Mac玩双人成行",
+      "item_url": "https://blog.asyncx.top/posts/2023-11-02/",
+      "time": "2023-11-02T11:11:00+00:00"
     },
     {
       "blog_id": "After27",
@@ -4125,6 +4615,13 @@
       "time": "2023-09-26T08:00:00+00:00"
     },
     {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "什么在阻止我们走向主观来说更好的生活？",
+      "item_url": "https://blog.asyncx.top/posts/2023-09-23/",
+      "time": "2023-09-23T15:05:00+00:00"
+    },
+    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "轩辕十四｜2023年9月小结",
@@ -4172,6 +4669,13 @@
       "item_name": "博客时间轴",
       "item_url": "https://yelleis.top/p/timeline/",
       "time": "2023-09-11T06:51:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "雅思首考的一些感受",
+      "item_url": "https://blog.asyncx.top/posts/2023-09-11/",
+      "time": "2023-09-11T04:09:00+00:00"
     },
     {
       "blog_id": "Yelle",
@@ -4249,6 +4753,13 @@
       "item_name": "2023.7-8 精神食粮",
       "item_url": "https://owlswims.com/2023-7-8-mentalfood/",
       "time": "2023-08-30T08:23:53+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "如何听更好音质的歌",
+      "item_url": "https://blog.asyncx.top/posts/2023-08-24/",
+      "time": "2023-08-24T15:08:00+00:00"
     },
     {
       "blog_id": "李一桃",
@@ -4391,6 +4902,20 @@
       "time": "2023-07-29T16:00:00+00:00"
     },
     {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "面试准备和相关学习",
+      "item_url": "https://kuohu.xyz/posts/2023-07-29system_design/",
+      "time": "2023-07-28T09:00:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "苏州三天行",
+      "item_url": "https://blog.asyncx.top/posts/2023-07-25/",
+      "time": "2023-07-25T08:07:00+00:00"
+    },
+    {
       "blog_id": "Yelle",
       "feed": "https://yelleis.top/index.xml",
       "item_name": "Markdown 语法",
@@ -4452,6 +4977,13 @@
       "item_name": "Preschooler 的新动向",
       "item_url": "https://fourhappylions.com/posts/preschoolers-new-trends/",
       "time": "2023-07-18T16:00:00+00:00"
+    },
+    {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "Web Development Process",
+      "item_url": "https://kuohu.xyz/posts/2023-07-18first_post/",
+      "time": "2023-07-18T09:00:00+00:00"
     },
     {
       "blog_id": "李一桃",
@@ -4606,6 +5138,13 @@
       "item_name": "6月后滩自然观察",
       "item_url": "http://blog.wraith615.xyz/articles/g5gr6gr3yrjg8hbu",
       "time": "2023-06-22T02:06:00+00:00"
+    },
+    {
+      "blog_id": "AsyncX",
+      "feed": "https://blog.asyncx.top/zh.xml",
+      "item_name": "毕业，以及短期的安排",
+      "item_url": "https://blog.asyncx.top/posts/2023-06-21/",
+      "time": "2023-06-21T08:06:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -5546,6 +6085,13 @@
       "time": "2021-01-26T16:00:00+00:00"
     },
     {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "东四环的男绿茶轶事",
+      "item_url": "https://kuohu.xyz/posts/2021-01-25nino/",
+      "time": "2021-01-25T09:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Show HN: Beeper – All Your Chats in One App",
@@ -6225,6 +6771,13 @@
       "time": "2018-01-07T08:13:00+00:00"
     },
     {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "沙县定食，椰青刺身... 总有一款高级感让你吃土",
+      "item_url": "https://kuohu.xyz/posts/2018-01-05menu_length/",
+      "time": "2018-01-05T09:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "2017 年终总结",
@@ -6288,6 +6841,13 @@
       "time": "2017-08-04T03:00:16+00:00"
     },
     {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "搬家记",
+      "item_url": "https://kuohu.xyz/posts/2017-08-01moving/",
+      "time": "2017-08-01T09:00:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "[译]苹果正在做一些他们的程序员明摆着不想要的东西",
@@ -6323,6 +6883,13 @@
       "time": "2017-05-18T16:25:07+00:00"
     },
     {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "如果30年的工资还不如随手买一套房子，我为什么要工作？",
+      "item_url": "https://kuohu.xyz/posts/2017-04-26housing_or_compensation/",
+      "time": "2017-04-26T09:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Quora",
@@ -6335,6 +6902,13 @@
       "item_name": "[译]为什么我不会无偿加班且你也不应该",
       "item_url": "https://jiongks.name/blog/why-i-dont-unpaid-overtime-and-neither-should-you",
       "time": "2017-04-01T00:06:05+00:00"
+    },
+    {
+      "blog_id": "扌舌弓瓜",
+      "feed": "https://kuohu.xyz/index.xml",
+      "item_name": "当我们被问到Where are you from",
+      "item_url": "https://kuohu.xyz/posts/2017-03-30where_are_you_from/",
+      "time": "2017-03-30T09:00:00+00:00"
     },
     {
       "blog_id": "勾股",
