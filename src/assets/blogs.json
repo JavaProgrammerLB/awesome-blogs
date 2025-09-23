@@ -27,6 +27,13 @@
     "feed": "https://idoubi.cv/feed"
   },
   {
+    "name": "Corey Chiu",
+    "url": "https://coreychiu.com/blogs",
+    "describe": "Corey Chiu",
+    "avatar": "avatar/coreychiu.webp",
+    "feed": "https://coreychiu.com/feed"
+  },
+  {
     "name": "Justin",
     "url": "https://justinyan.me",
     "describe": "枫言枫语播客主播",
@@ -435,5 +442,40 @@
     "describe": "豚骨拉面馆",
     "avatar": "avatar/ignativssss.webp",
     "feed": "https://ignativssss.github.io/index.xml"
+  },
+  {
+    "name": "Meettea",
+    "url": "https://meettea.com",
+    "describe": "Chieh's Homepage: MeetTea.com",
+    "avatar": "avatar.webp",
+    "feed": "https://www.meettea.com/feed.xml"
+  },
+  {
+    "name": "面条实验室",
+    "url": "https://miantiao.me/blog/",
+    "describe": "折腾些什么玩意",
+    "avatar": "avatar.webp",
+    "feed": "https://feed.miantiao.me/"
+  },
+  {
+    "name": "Yaolifeng",
+    "url": "https://yaolifeng.com/blog",
+    "describe": "欢迎来到姚利锋的个人网站 yaolifeng.com，这里分享我的前端开发、技术思考与学习心得。",
+    "avatar": "avatar/yaolifeng.webp",
+    "feed": "https://yaolifeng.com/api/rss"
+  },
+  {
+    "name": "Larry Lv",
+    "url": "https://blog.larrylv.com/",
+    "describe": "I'm Zhandong Lü, but you can call me **Larry**. I'm currently working at **OpenAI** in Bay Area, California.",
+    "avatar": "avatar/larrylv.webp",
+    "feed": "https://blog.larrylv.com/index.xml"
+  },
+  {
+    "name": "希仁之拥",
+    "url": "https://blog.keepchen.com/",
+    "describe": "希仁之拥的博客，分享IT、科技、随笔等内容，包含Go-Sail、工具推荐及个人思考。",
+    "avatar": "avatar.webp",
+    "feed": "https://blog.keepchen.com/feed"
   }
 ]
