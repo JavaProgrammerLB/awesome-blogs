@@ -283,6 +283,20 @@
     "feed": "https://blog.douchi.space/index.xml"
   },
   {
+    "name": "AsyncX",
+    "url": "https://blog.asyncx.top/posts",
+    "describe": "AsyncX",
+    "avatar": "avatar/asyncx.svg",
+    "feed": "https://blog.asyncx.top/zh.xml"
+  },
+  {
+    "name": "邓布利多的冥想盆",
+    "url": "https://pensieve.wangxindi.org/archives/",
+    "describe": "邓布利多的冥想盆",
+    "avatar": "avatar/wangxindi.png",
+    "feed": "https://pensieve.wangxindi.org/feed.xml"
+  },
+  {
     "name": "Allison",
     "url": "https://thewanderingallison.vercel.app/",
     "describe": "Allison",
