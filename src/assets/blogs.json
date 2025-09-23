@@ -297,6 +297,13 @@
     "feed": "https://pensieve.wangxindi.org/feed.xml"
   },
   {
+    "name": " 扌舌弓瓜",
+    "url": "https://kuohu.xyz/posts/",
+    "describe": "扌舌弓瓜",
+    "avatar": "avatar/kuohu.png",
+    "feed": "https://kuohu.xyz/index.xml"
+  },
+  {
     "name": "Allison",
     "url": "https://thewanderingallison.vercel.app/",
     "describe": "Allison",
