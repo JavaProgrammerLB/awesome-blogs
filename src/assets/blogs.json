@@ -461,8 +461,7 @@
     "name": "Yaolifeng",
     "url": "https://yaolifeng.com/blog",
     "describe": "欢迎来到姚利锋的个人网站 yaolifeng.com，这里分享我的前端开发、技术思考与学习心得。",
-    "avatar": "avatar/yaolifeng.webp",
-    "feed": "https://yaolifeng.com/api/rss"
+    "avatar": "avatar/yaolifeng.webp"
   },
   {
     "name": "Larry Lv",
