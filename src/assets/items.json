@@ -1,13 +1,6 @@
 {
-  "update_time": "2025-09-22T07:43:45.525152+00:00",
+  "update_time": "2025-09-23T01:28:39.606498+00:00",
   "items": [
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "有惊无险量大管饱的早秋班夫之旅",
-      "item_url": "https://blog.douchi.space/banff/?utm_source=rss",
-      "time": "2025-09-21T22:59:00+00:00"
-    },
     {
       "blog_id": "Justin",
       "feed": "https://justinyan.me/feed",
@@ -16,18 +9,11 @@
       "time": "2025-09-21T19:04:53+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "Bye bye Kerberos FTP",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/19/bye-bye-kerberos-ftp/",
-      "time": "2025-09-18T22:23:25+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "From suspicion to published curl CVE",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/",
-      "time": "2025-09-17T23:32:47+00:00"
+      "blog_id": "xuanwo",
+      "feed": "https://xuanwo.io/index.xml",
+      "item_name": "How I Vibe Coding? (Sept 2025 Edition)",
+      "item_url": "https://xuanwo.io/2025/06-how-i-vibe-coding-sept-2025-edition/",
+      "time": "2025-09-21T17:00:00+00:00"
     },
     {
       "blog_id": "云风",
@@ -51,13 +37,6 @@
       "time": "2025-09-14T16:00:00+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "Developer of the year",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/",
-      "time": "2025-09-13T12:37:52+00:00"
-    },
-    {
       "blog_id": "balatro author",
       "feed": "https://localthunk.com/?format=rss",
       "item_name": "I’m Slow",
@@ -72,13 +51,6 @@
       "time": "2025-09-11T03:50:03+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "curl 8.16.0",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/10/curl-8-16-0/",
-      "time": "2025-09-09T21:49:32+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "立即模式下的鼠标交互处理",
@@ -86,32 +58,11 @@
       "time": "2025-09-09T01:26:04+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "preparing for the worst",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/09/preparing-for-the-worst/",
-      "time": "2025-09-08T22:57:52+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Jakub and Szymon",
       "item_url": "https://blog.samaltman.com/jakub-and-szymon",
       "time": "2025-09-08T16:10:22+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "giants, standing on the shoulders of",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/",
-      "time": "2025-09-07T23:10:50+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "做了一个展示 360 全景图的时空胶囊页面",
-      "item_url": "https://blog.douchi.space/360-panorama-time-capsule/?utm_source=rss",
-      "time": "2025-09-07T18:49:00+00:00"
     },
     {
       "blog_id": "Justin",
@@ -133,13 +84,6 @@
       "item_name": "2025-09-05",
       "item_url": "http://bamboobone9.com/posts/thoughts/2025-09-05/",
       "time": "2025-09-05T20:06:00+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "关我辟事 Vol.44：上山下水夏天的尾巴",
-      "item_url": "https://blog.douchi.space/spark-joy-digest-2025-8/?utm_source=rss",
-      "time": "2025-09-01T21:25:00+00:00"
     },
     {
       "blog_id": "大宇",
@@ -175,13 +119,6 @@
       "item_name": "iA Writer",
       "item_url": "https://anotherdayu.com/2025/7299/",
       "time": "2025-08-29T06:04:10+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "Dropping old OpenSSL",
-      "item_url": "https://daniel.haxx.se/blog/2025/08/28/dropping-old-openssl/",
-      "time": "2025-08-28T12:52:56+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -261,13 +198,6 @@
       "time": "2025-08-24T22:06:00+00:00"
     },
     {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "开始跑步这一年",
-      "item_url": "https://blog.douchi.space/running-one-year/?utm_source=rss",
-      "time": "2025-08-24T21:40:00+00:00"
-    },
-    {
       "blog_id": "Justin",
       "feed": "https://justinyan.me/feed",
       "item_name": "我的MacBook贴纸",
@@ -303,13 +233,6 @@
       "time": "2025-08-23T16:00:00+00:00"
     },
     {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "Kayak on Lake Union",
-      "item_url": "https://blog.douchi.space/time-capsule/20250824-kayak-lake-union/?utm_source=rss",
-      "time": "2025-08-23T16:00:00+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Sneaking Invisible Instructions by Developers in Windsurf",
@@ -329,20 +252,6 @@
       "item_name": "静水深流",
       "item_url": "https://anotherdayu.com/2025/7169/",
       "time": "2025-08-23T05:13:30+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "被 Covid 偷走的五年",
-      "item_url": "https://blog.douchi.space/5-years-stolen-by-covid/?utm_source=rss",
-      "time": "2025-08-22T16:45:00+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "Big Four Ice Cave",
-      "item_url": "https://blog.douchi.space/time-capsule/20250823-ice-cave/?utm_source=rss",
-      "time": "2025-08-22T16:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -373,13 +282,6 @@
       "time": "2025-08-21T16:00:00+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2025-08-21 10:50",
-      "item_url": "https://hawstein.com/thoughts/#2025-08-21-10-50",
-      "time": "2025-08-21T02:50:00+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Hijacking Windsurf: How Prompt Injection Leaks Developer Secrets",
@@ -392,13 +294,6 @@
       "item_name": "Amazon Q Developer for VS Code Vulnerable to Invisible Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/amazon-q-developer-interprets-hidden-instructions/",
       "time": "2025-08-20T03:00:00+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "像素装备设定页之爬山模组",
-      "item_url": "https://blog.douchi.space/gear-setting-hiking/?utm_source=rss",
-      "time": "2025-08-19T22:45:00+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -415,13 +310,6 @@
       "time": "2025-08-19T13:20:58+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2025-08-19 10:30",
-      "item_url": "https://hawstein.com/thoughts/#2025-08-19-10-30",
-      "time": "2025-08-19T02:30:00+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Amazon Q Developer: Secrets Leaked via DNS and Prompt Injection",
@@ -434,13 +322,6 @@
       "item_name": "macOS Tahoe Public Beta 体验",
       "item_url": "https://anotherdayu.com/2025/7127/",
       "time": "2025-08-18T08:02:37+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "AI slop attacks on the curl project",
-      "item_url": "https://daniel.haxx.se/blog/2025/08/18/ai-slop-attacks-on-the-curl-project/",
-      "time": "2025-08-17T21:45:30+00:00"
     },
     {
       "blog_id": "Justin",
@@ -476,20 +357,6 @@
       "item_name": "Google Jules is Vulnerable To Invisible Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/google-jules-invisible-prompt-injection/",
       "time": "2025-08-15T01:20:58+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "给站点设置维护状态页和对长毛象的一些吐槽",
-      "item_url": "https://blog.douchi.space/status-redirect-page/?utm_source=rss",
-      "time": "2025-08-14T22:59:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "car brands running curl",
-      "item_url": "https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/",
-      "time": "2025-08-14T22:28:55+00:00"
     },
     {
       "blog_id": "Justin",
@@ -611,13 +478,6 @@
       "time": "2025-08-08T16:00:00+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "HTTP is not simple",
-      "item_url": "https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/",
-      "time": "2025-08-08T01:27:17+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "AI Kill Chain in Action: Devin AI Exposes Ports to the Internet with Prompt Injection",
@@ -630,13 +490,6 @@
       "item_name": "How Devin AI Can Leak Your Secrets via Multiple Means",
       "item_url": "https://embracethered.com/blog/posts/2025/devin-can-leak-your-secrets/",
       "time": "2025-08-07T07:20:58+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "Blaugust, cuz why not",
-      "item_url": "https://blog.douchi.space/blaugust/?utm_source=rss",
-      "time": "2025-08-06T22:59:00+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -954,13 +807,6 @@
       "time": "2025-06-25T17:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "New zine: The Secret Rules of the Terminal",
-      "item_url": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
-      "time": "2025-06-25T16:00:00+00:00"
-    },
-    {
       "blog_id": "Shixiaocaia",
       "feed": "https://outofsea.fun/index.xml",
       "item_name": "Yearly | 走出这一座山",
@@ -1050,13 +896,6 @@
       "item_name": "篝火",
       "item_url": "https://anotherdayu.com/2025/7051/",
       "time": "2025-06-10T10:56:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Using `make` to compile C programs (for non-C-programmers)",
-      "item_url": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
-      "time": "2025-06-09T16:00:00+00:00"
     },
     {
       "blog_id": "After27",
@@ -1654,13 +1493,6 @@
       "time": "2025-03-06T18:20:09+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Standards for ANSI escape codes",
-      "item_url": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
-      "time": "2025-03-06T16:00:00+00:00"
-    },
-    {
       "blog_id": "无竹斋",
       "feed": "http://bamboobone9.com/index.xml",
       "item_name": "美国 |中低收入打工人的超懒理财笔记",
@@ -1738,13 +1570,6 @@
       "time": "2025-02-27T07:31:51+00:00"
     },
     {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "Release Arrow Rust 54.2.1 in 6 hours",
-      "item_url": "https://xuanwo.io/links/2025/02/release-arrow-rust-54-2-1-in-6-hours/",
-      "time": "2025-02-26T18:00:00+00:00"
-    },
-    {
       "blog_id": "balatro author",
       "feed": "https://localthunk.com/?format=rss",
       "item_name": "Solitaire",
@@ -1808,13 +1633,6 @@
       "time": "2025-02-14T11:28:02+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "How to add a directory to your PATH",
-      "item_url": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
-      "time": "2025-02-13T04:27:56+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Hacking Gemini's Memory with Prompt Injection and Delayed Tool Invocation",
@@ -1855,13 +1673,6 @@
       "item_name": "How to help us build open source Pebble software!",
       "item_url": "https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software",
       "time": "2025-02-05T16:00:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Some terminal frustrations",
-      "item_url": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
-      "time": "2025-02-05T08:57:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -2016,13 +1827,6 @@
       "item_name": "Beginning of a MIDI GUI in Rust",
       "item_url": "https://ntietz.com/blog/beginning-rust-midi-gui/?utm_source=atom&utm_medium=feed",
       "time": "2025-01-12T16:00:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "What's involved in getting a \"modern\" terminal setup?",
-      "item_url": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
-      "time": "2025-01-11T01:46:01+00:00"
     },
     {
       "blog_id": "云五的自留地",
@@ -2200,13 +2004,6 @@
       "time": "2024-12-12T09:05:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "\"Rules\" that terminal programs follow",
-      "item_url": "https://jvns.ca/blog/2024/11/26/terminal-rules/",
-      "time": "2024-12-12T01:28:22+00:00"
-    },
-    {
       "blog_id": "Nise",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "12月初探松江",
@@ -2235,13 +2032,6 @@
       "time": "2024-12-09T17:32:21+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-12-09 09:30",
-      "item_url": "https://hawstein.com/thoughts/#2024-12-09-09-30",
-      "time": "2024-12-09T01:30:00+00:00"
-    },
-    {
       "blog_id": "ntietz",
       "feed": "https://www.ntietz.com/atom.xml",
       "item_name": "Parsing MIDI messages in Rust",
@@ -2268,20 +2058,6 @@
       "item_name": "Terminal DiLLMa: LLM-powered Apps Can Hijack Your Terminal Via Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2024/terminal-dillmas-prompt-injection-ansi-sequences/",
       "time": "2024-12-06T08:00:25+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-12-05 16:45",
-      "item_url": "https://hawstein.com/thoughts/#2024-12-05-16-45",
-      "time": "2024-12-05T08:45:00+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-12-04 21:15",
-      "item_url": "https://hawstein.com/thoughts/#2024-12-04-21-15",
-      "time": "2024-12-04T13:15:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2319,13 +2095,6 @@
       "time": "2024-11-29T10:22:09+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Why pipes sometimes get \"stuck\": buffering",
-      "item_url": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
-      "time": "2024-11-29T00:23:31+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #79 - 清迈旅居、曼谷之行与 Follow",
@@ -2361,13 +2130,6 @@
       "time": "2024-11-19T11:27:36+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Importing a frontend Javascript library without a build system",
-      "item_url": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
-      "time": "2024-11-18T01:35:42+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案",
@@ -2387,13 +2149,6 @@
       "item_name": "Supporting coworkers, employees, and friends in this time",
       "item_url": "https://ntietz.com/blog/supporting-friends-and-coworkers-in-this-time/?utm_source=atom&utm_medium=feed",
       "time": "2024-11-10T16:00:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "New microblog with TILs",
-      "item_url": "https://jvns.ca/blog/2024/11/09/new-microblog/",
-      "time": "2024-11-09T01:24:29+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -2459,13 +2214,6 @@
       "time": "2024-11-01T18:14:44+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "ASCII control characters in my terminal",
-      "item_url": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
-      "time": "2024-10-31T00:00:10+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #77 - 一间只属于自己的房间（对亲密关系的思考）",
@@ -2485,13 +2233,6 @@
       "item_name": "They want your ethics for $105",
       "item_url": "https://ntietz.com/blog/ethics-105-dollars/?utm_source=atom&utm_medium=feed",
       "time": "2024-10-27T16:00:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Using less memory to look up IP addresses in Mess With DNS",
-      "item_url": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
-      "time": "2024-10-26T23:47:04+00:00"
     },
     {
       "blog_id": "无竹斋",
@@ -2578,13 +2319,6 @@
       "time": "2024-10-08T16:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Some notes on upgrading Hugo",
-      "item_url": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
-      "time": "2024-10-07T01:19:57+00:00"
-    },
-    {
       "blog_id": "ntietz",
       "feed": "https://www.ntietz.com/atom.xml",
       "item_name": "Licensing can be joyful (and legally dubious)",
@@ -2604,13 +2338,6 @@
       "item_name": "寒露｜2024年9月小结",
       "item_url": "https://thirdshire.com/september-recap-2024/",
       "time": "2024-10-05T05:17:19+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Terminal colours are tricky",
-      "item_url": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
-      "time": "2024-10-01T02:01:44+00:00"
     },
     {
       "blog_id": "猫和柴的野游",
@@ -2639,13 +2366,6 @@
       "item_name": "西双版纳自然行 part4：植物园篇（下）",
       "item_url": "http://blog.wraith615.xyz/articles/wbpx0agmibvksrku",
       "time": "2024-09-28T06:26:38+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Some Go web dev notes",
-      "item_url": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
-      "time": "2024-09-27T03:16:00+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -2695,13 +2415,6 @@
       "item_name": "西双版纳自然行 part3：植物园篇（上）",
       "item_url": "http://blog.wraith615.xyz/articles/8sbp6nskh1sqrh3a",
       "time": "2024-09-12T07:26:41+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Reasons I still love the fish shell",
-      "item_url": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
-      "time": "2024-09-12T07:09:12+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -2802,13 +2515,6 @@
       "time": "2024-08-21T18:00:30+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Migrating Mess With DNS to use PowerDNS",
-      "item_url": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
-      "time": "2024-08-19T00:15:28+00:00"
-    },
-    {
       "blog_id": "ntietz",
       "feed": "https://www.ntietz.com/atom.xml",
       "item_name": "Sometimes, I can't talk",
@@ -2863,13 +2569,6 @@
       "item_name": "使用 GoatCounter 与 Zeabur 搭建网站数据统计系统",
       "item_url": "https://www.pseudoyu.com/zh/2024/08/06/deploy_web_statistics_system_using_goatcounter_and_zeabur",
       "time": "2024-08-06T03:00:42+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Go structs are copied on assignment (and other things about Go I'd missed)",
-      "item_url": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
-      "time": "2024-08-06T00:38:35+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -3012,25 +2711,11 @@
       "time": "2024-07-08T11:30:06+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Entering text in the terminal is complicated",
-      "item_url": "https://jvns.ca/blog/2024/07/08/readline/",
-      "time": "2024-07-08T05:00:15+00:00"
-    },
-    {
       "blog_id": "Yelle",
       "feed": "https://yelleis.top/index.xml",
       "item_name": "Quarz 4.0 部署记录",
       "item_url": "https://yelleis.top/p/quarz4.0-deployment-record/",
       "time": "2024-07-04T04:48:10+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Reasons to use your shell's job control",
-      "item_url": "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/",
-      "time": "2024-07-03T00:00:20+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -3143,13 +2828,6 @@
       "item_name": "教程 | 看了就懂的摄影教程，助新手摆脱自动模式",
       "item_url": "http://bamboobone9.com/beginner-photography-guide/",
       "time": "2024-05-15T21:54:00+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-05-15 10:20",
-      "item_url": "https://hawstein.com/thoughts/#2024-05-15-10-20",
-      "time": "2024-05-15T02:20:00+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -3950,13 +3628,6 @@
       "time": "2023-11-01T04:20:55+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2023-10-31 18:45",
-      "item_url": "https://hawstein.com/thoughts/#2023-10-31-18-45",
-      "time": "2023-10-31T10:45:00+00:00"
-    },
-    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "角宿一｜2023年10月小结",
@@ -4741,13 +4412,6 @@
       "time": "2023-05-11T16:00:00+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2023-05-07 20:20",
-      "item_url": "https://hawstein.com/thoughts/#2023-05-07-20-20",
-      "time": "2023-05-07T12:20:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Sliding Enter Animation",
@@ -5259,13 +4923,6 @@
       "time": "2022-05-16T16:00:00+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2022-05-02 15:30",
-      "item_url": "https://hawstein.com/thoughts/#2022-05-02-15-30",
-      "time": "2022-05-02T07:30:00+00:00"
-    },
-    {
       "blog_id": "猫和柴的野游",
       "feed": "https://meowshiba.com/feed/",
       "item_name": "环游俄勒冈 | 干货总集篇 Oregon Loop Travel Tips",
@@ -5313,13 +4970,6 @@
       "item_name": "语言习得",
       "item_url": "https://yelleis.top/p/learn-language/",
       "time": "2022-01-14T05:35:20+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2022-01-03 11:15",
-      "item_url": "https://hawstein.com/thoughts/#2022-01-03-11-15",
-      "time": "2022-01-03T03:15:00+00:00"
     },
     {
       "blog_id": "Yelle",
