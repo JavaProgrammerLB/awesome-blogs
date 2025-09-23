@@ -1,4 +1,4 @@
-import { Card, Text } from '@radix-ui/themes/dist/cjs/components/index.js'
+import { Card, Text, Tooltip } from '@radix-ui/themes'
 import { Routes, Route, Link } from 'react-router'
 import './App.css'
 import blogsData from './assets/blogs.json'
@@ -7,6 +7,7 @@ import News from './components/News'
 import { usePagination } from './hooks/usePagination';
 import { Pagination } from './components/Pagination';
 import { Footer } from './components/Footer'
+import { TooltipProvider } from '@radix-ui/react-tooltip'
 
 
 interface Blog {
@@ -58,16 +59,24 @@ function App() {
     <div>
       {/* 导航栏 */}
       <nav className="bg-gray-100 p-4 mb-4">
-        <div className="max-w-7xl mx-auto flex gap-10">
-          <Link to="/"><Text weight="light" size="5" color='gray'>Them</Text></Link>
-          <Link to="/news"><Text weight="light" size="5" color='green' className='hover:underline underline-offset-2'>NEWS</Text></Link>
-        </div>
+        <TooltipProvider>
+          <div className="max-w-7xl mx-auto flex gap-10">
+            <Link to="/">
+              <Tooltip content="Who thinking and write" side='top'>
+                <Text weight="light" size="5" color='gray'>Them</Text>
+              </Tooltip>
+            </Link>
+            <Link to="/new">
+                <Text weight="light" size="5" color='green' className='hover:underline underline-offset-2'>NEW</Text>
+            </Link>
+          </div>
+        </TooltipProvider>
       </nav>
 
       {/* 路由内容 */}
       <Routes>
         <Route path="/" element={<Them />} />
-        <Route path="/news" element={<News />} />
+        <Route path="/new" element={<News />} />
       </Routes>
 
       {/* 底部信息 */}
