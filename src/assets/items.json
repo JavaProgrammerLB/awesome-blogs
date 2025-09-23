@@ -1,5 +1,5 @@
 {
-  "update_time": "2025-09-23T03:52:16.917663+00:00",
+  "update_time": "2025-09-23T10:30:33.568548+00:00",
   "items": [
     {
       "blog_id": "Daniel Stenberg",
@@ -93,6 +93,13 @@
       "time": "2025-09-11T03:50:03+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "在Deepin 25上配置forticlient",
+      "item_url": "https://blog.keepchen.com/a/configure-forticlient-vpn-on-deepin-25.html",
+      "time": "2025-09-10T05:40:30+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "curl 8.16.0",
@@ -119,6 +126,13 @@
       "item_name": "Jakub and Szymon",
       "item_url": "https://blog.samaltman.com/jakub-and-szymon",
       "time": "2025-09-08T16:10:22+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "分享一些酷酷的站点 [20250908]",
+      "item_url": "https://blog.keepchen.com/a/cool-websites-20250908.html",
+      "time": "2025-09-08T06:29:43+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -156,6 +170,13 @@
       "time": "2025-09-05T20:06:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "Go-Sail发布v3.0.6版本了",
+      "item_url": "https://blog.keepchen.com/a/Go-Sail-has-released-version-v3.0.6.html",
+      "time": "2025-09-05T03:09:27+00:00"
+    },
+    {
       "blog_id": "椒盐豆豉",
       "feed": "https://blog.douchi.space/index.xml",
       "item_name": "关我辟事 Vol.44：上山下水夏天的尾巴",
@@ -163,11 +184,25 @@
       "time": "2025-09-01T21:25:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "链上股份公司",
+      "item_url": "https://www.meettea.com/digital-refugee/on-chain-joint-stock-company.html",
+      "time": "2025-09-01T16:00:00+00:00"
+    },
+    {
       "blog_id": "大宇",
       "feed": "https://anotherdayu.com/feed/",
       "item_name": "WordPress 插件 – 旅行地图 WP Travel Map",
       "item_url": "https://anotherdayu.com/2025/7336/",
       "time": "2025-09-01T12:57:41+00:00"
+    },
+    {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "hink - 只需 10 行代码的短链接系统",
+      "item_url": "https://miantiao.me/posts/hink/",
+      "time": "2025-08-30T20:50:55+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -576,6 +611,13 @@
       "time": "2025-08-12T13:20:58+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司系列最后一篇：注册英国公司需谨慎",
+      "item_url": "https://www.meettea.com/running-a-company/think-before-you-register-uk-company.html",
+      "time": "2025-08-11T16:00:00+00:00"
+    },
+    {
       "blog_id": "邓布利多的冥想盆",
       "feed": "https://pensieve.wangxindi.org/feed.xml",
       "item_name": "Blaugust 02：「就这？我也能画/写/做」",
@@ -779,6 +821,13 @@
       "time": "2025-08-01T07:00:58+00:00"
     },
     {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "解密 SSH AI Chat：它是如何运行的",
+      "item_url": "https://miantiao.me/posts/how-ssh-ai-chat-works/",
+      "time": "2025-08-01T06:07:03+00:00"
+    },
+    {
       "blog_id": "大宇",
       "feed": "https://anotherdayu.com/feed/",
       "item_name": "Keyboard Maestro – 实现 Screennote 的功能",
@@ -812,6 +861,13 @@
       "item_name": "解锁 TestFlight App 的小福利",
       "item_url": "https://anotherdayu.com/2025/7088/",
       "time": "2025-07-27T06:35:05+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "我对V2EX发布$V2EX讨论的一些感受",
+      "item_url": "https://blog.keepchen.com/a/my-thoughts-on-V2EX-launching-$V2EX.html",
+      "time": "2025-07-27T03:12:52+00:00"
     },
     {
       "blog_id": "After27",
@@ -891,6 +947,13 @@
       "time": "2025-07-12T20:50:02+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "如何让Stripe支持支付宝和微信支付",
+      "item_url": "https://blog.keepchen.com/a/How-to-get-Stripe-to-support-Alipay-and-WeChat-Pay.html",
+      "time": "2025-07-12T15:14:12+00:00"
+    },
+    {
       "blog_id": "AsyncX",
       "feed": "https://blog.asyncx.top/zh.xml",
       "item_name": "Astro-blog记录(6) - 制作一个自同步运动数据页",
@@ -910,6 +973,13 @@
       "item_name": "PIVOT Vol.18 这期有 21 个链接",
       "item_url": "https://anotherdayu.com/2025/7071/",
       "time": "2025-07-09T04:52:21+00:00"
+    },
+    {
+      "blog_id": "Corey Chiu",
+      "feed": "https://coreychiu.com/feed",
+      "item_name": "n8n自部署极速版教程（Dokploy版）",
+      "item_url": "https://coreychiu.com/blogs/how-to-install-n8n-on-dokploy",
+      "time": "2025-07-08T16:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -1108,6 +1178,13 @@
       "time": "2025-06-11T16:00:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司新规：Companies House 身份验证",
+      "item_url": "https://www.meettea.com/running-a-company/verify-your-identity-for-companies-house-now.html",
+      "time": "2025-06-11T16:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Core 2 Duo - Beta Test Signup!",
@@ -1213,6 +1290,48 @@
       "time": "2025-06-01T14:18:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "2025上半年里程碑",
+      "item_url": "https://blog.keepchen.com/a/milestone-for-the-first-half-of-2025.html",
+      "time": "2025-05-29T09:25:53+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "GitLab+Drone使用体验",
+      "item_url": "https://blog.keepchen.com/a/the-gitlab-drone-experience.html",
+      "time": "2025-05-29T05:18:56+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "四姑娘山之旅",
+      "item_url": "https://blog.keepchen.com/a/trip-of-MT.Siguniang.html",
+      "time": "2025-05-29T05:18:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "国庆的一些碎碎念",
+      "item_url": "https://blog.keepchen.com/a/memory-of-National-Day.html",
+      "time": "2025-05-28T09:19:58+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "近来帮同事做性能优化的过程回顾",
+      "item_url": "https://blog.keepchen.com/a/web-server-interface-performance-optimize.html",
+      "time": "2025-05-28T09:19:41+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "聊聊接口的返回数据结构",
+      "item_url": "https://blog.keepchen.com/a/talk-about-api-response-structure.html",
+      "time": "2025-05-28T09:19:26+00:00"
+    },
+    {
       "blog_id": "bernsteinbear",
       "feed": "https://bernsteinbear.com/feed.xml",
       "item_name": "Zero-overhead checks with fake stack overflows",
@@ -1227,11 +1346,25 @@
       "time": "2025-05-27T11:29:31+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "流量、流量、流量 2",
+      "item_url": "https://www.meettea.com/running-a-company/the-traffics-2.html",
+      "time": "2025-05-26T16:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "AI ClickFix: Hijacking Computer-Use Agents Using ClickFix",
       "item_url": "https://embracethered.com/blog/posts/2025/ai-clickfix-ttp-claude/",
       "time": "2025-05-24T15:20:58+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "由GORM的Updates语法糖\"bug\"引发的思考",
+      "item_url": "https://blog.keepchen.com/a/reflections-triggered-by-gorm-updates-syntactic-sugar-bug.html",
+      "time": "2025-05-22T07:30:05+00:00"
     },
     {
       "blog_id": "无竹斋",
@@ -1402,6 +1535,13 @@
       "time": "2025-04-27T16:00:00+00:00"
     },
     {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "在 Docker 沙箱中运行 MCP Server",
+      "item_url": "https://miantiao.me/posts/guide-to-running-mcp-server-in-a-sandbox/",
+      "time": "2025-04-23T06:01:48+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #92 - 数码产品 Porn 与断舍离",
@@ -1414,6 +1554,13 @@
       "item_name": "The five stages of incident response",
       "item_url": "https://ntietz.com/blog/the-five-stages-of-incident-response/?utm_source=atom&utm_medium=feed",
       "time": "2025-04-20T16:00:00+00:00"
+    },
+    {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "使用 Cloudflare Workers 合并音频文件",
+      "item_url": "https://miantiao.me/posts/cloudflare-audio-concat/",
+      "time": "2025-04-19T03:09:12+00:00"
     },
     {
       "blog_id": "李一桃",
@@ -1514,6 +1661,13 @@
       "time": "2025-04-08T05:10:54+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "我把 Go-Sail 的文档站更新了",
+      "item_url": "https://blog.keepchen.com/a/Go-Sail-documentation-site-new-version.html",
+      "time": "2025-04-08T03:25:18+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Hello Tokyo!",
@@ -1598,6 +1752,13 @@
       "time": "2025-03-26T20:00:00+00:00"
     },
     {
+      "blog_id": "Corey Chiu",
+      "feed": "https://coreychiu.com/feed",
+      "item_name": "阿里云ECS国内服务器部署Dokploy教程",
+      "item_url": "https://coreychiu.com/blogs/how-to-install-dokploy-on-aliyun-ecs-server",
+      "time": "2025-03-25T16:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Gratitude and FAQ",
@@ -1624,6 +1785,13 @@
       "item_name": "2025.03.24: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-03-24/",
       "time": "2025-03-23T11:45:06+00:00"
+    },
+    {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "使用 AI 让博客排版更上一个台阶",
+      "item_url": "https://miantiao.me/posts/ai-blog-typography/",
+      "time": "2025-03-23T05:39:55+00:00"
     },
     {
       "blog_id": "balatro author",
@@ -1787,6 +1955,13 @@
       "time": "2025-03-04T17:00:00+00:00"
     },
     {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "用播客的方式听 Hacker News",
+      "item_url": "https://miantiao.me/posts/hacker-news-podcast/",
+      "time": "2025-03-03T04:40:37+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "ArchLinux removed deprecated repo community",
@@ -1927,6 +2102,13 @@
       "time": "2025-02-12T07:02:00+00:00"
     },
     {
+      "blog_id": "Corey Chiu",
+      "feed": "https://coreychiu.com/feed",
+      "item_name": "网站收录终极指南！让你的网站流量起飞！",
+      "item_url": "https://coreychiu.com/blogs/ultimate-guide-to-search-engine-submission",
+      "time": "2025-02-10T16:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Hacking Gemini's Memory with Prompt Injection and Delayed Tool Invocation",
@@ -2060,6 +2242,27 @@
       "time": "2025-01-26T09:04:34+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "这就是我为什么讨厌拼多多",
+      "item_url": "https://blog.keepchen.com/a/why-i-dislike-pinduoduo.html",
+      "time": "2025-01-26T05:55:16+00:00"
+    },
+    {
+      "blog_id": "Corey Chiu",
+      "feed": "https://coreychiu.com/feed",
+      "item_name": "GitHub登录配置教程极简版",
+      "item_url": "https://coreychiu.com/blogs/github-oauth-setup",
+      "time": "2025-01-25T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Corey Chiu",
+      "feed": "https://coreychiu.com/feed",
+      "item_name": "三分钟配置好Google登录教程小白版",
+      "item_url": "https://coreychiu.com/blogs/google-oauth-setup",
+      "time": "2025-01-25T16:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Remember how awesome PebbleOS is?",
@@ -2186,6 +2389,13 @@
       "time": "2025-01-09T04:49:14+00:00"
     },
     {
+      "blog_id": "Corey Chiu",
+      "feed": "https://coreychiu.com/feed",
+      "item_name": "Next.js webpack.cache.PackFileCacheStrategy打包失败问题解决",
+      "item_url": "https://coreychiu.com/blogs/webpack-caching-failed-for-pack",
+      "time": "2025-01-08T16:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Epoch Semantic Versioning",
@@ -2249,6 +2459,13 @@
       "time": "2024-12-31T16:00:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "元旦快乐～",
+      "item_url": "https://blog.keepchen.com/a/2025-happy-new-year.html",
+      "time": "2024-12-31T09:10:50+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "CPU Profiling Nuxt",
@@ -2268,6 +2485,13 @@
       "item_name": "2024 年末回顾 - 不完美的日子",
       "item_url": "https://www.pseudoyu.com/zh/2024/12/31/yearly_review_2024",
       "time": "2024-12-31T07:52:37+00:00"
+    },
+    {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "RSS.Beauty - 让 RSS 变漂亮!",
+      "item_url": "https://miantiao.me/posts/rss-beauty/",
+      "time": "2024-12-31T06:50:48+00:00"
     },
     {
       "blog_id": "无竹斋",
@@ -2331,6 +2555,27 @@
       "item_name": "Feel, don't think",
       "item_url": "https://ntietz.com/blog/feel-dont-think/?utm_source=atom&utm_medium=feed",
       "time": "2024-12-22T16:00:00+00:00"
+    },
+    {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "在浏览器中轻松运行 Python 程序",
+      "item_url": "https://miantiao.me/posts/run-python-in-browser/",
+      "time": "2024-12-21T01:57:34+00:00"
+    },
+    {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "使用 Cloudflare Snippets 搭建一个不限流量的 Docker 镜像",
+      "item_url": "https://miantiao.me/posts/cloudflare-docker-mirror/",
+      "time": "2024-12-21T00:17:40+00:00"
+    },
+    {
+      "blog_id": "面条实验室",
+      "feed": "https://feed.miantiao.me/",
+      "item_name": "Cloudflare PyPI Mirror",
+      "item_url": "https://miantiao.me/posts/cloudflare-pypi-mirror/",
+      "time": "2024-12-18T05:06:14+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -2452,6 +2697,13 @@
       "time": "2024-12-04T13:15:00+00:00"
     },
     {
+      "blog_id": "Corey Chiu",
+      "feed": "https://coreychiu.com/feed",
+      "item_name": "出海做导航站应该如何盈利，如何定价？",
+      "item_url": "https://coreychiu.com/blogs/directory-monetization-and-pricing",
+      "time": "2024-12-03T16:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "求婚誓言 | 爱的本质是被看见",
@@ -2478,6 +2730,13 @@
       "item_name": "Albus 的 Weekly Digest (2024.11.25-2024.12.01)",
       "item_url": "https://albuspensieve.github.io/2024/11/30/2024-11-30-2024digest07/",
       "time": "2024-11-30T08:26:15+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "像马斯克一样工作，为时间记账：Time Boxing 工作法",
+      "item_url": "https://www.meettea.com/running-a-company/timeboxing.html",
+      "time": "2024-11-29T16:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -2571,6 +2830,13 @@
       "time": "2024-11-19T11:27:36+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "致敬还在写博客的我们",
+      "item_url": "https://blog.keepchen.com/a/blog-we.html",
+      "time": "2024-11-19T02:25:53+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Importing a frontend Javascript library without a build system",
@@ -2597,6 +2863,13 @@
       "item_name": "酒(Alcoholism)和认同感",
       "item_url": "https://blog.asyncx.top/posts/2024-11-12/",
       "time": "2024-11-12T11:11:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司报税（4）：用 Wise 交税",
+      "item_url": "https://www.meettea.com/running-a-company/uk-company-tax-filing-wise-payment.html",
+      "time": "2024-11-11T16:00:00+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -2632,6 +2905,13 @@
       "item_name": "立冬｜2024年10月小结",
       "item_url": "https://thirdshire.com/october-recap-2024/",
       "time": "2024-11-07T06:01:01+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "逐步的把图片资源迁移到星光图床上",
+      "item_url": "https://blog.keepchen.com/a/stardots-ink.html",
+      "time": "2024-11-06T02:54:17+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -2683,6 +2963,13 @@
       "time": "2024-11-01T18:14:44+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "帮弟弟配了一台mini主机",
+      "item_url": "https://blog.keepchen.com/a/how-about-gmktech-k6.html",
+      "time": "2024-10-31T03:41:50+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "ASCII control characters in my terminal",
@@ -2732,6 +3019,27 @@
       "time": "2024-10-26T21:54:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司报税（3）：企业所得税（Company Tax Return）CT600 填报",
+      "item_url": "https://www.meettea.com/running-a-company/uk-company-tax-filing-company-tax-return.html",
+      "time": "2024-10-26T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司报税（1）：准备工作",
+      "item_url": "https://www.meettea.com/running-a-company/uk-company-tax-filing-preparations.html",
+      "time": "2024-10-26T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司报税（2）：财务报告（Company accounts）填报",
+      "item_url": "https://www.meettea.com/running-a-company/uk-company-tax-filling-accounts.html",
+      "time": "2024-10-26T16:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "ZombAIs: From Prompt Injection to C2 with Claude Computer Use",
@@ -2779,6 +3087,20 @@
       "item_name": "Debugging my wife's alarm clock",
       "item_url": "https://ntietz.com/blog/debugging-my-wifes-alarm-clock/?utm_source=atom&utm_medium=feed",
       "time": "2024-10-20T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国版 GDPR 之 ICO 注册登记",
+      "item_url": "https://www.meettea.com/running-a-company/uk-gdpr-ico-compliance.html",
+      "time": "2024-10-17T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "示范：什么是汇率损失",
+      "item_url": "https://www.meettea.com/digital-refugee/what-is-exchange-rate-loss.html",
+      "time": "2024-10-16T16:00:00+00:00"
     },
     {
       "blog_id": "Yelle",
@@ -3138,11 +3460,25 @@
       "time": "2024-08-17T13:30:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "就这一刻而言，我觉得科技冷冰冰的。",
+      "item_url": "https://blog.keepchen.com/a/fucking-rogue-softwares.html",
+      "time": "2024-08-16T13:48:34+00:00"
+    },
+    {
       "blog_id": "Nise",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "西双版纳自然行 part1",
       "item_url": "http://blog.wraith615.xyz/articles/irq4wxn6ox97qws7",
       "time": "2024-08-16T06:26:35+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "价值 15 英镑：英国公司年报填报教程",
+      "item_url": "https://www.meettea.com/running-a-company/filing-confirmation-statement-for-uk-company.html",
+      "time": "2024-08-15T16:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -3236,6 +3572,13 @@
       "time": "2024-07-24T03:07:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "我如何成为了程序员",
+      "item_url": "https://www.meettea.com/how-do-i-become-a-programmer.html",
+      "time": "2024-07-22T16:00:00+00:00"
+    },
+    {
       "blog_id": "ntietz",
       "feed": "https://www.ntietz.com/atom.xml",
       "item_name": "TIL: testing in the future using the faketime command",
@@ -3271,6 +3614,13 @@
       "time": "2024-07-20T16:30:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "如何使用acme.sh自动续签证书",
+      "item_url": "https://blog.keepchen.com/a/auto-renew-ssl-by-using-acme.sh.html",
+      "time": "2024-07-17T05:52:52+00:00"
+    },
+    {
       "blog_id": "Nise",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "老头环 DLC！part2",
@@ -3289,6 +3639,13 @@
       "feed": "https://www.ntietz.com/atom.xml",
       "item_name": "Approximating the Sierpinski Triangle on my CNC",
       "item_url": "https://ntietz.com/blog/approximating-sierpinskis-triangle-on-my-cnc/?utm_source=atom&utm_medium=feed",
+      "time": "2024-07-14T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "一天时间：用 AI 做个英语词根查询工具",
+      "item_url": "https://www.meettea.com/running-a-company/ai-tool-for-root-based-vocabularies.html",
       "time": "2024-07-14T16:00:00+00:00"
     },
     {
@@ -3325,6 +3682,13 @@
       "item_name": "我和 Vue.js 的十年",
       "item_url": "https://jiongks.name/blog/my-10-years-with-vuejs",
       "time": "2024-07-11T02:36:18+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "【历险记】投资美股、港股：证券开户攻略",
+      "item_url": "https://www.meettea.com/digital-refugee/guide-to-us-stock-investment.html",
+      "time": "2024-07-10T16:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -3544,6 +3908,13 @@
       "time": "2024-05-12T22:36:03+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "Go-Sail的文档站点搭建好了",
+      "item_url": "https://blog.keepchen.com/a/go-sail-documentation-website.html",
+      "time": "2024-05-11T08:47:16+00:00"
+    },
+    {
       "blog_id": "李一桃",
       "feed": "https://yitaoli2023.github.io/yitaoli/index.xml",
       "item_name": "中年养生之食补篇",
@@ -3628,11 +3999,25 @@
       "time": "2024-04-08T13:41:47+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "文章即产品",
+      "item_url": "https://www.meettea.com/readings/article-as-product.html",
+      "time": "2024-04-07T16:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Introducing ESLint Config Inspector",
       "item_url": "https://antfu.me/posts/eslint-config-inspector",
       "time": "2024-04-05T08:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "奕丰（iFast）开户：英区最佳后备数字银行帐户",
+      "item_url": "https://www.meettea.com/digital-refugee/applying-a-ifast-account-as-backup.html",
+      "time": "2024-04-01T16:00:00+00:00"
     },
     {
       "blog_id": "After27",
@@ -3787,6 +4172,13 @@
       "item_name": "The Magic in Shiki Magic Move",
       "item_url": "https://antfu.me/posts/shiki-magic-move",
       "time": "2024-03-03T16:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "我的第一个谷歌浏览器插件发布成功啦！",
+      "item_url": "https://blog.keepchen.com/a/relax-for-a-while.html",
+      "time": "2024-03-03T13:28:48+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -4097,6 +4489,13 @@
       "time": "2023-12-21T16:00:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "一个 v2ex 回帖让我重启了博客：2023 年终总结",
+      "item_url": "https://www.meettea.com/digital-refugee/2023-blog-year-end-review.html",
+      "time": "2023-12-21T16:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "What I Wish Someone Had Told Me",
@@ -4130,6 +4529,13 @@
       "item_name": "我写了一款 AI-Native 产品",
       "item_url": "https://idoubi.cv/blogs/an-ai-native-product",
       "time": "2023-12-19T16:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "我开源了一个golang的web框架",
+      "item_url": "https://blog.keepchen.com/a/go-sail.html",
+      "time": "2023-12-19T03:44:59+00:00"
     },
     {
       "blog_id": "一支咏叹调",
@@ -4179,6 +4585,13 @@
       "item_name": "Introducing Beeper Mini – get blue bubbles on Android 💙",
       "item_url": "https://ericmigi.com/blog/introducing-beeper-mini-get-blue-bubbles-on-android",
       "time": "2023-12-04T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "WordPress + WooCommerce 搭建海外独立站，国内身份赚美金",
+      "item_url": "https://www.meettea.com/running-a-company/wordpress-woocommerce-exclusive-website.html",
+      "time": "2023-12-03T16:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -4342,6 +4755,13 @@
       "time": "2023-11-17T16:00:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "流量、流量、流量",
+      "item_url": "https://www.meettea.com/running-a-company/the-traffics.html",
+      "time": "2023-11-17T16:00:00+00:00"
+    },
+    {
       "blog_id": "Nise",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "奥地利湖区+德国国王湖之行 part4",
@@ -4361,6 +4781,13 @@
       "item_name": "Nuxt Devtools v1.0",
       "item_url": "https://antfu.me/posts/nuxt-devtools-v1",
       "time": "2023-11-13T08:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "每月 69.9 自记账，开一个国内公司",
+      "item_url": "https://www.meettea.com/digital-refugee/setup-company-on-taobao-xiaozhen.html",
+      "time": "2023-11-12T16:00:00+00:00"
     },
     {
       "blog_id": "Nise",
@@ -4396,6 +4823,13 @@
       "item_name": "Monthly | 九点遛狗",
       "item_url": "https://outofsea.fun/posts/945bd74e/",
       "time": "2023-11-08T17:10:10+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "要做无法规模化的事",
+      "item_url": "https://www.meettea.com/running-a-company/do-things-that-dont-scale.html",
+      "time": "2023-11-07T16:00:00+00:00"
     },
     {
       "blog_id": "扌舌弓瓜",
@@ -4440,6 +4874,13 @@
       "time": "2023-11-01T04:20:55+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "流芳",
+      "item_url": "https://blog.keepchen.com/a/flowers.html",
+      "time": "2023-11-01T02:00:06+00:00"
+    },
+    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/thoughts-feed.xml",
       "item_name": "Thought on 2023-10-31 18:45",
@@ -4482,6 +4923,13 @@
       "time": "2023-10-25T06:55:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "你不需要很努力：复利、飞轮与长期主义",
+      "item_url": "https://www.meettea.com/running-a-company/long-termism.html",
+      "time": "2023-10-24T16:00:00+00:00"
+    },
+    {
       "blog_id": "Nise",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "奥地利湖区+德国国王湖之行 part1",
@@ -4501,6 +4949,13 @@
       "item_name": "BOOX 电纸书",
       "item_url": "https://yelleis.top/p/boox-c67ml-carta2/",
       "time": "2023-10-20T02:53:19+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "测评 Tiptrans：从香港转运到大陆",
+      "item_url": "https://www.meettea.com/digital-refugee/tiptrans-from-hk-to-cn.html",
+      "time": "2023-10-19T16:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -4545,6 +5000,20 @@
       "time": "2023-10-15T16:00:00+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司报税维护指南（持续更新中）",
+      "item_url": "https://www.meettea.com/digital-refugee/running-a-uk-company.html",
+      "time": "2023-10-14T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "遇见杂货铺",
+      "item_url": "https://www.meettea.com/shop/",
+      "time": "2023-10-14T16:00:00+00:00"
+    },
+    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "开始学习织毛线 Knitting 吧",
@@ -4557,6 +5026,13 @@
       "item_name": "一些夏天时候的伸展",
       "item_url": "https://yitaoli2023.github.io/yitaoli/posts/summer-activities-2023/",
       "time": "2023-10-11T13:30:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "第一次开发微信小程序",
+      "item_url": "https://blog.keepchen.com/a/first-trip-of-wechat-miniprogram.html",
+      "time": "2023-10-09T14:45:20+00:00"
     },
     {
       "blog_id": "Yelle",
@@ -4613,6 +5089,13 @@
       "item_name": "打电脑，也要保持好坐姿(顶瓜瓜现已支持 MacOS)",
       "item_url": "http://haozes.me/blog/2023/09/27/voicedict/",
       "time": "2023-09-26T08:00:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "余光中：怎样改进英式中文？- 论中文的常态与变态",
+      "item_url": "https://www.meettea.com/readings/how-to-improve-english-style-chinese.html",
+      "time": "2023-09-23T16:00:00+00:00"
     },
     {
       "blog_id": "AsyncX",
@@ -4755,11 +5238,25 @@
       "time": "2023-08-30T08:23:53+00:00"
     },
     {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "英国公司低成本注册指南（通过 1st formations）",
+      "item_url": "https://www.meettea.com/digital-refugee/start-a-uk-company-via-1stformations.html",
+      "time": "2023-08-28T16:00:00+00:00"
+    },
+    {
       "blog_id": "AsyncX",
       "feed": "https://blog.asyncx.top/zh.xml",
       "item_name": "如何听更好音质的歌",
       "item_url": "https://blog.asyncx.top/posts/2023-08-24/",
       "time": "2023-08-24T15:08:00+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "新加坡华侨银行（OCBC）开户指南",
+      "item_url": "https://www.meettea.com/digital-refugee/a-guide-to-opening-an-OCBC-account.html",
+      "time": "2023-08-22T16:00:00+00:00"
     },
     {
       "blog_id": "李一桃",
@@ -4886,6 +5383,13 @@
       "item_name": "我的电脑使用指南",
       "item_url": "https://yelleis.top/p/guidelines-for-the-use-of-computer/",
       "time": "2023-07-31T19:11:45+00:00"
+    },
+    {
+      "blog_id": "Meettea",
+      "feed": "https://www.meettea.com/feed.xml",
+      "item_name": "Journals",
+      "item_url": "https://www.meettea.com/preface.html",
+      "time": "2023-07-31T16:00:00+00:00"
     },
     {
       "blog_id": "Yelle",
@@ -5476,11 +5980,32 @@
       "time": "2023-01-29T02:03:20+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "春节快乐",
+      "item_url": "https://blog.keepchen.com/a/the-chinese-spring-festival.html",
+      "time": "2023-01-25T17:28:09+00:00"
+    },
+    {
       "blog_id": "Shixiaocaia",
       "feed": "https://outofsea.fun/index.xml",
       "item_name": "Yearly | 新年快乐",
       "item_url": "https://outofsea.fun/posts/8496fcc4/",
       "time": "2023-01-19T18:27:47+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "我把博客站点重写了",
+      "item_url": "https://blog.keepchen.com/a/rebuild-blog-site-by-using-go.html",
+      "time": "2023-01-14T05:25:29+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "阆中古城",
+      "item_url": "https://blog.keepchen.com/a/Langzhong-Ancient-City.html",
+      "time": "2023-01-14T04:43:13+00:00"
     },
     {
       "blog_id": "Randy",
@@ -5756,6 +6281,13 @@
       "time": "2022-09-07T21:54:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "入了把Keydous NJ80",
+      "item_url": "https://blog.keepchen.com/a/keydous-nj80.html",
+      "time": "2022-09-03T13:09:02+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "读《九宫格写作法》",
@@ -5775,6 +6307,27 @@
       "item_name": "Helion Needs You",
       "item_url": "https://blog.samaltman.com/helion-needs-you",
       "time": "2022-07-13T07:47:32+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "Mac上有用的知识",
+      "item_url": "https://blog.keepchen.com/a/Useful-knowledge-on-Mac.html",
+      "time": "2022-07-11T02:35:26+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "记一次服务器被攻击",
+      "item_url": "https://blog.keepchen.com/a/once-the-server-was-attacked.html",
+      "time": "2022-06-26T03:38:53+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "Ubuntu server不停机扩容系统盘",
+      "item_url": "https://blog.keepchen.com/a/ubuntu-server-non-stop-expansion-system-disk.html",
+      "time": "2022-06-26T03:24:09+00:00"
     },
     {
       "blog_id": "四喜丸子",
@@ -6029,6 +6582,13 @@
       "time": "2021-06-26T16:00:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "端午安康",
+      "item_url": "https://blog.keepchen.com/a/the-Dragon-Boat-Festival.html",
+      "time": "2021-06-13T11:18:25+00:00"
+    },
+    {
       "blog_id": "四喜丸子",
       "feed": "https://fourhappylions.com/index.xml",
       "item_name": "“I Don't Want It”",
@@ -6041,6 +6601,20 @@
       "item_name": "我给自己设立了每月 $20 的开源捐赠预算",
       "item_url": "https://lutaonan.com/blog/my-oss-donation-budget",
       "time": "2021-05-11T16:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "搭建hadoop伪分布式集群总结",
+      "item_url": "https://blog.keepchen.com/a/set-up-pseudo-distributed-hadoop.html",
+      "time": "2021-04-19T06:37:09+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "在goa框架中，如何访问原始请求数据",
+      "item_url": "https://blog.keepchen.com/a/how-to-access-raw-body-and-headers-in-goa-framework.html",
+      "time": "2021-04-18T13:10:44+00:00"
     },
     {
       "blog_id": "Randy",
@@ -6076,6 +6650,13 @@
       "item_name": "我对 Svelte 的看法",
       "item_url": "https://lutaonan.com/blog/svelte",
       "time": "2021-03-08T16:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "postgresql相关操作笔记",
+      "item_url": "https://blog.keepchen.com/a/notes-of-postgresql.html",
+      "time": "2021-01-29T09:07:19+00:00"
     },
     {
       "blog_id": "Randy",
@@ -6134,6 +6715,13 @@
       "time": "2020-12-18T16:00:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "golang解析带命名空间的xml数据(带冒号的节点或属性名)",
+      "item_url": "https://blog.keepchen.com/a/golang-parse-xml-with-namespace-prefix.html",
+      "time": "2020-12-07T09:16:05+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "The Strength of Being Misunderstood",
@@ -6169,11 +6757,25 @@
       "time": "2020-09-22T17:46:52+00:00"
     },
     {
+      "blog_id": "Larry Lv",
+      "feed": "https://blog.larrylv.com/index.xml",
+      "item_name": "Takeaways From No Rules Rules",
+      "item_url": "https://blog.larrylv.com/post/takeaways-from-no-rules-rules/",
+      "time": "2020-09-19T17:08:05+00:00"
+    },
+    {
       "blog_id": "四喜丸子",
       "feed": "https://fourhappylions.com/index.xml",
       "item_name": "1岁出头的新挑战",
       "item_url": "https://fourhappylions.com/posts/new-challenges-with-young-toddler/",
       "time": "2020-09-19T16:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "【转载】解决deepin环境下wine QQ无法接收图片问题",
+      "item_url": "https://blog.keepchen.com/a/deepin-wine-qq-cannot-load-pic.html",
+      "time": "2020-09-01T02:32:59+00:00"
     },
     {
       "blog_id": "李一桃",
@@ -6246,6 +6848,13 @@
       "time": "2020-05-28T11:12:40+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "杂项笔记",
+      "item_url": "https://blog.keepchen.com/a/sundry-notes.html",
+      "time": "2020-05-21T07:46:12+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "离开阿里巴巴",
@@ -6265,6 +6874,13 @@
       "item_name": "说说 React 和 Vue",
       "item_url": "https://lutaonan.com/blog/react-and-vue",
       "time": "2020-05-12T16:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "Mac如何修改通知横幅消失时间",
+      "item_url": "https://blog.keepchen.com/a/mac-notification-hide-duration.html",
+      "time": "2020-04-26T10:44:26+00:00"
     },
     {
       "blog_id": "勾股",
@@ -6293,6 +6909,20 @@
       "item_name": "Please Fund More Science",
       "item_url": "https://blog.samaltman.com/please-fund-more-science",
       "time": "2020-03-30T09:46:36+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "Golang校验结构体是否实现了接口",
+      "item_url": "https://blog.keepchen.com/a/golang-implement-interface-check.html",
+      "time": "2020-03-23T05:59:52+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "关于deepin os的大半年使用体验",
+      "item_url": "https://blog.keepchen.com/a/deepin-os.html",
+      "time": "2020-03-22T06:21:58+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -6477,6 +7107,20 @@
       "time": "2019-08-27T12:00:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "有态度的翻唱",
+      "item_url": "https://blog.keepchen.com/a/cover-singing.html",
+      "time": "2019-08-16T06:23:06+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "【转载】Golang 在 Mac、Linux、Windows 下如何交叉编译",
+      "item_url": "https://blog.keepchen.com/a/golang-cross-compiles.html",
+      "time": "2019-08-16T06:11:45+00:00"
+    },
+    {
       "blog_id": "李一桃",
       "feed": "https://yitaoli2023.github.io/yitaoli/index.xml",
       "item_name": "去波多黎各看艳阳天",
@@ -6538,6 +7182,13 @@
       "item_name": "在医院的下半场：新生儿护理",
       "item_url": "https://fourhappylions.com/posts/newborn-care/",
       "time": "2019-07-13T16:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "和幺幺一起成长的半年时光",
+      "item_url": "https://blog.keepchen.com/a/half-a-year-with-our-love-kid.html",
+      "time": "2019-07-11T08:04:42+00:00"
     },
     {
       "blog_id": "四喜丸子",
@@ -6610,11 +7261,46 @@
       "time": "2019-04-02T12:20:00+00:00"
     },
     {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "Element UI中message消息提示实现原理",
+      "item_url": "https://blog.keepchen.com/a/principle-of-element-message.html",
+      "time": "2019-03-27T08:31:26+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "从predis组件开始了解如何与redis服务交互",
+      "item_url": "https://blog.keepchen.com/a/predis-connect-to-redis.html",
+      "time": "2019-03-22T02:53:57+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "【转载】 尤雨溪谈Vue.js ：缔造自由与真我",
+      "item_url": "https://blog.keepchen.com/a/evan-you-talk-about-vue.js.html",
+      "time": "2019-03-05T02:11:30+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "【转载】百万 Go TCP 连接的思考: epoll方式减少资源占用",
+      "item_url": "https://blog.keepchen.com/a/1m-go-tcp-connection.html",
+      "time": "2019-02-26T03:28:05+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "杭州最适合闲来溜达的几条路线",
       "item_url": "https://geekplux.com/posts/hangzhou-scenic-route",
       "time": "2019-02-24T12:00:00+00:00"
+    },
+    {
+      "blog_id": "希仁之拥",
+      "feed": "https://blog.keepchen.com/feed",
+      "item_name": "【分享】移除git中的commit历史(保留文件，仅移除提交历史信息)",
+      "item_url": "https://blog.keepchen.com/a/remove-the-commit-history-from-git.html",
+      "time": "2019-02-19T16:01:51+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -7072,6 +7758,13 @@
       "time": "2015-12-08T13:53:00+00:00"
     },
     {
+      "blog_id": "Larry Lv",
+      "feed": "https://blog.larrylv.com/index.xml",
+      "item_name": "Write a TCP Stack in Ruby",
+      "item_url": "https://blog.larrylv.com/post/write-a-tcp-stack-in-ruby/",
+      "time": "2015-11-26T12:40:08+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "Vue.js 1.0.0 发布了！",
@@ -7233,6 +7926,13 @@
       "time": "2013-12-11T03:28:58+00:00"
     },
     {
+      "blog_id": "Larry Lv",
+      "feed": "https://blog.larrylv.com/index.xml",
+      "item_name": "也无风雨也无晴",
+      "item_url": "https://blog.larrylv.com/post/no-rain-no-sunshine/",
+      "time": "2013-12-06T12:37:27+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "[译]语义化版本管理",
@@ -7336,6 +8036,13 @@
       "item_name": "Verge interview at CES 2013",
       "item_url": "https://ericmigi.com/blog/verge-interview-at-ces-2013",
       "time": "2013-01-08T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Larry Lv",
+      "feed": "https://blog.larrylv.com/index.xml",
+      "item_name": "重看一一",
+      "item_url": "https://blog.larrylv.com/post/rewatch-a-one-and-a-two/",
+      "time": "2012-08-23T00:03:23+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -7468,6 +8175,13 @@
       "feed": "http://bamboobone9.com/index.xml",
       "item_name": "斋主人",
       "item_url": "http://bamboobone9.com/posts/about/",
+      "time": "2001-01-01T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Larry Lv",
+      "feed": "https://blog.larrylv.com/index.xml",
+      "item_name": "About",
+      "item_url": "https://blog.larrylv.com/about/",
       "time": "2001-01-01T00:00:00+00:00"
     }
   ]
