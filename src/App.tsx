@@ -26,13 +26,21 @@ function Them() {
       <div className='text-center text-sm text-gray-500 mb-2'>
         显示第 {startIndex + 1} - {endIndex} 项，共 {totalItems} 项
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {currentItems.map((blog) => (
           <Card key={blog.name} className="w-full">
             <div className="flex flex-col items-center justify-center gap-3">
-              <div className="w-64 aspect-square overflow-hidden rounded-lg">
-                <a href={blog.url} target="_blank" rel="noopener noreferrer">
-                  <img src={resolveAvatar(blog.avatar)} alt={blog.name} className="w-full h-full object-cover object-center" />
+              <div className="w-full relative overflow-hidden rounded-lg">
+                {/* spacer to create a square box */}
+                <div className="pb-[100%]"></div>
+                <a href={blog.url} target="_blank" rel="noopener noreferrer" className="absolute inset-0 block">
+                  <img
+                    src={resolveAvatar(blog.avatar)}
+                    alt={blog.name}
+                    className="w-full h-full object-cover object-center"
+                    loading="lazy"
+                    decoding="async"
+                  />
                 </a>
               </div>
               <div>
