@@ -63,7 +63,7 @@ function Them() {
                     {blog.like.slice(0, 3).map((item, index) => (
                       <div key={index}>
                         <a href={item.url} target="_blank" rel="noopener noreferrer">
-                          <span className='border-2 border-green-300 shadow-2xl rounded-2xl px-3 py-1.5'>
+                          <span className='border-2 border-green-700 shadow-2xl rounded-2xl px-3 py-1.5'>
                             {item.title.length > 25 ? item.title.slice(0, 25) + '...' : item.title}
                           </span>
                         </a>
