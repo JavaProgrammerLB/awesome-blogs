@@ -1,6 +1,13 @@
 {
-  "update_time": "2025-09-24T02:52:56.385178+00:00",
+  "update_time": "2025-09-24T09:50:06.484501+00:00",
   "items": [
+    {
+      "blog_id": "椒盐豆豉",
+      "feed": "https://blog.douchi.space/index.xml",
+      "item_name": "Mid 30s vs Mid 20s",
+      "item_url": "https://blog.douchi.space/mid-30s-vs-20s/?utm_source=rss",
+      "time": "2025-09-23T22:49:00+00:00"
+    },
     {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
@@ -275,13 +282,6 @@
       "time": "2025-08-27T07:20:58+00:00"
     },
     {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】zoxide 与 fzf 、gh 快捷命令",
-      "item_url": "https://yaolifeng.com/shorts/zoxide_fzf_gh_quick_commands",
-      "time": "2025-08-27T06:31:59+00:00"
-    },
-    {
       "blog_id": "大宇",
       "feed": "https://anotherdayu.com/feed/",
       "item_name": "WordPress 友情链接插件 Simple 版",
@@ -457,13 +457,6 @@
       "time": "2025-08-21T16:00:00+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2025-08-21 10:50",
-      "item_url": "https://hawstein.com/thoughts/#2025-08-21-10-50",
-      "time": "2025-08-21T02:50:00+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Hijacking Windsurf: How Prompt Injection Leaks Developer Secrets",
@@ -497,13 +490,6 @@
       "item_name": "Amazon Q Developer: Remote Code Execution with Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/amazon-q-developer-remote-code-execution/",
       "time": "2025-08-19T13:20:58+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2025-08-19 10:30",
-      "item_url": "https://hawstein.com/thoughts/#2025-08-19-10-30",
-      "time": "2025-08-19T02:30:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -602,6 +588,13 @@
       "item_name": "PIVOT Vol.19 有 19 个链接",
       "item_url": "https://anotherdayu.com/2025/7121/",
       "time": "2025-08-13T13:58:32+00:00"
+    },
+    {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "从一期播客说起",
+      "item_url": "https://hawstein.com/2025/08/13/starting-from-a-podcast/",
+      "time": "2025-08-12T16:00:00+00:00"
     },
     {
       "blog_id": "bernsteinbear",
@@ -742,13 +735,6 @@
       "item_name": "How Devin AI Can Leak Your Secrets via Multiple Means",
       "item_url": "https://embracethered.com/blog/posts/2025/devin-can-leak-your-secrets/",
       "time": "2025-08-07T07:20:58+00:00"
-    },
-    {
-      "blog_id": "椒盐豆豉",
-      "feed": "https://blog.douchi.space/index.xml",
-      "item_name": "Blaugust, cuz why not",
-      "item_url": "https://blog.douchi.space/blaugust/?utm_source=rss",
-      "time": "2025-08-06T22:59:00+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -961,6 +947,13 @@
       "time": "2025-07-14T07:44:18+00:00"
     },
     {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 YF：自由生活与创造",
+      "item_url": "https://hawstein.com/2025/07/14/freedom-and-creation/",
+      "time": "2025-07-13T16:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "极度未来（ Deep Future ）给我的启发",
@@ -968,11 +961,25 @@
       "time": "2025-07-12T20:50:02+00:00"
     },
     {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 XP：半桶水与做事",
+      "item_url": "https://hawstein.com/2025/07/13/dabbler-and-doing-things/",
+      "time": "2025-07-12T16:00:00+00:00"
+    },
+    {
       "blog_id": "希仁之拥",
       "feed": "https://blog.keepchen.com/feed",
       "item_name": "如何让Stripe支持支付宝和微信支付",
       "item_url": "https://blog.keepchen.com/a/How-to-get-Stripe-to-support-Alipay-and-WeChat-Pay.html",
       "time": "2025-07-12T15:14:12+00:00"
+    },
+    {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 YK：系统与规则",
+      "item_url": "https://hawstein.com/2025/07/12/system-and-rules/",
+      "time": "2025-07-11T16:00:00+00:00"
     },
     {
       "blog_id": "AsyncX",
@@ -989,6 +996,20 @@
       "time": "2025-07-11T05:07:00+00:00"
     },
     {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 Coral：去体验只此一次的人生",
+      "item_url": "https://hawstein.com/2025/07/11/live-your-one-and-only-life/",
+      "time": "2025-07-10T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 Muniao：跳入生活这锅汤",
+      "item_url": "https://hawstein.com/2025/07/10/jump-in-the-soup/",
+      "time": "2025-07-09T16:00:00+00:00"
+    },
+    {
       "blog_id": "大宇",
       "feed": "https://anotherdayu.com/feed/",
       "item_name": "PIVOT Vol.18 这期有 21 个链接",
@@ -1000,6 +1021,13 @@
       "feed": "https://coreychiu.com/feed",
       "item_name": "n8n自部署极速版教程（Dokploy版）",
       "item_url": "https://coreychiu.com/blogs/how-to-install-n8n-on-dokploy",
+      "time": "2025-07-08T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 Shawn：不要投资，不要办公室，不组建团队",
+      "item_url": "https://hawstein.com/2025/07/09/no-investment-no-office-no-team/",
       "time": "2025-07-08T16:00:00+00:00"
     },
     {
@@ -1024,11 +1052,32 @@
       "time": "2025-07-07T16:30:00+00:00"
     },
     {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 YC：日间谋生，夜里逐梦",
+      "item_url": "https://hawstein.com/2025/07/08/day-job-night-dream/",
+      "time": "2025-07-07T16:00:00+00:00"
+    },
+    {
       "blog_id": "无竹斋",
       "feed": "http://bamboobone9.com/index.xml",
       "item_name": "杂记 | 写给直女妹妹的性生活笔记",
       "item_url": "http://bamboobone9.com/sex-notes-for-straight-young-woman/",
       "time": "2025-07-06T20:54:00+00:00"
+    },
+    {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 Coral：Keep looking. Don't settle.",
+      "item_url": "https://hawstein.com/2025/07/07/keep-looking-dont-settle/",
+      "time": "2025-07-06T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Hawstein",
+      "feed": "https://hawstein.com/feed.xml",
+      "item_name": "写给 Sulhg：独立创造者的无限游戏",
+      "item_url": "https://hawstein.com/2025/07/06/indie-hacker-and-infinite-game/",
+      "time": "2025-07-05T16:00:00+00:00"
     },
     {
       "blog_id": "Shixiaocaia",
@@ -1241,13 +1290,6 @@
       "time": "2025-06-09T12:01:00+00:00"
     },
     {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】浏览器插件发布类型选择",
-      "item_url": "https://yaolifeng.com/shorts/browser_plugin_publish_type_selection",
-      "time": "2025-06-09T06:09:29+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "电梯的交互和调度",
@@ -1295,13 +1337,6 @@
       "item_name": "2025-06-03",
       "item_url": "http://bamboobone9.com/posts/thoughts/2025-06-03/",
       "time": "2025-06-03T21:18:00+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】如何解决uv安装包失败问题？",
-      "item_url": "https://yaolifeng.com/shorts/how_to_fix_uv_package_installation_failure",
-      "time": "2025-06-03T19:05:50+00:00"
     },
     {
       "blog_id": "四喜丸子",
@@ -1367,25 +1402,11 @@
       "time": "2025-05-28T09:19:26+00:00"
     },
     {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】特殊遮罩效果实现",
-      "item_url": "https://yaolifeng.com/shorts/special_mask_effect_implementation",
-      "time": "2025-05-28T06:37:33+00:00"
-    },
-    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.05.28: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-05-28/",
       "time": "2025-05-27T11:29:31+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】个人公众号配置步骤",
-      "item_url": "https://yaolifeng.com/shorts/personal_wechat_setup_steps",
-      "time": "2025-05-26T17:56:28+00:00"
     },
     {
       "blog_id": "Meettea",
@@ -1500,25 +1521,11 @@
       "time": "2025-05-05T16:29:00+00:00"
     },
     {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Cursor mdc规则学习总结",
-      "item_url": "https://yaolifeng.com/shorts/cursor_mdc_rules_summary",
-      "time": "2025-05-05T01:30:46+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "How ChatGPT Remembers You: A Deep Dive into Its Memory and Chat History Features",
       "item_url": "https://embracethered.com/blog/posts/2025/chatgpt-how-does-chat-history-memory-preferences-work/",
       "time": "2025-05-04T22:24:56+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】独立开发者，时间到底该花在哪？",
-      "item_url": "https://yaolifeng.com/shorts/independent_devs_time_management_priorities",
-      "time": "2025-05-04T18:06:23+00:00"
     },
     {
       "blog_id": "ntietz",
@@ -1540,13 +1547,6 @@
       "item_name": "MCP: Untrusted Servers and Confused Clients, Plus a Sneaky Exploit",
       "item_url": "https://embracethered.com/blog/posts/2025/model-context-protocol-security-risks-and-exploits/",
       "time": "2025-05-02T11:30:35+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Prompt Engineering 阅读总结",
-      "item_url": "https://yaolifeng.com/shorts/prompt_engineering",
-      "time": "2025-05-02T00:59:48+00:00"
     },
     {
       "blog_id": "无竹斋",
@@ -1598,13 +1598,6 @@
       "time": "2025-04-27T16:00:00+00:00"
     },
     {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】如何解决Next无法访问src目录文件问题？",
-      "item_url": "https://yaolifeng.com/shorts/how_to_fix_nextjs_src_access_issue",
-      "time": "2025-04-23T07:10:51+00:00"
-    },
-    {
       "blog_id": "面条实验室",
       "feed": "https://feed.miantiao.me/",
       "item_name": "在 Docker 沙箱中运行 MCP Server",
@@ -1638,13 +1631,6 @@
       "item_name": "春寒料峭时候的外出和蜗居",
       "item_url": "https://yitaoli2023.github.io/yitaoli/posts/spring-days-2025/",
       "time": "2025-04-17T10:36:00+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】使用Nodemailer发送邮件Gmail配置",
-      "item_url": "https://yaolifeng.com/shorts/nodemailer_gmail_email_config",
-      "time": "2025-04-17T06:47:53+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -2718,13 +2704,6 @@
       "time": "2024-12-09T17:32:21+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-12-09 09:30",
-      "item_url": "https://hawstein.com/thoughts/#2024-12-09-09-30",
-      "time": "2024-12-09T01:30:00+00:00"
-    },
-    {
       "blog_id": "ntietz",
       "feed": "https://www.ntietz.com/atom.xml",
       "item_name": "Parsing MIDI messages in Rust",
@@ -2746,13 +2725,6 @@
       "time": "2024-12-08T01:26:15+00:00"
     },
     {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Vercel应用绑定到CloudFlare域名指南",
-      "item_url": "https://yaolifeng.com/shorts/vercel_app_cloudflare_domain_guide",
-      "time": "2024-12-07T19:36:59+00:00"
-    },
-    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "大雪｜2024年11月小结",
@@ -2765,20 +2737,6 @@
       "item_name": "Terminal DiLLMa: LLM-powered Apps Can Hijack Your Terminal Via Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2024/terminal-dillmas-prompt-injection-ansi-sequences/",
       "time": "2024-12-06T08:00:25+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-12-05 16:45",
-      "item_url": "https://hawstein.com/thoughts/#2024-12-05-16-45",
-      "time": "2024-12-05T08:45:00+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-12-04 21:15",
-      "item_url": "https://hawstein.com/thoughts/#2024-12-04-21-15",
-      "time": "2024-12-04T13:15:00+00:00"
     },
     {
       "blog_id": "Corey Chiu",
@@ -3131,13 +3089,6 @@
       "time": "2024-10-24T16:00:57+00:00"
     },
     {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】反复白嫖 Cursor 详细指南",
-      "item_url": "https://yaolifeng.com/shorts/cursor_free_guide",
-      "time": "2024-10-24T00:08:30+00:00"
-    },
-    {
       "blog_id": "Shixiaocaia",
       "feed": "https://outofsea.fun/index.xml",
       "item_name": "Monthly | 写在 2024 年的一些话",
@@ -3164,167 +3115,6 @@
       "item_name": "Q3 2024 Expenses | 2024年第三季度消费总结",
       "item_url": "https://www.after27.me/blog/q3-2024-expenses",
       "time": "2024-10-23T05:59:34+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Monorepo和Pnpm共同使用",
-      "item_url": "https://yaolifeng.com/shorts/monorepo_pnpm_integration",
-      "time": "2024-10-21T00:39:55+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】require加载器的原理",
-      "item_url": "https://yaolifeng.com/shorts/require_loader_principles",
-      "time": "2024-10-21T00:39:16+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】如何优化小程序",
-      "item_url": "https://yaolifeng.com/shorts/optimize_mini_program",
-      "time": "2024-10-21T00:38:19+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Windows使用Gitea搭建本地 Git",
-      "item_url": "https://yaolifeng.com/shorts/windows_gitea_local_git_setup",
-      "time": "2024-10-21T00:37:41+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】shell路径动态配置",
-      "item_url": "https://yaolifeng.com/shorts/dynamic_shell_path_config",
-      "time": "2024-10-21T00:37:26+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】随机头像API",
-      "item_url": "https://yaolifeng.com/shorts/random_avatar_api",
-      "time": "2024-10-21T00:37:03+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】如何发布自己的NPM包",
-      "item_url": "https://yaolifeng.com/shorts/publish_your_own_npm_package",
-      "time": "2024-10-21T00:36:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Promise原理学习总结",
-      "item_url": "https://yaolifeng.com/shorts/promise_principles_summary",
-      "time": "2024-10-21T00:36:45+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】package.json文件了解",
-      "item_url": "https://yaolifeng.com/shorts/understanding_package_json",
-      "time": "2024-10-21T00:36:21+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】NPM发包那些事",
-      "item_url": "https://yaolifeng.com/shorts/npm_package_publishing_tips",
-      "time": "2024-10-21T00:36:06+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Vimium-C插件快捷键",
-      "item_url": "https://yaolifeng.com/shorts/vimium_c_plugin_shortcuts",
-      "time": "2024-10-21T00:35:30+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】如何区分好资料还是坏资料",
-      "item_url": "https://yaolifeng.com/shorts/distinguish_good_vs_bad_resources",
-      "time": "2024-10-21T00:28:29+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】刷题方法",
-      "item_url": "https://yaolifeng.com/shorts/problem_solving_techniques",
-      "time": "2024-10-21T00:28:26+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Chrome使用技巧总结",
-      "item_url": "https://yaolifeng.com/shorts/chrome_usage_tips_summary",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Github使用技巧总结",
-      "item_url": "https://yaolifeng.com/shorts/github_usage_tips_summary",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Git使用技巧总结",
-      "item_url": "https://yaolifeng.com/shorts/git_usage_tips_summary",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Node或NPM使用技巧总结",
-      "item_url": "https://yaolifeng.com/shorts/node_npm_tips_summary",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】VSCode使用技巧总结",
-      "item_url": "https://yaolifeng.com/shorts/vscode_usage_tips_summary",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】Web前端陌生点总结",
-      "item_url": "https://yaolifeng.com/shorts/web_frontend_unfamiliar_summary",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】如何提问问题",
-      "item_url": "https://yaolifeng.com/shorts/how_to_ask_questions",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】电脑使用技巧总结",
-      "item_url": "https://yaolifeng.com/shorts/computer_usage_tips_summary",
-      "time": "2024-10-21T00:27:52+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】程序员如何把控自己的职业",
-      "item_url": "https://yaolifeng.com/shorts/programmers_career_control",
-      "time": "2024-10-21T00:27:48+00:00"
-    },
-    {
-      "blog_id": "Yaolifeng",
-      "feed": "https://yaolifeng.com/api/rss?type=shorts",
-      "item_name": "【片段】如何做一个有质量的技术分享",
-      "item_url": "https://yaolifeng.com/shorts/crafting_quality_tech_shares",
-      "time": "2024-10-21T00:27:44+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -4123,13 +3913,6 @@
       "item_name": "教程 | 看了就懂的摄影教程，助新手摆脱自动模式",
       "item_url": "http://bamboobone9.com/beginner-photography-guide/",
       "time": "2024-05-15T21:54:00+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2024-05-15 10:20",
-      "item_url": "https://hawstein.com/thoughts/#2024-05-15-10-20",
-      "time": "2024-05-15T02:20:00+00:00"
     },
     {
       "blog_id": "第三夏尔",
@@ -5133,13 +4916,6 @@
       "time": "2023-11-01T02:00:06+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2023-10-31 18:45",
-      "item_url": "https://hawstein.com/thoughts/#2023-10-31-18-45",
-      "time": "2023-10-31T10:45:00+00:00"
-    },
-    {
       "blog_id": "第三夏尔",
       "feed": "https://thirdshire.com/index.xml",
       "item_name": "角宿一｜2023年10月小结",
@@ -6036,13 +5812,6 @@
       "time": "2023-05-11T16:00:00+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2023-05-07 20:20",
-      "item_url": "https://hawstein.com/thoughts/#2023-05-07-20-20",
-      "time": "2023-05-07T12:20:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Sliding Enter Animation",
@@ -6603,13 +6372,6 @@
       "time": "2022-05-16T16:00:00+00:00"
     },
     {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2022-05-02 15:30",
-      "item_url": "https://hawstein.com/thoughts/#2022-05-02-15-30",
-      "time": "2022-05-02T07:30:00+00:00"
-    },
-    {
       "blog_id": "猫和柴的野游",
       "feed": "https://meowshiba.com/feed/",
       "item_name": "环游俄勒冈 | 干货总集篇 Oregon Loop Travel Tips",
@@ -6657,13 +6419,6 @@
       "item_name": "语言习得",
       "item_url": "https://yelleis.top/p/learn-language/",
       "time": "2022-01-14T05:35:20+00:00"
-    },
-    {
-      "blog_id": "Hawstein",
-      "feed": "https://hawstein.com/thoughts-feed.xml",
-      "item_name": "Thought on 2022-01-03 11:15",
-      "item_url": "https://hawstein.com/thoughts/#2022-01-03-11-15",
-      "time": "2022-01-03T03:15:00+00:00"
     },
     {
       "blog_id": "Yelle",
