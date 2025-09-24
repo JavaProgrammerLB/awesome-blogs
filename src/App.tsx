@@ -9,12 +9,18 @@ import { Pagination } from './components/Pagination';
 import { Footer } from './components/Footer'
 import { TooltipProvider } from '@radix-ui/react-tooltip'
 
+interface LikeBlogItem {
+  title: string;
+  url: string;
+}
 
 interface Blog {
   name: string;
   url: string;
-  describe: string;
+  describe?: string;
   avatar: string;
+  like?: Array<LikeBlogItem>;
+  feed?: string;
 }
 
 const blogs: Blog[] = blogsData as Blog[];
@@ -29,7 +35,7 @@ function Them() {
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {currentItems.map((blog) => (
           <Card key={blog.name} className="w-full">
-            <div className="flex flex-col items-center justify-center gap-3">
+            <div className="flex flex-col gap-3">
               <div className="w-full relative overflow-hidden rounded-lg">
                 {/* spacer to create a square box */}
                 <div className="pb-[100%]"></div>
@@ -44,15 +50,29 @@ function Them() {
                 </a>
               </div>
               <div>
-                <h3 className="text-3xl font-thick">
-                  <a href={blog.url} target="_blank" rel="noopener noreferrer">
+                <a href={blog.url} target="_blank" rel="noopener noreferrer">
+                  <span className="text-3xl font-thick">
                     {blog.name}
-                  </a>
-                </h3>
+                    {blog.describe !== undefined && <span> / </span>}
+                  </span>
+                </a>
+                <span className="text-xl text-gray-700">{blog.describe}</span>
               </div>
-              <div className="flex flex-col justify-start items-start">
-                <p className="text-sm text-gray-700">{blog.describe}</p>
-              </div>
+              {blog.like && blog.like.length > 0 && (
+                <div className="w-full">
+                  <div className='flex flex-col gap-4'>
+                    {blog.like.slice(0, 3).map((item, index) => (
+                      <div key={index}>
+                        <a href={item.url} target="_blank" rel="noopener noreferrer">
+                          <span className='border-2 border-green-300 shadow-2xl rounded-2xl px-3 py-1.5'>
+                            {item.title.length > 25 ? item.title.slice(0, 25) + '...' : item.title}
+                          </span>
+                        </a>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
           </Card>
         ))}
@@ -75,7 +95,7 @@ function App() {
               </Tooltip>
             </Link>
             <Link to="/new">
-                <Text weight="light" size="5" color='green' className='hover:underline underline-offset-2'>NEW</Text>
+              <Text weight="light" size="5" color='green' className='hover:underline underline-offset-2'>NEW</Text>
             </Link>
           </div>
         </TooltipProvider>
