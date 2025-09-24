@@ -33,7 +33,7 @@ function Them() {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
         {currentItems.map((blog) => (
-          <Card key={blog.name} className="w-full">
+          <Card key={blog.name} className="w-full max-w-sm mx-auto shadow-lg border border-gray-200">
             <div className="flex flex-col gap-3">
               <div className="w-full relative overflow-hidden rounded-lg">
                 {/* spacer to create a square box */}
