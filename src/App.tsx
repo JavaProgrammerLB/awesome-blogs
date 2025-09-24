@@ -1,4 +1,4 @@
-import { Card, Text, Tooltip } from '@radix-ui/themes'
+import { Card, Text } from '@radix-ui/themes'
 import { Routes, Route, Link } from 'react-router'
 import './App.css'
 import blogsData from './assets/blogs.json'
@@ -7,7 +7,6 @@ import News from './components/News'
 import { usePagination } from './hooks/usePagination';
 import { Pagination } from './components/Pagination';
 import { Footer } from './components/Footer'
-import { TooltipProvider } from '@radix-ui/react-tooltip'
 
 interface LikeBlogItem {
   title: string;
@@ -87,18 +86,24 @@ function App() {
     <div>
       {/* 导航栏 */}
       <nav className="bg-gray-100 p-4 mb-4">
-        <TooltipProvider>
-          <div className="max-w-7xl mx-auto flex gap-10">
+        <div className="max-w-7xl mx-auto flex gap-10">
+          <div className='flex flex-col'>
             <Link to="/">
-              <Tooltip content="Who thinking and write" side='top'>
-                <Text weight="light" size="5" color='gray'>Them</Text>
-              </Tooltip>
-            </Link>
-            <Link to="/new">
-              <Text weight="light" size="5" color='green' className='hover:underline underline-offset-2'>NEW</Text>
+              <div>
+                <Text weight="light" size="7" color='gray' className='hover:underline underline-offset-2'>Them</Text>
+              </div>
+              <div className='text-sm text-gray-500'>喜欢思考，喜欢写作的人</div>
             </Link>
           </div>
-        </TooltipProvider>
+          <Link to="/new">
+            <div className='flex flex-col'>
+              <div>
+                <Text weight="light" size="7" color='green' className='hover:underline underline-offset-2'>NEW</Text>
+              </div>
+              <div className='text-sm text-gray-500'>看到他们有更新，我会很高兴</div>
+            </div>
+          </Link>
+        </div>
       </nav>
 
       {/* 路由内容 */}
