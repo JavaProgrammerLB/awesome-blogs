@@ -28,14 +28,19 @@
     ]
   },
   {
-    "name": "pseudoyu",
-    "url": "https://www.pseudoyu.com/posts",
-    "avatar": "avatar/pseudoyu.webp",
-    "feed": "https://www.pseudoyu.com/feed.xml",
+    "name": "Anthony Fu",
+    "url": "https://antfu.me/posts",
+    "describe": "靠开源就能生活的很好的人，yihong说Anthony是宇宙最强前端开发者",
+    "avatar": "avatar/anthony_fu.webp",
+    "feed": "https://antfu.me/feed.xml",
     "like": [
       {
-        "title": "过去这十年",
-        "url": "https://www.pseudoyu.com/posts/weekly_review_100"
+        "title": "关于 Yak Shaving",
+        "url": "https://antfu.me/posts/about-yak-shaving-zh"
+      },
+      {
+        "title": "请提供最小重现",
+        "url": "https://antfu.me/posts/why-reproductions-are-required-zh"
       }
     ]
   },
@@ -53,30 +58,6 @@
     ]
   },
   {
-    "name": "Corey Chiu",
-    "url": "https://coreychiu.com/blogs",
-    "avatar": "avatar/coreychiu.webp",
-    "feed": "https://coreychiu.com/feed"
-  },
-  {
-    "name": "Paul Graham",
-    "url": "https://paulgraham.com/articles.html",
-    "describe": "《黑客与画家》作者，YC创始人",
-    "avatar": "avatar/paulgraham.gif"
-  },
-  {
-    "name": "Nicholas Carlini",
-    "url": "https://nicholas.carlini.com/writing",
-    "describe": "当前在Anthropic工作，之前是Google(Deep Mind)的Research Scientist",
-    "avatar": "avatar/nicholas.carlini.webp",
-    "like": [
-      {
-        "title": "How I Use AI",
-        "url": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html"
-      }
-    ]
-  },
-  {
     "name": "Hawstein",
     "url": "https://hawstein.com",
     "describe": "算法题老师，独立创作者，左程云（在马士兵教育教算法的老师）的老同事",
@@ -90,11 +71,74 @@
     ]
   },
   {
+    "name": "Randy",
+    "url": "https://lutaonan.com/",
+    "describe": "《代码之外》播客主播，youtuber，会唱歌、会录歌的程序员",
+    "avatar": "avatar/randy.webp",
+    "feed": "https://lutaonan.com/rss.xml",
+    "like": [
+      {
+        "title": "30 分钟 vibe coding 复刻 iPod Classic",
+        "url": "https://www.youtube.com/watch?v=by3qe66xjPs"
+      },
+      {
+        "title": "奉献 - 苏芮 Cover | Randy",
+        "url": "https://www.youtube.com/watch?v=4EWTVUB3aT4"
+      }
+    ]
+  },
+  {
+    "name": "pseudoyu",
+    "url": "https://www.pseudoyu.com/posts",
+    "avatar": "avatar/pseudoyu.webp",
+    "feed": "https://www.pseudoyu.com/feed.xml",
+    "like": [
+      {
+        "title": "过去这十年",
+        "url": "https://www.pseudoyu.com/posts/weekly_review_100"
+      }
+    ]
+  },
+  {
+    "name": "Limboy",
+    "url": "https://limboy.me/posts",
+    "describe": "图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者",
+    "avatar": "avatar.webp",
+    "like": [
+      {
+        "title": "独立创作是一种生活方式",
+        "url": "https://limboy.me/posts/independent-creation-is-a-lifestyle"
+      },
+      {
+        "title": "ByteTalk播客主页",
+        "url": "https://bytetalk.fm/"
+      }
+    ]
+  },
+  {
+    "name": "Paul Graham",
+    "url": "https://paulgraham.com/articles.html",
+    "describe": "《黑客与画家》作者，YC创始人",
+    "avatar": "avatar/paulgraham.gif"
+  },
+  {
     "name": "Sam Altman",
     "url": "https://blog.samaltman.com/",
     "describe": "OpenAI CEO",
     "avatar": "avatar/samaltman.webp",
     "feed": "https://blog.samaltman.com/posts.atom"
+  },
+  {
+    "name": "Nicholas Carlini",
+    "url": "https://nicholas.carlini.com/writing",
+    "describe": "当前在Anthropic工作，之前是Google(Deep Mind)的Research Scientist",
+    "avatar": "avatar/nicholas.carlini.webp",
+    "like": [
+      {
+        "title": "How I Use AI",
+        "url": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html"
+      }
+    ]
   },
   {
     "name": "Bernardo",
@@ -182,23 +226,6 @@
     ]
   },
   {
-    "name": "Randy",
-    "url": "https://lutaonan.com/",
-    "describe": "《代码之外》播客主播，youtuber，会唱歌、会录歌的程序员",
-    "avatar": "avatar/randy.webp",
-    "feed": "https://lutaonan.com/rss.xml",
-    "like": [
-      {
-        "title": "30 分钟 vibe coding 复刻 iPod Classic",
-        "url": "https://www.youtube.com/watch?v=by3qe66xjPs"
-      },
-      {
-        "title": "奉献 - 苏芮 Cover | Randy",
-        "url": "https://www.youtube.com/watch?v=4EWTVUB3aT4"
-      }
-    ]
-  },
-  {
     "name": "Derek Sivers",
     "url": "https://sive.rs/about",
     "describe": "CD Baby创始人，乔布斯的itunes平台也和他打过交道",
@@ -231,22 +258,6 @@
     "feed": "https://jiongks.name/atom.xml"
   },
   {
-    "name": "Limboy",
-    "url": "https://limboy.me/posts",
-    "describe": "图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者",
-    "avatar": "avatar.webp",
-    "like": [
-      {
-        "title": "独立创作是一种生活方式",
-        "url": "https://limboy.me/posts/independent-creation-is-a-lifestyle"
-      },
-      {
-        "title": "ByteTalk播客主页",
-        "url": "https://bytetalk.fm/"
-      }
-    ]
-  },
-  {
     "name": "Linghao Zhang",
     "url": "https://linghao.io/posts",
     "describe": "生活在湾区的Google程序员",
@@ -268,23 +279,6 @@
       {
         "title": "连续跑了 365 天",
         "url": "https://blog.yihong0618.me/issue-306/"
-      }
-    ]
-  },
-  {
-    "name": "Anthony Fu",
-    "url": "https://antfu.me/posts",
-    "describe": "靠开源就能生活的很好的人，yihong说Anthony是宇宙最强前端开发者",
-    "avatar": "avatar/anthony_fu.webp",
-    "feed": "https://antfu.me/feed.xml",
-    "like": [
-      {
-        "title": "关于 Yak Shaving",
-        "url": "https://antfu.me/posts/about-yak-shaving-zh"
-      },
-      {
-        "title": "请提供最小重现",
-        "url": "https://antfu.me/posts/why-reproductions-are-required-zh"
       }
     ]
   },
@@ -348,5 +342,11 @@
     "describe": "一个教人怎么自己做智能手表的人",
     "avatar": "avatar/ericmigi.webp",
     "feed": "https://ericmigi.com/rss.xml"
+  },
+  {
+    "name": "Corey Chiu",
+    "url": "https://coreychiu.com/blogs",
+    "avatar": "avatar/coreychiu.webp",
+    "feed": "https://coreychiu.com/feed"
   }
 ]
