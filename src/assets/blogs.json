@@ -137,7 +137,17 @@
     "name": "Paul Graham",
     "url": "https://paulgraham.com/articles.html",
     "describe": "《黑客与画家》作者，YC创始人",
-    "avatar": "avatar/paulgraham.gif"
+    "avatar": "avatar/paulgraham.gif",
+    "like":[
+      {
+        "title": "How to Do Great Work",
+        "url": "https://paulgraham.com/greatwork.html"
+      },
+      {
+        "title": "How to Lose Time and Money",
+        "url": "https://paulgraham.com/selfindulgence.html"
+      }
+    ]
   },
   {
     "name": "Sam Altman",
