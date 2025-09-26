@@ -3,6 +3,7 @@
     "name": "yulu",
     "url": "https://littlecheesecake.me/blog2/index.html",
     "avatar": "avatar/littlecheesecake.webp",
+    "describe": "制作精美的博客，软件工程师，定居加拿大，有两个娃，最近在研究理财与保险",
     "like": [
       {
         "title": "为什么我的工作效率降低了",
@@ -24,6 +25,10 @@
       {
         "title": "关于我和这个博客",
         "url": "https://www.owenyoung.com/about/"
+      },
+      {
+        "title": "Owen 聊沉浸式翻译的起源、裸辞三年的经历、做穷人也能用的产品、大亚湾的生活",
+        "url": "https://www.youtube.com/watch?v=R6AGF-oAHPg"
       }
     ]
   },
@@ -54,6 +59,10 @@
       {
         "title": "2024，我追过的 AI 风口",
         "url": "https://idoubi.cv/blogs/my-ai-2024"
+      },
+      {
+        "title": "我跑通了全球收付款的流程",
+        "url": "https://idoubi.cv/blogs/get-paied-all-over-the-world"
       }
     ]
   },
@@ -67,6 +76,10 @@
       {
         "title": "一个独立创造者的五年",
         "url": "https://hawstein.com/2023/07/12/five-years-of-an-indie-hacker/"
+      },
+      {
+        "title": "不上班的 613 天",
+        "url": "https://hawstein.com/2020/02/17/be-an-indie-hacker-for-613-days/"
       }
     ]
   },
@@ -91,11 +104,16 @@
     "name": "pseudoyu",
     "url": "https://www.pseudoyu.com/posts",
     "avatar": "avatar/pseudoyu.webp",
+    "describe": "喜欢写作的程序员，web3行业，数字游民",
     "feed": "https://www.pseudoyu.com/feed.xml",
     "like": [
       {
         "title": "过去这十年",
         "url": "https://www.pseudoyu.com/posts/weekly_review_100"
+      },
+      {
+        "title": "当一个程序员开始在博客写作",
+        "url": "https://www.xiaoyuzhoufm.com/episode/682b17c6457b22ce0d76d912"
       }
     ]
   },
@@ -103,7 +121,7 @@
     "name": "Limboy",
     "url": "https://limboy.me/posts",
     "describe": "图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者",
-    "avatar": "avatar.webp",
+    "avatar": "avatar/limboy.webp",
     "like": [
       {
         "title": "独立创作是一种生活方式",
