@@ -1,6 +1,13 @@
 {
-  "update_time": "2025-09-24T09:58:18.861654+00:00",
+  "update_time": "2025-09-26T02:15:40.721562+00:00",
   "items": [
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Cross-Agent Privilege Escalation: When Agents Free Each Other",
+      "item_url": "https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/",
+      "time": "2025-09-24T11:20:58+00:00"
+    },
     {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
@@ -1449,13 +1456,6 @@
       "item_name": "2024.08.26: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-08-26/",
       "time": "2024-08-25T12:54:32+00:00"
-    },
-    {
-      "blog_id": "wunderwuzzi",
-      "feed": "https://embracethered.com/blog/index.xml",
-      "item_name": "Google AI Studio: LLM-Powered Data Exfiltration Hits Again! Quickly Fixed.",
-      "item_url": "https://embracethered.com/blog/posts/2024/google-ai-studio-data-exfiltration-now-fixed/",
-      "time": "2024-08-21T18:00:30+00:00"
     },
     {
       "blog_id": "Julia Evans",
