@@ -154,7 +154,16 @@
     "url": "https://blog.samaltman.com/",
     "describe": "OpenAI CEO",
     "avatar": "avatar/samaltman.webp",
-    "feed": "https://blog.samaltman.com/posts.atom"
+    "feed": "https://blog.samaltman.com/posts.atom",
+    "like":[
+      {
+        "title": "Productivity",
+        "url": "https://blog.samaltman.com/productivity"
+      }, {
+        "title": "How to Be Successful",
+        "url": "https://blog.samaltman.com/how-to-be-successful"
+      }
+    ]
   },
   {
     "name": "Nicholas Carlini",
