@@ -138,7 +138,7 @@
     "url": "https://paulgraham.com/articles.html",
     "describe": "《黑客与画家》作者，YC创始人",
     "avatar": "avatar/paulgraham.gif",
-    "like":[
+    "like": [
       {
         "title": "How to Do Great Work",
         "url": "https://paulgraham.com/greatwork.html"
@@ -155,11 +155,12 @@
     "describe": "OpenAI CEO",
     "avatar": "avatar/samaltman.webp",
     "feed": "https://blog.samaltman.com/posts.atom",
-    "like":[
+    "like": [
       {
         "title": "Productivity",
         "url": "https://blog.samaltman.com/productivity"
-      }, {
+      },
+      {
         "title": "How to Be Successful",
         "url": "https://blog.samaltman.com/how-to-be-successful"
       }
@@ -389,5 +390,49 @@
     "url": "https://coreychiu.com/blogs",
     "avatar": "avatar/coreychiu.webp",
     "feed": "https://coreychiu.com/feed"
+  },
+  {
+    "name": "Justin3go",
+    "describe": "2001年出生的，生活在重庆的独立开发者，前端工程师，喜欢摄影，喜欢打羽毛球",
+    "url": "https://justin3go.com/",
+    "avatar": "avatar/Justin3go.png",
+    "feed": "https://justin3go.com/feed.xml"
+  },
+  {
+    "name": "Dank",
+    "url": "https://dankying.com/posts/",
+    "avatar": "avatar/dank.png",
+    "feed": "https://dankying.com/index.xml",
+    "like": [
+      {
+        "title": "14个逻辑驱动的UI设计技巧，助您改善任何界面",
+        "url": "https://dankying.com/posts/20250701-14-logic-driven-ui-design-tips-to-improve-any-interface/"
+      }
+    ]
+  },
+  {
+    "name": "Depp Wang",
+    "url": "https://depp.wang/",
+    "avatar": "avatar/deppwang.png",
+    "feed": "https://depp.wang/rss2.xml",
+    "like": [
+      {
+        "title": "我家的装修设计",
+        "url": "https://depp.wang/2024/decoration-design/"
+      }
+    ]
+  },
+  {
+    "name": "鱼鱼",
+    "url": "https://blog.wraith615.xyz/",
+    "describe": "一个喜欢矿石的人",
+    "avatar": "avatar.webp",
+    "like":[
+      {
+        "title": "矿物站目录导览",
+        "url": "https://blog.wraith615.xyz/mineralindex"
+      }
+    ],
+    "feed": "https://blog.wraith615.xyz/rss.xml"
   }
 ]
