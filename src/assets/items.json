@@ -1,6 +1,13 @@
 {
-  "update_time": "2025-09-28T08:52:31.446772+00:00",
+  "update_time": "2025-09-30T01:17:45.375668+00:00",
   "items": [
+    {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "Quick P2D production update",
+      "item_url": "https://ericmigi.com/blog/quick-p2d-production-update",
+      "time": "2025-09-28T16:00:00+00:00"
+    },
     {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
