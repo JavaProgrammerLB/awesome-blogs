@@ -1,6 +1,20 @@
 {
-  "update_time": "2025-09-30T01:17:45.375668+00:00",
+  "update_time": "2025-10-04T00:06:38.315925+00:00",
   "items": [
+    {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "How I maintain release notes for curl",
+      "item_url": "https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/",
+      "time": "2025-10-01T01:03:23+00:00"
+    },
+    {
+      "blog_id": "Sam Altman",
+      "feed": "https://blog.samaltman.com/posts.atom",
+      "item_name": "Sora 2",
+      "item_url": "https://blog.samaltman.com/sora-2",
+      "time": "2025-09-30T09:13:47+00:00"
+    },
     {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
@@ -252,13 +266,6 @@
       "item_name": "Google Jules is Vulnerable To Invisible Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/google-jules-invisible-prompt-injection/",
       "time": "2025-08-15T01:20:58+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "car brands running curl",
-      "item_url": "https://daniel.haxx.se/blog/2025/08/15/car-brands-running-curl/",
-      "time": "2025-08-14T22:28:55+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -3934,13 +3941,6 @@
       "item_name": "D3 force layout and WebGL integration",
       "item_url": "https://geekplux.com/posts/d3-force-and-webgl-integration",
       "time": "2017-06-27T11:57:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Join the YC Software Team",
-      "item_url": "https://blog.samaltman.com/join-the-yc-software-team",
-      "time": "2017-05-18T16:25:07+00:00"
     },
     {
       "blog_id": "勾股",
