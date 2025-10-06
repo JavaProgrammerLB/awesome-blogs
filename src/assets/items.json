@@ -1,6 +1,20 @@
 {
-  "update_time": "2025-10-04T00:06:38.315925+00:00",
+  "update_time": "2025-10-06T11:21:31.751239+00:00",
   "items": [
+    {
+      "blog_id": "云风",
+      "feed": "https://blog.codingnow.com/atom.xml",
+      "item_name": "深远未来开发总结",
+      "item_url": "https://blog.codingnow.com/2025/10/deepfuture_dev.html",
+      "time": "2025-10-04T23:06:12+00:00"
+    },
+    {
+      "blog_id": "Sam Altman",
+      "feed": "https://blog.samaltman.com/posts.atom",
+      "item_name": "Sora update #1",
+      "item_url": "https://blog.samaltman.com/sora-update-number-1",
+      "time": "2025-10-03T16:37:50+00:00"
+    },
     {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
@@ -1015,13 +1029,6 @@
       "item_name": "卡牌构筑类桌游核心规则之五",
       "item_url": "https://blog.codingnow.com/2025/03/dbg_rules_5.html",
       "time": "2025-03-11T17:30:12+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "Windows 10 如何把文件关联到 Store App 上",
-      "item_url": "https://blog.codingnow.com/2025/03/win10_associate_file_storeapp.html",
-      "time": "2025-03-10T19:13:58+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -3927,13 +3934,6 @@
       "item_name": "如何在 GitHub 上获得数百 stars",
       "item_url": "https://geekplux.com/posts/how-to-get-hundreds-stars-on-github",
       "time": "2017-07-20T03:16:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The United Slate",
-      "item_url": "https://blog.samaltman.com/the-united-slate",
-      "time": "2017-07-12T06:33:41+00:00"
     },
     {
       "blog_id": "geekplux",
