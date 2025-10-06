@@ -1,5 +1,6 @@
 ## yulu
 <a href="https://littlecheesecake.me"><img src="src/assets/avatar/littlecheesecake.webp" width="300" height="auto" /></a>
+
 制作精美的博客，软件工程师，也研究理财与保险
 
 [[为什么我的工作效率降低了](https://littlecheesecake.me/blog2/2013/04/04/on-efficiency.html)]
