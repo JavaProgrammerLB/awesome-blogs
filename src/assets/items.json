@@ -1,6 +1,13 @@
 {
-  "update_time": "2025-10-06T11:21:31.751239+00:00",
+  "update_time": "2025-10-08T12:33:57.315822+00:00",
   "items": [
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "在 Claude Code 中使用 GLM 4.6 的体验",
+      "item_url": "https://lutaonan.com/blog/glm-with-claude-code",
+      "time": "2025-10-07T16:00:00+00:00"
+    },
     {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
@@ -3906,13 +3913,6 @@
       "item_name": "高中时的地下刊物",
       "item_url": "https://lutaonan.com/blog/my-underground-publication",
       "time": "2017-08-24T16:00:00+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "养猫随想",
-      "item_url": "https://lutaonan.com/blog/cat-capriccio",
-      "time": "2017-08-19T16:00:00+00:00"
     },
     {
       "blog_id": "勾股",
