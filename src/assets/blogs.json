@@ -134,6 +134,23 @@
     ]
   },
   {
+    "name": "林惠文(daimajia)",
+    "url": "https://daimajia.com/page/1",
+    "avatar": "avatar/daimajia.webp",
+    "describe": "huntscreens.com这个开源项目的作者",
+    "feed": "https://daimajia.com/feed/",
+    "like": [
+      {
+        "title": "互联网创新项目导航站",
+        "url": "https://huntscreens.com/"
+      },
+      {
+        "title": "2014年的末尾",
+        "url": "https://daimajia.com/2014/12/30/2014-end/"
+      }
+    ]
+  },
+  {
     "name": "Paul Graham",
     "url": "https://paulgraham.com/articles.html",
     "describe": "《黑客与画家》作者，YC创始人",
