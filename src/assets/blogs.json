@@ -212,6 +212,10 @@
     "feed": "https://blog.codingnow.com/atom.xml",
     "like": [
       {
+        "title": "深远未来开发总结",
+        "url": "hhttps://blog.codingnow.com/2025/10/deepfuture_dev.html"
+      },
+      {
         "title": "离开，是为了新的开始",
         "url": "https://blog.codingnow.com/2011/09/new_beginning.html"
       }
