@@ -2276,6 +2276,13 @@
       "time": "2024-01-15T19:00:00+00:00"
     },
     {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "The Essence of Effective Learning",
+      "item_url": "https://littlecheesecake.me/blog1/2024/01/15/effective-learning-2.html",
+      "time": "2024-01-14T18:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "一些22-23年的读书记录",
@@ -2570,6 +2577,13 @@
       "time": "2023-10-23T06:54:00+00:00"
     },
     {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "学习的本质",
+      "item_url": "https://littlecheesecake.me/blog2/2023/10/21/effective-learning.html",
+      "time": "2023-10-20T16:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Now, and the Future of Nuxt Devtools",
@@ -2654,6 +2668,20 @@
       "time": "2023-08-31T16:00:00+00:00"
     },
     {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "[Kafka Guide] Chapter 4 Kafka Consumer",
+      "item_url": "https://littlecheesecake.me/blog1/2023/08/30/kafka-notes-chapter4.html",
+      "time": "2023-08-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "Publish Jekyll Site to GitHub Pages",
+      "item_url": "https://littlecheesecake.me/blog1/2023/08/27/github-page-tips.html",
+      "time": "2023-08-26T16:00:00+00:00"
+    },
+    {
       "blog_id": "Dank",
       "feed": "https://dankying.com/index.xml",
       "item_name": "需要明确区分的,与核污染水排海相关的信息",
@@ -2694,6 +2722,27 @@
       "item_name": "2023.08.02: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2023-08-02/",
       "time": "2023-08-01T11:08:02+00:00"
+    },
+    {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "[Kafka Guide] Chapter 3 - Kafka Producer",
+      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter3.html",
+      "time": "2023-07-31T11:00:00+00:00"
+    },
+    {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "[Kafka Guide] Chapter 2 - Install Kafka",
+      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter2.html",
+      "time": "2023-07-31T11:00:00+00:00"
+    },
+    {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "[Kafka Guide] Chapter 1 - Meet Kafka",
+      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter1.html",
+      "time": "2023-07-31T11:00:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -2822,6 +2871,13 @@
       "time": "2023-06-15T01:39:17+00:00"
     },
     {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "屎壳郎，外卖和马屁精",
+      "item_url": "https://littlecheesecake.me/blog2/2023/06/15/growing-up.html",
+      "time": "2023-06-14T16:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "米德尔马契",
@@ -2911,6 +2967,20 @@
       "item_name": "Demystifying TLMs",
       "item_url": "https://linghao.io/posts/demystifying-tlm",
       "time": "2023-04-24T16:00:00+00:00"
+    },
+    {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "[DDIA] Chapter 6 - Partition",
+      "item_url": "https://littlecheesecake.me/blog1/2023/04/12/ddia-6.html",
+      "time": "2023-04-11T18:00:00+00:00"
+    },
+    {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "[DDIA] Chapter 5 - Replication",
+      "item_url": "https://littlecheesecake.me/blog1/2023/04/10/ddia-5.html",
+      "time": "2023-04-09T18:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
