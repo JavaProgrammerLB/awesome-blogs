@@ -1772,6 +1772,13 @@
       "time": "2024-08-24T08:36:40+00:00"
     },
     {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Google AI Studio: LLM-Powered Data Exfiltration Hits Again! Quickly Fixed.",
+      "item_url": "https://embracethered.com/blog/posts/2024/google-ai-studio-data-exfiltration-now-fixed/",
+      "time": "2024-08-22T02:00:30+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Migrating Mess With DNS to use PowerDNS",
@@ -1842,11 +1849,32 @@
       "time": "2024-08-04T21:30:00+00:00"
     },
     {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Protect Your Copilots: Preventing Data Leaks in Copilot Studio",
+      "item_url": "https://embracethered.com/blog/posts/2024/copilot-studio-protect-your-copilots/",
+      "time": "2024-07-30T17:00:36+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #66 - 10x 工程师、技术热情与个人工具箱",
       "item_url": "https://www.pseudoyu.com/zh/2024/07/30/weekly_review_20240730",
       "time": "2024-07-30T12:30:00+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Google Colab AI: Data Leakage Through Image Rendering Fixed. Some Risks Remain.",
+      "item_url": "https://embracethered.com/blog/posts/2024/google-colab-image-render-exfil/",
+      "time": "2024-07-25T05:00:25+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Breaking Instruction Hierarchy in OpenAI's gpt-4o-mini",
+      "item_url": "https://embracethered.com/blog/posts/2024/chatgpt-gpt-4o-mini-instruction-hierarchie-bypasses/",
+      "time": "2024-07-22T13:14:05+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1903,6 +1931,13 @@
       "item_name": "周报 #64 - 生活在此处（《斯通纳》与《Normal People》）",
       "item_url": "https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710",
       "time": "2024-07-10T00:30:00+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Sorry, ChatGPT Is Under Maintenance: Persistent Denial of Service through Prompt Injection and Memory Attacks",
+      "item_url": "https://embracethered.com/blog/posts/2024/chatgpt-persistent-denial-of-service/",
+      "time": "2024-07-08T21:30:18+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1982,11 +2017,25 @@
       "time": "2024-06-18T04:48:39+00:00"
     },
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #61 - 好朋友的婚礼与对婚姻的思考",
+      "item_url": "https://www.pseudoyu.com/zh/2024/06/16/weekly_review_20240616",
+      "time": "2024-06-16T08:30:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "为好软件付费",
       "item_url": "https://depp.wang/2024/software-payment/",
       "time": "2024-06-15T17:09:47+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "GitHub Copilot Chat: From Prompt Injection to Data Exfiltration",
+      "item_url": "https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/",
+      "time": "2024-06-15T05:00:17+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -2003,11 +2052,25 @@
       "time": "2024-06-08T16:35:07+00:00"
     },
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "27 岁的自白：成长是一件很扫兴的事",
+      "item_url": "https://www.pseudoyu.com/zh/2024/06/06/yearly_review_27",
+      "time": "2024-06-06T11:42:26+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "从 FastAPI 说起，理解 Python 异步 IO 的原理",
       "item_url": "https://depp.wang/2024/python-async-io/",
       "time": "2024-06-02T16:27:30+00:00"
+    },
+    {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #60 - 虫子旁、教育理念与 EpubKit",
+      "item_url": "https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602",
+      "time": "2024-06-02T08:30:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -2017,11 +2080,25 @@
       "time": "2024-05-29T16:20:02+00:00"
     },
     {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Automatic Tool Invocation when Browsing with ChatGPT - Threats and Mitigations",
+      "item_url": "https://embracethered.com/blog/posts/2024/llm-apps-automatic-tool-invocations/",
+      "time": "2024-05-29T03:57:38+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "我家的装修设计",
       "item_url": "https://depp.wang/2024/decoration-design/",
       "time": "2024-05-27T05:01:54+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "ChatGPT: Hacking Memories with Prompt Injection",
+      "item_url": "https://embracethered.com/blog/posts/2024/chatgpt-hacking-memories/",
+      "time": "2024-05-22T19:24:07+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -2036,6 +2113,27 @@
       "item_name": "我做了一个 AI 搜索引擎",
       "item_url": "https://idoubi.cv/blogs/ai-search-engine",
       "time": "2024-05-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Machine Learning Attack Series: Backdooring Keras Models and How to Detect It",
+      "item_url": "https://embracethered.com/blog/posts/2024/machine-learning-attack-series-keras-backdoor-model/",
+      "time": "2024-05-18T23:00:00+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Pivot to the Clouds: Cookie Theft in 2024",
+      "item_url": "https://embracethered.com/blog/posts/2024/cookie-theft-in-2024-and-what-todo/",
+      "time": "2024-05-16T08:00:11+00:00"
+    },
+    {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #59 - 沙漠之行、家庭与家人",
+      "item_url": "https://www.pseudoyu.com/zh/2024/05/15/weekly_review_20240515",
+      "time": "2024-05-15T08:30:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -2064,6 +2162,13 @@
       "item_name": "2024.05.01: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-05-01/",
       "time": "2024-04-30T17:17:46+00:00"
+    },
+    {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #58 - 远程工作这一年",
+      "item_url": "https://www.pseudoyu.com/zh/2024/04/30/weekly_review_20240430",
+      "time": "2024-04-30T08:30:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -2115,6 +2220,13 @@
       "time": "2024-04-10T12:00:00+00:00"
     },
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #57 - 生活在别处（巴厘岛之行）",
+      "item_url": "https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410",
+      "time": "2024-04-10T08:30:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "如何给家庭网络免费开启 IPv6 与设置软路由",
@@ -2143,6 +2255,13 @@
       "time": "2024-03-31T13:29:19+00:00"
     },
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #56 - 面基 Randy 与考科目二",
+      "item_url": "https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331",
+      "time": "2024-03-31T08:30:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "我参与《代码之外 Beyond Code》的故事",
@@ -2155,6 +2274,13 @@
       "item_name": "在Centos 8上部署Clash客户端",
       "item_url": "https://blog.dankying.com/posts/20240327-clash-on-linux/",
       "time": "2024-03-26T00:00:00+00:00"
+    },
+    {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考",
+      "item_url": "https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324",
+      "time": "2024-03-23T21:20:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -2185,6 +2311,13 @@
       "time": "2024-03-16T12:00:00+00:00"
     },
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #54 - 漂流计划、钱包被盗与 Home Server",
+      "item_url": "https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316",
+      "time": "2024-03-15T21:20:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "The Evolution of Shiki v1.0",
@@ -2211,6 +2344,13 @@
       "item_name": "2024.03.03: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-03-03/",
       "time": "2024-03-03T13:28:53+00:00"
+    },
+    {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #53 - 空白的三个月、生活漂流与春节",
+      "item_url": "https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229",
+      "time": "2024-02-29T11:13:26+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -2822,6 +2962,13 @@
       "time": "2023-06-30T17:00:00+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "迁移豆瓣读书记录到 goodreads",
+      "item_url": "https://geekplux.com/posts/migrate-douban-to-goodreads",
+      "time": "2023-06-29T23:40:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Stylistic QR Code with Stable Diffusion",
@@ -3032,6 +3179,20 @@
       "time": "2023-03-16T16:04:28+00:00"
     },
     {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "在 Cloudflare Workers 部署一个带有 Dashboard 的 Cron 服务",
+      "item_url": "https://www.owenyoung.com/blog/cronbin/",
+      "time": "2023-03-10T03:04:55+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "在 Cloudflare Workers 部署一个 JSON as a Storage 服务",
+      "item_url": "https://www.owenyoung.com/blog/jsonbin/",
+      "time": "2023-03-08T17:38:46+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Beeper State of the App (Spring 2023)",
@@ -3058,6 +3219,62 @@
       "item_name": "Development Experience with Nuxt",
       "item_url": "https://antfu.me/posts/nuxt-dx-2023",
       "time": "2023-02-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.02.01: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-02-01/",
+      "time": "2023-01-31T17:57:46+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.01.31: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-01-31/",
+      "time": "2023-01-31T01:57:46+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "康德的哲学",
+      "item_url": "https://www.owenyoung.com/kant/",
+      "time": "2023-01-31T01:05:39+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "Everything is f*cked - 《所有事情都很操蛋》 阅读笔记",
+      "item_url": "https://www.owenyoung.com/blog/books/everything-is-fucked/",
+      "time": "2023-01-30T23:55:32+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.01.26: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-01-26/",
+      "time": "2023-01-25T17:26:45+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.01.22: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-01-22/",
+      "time": "2023-01-21T17:26:45+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.01.14: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-01-14/",
+      "time": "2023-01-14T09:00:52+00:00"
+    },
+    {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "2023.01.11: 各种链接",
+      "item_url": "https://www.owenyoung.com/blog/journals/2023-01-11/",
+      "time": "2023-01-11T11:54:05+00:00"
     },
     {
       "blog_id": "Randy",
@@ -3184,6 +3401,13 @@
       "item_name": "是否能适应远程工作，技术革新只是外在因素",
       "item_url": "https://blog.dankying.com/posts/20221021-why-dont-we-like-remote-work/",
       "time": "2022-10-21T00:00:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "与人聊天的美好",
+      "item_url": "https://geekplux.com/posts/meet-strangers",
+      "time": "2022-10-19T23:50:00+00:00"
     },
     {
       "blog_id": "Dank",
@@ -3466,6 +3690,13 @@
       "time": "2022-01-26T08:00:00+00:00"
     },
     {
+      "blog_id": "Dank",
+      "feed": "https://dankying.com/index.xml",
+      "item_name": "不买入大疆穿越机DJI FPV的五个理由",
+      "item_url": "https://blog.dankying.com/posts/20211209-5-reasons-not-to-buy-djifpv/",
+      "time": "2021-12-08T00:49:46+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Ship ESM & CJS in one Package",
@@ -3485,6 +3716,13 @@
       "item_name": "GameFi 和 DAO",
       "item_url": "https://daimajia.com/2021/11/25/rethink-blockchain-1/",
       "time": "2021-11-25T04:10:53+00:00"
+    },
+    {
+      "blog_id": "Dank",
+      "feed": "https://dankying.com/index.xml",
+      "item_name": "崇明横沙岛游记",
+      "item_url": "https://blog.dankying.com/posts/20211124-hengshadao/",
+      "time": "2021-11-24T00:49:46+00:00"
     },
     {
       "blog_id": "geekplux",
@@ -3585,11 +3823,32 @@
       "time": "2021-07-14T16:00:00+00:00"
     },
     {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Optimize Await",
+      "item_url": "https://antfu.me/posts/optimize-await",
+      "time": "2021-07-01T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "About Yak Shaving",
+      "item_url": "https://antfu.me/posts/about-yak-shaving",
+      "time": "2021-05-19T16:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "我给自己设立了每月 $20 的开源捐赠预算",
       "item_url": "https://lutaonan.com/blog/my-oss-donation-budget",
       "time": "2021-05-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Composable Vue",
+      "item_url": "https://antfu.me/posts/composable-vue-vueday-2021",
+      "time": "2021-04-28T16:00:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -3606,6 +3865,34 @@
       "time": "2021-04-11T00:00:00+00:00"
     },
     {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Develop with Vite",
+      "item_url": "https://antfu.me/posts/vue-beijing-2021",
+      "time": "2021-03-28T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Reflection of Speaking in Public",
+      "item_url": "https://antfu.me/posts/reflection-of-speaking-in-public",
+      "time": "2021-03-27T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Type your Config",
+      "item_url": "https://antfu.me/posts/type-your-config",
+      "time": "2021-03-24T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Windi CSS and Tailwind JIT",
+      "item_url": "https://antfu.me/posts/windicss-and-tailwind-jit",
+      "time": "2021-03-18T16:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "读《蒂姆·库克传》",
@@ -3618,6 +3905,34 @@
       "item_name": "我对 Svelte 的看法",
       "item_url": "https://lutaonan.com/blog/svelte",
       "time": "2021-03-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Typed Provide and Inject in Vue",
+      "item_url": "https://antfu.me/posts/typed-provide-and-inject-in-vue",
+      "time": "2021-03-05T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Color Scheme for VS Code",
+      "item_url": "https://antfu.me/posts/color-scheme-for-vscode-ext",
+      "time": "2021-03-01T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Anthony Fu",
+      "feed": "https://antfu.me/feed.xml",
+      "item_name": "Types for Submodules",
+      "item_url": "https://antfu.me/posts/types-for-sub-modules",
+      "time": "2021-03-01T16:00:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "Legacy code best practice: how to take over an existing project smoothly",
+      "item_url": "https://geekplux.com/posts/legacy-code-best-practice-how-to-take-over-an-existing-project-smoothly",
+      "time": "2021-01-27T00:10:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -3760,6 +4075,13 @@
       "time": "2020-03-30T17:46:36+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "小谈我对新技术的态度",
+      "item_url": "https://geekplux.com/posts/my-attitude-towards-new-tech",
+      "time": "2020-03-26T09:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Funding for COVID-19 Projects",
@@ -3846,6 +4168,13 @@
     {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
+      "item_name": "三种主流的网赚套利，躺着赚钱？",
+      "item_url": "https://geekplux.com/posts/mainstream-online-earning",
+      "time": "2019-12-11T20:00:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
       "item_name": "色盲的世界",
       "item_url": "https://geekplux.com/posts/colorblind-world",
       "time": "2019-12-10T20:00:00+00:00"
@@ -3863,6 +4192,13 @@
       "item_name": "我是如何管理 21 张信用卡的",
       "item_url": "https://geekplux.com/posts/how-do-i-manage-21-credit-cards",
       "time": "2019-11-12T20:00:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "薅羊毛的最大意义：保持对规则的敏感度",
+      "item_url": "https://geekplux.com/posts/meaning-of-getting-best-deal",
+      "time": "2019-11-05T20:00:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -4257,11 +4593,25 @@
       "time": "2017-09-19T00:00:00+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "netjsongraph.js – Google Summer of Code (GSoC) 2017 summary",
+      "item_url": "https://geekplux.com/posts/netjsongraph-js-google-summer-code-gsoc-2017-summary",
+      "time": "2017-08-26T22:45:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "高中时的地下刊物",
       "item_url": "https://lutaonan.com/blog/my-underground-publication",
       "time": "2017-08-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "养猫随想",
+      "item_url": "https://lutaonan.com/blog/cat-capriccio",
+      "time": "2017-08-20T00:00:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -4290,6 +4640,13 @@
       "item_name": "D3 force layout and WebGL integration",
       "item_url": "https://geekplux.com/posts/d3-force-and-webgl-integration",
       "time": "2017-06-27T19:57:00+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "我的编程经历",
+      "item_url": "https://lutaonan.com/blog/my-coding-road",
+      "time": "2017-05-12T00:00:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -4327,6 +4684,13 @@
       "time": "2017-03-19T04:48:07+00:00"
     },
     {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "做技术要自信",
+      "item_url": "https://lutaonan.com/blog/do-have-faith-with-yourself",
+      "time": "2017-03-14T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "如何提高英语水平",
@@ -4362,11 +4726,39 @@
       "time": "2017-01-01T17:35:00+00:00"
     },
     {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "从 React 谈 Web UI 开发",
+      "item_url": "https://lutaonan.com/blog/react-and-the-way-building-web-ui",
+      "time": "2017-01-01T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "2016 年终总结",
+      "item_url": "https://lutaonan.com/blog/2016-summary",
+      "time": "2016-12-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "The time of our lives",
       "item_url": "https://ericmigi.com/blog/the-time-of-our-lives",
       "time": "2016-12-07T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "我看牙医的经历",
+      "item_url": "https://lutaonan.com/blog/dentist-exp",
+      "time": "2016-11-26T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "你根本用不着退学",
+      "item_url": "https://lutaonan.com/blog/you-dont-need-to-drop-out",
+      "time": "2016-11-06T00:00:00+00:00"
     },
     {
       "blog_id": "geekplux",
@@ -4381,6 +4773,13 @@
       "item_name": "Vue 2.0 来了！",
       "item_url": "https://jiongks.name/blog/vue-2-is-here",
       "time": "2016-10-01T12:45:09+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "离开大学这一年",
+      "item_url": "https://lutaonan.com/blog/one-year-after-dropping-out-of-school",
+      "time": "2016-09-08T00:00:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -4460,11 +4859,25 @@
       "time": "2016-04-27T08:19:02+00:00"
     },
     {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "21 岁我想说的",
+      "item_url": "https://lutaonan.com/blog/say-in-21",
+      "time": "2016-03-25T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "如何备考 TOEFL/GRE",
       "item_url": "https://linghao.io/posts/toefl-gre-prep",
       "time": "2016-03-21T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "我学五笔的经历",
+      "item_url": "https://lutaonan.com/blog/my-wubi-exp",
+      "time": "2016-03-14T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -4630,6 +5043,20 @@
     {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
+      "item_name": "菜鸟级 Mac 配置（二）",
+      "item_url": "https://geekplux.com/posts/mac_configuration_2",
+      "time": "2014-03-03T13:50:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "菜鸟级 Mac 配置（一）",
+      "item_url": "https://geekplux.com/posts/mac_configuration_1",
+      "time": "2014-02-26T21:14:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
       "item_name": "CSS 编写原则",
       "item_url": "https://geekplux.com/posts/css_written_principles",
       "time": "2014-02-20T13:57:00+00:00"
@@ -4747,6 +5174,62 @@
       "time": "2013-06-11T11:16:06+00:00"
     },
     {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "用Sass重新整理自己的博客主题样式",
+      "item_url": "https://jiongks.name/blog/write-my-theme-with-sass",
+      "time": "2013-06-05T02:23:10+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "Connect中间件使用手册",
+      "item_url": "https://jiongks.name/blog/connect-middleware-manual",
+      "time": "2013-06-02T06:45:30+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "实践",
+      "item_url": "https://jiongks.name/blog/do-practice",
+      "time": "2013-05-22T01:00:03+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "情似流水",
+      "item_url": "https://geekplux.com/posts/love_like_water",
+      "time": "2013-04-10T10:36:00+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "巧用 RequireJS Optimizer 给传统的前端项目打包",
+      "item_url": "https://jiongks.name/blog/build-any-web-project-with-requirejs-optimizer",
+      "time": "2013-03-30T02:46:47+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "编辑器小调查结果",
+      "item_url": "https://jiongks.name/blog/code-editor-survay",
+      "time": "2013-02-17T11:40:27+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "[译]JSLint 文档",
+      "item_url": "https://jiongks.name/blog/jslint-docs-zh-cn",
+      "time": "2013-02-17T03:04:46+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "烟火——写给蛇年的傲游和我",
+      "item_url": "https://jiongks.name/blog/my-6th-year-with-maxthon",
+      "time": "2013-02-10T02:44:06+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble starts shipping",
@@ -4759,6 +5242,27 @@
       "item_name": "Verge interview at CES 2013",
       "item_url": "https://ericmigi.com/blog/verge-interview-at-ces-2013",
       "time": "2013-01-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "小秀个人的全年摄影作品 (共15张)",
+      "item_url": "https://jiongks.name/blog/recent-photography-works",
+      "time": "2013-01-04T01:20:50+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "2012年终毫无正能量的总结",
+      "item_url": "https://jiongks.name/blog/review-terrible-2012",
+      "time": "2013-01-01T03:47:42+00:00"
+    },
+    {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "标签？ID？还是CLASS？",
+      "item_url": "https://jiongks.name/blog/html-or-id-or-class",
+      "time": "2012-11-27T04:42:42+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -4857,6 +5361,20 @@
       "item_name": "Watchduino - first video",
       "item_url": "https://ericmigi.com/blog/watchduino-first-video",
       "time": "2008-06-08T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "My first tweet",
+      "item_url": "https://ericmigi.com/blog/my-first-tweet",
+      "time": "2008-01-15T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Dank",
+      "feed": "https://dankying.com/index.xml",
+      "item_name": "友情链接",
+      "item_url": "https://blog.dankying.com/friends/",
+      "time": "0001-01-01T00:00:00+00:00"
     }
   ]
 }
