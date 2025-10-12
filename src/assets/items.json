@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "云风",
+      "feed": "https://blog.codingnow.com/atom.xml",
+      "item_name": "关于桌游设计大赛的介绍",
+      "item_url": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
+      "time": "2025-10-12T09:57:22+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A new breed of analyzers",
@@ -1049,13 +1056,6 @@
       "item_name": "Photos Page",
       "item_url": "https://antfu.me/posts/photos-page",
       "time": "2025-03-12T12:00:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "卡牌构筑类桌游核心规则之五",
-      "item_url": "https://blog.codingnow.com/2025/03/dbg_rules_5.html",
-      "time": "2025-03-12T01:30:12+00:00"
     },
     {
       "blog_id": "鱼鱼",
