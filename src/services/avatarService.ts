@@ -1,7 +1,7 @@
 import avatar from '../assets/avatar.webp';
 
 // vite动态导入本地图片
-const localAvatars = import.meta.glob('../assets/avatar/*', { eager: true, as: 'url' });
+const localAvatars = import.meta.glob('../assets/avatar/*', { eager: true, query: '?url', import: 'default' });
 
 export function resolveAvatar(path: string): string {
   if (!path) return '';
