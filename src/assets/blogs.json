@@ -4,7 +4,7 @@
     "url": "https://littlecheesecake.me/blog2/index.html",
     "avatar": "avatar/littlecheesecake.webp",
     "describe": "制作精美的博客，软件工程师，也研究理财与保险",
-    "feed":"https://littlecheesecake.me/feed",
+    "feed": "https://littlecheesecake.me/feed",
     "like": [
       {
         "title": "为什么我的工作效率降低了",
@@ -456,5 +456,18 @@
       }
     ],
     "feed": "https://blog.wraith615.xyz/rss.xml"
+  },
+  {
+    "name": "刘泓君",
+    "url": "https://sv101.fireside.fm/",
+    "avatar": "avatar/liuhongjun.webp",
+    "describe": "《硅谷101》播客主持人，播客对应公司创始人CEO，泓君做的播客专业而且严谨",
+    "feed": "https://feeds.fireside.fm/sv101/rss",
+    "like": [
+      {
+        "title": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
+        "url": "https://sv101.fireside.fm/219"
+      }
+    ]
   }
 ]
