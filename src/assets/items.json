@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
+      "item_url": "https://sv101.fireside.fm/219",
+      "time": "2025-10-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "炎热10月的自留地探索",
@@ -85,6 +92,13 @@
       "time": "2025-09-24T19:20:58+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E208｜量产CEO这事儿，是怎么被宝洁办成的？",
+      "item_url": "https://sv101.fireside.fm/218",
+      "time": "2025-09-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Abundant Intelligence",
@@ -120,6 +134,13 @@
       "time": "2025-09-18T07:32:47+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E207｜智能体创业者们的成本突围与商业落地",
+      "item_url": "https://sv101.fireside.fm/217",
+      "time": "2025-09-18T00:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "有惊无险的一次网站系统升级",
@@ -139,6 +160,13 @@
       "item_name": "curl 8.16.0",
       "item_url": "https://daniel.haxx.se/blog/2025/09/10/curl-8-16-0/",
       "time": "2025-09-10T05:49:32+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E206｜临近机器人GPT-3时刻，具身智能开源模型的加速演进",
+      "item_url": "https://sv101.fireside.fm/216",
+      "time": "2025-09-09T23:00:00+00:00"
     },
     {
       "blog_id": "云风",
@@ -167,6 +195,13 @@
       "item_name": "giants, standing on the shoulders of",
       "item_url": "https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/",
       "time": "2025-09-08T07:10:50+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E205｜和丛乐聊基因编辑：碳基生命如何面对硅基挑战？",
+      "item_url": "https://sv101.fireside.fm/215",
+      "time": "2025-09-01T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -267,6 +302,13 @@
       "time": "2025-08-22T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E204｜运动品牌的成长烦恼：lululemon低谷与新品牌狂飙",
+      "item_url": "https://sv101.fireside.fm/214",
+      "time": "2025-08-21T22:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Hijacking Windsurf: How Prompt Injection Leaks Developer Secrets",
@@ -307,6 +349,13 @@
       "item_name": "Amp Code: Invisible Prompt Injection Fixed by Sourcegraph",
       "item_url": "https://embracethered.com/blog/posts/2025/amp-code-fixed-invisible-prompt-injection/",
       "time": "2025-08-16T19:20:58+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E203｜股票代币化时代，揭秘Robinhood商业模式与加密野心",
+      "item_url": "https://sv101.fireside.fm/213",
+      "time": "2025-08-16T00:00:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -470,11 +519,25 @@
       "time": "2025-08-01T15:00:58+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E202｜对话肖风：在香港稳定币的沸腾时刻，一些回归常识的冷思考",
+      "item_url": "https://sv101.fireside.fm/212",
+      "time": "2025-07-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "The Month of AI Bugs 2025",
       "item_url": "https://embracethered.com/blog/posts/2025/announcement-the-month-of-ai-bugs/",
       "time": "2025-07-28T17:20:58+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E201｜OpenAI挑战通用型AI Agent，聊聊Agent的底层架构、AGI转折点与RL人才分布",
+      "item_url": "https://sv101.fireside.fm/211",
+      "time": "2025-07-26T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -512,10 +575,24 @@
       "time": "2025-07-20T04:21:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E200｜投资人视角深聊：AI Agent的核心壁垒与投资逻辑",
+      "item_url": "https://sv101.fireside.fm/210",
+      "time": "2025-07-17T00:00:00+00:00"
+    },
+    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 YF：自由生活与创造",
       "item_url": "https://hawstein.com/2025/07/14/freedom-and-creation/",
+      "time": "2025-07-14T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E199｜悬赏1亿美金逆转人类10年生理年龄，抗衰疗法距离落地还有多远？",
+      "item_url": "https://sv101.fireside.fm/209",
       "time": "2025-07-14T00:00:00+00:00"
     },
     {
@@ -596,6 +673,13 @@
       "time": "2025-07-07T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E198｜美国药价为何是欧洲的5-10倍？聊聊美国药价之困与制药公司崛起的秘密",
+      "item_url": "https://sv101.fireside.fm/208",
+      "time": "2025-07-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 Sulhg：独立创造者的无限游戏",
@@ -659,6 +743,13 @@
       "time": "2025-06-21T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E197｜七大模型多模态之争，AI如何改变动漫产业？",
+      "item_url": "https://sv101.fireside.fm/207",
+      "time": "2025-06-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "MCP is all you need",
@@ -680,6 +771,13 @@
       "time": "2025-06-13T19:29:31+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E196｜稳定币之战：Circle崛起之路与传统金融入局的新势力角逐",
+      "item_url": "https://sv101.fireside.fm/206",
+      "time": "2025-06-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Core 2 Duo - Beta Test Signup!",
@@ -698,6 +796,13 @@
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Using `make` to compile C programs (for non-C-programmers)",
       "item_url": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
+      "time": "2025-06-10T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E195｜从工具到伙伴：七位AI Agent深度使用者的思考",
+      "item_url": "https://sv101.fireside.fm/205",
       "time": "2025-06-10T00:00:00+00:00"
     },
     {
@@ -722,6 +827,20 @@
       "time": "2025-06-06T02:24:26+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E194｜欧美顶流网红都在做美妆？聊聊从流量到品牌的操盘逻辑",
+      "item_url": "https://sv101.fireside.fm/204",
+      "time": "2025-06-05T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E193｜吃益生菌是智商税吗？全面复盘肠道健康迷思",
+      "item_url": "https://sv101.fireside.fm/203",
+      "time": "2025-05-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.05.28: 各种链接",
@@ -734,6 +853,13 @@
       "item_name": "微信支付Native支付对接实战：Go语言实现与踩坑记录",
       "item_url": "https://blog.dankying.com/posts/20250526-things-to-watch-out-for-when-using-golang-to-connect-to-wechat-pay/",
       "time": "2025-05-26T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E192｜谷歌的翻身仗与Gemini背后的灵魂人物｜解析2025谷歌 I/O",
+      "item_url": "https://sv101.fireside.fm/201",
+      "time": "2025-05-25T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -776,6 +902,13 @@
       "item_name": "周报 #94 - 生活的界限与真实感",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_94",
       "time": "2025-05-19T01:03:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E191｜小而美的机会来了，聊聊这轮AI Agent进化新范式",
+      "item_url": "https://sv101.fireside.fm/200",
+      "time": "2025-05-16T00:00:00+00:00"
     },
     {
       "blog_id": "云风",
@@ -834,6 +967,13 @@
       "time": "2025-05-02T19:30:35+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E190｜司美格鲁肽的新对手们：制药巨头混战减肥药下半场",
+      "item_url": "https://sv101.fireside.fm/199",
+      "time": "2025-05-02T02:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "My new podcast: Tick Talk + Core 2 Duo demo",
@@ -869,6 +1009,20 @@
       "time": "2025-04-28T00:12:23+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E189｜DEI的风暴眼：常春藤、硅谷与被改写的“美国梦”",
+      "item_url": "https://sv101.fireside.fm/198",
+      "time": "2025-04-24T23:30:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E188｜靠自学造火箭挑战SpaceX，Rocket Lab的太空版图",
+      "item_url": "https://sv101.fireside.fm/197",
+      "time": "2025-04-23T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #92 - 数码产品 Porn 与断舍离",
@@ -881,6 +1035,13 @@
       "item_name": "周报 #91 - 一席、消失的时代与自由意志",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_91",
       "time": "2025-04-15T23:04:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E187｜关税战难解美国制造业困境，旧秩序正在崩溃",
+      "item_url": "https://sv101.fireside.fm/196",
+      "time": "2025-04-14T00:00:00+00:00"
     },
     {
       "blog_id": "Justin3go",
@@ -967,6 +1128,13 @@
       "time": "2025-04-01T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E186｜美国稳定币发币潮，区块链如何改变传统金融版图？",
+      "item_url": "https://sv101.fireside.fm/195",
+      "time": "2025-03-31T23:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #89 - 博客改版与 TheWan App 发布",
@@ -993,6 +1161,13 @@
       "item_name": "阿里云ECS国内服务器部署Dokploy教程",
       "item_url": "https://coreychiu.com/blogs/how-to-install-dokploy-on-aliyun-ecs-server",
       "time": "2025-03-26T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E185｜无共识的量子竞赛：群雄逐鹿与争议中的微软",
+      "item_url": "https://sv101.fireside.fm/194",
+      "time": "2025-03-25T23:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1023,6 +1198,13 @@
       "time": "2025-03-22T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E184｜“我爱你，这不是算法”：15个被AI击中瞬间的声音故事",
+      "item_url": "https://sv101.fireside.fm/193",
+      "time": "2025-03-20T23:00:00+00:00"
+    },
+    {
       "blog_id": "Dank",
       "feed": "https://dankying.com/index.xml",
       "item_name": "神奇的提示词prompt-头像生成",
@@ -1049,6 +1231,13 @@
       "item_name": "Apple restricts Pebble from being awesome with iPhones",
       "item_url": "https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones",
       "time": "2025-03-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E183｜比特币巨鲸微策略：一个溢价增发的资本游戏",
+      "item_url": "https://sv101.fireside.fm/191",
+      "time": "2025-03-14T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1100,6 +1289,13 @@
       "time": "2025-03-05T01:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E182｜影子美元与金融新秩序：起底全球人均最赚钱的公司Tether",
+      "item_url": "https://sv101.fireside.fm/190",
+      "time": "2025-03-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "ArchLinux removed deprecated repo community",
@@ -1128,6 +1324,13 @@
       "time": "2025-02-27T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E181｜聊天的艺术：如何打造高情商的AI机器人？",
+      "item_url": "https://sv101.fireside.fm/189",
+      "time": "2025-02-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "Dank",
       "feed": "https://dankying.com/index.xml",
       "item_name": "也许你以为的DeepSeek和我以为的完全不一样",
@@ -1135,11 +1338,25 @@
       "time": "2025-02-22T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "声音稿件征集｜你的AI时刻",
+      "item_url": "https://sv101.fireside.fm/188",
+      "time": "2025-02-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "ChatGPT Operator: Prompt Injection Exploits & Defenses",
       "item_url": "https://embracethered.com/blog/posts/2025/chatgpt-operator-prompt-injection-exploits/",
       "time": "2025-02-17T15:30:21+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E180｜量子计算的Transformer时刻与科技巨头的路径之争",
+      "item_url": "https://sv101.fireside.fm/187",
+      "time": "2025-02-14T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1196,6 +1413,13 @@
       "item_name": "新 MacBook 的设置和软件",
       "item_url": "https://lutaonan.com/blog/2024-new-macbook-setup",
       "time": "2025-02-08T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E179｜DeepSeek技术解析：为何引发英伟达股价下跌？",
+      "item_url": "https://sv101.fireside.fm/186",
+      "time": "2025-02-06T01:30:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -1296,6 +1520,13 @@
       "time": "2025-01-19T22:48:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E178｜智能眼镜大战CES：靠AI不如产品硬",
+      "item_url": "https://sv101.fireside.fm/185",
+      "time": "2025-01-17T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "What's involved in getting a \"modern\" terminal setup?",
@@ -1322,6 +1553,13 @@
       "item_name": "AI Domination: Remote Controlling ChatGPT ZombAI Instances",
       "item_url": "https://embracethered.com/blog/posts/2025/spaiware-and-chatgpt-command-and-control-via-prompt-injection-zombai/",
       "time": "2025-01-07T04:30:53+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E177｜“没有AI我会难受至极”：与大学生聊聊智能工具的依赖与适应",
+      "item_url": "https://sv101.fireside.fm/184",
+      "time": "2025-01-07T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -1415,6 +1653,13 @@
       "time": "2024-12-21T10:27:27+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E176｜SpaceX 的商业版图与太空经济的崛起",
+      "item_url": "https://sv101.fireside.fm/183",
+      "time": "2024-12-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Security ProbLLMs in xAI's Grok: A Deep Dive",
@@ -1441,6 +1686,13 @@
       "item_name": "12月初探松江",
       "item_url": "http://blog.wraith615.xyz/articles/a5wjckcet2pxdn24",
       "time": "2024-12-12T08:16:23+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E175｜专访导演方励：人类没有未来",
+      "item_url": "https://sv101.fireside.fm/182",
+      "time": "2024-12-12T00:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1476,6 +1728,13 @@
       "item_name": "求婚誓言 | 爱的本质是被看见",
       "item_url": "https://www.pseudoyu.com/zh/2024/12/03/proposal_to_boyi",
       "time": "2024-12-03T13:43:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E174｜当巨头们失去了创新力，聊聊如何做一双好鞋",
+      "item_url": "https://sv101.fireside.fm/181",
+      "time": "2024-12-02T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -1527,6 +1786,13 @@
       "time": "2024-11-25T16:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E173｜一个对硅谷教育不满的老师，做了一所自己的学校",
+      "item_url": "https://sv101.fireside.fm/180",
+      "time": "2024-11-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Importing a frontend Javascript library without a build system",
@@ -1548,6 +1814,13 @@
       "time": "2024-11-16T00:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E172｜大选影响下的硅谷：比特币总统、逆行者与反觉醒文化",
+      "item_url": "https://sv101.fireside.fm/179",
+      "time": "2024-11-14T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "New microblog with TILs",
@@ -1567,6 +1840,13 @@
       "item_name": "Why is ML Runtime Infra So Hard",
       "item_url": "https://linghao.io/posts/why-is-ml-runtime-infra-so-hard",
       "time": "2024-11-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E171｜濒临破产的23andMe与基因检测行业的新旧交替",
+      "item_url": "https://sv101.fireside.fm/178",
+      "time": "2024-11-07T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -1625,6 +1905,13 @@
       "time": "2024-10-25T00:00:57+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E170｜大模型应用之困与异军突起的“埃森哲们”",
+      "item_url": "https://sv101.fireside.fm/177",
+      "time": "2024-10-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #76 - 关于 Adulting 的思考",
@@ -1644,6 +1931,13 @@
       "item_name": "周报 #74 - 清迈异闻录",
       "item_url": "https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021",
       "time": "2024-10-21T00:20:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E169｜特斯拉Robotaxi发布会的台前幕后：兴奋的现场与失望的华尔街",
+      "item_url": "https://sv101.fireside.fm/176",
+      "time": "2024-10-14T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -1667,6 +1961,13 @@
       "time": "2024-10-07T09:19:57+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E168｜全息显示的AR眼镜真的来了，聊聊Meta Connect与日趋成熟的XR生态",
+      "item_url": "https://sv101.fireside.fm/175",
+      "time": "2024-10-06T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Terminal colours are tricky",
@@ -1679,6 +1980,13 @@
       "item_name": "西双版纳自然行 part5",
       "item_url": "http://blog.wraith615.xyz/articles/nkqkl1u1mphyhqnx",
       "time": "2024-09-30T23:38:18+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E167｜聊聊顶流网红做服装：卡戴珊与她的内衣王国Skims",
+      "item_url": "https://sv101.fireside.fm/174",
+      "time": "2024-09-29T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -1700,6 +2008,20 @@
       "item_name": "Spyware Injection Into Your ChatGPT's Long-Term Memory (SpAIware)",
       "item_url": "https://embracethered.com/blog/posts/2024/chatgpt-macos-app-persistent-data-exfiltration/",
       "time": "2024-09-20T18:02:36+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E166｜聊聊火人节与硅谷精神：挑战规则、反叛权威的双生花",
+      "item_url": "https://sv101.fireside.fm/173",
+      "time": "2024-09-20T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "活动预告：我们硅谷线下见",
+      "item_url": "https://sv101.fireside.fm/172",
+      "time": "2024-09-19T04:15:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1735,6 +2057,13 @@
       "item_name": "世纪公园秋迁开始",
       "item_url": "http://blog.wraith615.xyz/articles/42rh3az79g47mrsz",
       "time": "2024-09-07T13:01:11+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E165｜智能眼镜爆发前夜，与Ray-Ban Meta产品经理聊聊如何打造一款热门AI眼镜",
+      "item_url": "https://sv101.fireside.fm/171",
+      "time": "2024-09-06T00:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1786,6 +2115,13 @@
       "time": "2024-08-22T02:00:30+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E164｜当电影遇上AI：与好莱坞特效美术聊聊他们和新工具的博弈",
+      "item_url": "https://sv101.fireside.fm/170",
+      "time": "2024-08-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Migrating Mess With DNS to use PowerDNS",
@@ -1821,6 +2157,13 @@
       "time": "2024-08-16T14:26:35+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E163｜与大疆Pocket首任产品经理聊聊：如何从无到有定义一款硬件产品？",
+      "item_url": "https://sv101.fireside.fm/169",
+      "time": "2024-08-16T00:00:00+00:00"
+    },
+    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "我把网站迁移到 cf，省了几万块",
@@ -1833,6 +2176,13 @@
       "item_name": "「代码艺术家」不会被 AI 取代",
       "item_url": "https://lutaonan.com/blog/code-artists",
       "time": "2024-08-10T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E162｜清华姚班如何培养天才：给最有挑战性的问题和足够的自由度",
+      "item_url": "https://sv101.fireside.fm/168",
+      "time": "2024-08-07T00:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1870,11 +2220,25 @@
       "time": "2024-07-30T12:30:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E161｜聊聊大模型如何思考与深度学习科学家Yann LeCun",
+      "item_url": "https://sv101.fireside.fm/167",
+      "time": "2024-07-29T00:15:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Google Colab AI: Data Leakage Through Image Rendering Fixed. Some Risks Remain.",
       "item_url": "https://embracethered.com/blog/posts/2024/google-colab-image-render-exfil/",
       "time": "2024-07-25T05:00:25+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E160｜重新理解信息茧房：为何科学研究与我们主观感受相反？",
+      "item_url": "https://sv101.fireside.fm/166",
+      "time": "2024-07-24T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1903,6 +2267,13 @@
       "item_name": "周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit",
       "item_url": "https://www.pseudoyu.com/zh/2024/07/21/weekly_review_20240721",
       "time": "2024-07-21T00:30:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E159｜音乐节经济：不划算但停不下来",
+      "item_url": "https://sv101.fireside.fm/165",
+      "time": "2024-07-20T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -1938,6 +2309,13 @@
       "item_name": "周报 #64 - 生活在此处（《斯通纳》与《Normal People》）",
       "item_url": "https://www.pseudoyu.com/zh/2024/07/10/weekly_review_20240710",
       "time": "2024-07-10T00:30:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E158｜走访锈带：美国大选的反直觉认知与不被看见的人",
+      "item_url": "https://sv101.fireside.fm/164",
+      "time": "2024-07-09T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1989,6 +2367,13 @@
       "time": "2024-06-29T13:48:58+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E157｜净利润24万，与充值过亿的爆款制作人聊聊短剧平台到底挣不挣钱？",
+      "item_url": "https://sv101.fireside.fm/163",
+      "time": "2024-06-27T00:15:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "我如何使用 Obsidian 管理我的个人知识库",
@@ -2008,6 +2393,13 @@
       "item_name": "周报 #62 - 香港之行、5am club 计划与 Rust 学习",
       "item_url": "https://www.pseudoyu.com/zh/2024/06/23/weekly_review_20240623",
       "time": "2024-06-23T08:30:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E156｜自动驾驶领域的GPT时刻来了？聊聊特斯拉V12、FSD入华与RoboTaxi",
+      "item_url": "https://sv101.fireside.fm/162",
+      "time": "2024-06-21T00:00:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -2045,11 +2437,25 @@
       "time": "2024-06-15T05:00:17+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E155｜马斯克太空梦进度条70%，聊聊星舰的四次发射与SpaceX Mafia",
+      "item_url": "https://sv101.fireside.fm/161",
+      "time": "2024-06-14T00:00:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "实现 GPT-4o 使用自由",
       "item_url": "https://depp.wang/2024/gpt4o-free-use/",
       "time": "2024-06-11T13:11:41+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E154｜一己之力拉动全球经济的Taylor Swift：她如何成为音乐界顶流？",
+      "item_url": "https://sv101.fireside.fm/160",
+      "time": "2024-06-11T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -2064,6 +2470,13 @@
       "item_name": "27 岁的自白：成长是一件很扫兴的事",
       "item_url": "https://www.pseudoyu.com/zh/2024/06/06/yearly_review_27",
       "time": "2024-06-06T11:42:26+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E153｜聊聊被过度营销反噬的Sam Altman与OpenAI的深层危机",
+      "item_url": "https://sv101.fireside.fm/159",
+      "time": "2024-06-05T00:15:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -3590,6 +4003,13 @@
       "item_name": "Editing Technical Direction",
       "item_url": "https://linghao.io/posts/edit-tech-direction",
       "time": "2022-07-18T00:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "小公告｜新播客Web3 101上线了",
+      "item_url": "https://sv101.fireside.fm/82",
+      "time": "2022-07-15T07:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
