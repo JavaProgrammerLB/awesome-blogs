@@ -57,25 +57,11 @@
       "time": "2025-10-05T07:06:12+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Sora update #1",
-      "item_url": "https://blog.samaltman.com/sora-update-number-1",
-      "time": "2025-10-04T00:37:50+00:00"
-    },
-    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "How I maintain release notes for curl",
       "item_url": "https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/",
       "time": "2025-10-01T09:03:23+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Sora 2",
-      "item_url": "https://blog.samaltman.com/sora-2",
-      "time": "2025-09-30T17:13:47+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -97,13 +83,6 @@
       "item_name": "E208｜量产CEO这事儿，是怎么被宝洁办成的？",
       "item_url": "https://sv101.fireside.fm/218",
       "time": "2025-09-24T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Abundant Intelligence",
-      "item_url": "https://blog.samaltman.com/abundant-intelligence",
-      "time": "2025-09-23T13:41:02+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -181,13 +160,6 @@
       "item_name": "preparing for the worst",
       "item_url": "https://daniel.haxx.se/blog/2025/09/09/preparing-for-the-worst/",
       "time": "2025-09-09T06:57:52+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Jakub and Szymon",
-      "item_url": "https://blog.samaltman.com/jakub-and-szymon",
-      "time": "2025-09-09T00:10:22+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -783,13 +755,6 @@
       "item_name": "Core 2 Duo - Beta Test Signup!",
       "item_url": "https://ericmigi.com/blog/core-2-duo-alphabeta-test-signup",
       "time": "2025-06-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Gentle Singularity",
-      "item_url": "https://blog.samaltman.com/the-gentle-singularity",
-      "time": "2025-06-10T21:12:47+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1394,13 +1359,6 @@
       "time": "2025-02-10T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Three Observations",
-      "item_url": "https://blog.samaltman.com/three-observations",
-      "time": "2025-02-09T21:05:32+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "我如何使用 Apple Notes 做笔记",
@@ -1560,13 +1518,6 @@
       "item_name": "E177｜“没有AI我会难受至极”：与大学生聊聊智能工具的依赖与适应",
       "item_url": "https://sv101.fireside.fm/184",
       "time": "2025-01-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Reflections",
-      "item_url": "https://blog.samaltman.com/reflections",
-      "time": "2025-01-06T01:37:29+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2563,13 +2514,6 @@
       "time": "2024-05-14T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "GPT-4o",
-      "item_url": "https://blog.samaltman.com/gpt-4o",
-      "time": "2024-05-13T17:39:38+00:00"
-    },
-    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "友情、爱情、亲情三足鼎立，上面插着燃烧的青春",
@@ -2918,13 +2862,6 @@
       "item_name": "2023 年终总结: 和自己对话",
       "item_url": "https://lutaonan.com/blog/2023-summary",
       "time": "2023-12-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "What I Wish Someone Had Told Me",
-      "item_url": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
-      "time": "2023-12-21T22:44:25+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -4012,13 +3949,6 @@
       "time": "2022-07-15T07:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Helion Needs You",
-      "item_url": "https://blog.samaltman.com/helion-needs-you",
-      "time": "2022-07-13T15:47:32+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Rethinking Pessimism",
@@ -4080,13 +4010,6 @@
       "item_name": "新交规科目一知识导图速记",
       "item_url": "https://daimajia.com/2022/04/07/kemu1/",
       "time": "2022-04-07T00:47:03+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "DALL•E 2",
-      "item_url": "https://blog.samaltman.com/dall-star-e-2",
-      "time": "2022-04-06T18:15:13+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
@@ -4157,13 +4080,6 @@
       "item_name": "我是如何学会编程的",
       "item_url": "https://geekplux.com/posts/how-i-learned-programming",
       "time": "2021-11-18T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Helion",
-      "item_url": "https://blog.samaltman.com/helion",
-      "time": "2021-11-05T13:39:16+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -4397,20 +4313,6 @@
       "time": "2021-01-02T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Strength of Being Misunderstood",
-      "item_url": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-      "time": "2020-12-01T18:56:39+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "PG and Jessica",
-      "item_url": "https://blog.samaltman.com/pg-and-jessica",
-      "time": "2020-09-25T14:45:50+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "我的时间管理系统",
@@ -4446,27 +4348,6 @@
       "time": "2020-07-09T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Researchers and Founders",
-      "item_url": "https://blog.samaltman.com/researchers-and-founders",
-      "time": "2020-06-19T17:39:12+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Project Covalence",
-      "item_url": "https://blog.samaltman.com/project-covalence",
-      "time": "2020-06-16T17:08:44+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Idea Generation",
-      "item_url": "https://blog.samaltman.com/idea-generation",
-      "time": "2020-05-28T19:12:40+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "离开阿里巴巴",
@@ -4495,13 +4376,6 @@
       "time": "2020-04-20T17:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Please Fund More Science",
-      "item_url": "https://blog.samaltman.com/please-fund-more-science",
-      "time": "2020-03-30T17:46:36+00:00"
-    },
-    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "小谈我对新技术的态度",
@@ -4509,32 +4383,11 @@
       "time": "2020-03-26T09:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Funding for COVID-19 Projects",
-      "item_url": "https://blog.samaltman.com/funding-for-covid-19-projects",
-      "time": "2020-03-15T16:31:23+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Virus",
-      "item_url": "https://blog.samaltman.com/the-virus",
-      "time": "2020-03-07T18:58:55+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "好产品帮助用户变得更好 - 读 Badass: Making Users Awesome",
       "item_url": "https://lutaonan.com/blog/read-badass-making-users-awesome",
       "time": "2020-03-01T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Hard Startups",
-      "item_url": "https://blog.samaltman.com/hard-startups",
-      "time": "2020-02-26T18:28:47+00:00"
     },
     {
       "blog_id": "geekplux",
@@ -4556,13 +4409,6 @@
       "item_name": "复式记账、财报、量化与图论",
       "item_url": "https://geekplux.com/posts/accounting-earnings-report-graph-theory",
       "time": "2020-01-16T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "How To Invest In Startups",
-      "item_url": "https://blog.samaltman.com/how-to-invest-in-startups",
-      "time": "2020-01-13T16:41:14+00:00"
     },
     {
       "blog_id": "Randy",
@@ -4782,13 +4628,6 @@
       "time": "2019-01-27T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "How To Be Successful",
-      "item_url": "https://blog.samaltman.com/how-to-be-successful",
-      "time": "2019-01-24T21:01:07+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "健身一年",
@@ -4915,13 +4754,6 @@
       "time": "2018-07-05T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Reinforcement Learning Progress",
-      "item_url": "https://blog.samaltman.com/reinforcement-learning-progress",
-      "time": "2018-06-25T16:10:37+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "初心",
@@ -4929,25 +4761,11 @@
       "time": "2018-06-16T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "US Digital Currency",
-      "item_url": "https://blog.samaltman.com/us-digital-currency",
-      "time": "2018-05-10T17:07:07+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Announcing Startup School Beijing",
       "item_url": "https://ericmigi.com/blog/announcing-startup-school-beijing",
       "time": "2018-04-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Productivity",
-      "item_url": "https://blog.samaltman.com/productivity",
-      "time": "2018-04-10T16:18:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -4983,34 +4801,6 @@
       "item_name": "2017 年终总结",
       "item_url": "https://lutaonan.com/blog/2017-summary",
       "time": "2018-01-03T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "A Clarification",
-      "item_url": "https://blog.samaltman.com/a-clarification",
-      "time": "2017-12-16T19:00:42+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "E Pur Si Muove",
-      "item_url": "https://blog.samaltman.com/e-pur-si-muove",
-      "time": "2017-12-14T17:12:38+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Merge",
-      "item_url": "https://blog.samaltman.com/the-merge",
-      "time": "2017-12-07T16:56:28+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "American Equity",
-      "item_url": "https://blog.samaltman.com/american-equity",
-      "time": "2017-11-27T17:24:42+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
