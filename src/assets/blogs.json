@@ -477,5 +477,18 @@
     "describe": "《如何变得有思想》的作者",
     "feed": "https://feeds.feedburner.com/ruanyifeng",
     "like": []
+  },
+  {
+    "name": "sean goedecke",
+    "url": "https://www.seangoedecke.com/",
+    "avatar": "avatar.webp",
+    "describe": "阮一峰介绍的github的高级软件工程师",
+    "feed": "https://www.seangoedecke.com/rss.xml",
+    "like": [
+      {
+        "title": "If you are good at code review, you will be good at using AI agents",
+        "url": "https://www.seangoedecke.com/ai-agents-and-code-review/"
+      }
+    ]
   }
 ]
