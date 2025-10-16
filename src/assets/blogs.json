@@ -469,5 +469,13 @@
         "url": "https://sv101.fireside.fm/219"
       }
     ]
+  },
+  {
+    "name": "阮一峰",
+    "url": "https://www.ruanyifeng.com/blog/archives.html",
+    "avatar": "avatar/ruanyifeng.webp",
+    "describe": "《如何变得有思想》的作者",
+    "feed": "https://feeds.feedburner.com/ruanyifeng",
+    "like": []
   }
 ]
