@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "chart: which host, which protocol",
+      "item_url": "https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/",
+      "time": "2025-10-16T06:02:12+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
@@ -349,13 +356,6 @@
       "item_name": "AgentHopper: An AI Virus",
       "item_url": "https://embracethered.com/blog/posts/2025/agenthopper-a-poc-ai-virus/",
       "time": "2025-08-30T03:20:58+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "Dropping old OpenSSL",
-      "item_url": "https://daniel.haxx.se/blog/2025/08/28/dropping-old-openssl/",
-      "time": "2025-08-28T20:52:56+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
