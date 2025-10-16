@@ -22,11 +22,25 @@
       "time": "2025-10-12T09:57:22+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "How I provide technical clarity to non-technical leaders",
+      "item_url": "https://seangoedecke.com/clarity/",
+      "time": "2025-10-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A new breed of analyzers",
       "item_url": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
       "time": "2025-10-10T11:58:37+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 368 期）：不要这样管理软件团队",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html",
+      "time": "2025-10-10T00:08:05+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -50,6 +64,13 @@
       "time": "2025-10-08T00:00:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "GPT-5-Codex is a better AI researcher than me",
+      "item_url": "https://seangoedecke.com/ai-research-with-codex/",
+      "time": "2025-10-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "深远未来开发总结",
@@ -62,6 +83,20 @@
       "item_name": "Sora update #1",
       "item_url": "https://blog.samaltman.com/sora-update-number-1",
       "time": "2025-10-04T00:37:50+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "How I influence tech company politics as a staff software engineer",
+      "item_url": "https://seangoedecke.com/how-to-influence-politics/",
+      "time": "2025-10-04T00:00:00+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "一天之内，智谱和 Anthropic 都发了最强编程模型",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html",
+      "time": "2025-10-01T11:05:15+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -85,6 +120,34 @@
       "time": "2025-09-29T00:00:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "What is \"good taste\" in software engineering?",
+      "item_url": "https://seangoedecke.com/taste/",
+      "time": "2025-09-28T00:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "AI coding agents rely too much on fallbacks",
+      "item_url": "https://seangoedecke.com/agents-and-fallbacks/",
+      "time": "2025-09-27T00:00:00+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html",
+      "time": "2025-09-26T00:08:40+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Endless AI-generated Wikipedia",
+      "item_url": "https://seangoedecke.com/endless-wiki/",
+      "time": "2025-09-25T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Cross-Agent Privilege Escalation: When Agents Free Each Other",
@@ -106,6 +169,13 @@
       "time": "2025-09-23T13:41:02+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "What I learned building an AI-driven spaced repetition app",
+      "item_url": "https://seangoedecke.com/autodeck/",
+      "time": "2025-09-23T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "CRA compliant curl",
@@ -120,11 +190,32 @@
       "time": "2025-09-22T01:00:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "AI is good news for Australian and European software engineers",
+      "item_url": "https://seangoedecke.com/ai-is-good-news-for-australian-engineers/",
+      "time": "2025-09-20T00:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "If you are good at code review, you will be good at using AI agents",
+      "item_url": "https://seangoedecke.com/ai-agents-and-code-review/",
+      "time": "2025-09-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "Bye bye Kerberos FTP",
       "item_url": "https://daniel.haxx.se/blog/2025/09/19/bye-bye-kerberos-ftp/",
       "time": "2025-09-19T06:23:25+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html",
+      "time": "2025-09-19T00:10:49+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -153,6 +244,13 @@
       "item_name": "Developer of the year",
       "item_url": "https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/",
       "time": "2025-09-13T20:37:52+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 365 期）：流量变现正在崩塌",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html",
+      "time": "2025-09-12T00:07:20+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -190,11 +288,46 @@
       "time": "2025-09-09T00:10:22+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "The whole point of OpenAI's Responses API is to help them hide reasoning traces",
+      "item_url": "https://seangoedecke.com/responses-api/",
+      "time": "2025-09-09T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "giants, standing on the shoulders of",
       "item_url": "https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/",
       "time": "2025-09-08T07:10:50+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "'Make invalid states unrepresentable' considered harmful",
+      "item_url": "https://seangoedecke.com/invalid-states/",
+      "time": "2025-09-08T00:00:00+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 364 期）：最难还原的魔方",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html",
+      "time": "2025-09-05T00:13:30+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "An unofficial FAQ for Stripe's new \"Tempo\" blockchain",
+      "item_url": "https://seangoedecke.com/tempo-faq/",
+      "time": "2025-09-05T00:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Seeing like a software company",
+      "item_url": "https://seangoedecke.com/seeing-like-a-software-company/",
+      "time": "2025-09-03T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -232,6 +365,13 @@
       "time": "2025-08-28T19:20:58+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Do the simplest thing that could possibly work",
+      "item_url": "https://seangoedecke.com/the-simplest-thing-that-could-possibly-work/",
+      "time": "2025-08-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Cline: Vulnerable To Data Exfiltration And How To Protect Your Data",
@@ -253,6 +393,13 @@
       "time": "2025-08-26T00:37:50+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Finding the low-hanging fruit",
+      "item_url": "https://seangoedecke.com/low-hanging-fruit/",
+      "time": "2025-08-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "How Prompt Injection Exposes Manus' VS Code Server to the Internet",
@@ -267,11 +414,25 @@
       "time": "2025-08-25T01:03:35+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Everything I know about good API design",
+      "item_url": "https://seangoedecke.com/good-api-design/",
+      "time": "2025-08-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Sneaking Invisible Instructions by Developers in Windsurf",
       "item_url": "https://embracethered.com/blog/posts/2025/windsurf-sneaking-invisible-instructions-for-prompt-injection/",
       "time": "2025-08-23T23:20:58+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Don't feed me AI slop",
+      "item_url": "https://seangoedecke.com/dont-feed-me-slop/",
+      "time": "2025-08-23T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -400,6 +561,20 @@
       "time": "2025-08-13T00:00:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "The famous \"bottomless pit\" AI greentext is fake",
+      "item_url": "https://seangoedecke.com/bottomless-pit/",
+      "time": "2025-08-13T00:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Is chain-of-thought AI reasoning a mirage?",
+      "item_url": "https://seangoedecke.com/real-reasoning/",
+      "time": "2025-08-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "GitHub Copilot: Remote Code Execution via Prompt Injection (CVE-2025-53773)",
@@ -412,6 +587,13 @@
       "item_name": "900 元一个月的编程助手值不值？Claude Code 真实使用体验",
       "item_url": "https://depp.wang/2025/claude-code/",
       "time": "2025-08-12T14:29:17+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "What's the strongest AI model you can train on a laptop in five minutes?",
+      "item_url": "https://seangoedecke.com/model-on-a-mbp/",
+      "time": "2025-08-12T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -456,6 +638,13 @@
       "time": "2025-08-07T15:20:58+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "OpenAI's new open-source model is basically Phi-5",
+      "item_url": "https://seangoedecke.com/gpt-oss-is-phi-5/",
+      "time": "2025-08-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "I Spent $500 To Test Devin AI For Prompt Injection So That You Don't Have To",
@@ -468,6 +657,13 @@
       "item_name": "Learn Rust by Reasoning with Code Agents",
       "item_url": "https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/",
       "time": "2025-08-06T01:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "AI interpretability has the same problems as philosophy of mind",
+      "item_url": "https://seangoedecke.com/philosophy-and-ai-interpretability/",
+      "time": "2025-08-06T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -512,11 +708,25 @@
       "time": "2025-08-02T07:31:58+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Why I don't allow AI-generated content on my blog",
+      "item_url": "https://seangoedecke.com/avoid-ai-writing/",
+      "time": "2025-08-02T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Exfiltrating Your ChatGPT Chat History and Memories With Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/chatgpt-chat-history-data-exfiltration/",
       "time": "2025-08-01T15:00:58+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Trying to impress people you don't respect",
+      "item_url": "https://seangoedecke.com/impressing-people/",
+      "time": "2025-08-01T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -526,11 +736,25 @@
       "time": "2025-07-31T00:00:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "The refusal problem in large language models",
+      "item_url": "https://seangoedecke.com/the-refusal-problem/",
+      "time": "2025-07-29T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "The Month of AI Bugs 2025",
       "item_url": "https://embracethered.com/blog/posts/2025/announcement-the-month-of-ai-bugs/",
       "time": "2025-07-28T17:20:58+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Can small AI models think as well as large ones?",
+      "item_url": "https://seangoedecke.com/cognitive-core/",
+      "time": "2025-07-27T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -547,11 +771,25 @@
       "time": "2025-07-25T00:00:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "What kind of work I want (in 2025)",
+      "item_url": "https://seangoedecke.com/my-engineering-values-2025/",
+      "time": "2025-07-25T00:00:00+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "RBIR: An Aurora DSQL story",
       "item_url": "https://xuanwo.io/links/2025/07/rbir_an_aurora_dsql_story/",
       "time": "2025-07-24T01:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Do not yell at the language model",
+      "item_url": "https://seangoedecke.com/do-not-yell-at-the-language-model/",
+      "time": "2025-07-24T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -575,10 +813,24 @@
       "time": "2025-07-20T04:21:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "The case for regulating AI companions",
+      "item_url": "https://seangoedecke.com/regulating-ai-companions/",
+      "time": "2025-07-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E200｜投资人视角深聊：AI Agent的核心壁垒与投资逻辑",
       "item_url": "https://sv101.fireside.fm/210",
+      "time": "2025-07-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "How to actually use Model Context Protocol",
+      "item_url": "https://seangoedecke.com/how-to-actually-use-mcp/",
       "time": "2025-07-17T00:00:00+00:00"
     },
     {
