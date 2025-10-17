@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html",
+      "time": "2025-10-17T00:10:56+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "chart: which host, which protocol",
@@ -314,13 +321,6 @@
       "item_name": "'Make invalid states unrepresentable' considered harmful",
       "item_url": "https://seangoedecke.com/invalid-states/",
       "time": "2025-09-08T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 364 期）：最难还原的魔方",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-364.html",
-      "time": "2025-09-05T00:13:30+00:00"
     },
     {
       "blog_id": "sean goedecke",
