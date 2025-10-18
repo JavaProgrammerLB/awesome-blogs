@@ -487,6 +487,10 @@
     "feed": "https://www.seangoedecke.com/rss.xml",
     "like": [
       {
+        "title": "What kind of work I want (in 2025)",
+        "url": "https://www.seangoedecke.com/my-engineering-values-2025/"
+      },
+      {
         "title": "If you are good at code review, you will be good at using AI agents",
         "url": "https://www.seangoedecke.com/ai-agents-and-code-review/"
       }
