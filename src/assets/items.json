@@ -792,6 +792,13 @@
       "time": "2025-07-24T00:00:00+00:00"
     },
     {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "记「乾坤大挪移」式使用双系统",
+      "item_url": "https://imtx.me/blog/macos-dual-boot/",
+      "time": "2025-07-23T02:37:04+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "《良好生活的哲学》读书笔记",
@@ -1268,6 +1275,13 @@
       "time": "2025-04-24T23:30:00+00:00"
     },
     {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "Now",
+      "item_url": "https://imtx.me/now/",
+      "time": "2025-04-24T06:02:49+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E188｜靠自学造火箭挑战SpaceX，Rocket Lab的太空版图",
@@ -1448,6 +1462,13 @@
       "item_name": "最受欢迎的内容创作工具目录",
       "item_url": "https://justin3go.com/posts/2025/03/22-turbo0-the-most-popular-content-creation-tools-directory",
       "time": "2025-03-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "开发 PopTranslate 背后的故事",
+      "item_url": "https://imtx.me/blog/the-story-behind-the-development-of-poptranslate/",
+      "time": "2025-03-21T06:20:06+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -2843,6 +2864,13 @@
       "time": "2024-04-30T08:30:00+00:00"
     },
     {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "把「开新坑」作为「心灵按摩」",
+      "item_url": "https://imtx.me/blog/starting-new-projects-as-spiritual-massage/",
+      "time": "2024-04-28T02:17:05+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "和朋友们在东京的愉快一日",
@@ -3151,6 +3179,13 @@
       "time": "2023-12-31T18:33:47+00:00"
     },
     {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "2023 年总结：向外连接与恢复成长的一年",
+      "item_url": "https://imtx.me/blog/2023-summary/",
+      "time": "2023-12-31T03:41:11+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "在美国拥有一辆 Tesla 的成本",
@@ -3270,6 +3305,13 @@
       "time": "2023-11-30T10:00:00+00:00"
     },
     {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "忆奶奶与我的二三事",
+      "item_url": "https://imtx.me/blog/in-memory-of-grandma/",
+      "time": "2023-11-27T15:51:55+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "关于笔记，笔记工具",
@@ -3366,6 +3408,13 @@
       "item_name": "奥地利湖区+德国国王湖之行 part3",
       "item_url": "http://blog.wraith615.xyz/articles/o5mbba0r8396a6cg",
       "time": "2023-11-05T03:30:29+00:00"
+    },
+    {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "谈谈定购 M3 Max 的 16 寸 MacBook Pro 后的一些想法",
+      "item_url": "https://imtx.me/blog/thoughts-after-ordering-16-inch-m3-max-macbook-pro/",
+      "time": "2023-11-02T12:48:45+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -3690,6 +3739,13 @@
       "time": "2023-06-15T09:39:17+00:00"
     },
     {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "PasteNow 2.12 发布（暨 618 优惠活动）",
+      "item_url": "https://imtx.me/blog/pastenow-212/",
+      "time": "2023-06-15T05:35:10+00:00"
+    },
+    {
       "blog_id": "yulu",
       "feed": "https://littlecheesecake.me/feed",
       "item_name": "屎壳郎，外卖和马屁精",
@@ -3793,6 +3849,13 @@
       "item_name": "[DDIA] Chapter 6 - Partition",
       "item_url": "https://littlecheesecake.me/blog1/2023/04/12/ddia-6.html",
       "time": "2023-04-12T02:00:00+00:00"
+    },
+    {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "PasteNow 两周年随感",
+      "item_url": "https://imtx.me/blog/pastenow-two-years-old/",
+      "time": "2023-04-10T02:47:08+00:00"
     },
     {
       "blog_id": "yulu",
@@ -3926,6 +3989,13 @@
       "item_name": "2023.01.26: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2023-01-26/",
       "time": "2023-01-25T17:26:45+00:00"
+    },
+    {
+      "blog_id": "图拉鼎",
+      "feed": "https://imtx.me/feed/latest/",
+      "item_name": "「阅读器」iPad mini 6 一年体验记",
+      "item_url": "https://imtx.me/blog/one-year-experience-of-ipad-mini-6/",
+      "time": "2023-01-24T06:41:01+00:00"
     },
     {
       "blog_id": "owenyoung",
