@@ -491,5 +491,17 @@
         "url": "https://www.seangoedecke.com/ai-agents-and-code-review/"
       }
     ]
+  },
+  {
+    "name": "Steve Turbek",
+    "url": "https://turbek.com/",
+    "describe": "《Mechanical Library》网站作者",
+    "avatar": "avatar.webp",
+    "like": [
+      {
+        "title": "Mechanical Library",
+        "url": "https://mechanical-library.org/"
+      }
+    ]
   }
 ]
