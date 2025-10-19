@@ -3,6 +3,13 @@
     {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "What have we learned about building agentic AI tools?",
+      "item_url": "https://seangoedecke.com/ideas-in-agentic-ai-tooling/",
+      "time": "2025-10-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "We are in the \"gentleman scientist\" era of AI research",
       "item_url": "https://seangoedecke.com/ai-and-informal-science/",
       "time": "2025-10-18T00:00:00+00:00"
@@ -825,13 +832,6 @@
       "item_name": "慢跑",
       "item_url": "https://blog.codingnow.com/2025/07/jogging.html",
       "time": "2025-07-20T04:21:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "The case for regulating AI companions",
-      "item_url": "https://seangoedecke.com/regulating-ai-companions/",
-      "time": "2025-07-19T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
