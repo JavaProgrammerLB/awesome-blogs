@@ -3914,6 +3914,13 @@
       "time": "2023-03-16T16:04:28+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "Three Levels of Information Perception",
+      "item_url": "https://geekplux.com/posts/information-perception",
+      "time": "2023-03-15T22:20:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "在 Cloudflare Workers 部署一个带有 Dashboard 的 Cron 服务",
@@ -5342,13 +5349,6 @@
       "time": "2017-09-19T00:00:00+00:00"
     },
     {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "netjsongraph.js – Google Summer of Code (GSoC) 2017 summary",
-      "item_url": "https://geekplux.com/posts/netjsongraph-js-google-summer-code-gsoc-2017-summary",
-      "time": "2017-08-26T22:45:00+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "高中时的地下刊物",
@@ -5508,13 +5508,6 @@
       "item_name": "你根本用不着退学",
       "item_url": "https://lutaonan.com/blog/you-dont-need-to-drop-out",
       "time": "2016-11-06T00:00:00+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "如何搭建一个私人网盘",
-      "item_url": "https://geekplux.com/posts/how-to-setup-a-personal-cloud",
-      "time": "2016-10-25T22:13:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -5767,6 +5760,13 @@
       "item_name": "告别社交网络有多难",
       "item_url": "https://geekplux.com/posts/farewell_social_network",
       "time": "2014-08-02T20:50:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "双拼学习记",
+      "item_url": "https://geekplux.com/posts/learn_shuangpin",
+      "time": "2014-07-06T22:59:00+00:00"
     },
     {
       "blog_id": "geekplux",
