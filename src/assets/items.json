@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #101 - 消失了三个月，我的生活发生了什么变化",
+      "item_url": "https://www.pseudoyu.com/posts/weekly_review_101",
+      "time": "2025-10-20T01:41:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "What have we learned about building agentic AI tools?",
@@ -3044,13 +3051,6 @@
       "item_name": "2024.03.03: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-03-03/",
       "time": "2024-03-03T13:28:53+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #53 - 空白的三个月、生活漂流与春节",
-      "item_url": "https://www.pseudoyu.com/zh/2024/02/29/weekly_review_20240229",
-      "time": "2024-02-29T11:13:26+00:00"
     },
     {
       "blog_id": "Anthony Fu",
