@@ -422,18 +422,6 @@
     "feed": "https://justin3go.com/feed.xml"
   },
   {
-    "name": "Dank",
-    "url": "https://dankying.com/posts/",
-    "avatar": "avatar/dank.png",
-    "feed": "https://dankying.com/index.xml",
-    "like": [
-      {
-        "title": "14个逻辑驱动的UI设计技巧，助您改善任何界面",
-        "url": "https://dankying.com/posts/20250701-14-logic-driven-ui-design-tips-to-improve-any-interface/"
-      }
-    ]
-  },
-  {
     "name": "Depp Wang",
     "url": "https://depp.wang/",
     "avatar": "avatar/deppwang.png",
