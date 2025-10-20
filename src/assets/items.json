@@ -8,6 +8,13 @@
       "time": "2025-10-20T01:41:00+00:00"
     },
     {
+      "blog_id": "Dank",
+      "feed": "https://dankying.com/index.xml",
+      "item_name": "Astro中使用Lucide图标时，AI一直在犯错。",
+      "item_url": "https://blog.dankying.com/posts/20251020-the-ai-just-kept-spitting-out-the-wrong-code-when-useing-lucide-in-astro/",
+      "time": "2025-10-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "What have we learned about building agentic AI tools?",
