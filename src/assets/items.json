@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "A royal gold medal",
+      "item_url": "https://daniel.haxx.se/blog/2025/10/21/a-royal-gold-medal/",
+      "time": "2025-10-21T06:30:03+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Should LLMs just treat text content as an image?",
+      "item_url": "https://seangoedecke.com/text-tokens-as-image-tokens/",
+      "time": "2025-10-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #101 - 消失了三个月，我的生活发生了什么变化",
@@ -59,7 +73,7 @@
     {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "How I provide technical clarity to non-technical leaders",
+      "item_name": "Providing technical clarity to non-technical leaders",
       "item_url": "https://seangoedecke.com/clarity/",
       "time": "2025-10-12T00:00:00+00:00"
     },
@@ -328,13 +342,6 @@
       "item_name": "The whole point of OpenAI's Responses API is to help them hide reasoning traces",
       "item_url": "https://seangoedecke.com/responses-api/",
       "time": "2025-09-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "giants, standing on the shoulders of",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/08/giants-standing-on-the-shoulders-of/",
-      "time": "2025-09-08T07:10:50+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -804,13 +811,6 @@
       "item_name": "RBIR: An Aurora DSQL story",
       "item_url": "https://xuanwo.io/links/2025/07/rbir_an_aurora_dsql_story/",
       "time": "2025-07-24T01:00:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Do not yell at the language model",
-      "item_url": "https://seangoedecke.com/do-not-yell-at-the-language-model/",
-      "time": "2025-07-24T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
