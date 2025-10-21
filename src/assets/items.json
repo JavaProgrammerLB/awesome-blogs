@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "错误处理：异常好于状态码",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
+      "time": "2025-10-21T16:28:41+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A royal gold medal",
@@ -293,13 +300,6 @@
       "item_name": "Developer of the year",
       "item_url": "https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/",
       "time": "2025-09-13T20:37:52+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 365 期）：流量变现正在崩塌",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-365.html",
-      "time": "2025-09-12T00:07:20+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
