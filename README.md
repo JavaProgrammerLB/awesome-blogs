@@ -210,11 +210,6 @@ Inkdrop（笔记SaaS）作者，独立开发者，沉浸式编程，看了他的
 
 2001年出生的，生活在重庆的独立开发者，前端工程师，喜欢摄影，喜欢打羽毛球
 
-## Dank
-<a href="https://dankying.com/posts/"><img src="src/assets/avatar/dank.png" width="300" height="auto" /></a>
-
-[[14个逻辑驱动的UI设计技巧，助您改善任何界面](https://dankying.com/posts/20250701-14-logic-driven-ui-design-tips-to-improve-any-interface/)]
-
 ## Depp Wang
 <a href="https://depp.wang/"><img src="src/assets/avatar/deppwang.png" width="300" height="auto" /></a>
 
