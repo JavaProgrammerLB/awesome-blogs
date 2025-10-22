@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E210｜日本“失去的30年”，炼成了中国餐厅排队王？",
+      "item_url": "https://sv101.fireside.fm/221",
+      "time": "2025-10-22T07:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "错误处理：异常好于状态码",
@@ -2666,13 +2673,6 @@
       "item_name": "27 岁的自白：成长是一件很扫兴的事",
       "item_url": "https://www.pseudoyu.com/zh/2024/06/06/yearly_review_27",
       "time": "2024-06-06T11:42:26+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E153｜聊聊被过度营销反噬的Sam Altman与OpenAI的深层危机",
-      "item_url": "https://sv101.fireside.fm/159",
-      "time": "2024-06-05T00:15:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
