@@ -1814,13 +1814,6 @@
       "time": "2024-12-31T16:00:00+00:00"
     },
     {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "我需要向这个世界证明什么吗？--个体户开发者的 5年",
-      "item_url": "http://haozes.me/blog/2025/01/01/5-years/",
-      "time": "2024-12-31T16:00:00+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "2024 年末回顾 - 不完美的日子",
@@ -2057,13 +2050,6 @@
       "item_name": "E171｜濒临破产的23andMe与基因检测行业的新旧交替",
       "item_url": "https://sv101.fireside.fm/178",
       "time": "2024-11-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "周一到周五跳绳，周末呢？",
-      "item_url": "http://haozes.me/blog/2024/11/06/toopoo-launched/",
-      "time": "2024-11-05T16:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -2941,13 +2927,6 @@
       "time": "2024-03-11T12:00:00+00:00"
     },
     {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "深蹲 App(DunDun) 重制版发布啦",
-      "item_url": "http://haozes.me/blog/2024/03/08/yaoyao-dundun-remaster/",
-      "time": "2024-03-07T16:00:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "The Magic in Shiki Magic Move",
@@ -3242,20 +3221,6 @@
       "time": "2023-11-23T16:55:43+00:00"
     },
     {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "用 YaoYao 在手表上给好友发一条语音吧",
-      "item_url": "http://haozes.me/blog/2023/11/20/yaoyao-voice/",
-      "time": "2023-11-19T16:00:00+00:00"
-    },
-    {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "Send a voice to a friend on your watch with YaoYao!",
-      "item_url": "http://haozes.me/blog/2023/11/20/yaoyao-voice-en/",
-      "time": "2023-11-19T16:00:00+00:00"
-    },
-    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "出海第一周，我的 GPTs 导航站🔥了",
@@ -3389,32 +3354,11 @@
       "time": "2023-10-05T08:00:00+00:00"
     },
     {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "打电脑，也要保持好坐姿(顶瓜瓜现已支持 MacOS)",
-      "item_url": "http://haozes.me/blog/2023/09/27/voicedict/",
-      "time": "2023-09-26T16:00:00+00:00"
-    },
-    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2023.09.10: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2023-09-10/",
       "time": "2023-09-09T16:26:47+00:00"
-    },
-    {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "YaoYao Jump Rope now supports iPad!",
-      "item_url": "http://haozes.me/blog/2023/09/06/yaoyao_ios17_en/",
-      "time": "2023-09-05T16:00:00+00:00"
-    },
-    {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "支持 iPad 的 YaoYao 跳绳来了",
-      "item_url": "http://haozes.me/blog/2023/09/06/yaoyao_ios17/",
-      "time": "2023-09-05T16:00:00+00:00"
     },
     {
       "blog_id": "yulu",
@@ -3884,20 +3828,6 @@
       "item_name": "AIGC – 图片与文字分享",
       "item_url": "https://daimajia.com/2023/01/03/aigc/",
       "time": "2023-01-03T09:42:12+00:00"
-    },
-    {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "2022 汪二的年终总结",
-      "item_url": "http://haozes.me/blog/2022/12/23/2022year/",
-      "time": "2022-12-22T16:00:00+00:00"
-    },
-    {
-      "blog_id": "汪二 (Haozes)",
-      "feed": "https://blog.yaoyaojumprope.com/feed.xml",
-      "item_name": "Sync YaoYao data to Samsung Health with Health Connect（Android）",
-      "item_url": "http://haozes.me/blog/2022/12/22/healthconnect_en/",
-      "time": "2022-12-21T16:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
