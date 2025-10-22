@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "AIxCC curl details",
+      "item_url": "https://daniel.haxx.se/blog/2025/10/22/aixcc-curl-details/",
+      "time": "2025-10-22T08:08:25+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E210｜日本“失去的30年”，炼成了中国餐厅排队王？",
@@ -328,13 +335,6 @@
       "item_name": "立即模式下的鼠标交互处理",
       "item_url": "https://blog.codingnow.com/2025/09/mouse_im_mode.html",
       "time": "2025-09-09T09:26:04+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "preparing for the worst",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/09/preparing-for-the-worst/",
-      "time": "2025-09-09T06:57:52+00:00"
     },
     {
       "blog_id": "Sam Altman",
