@@ -3,6 +3,13 @@
     {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "On 110 operating systems",
+      "item_url": "https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/",
+      "time": "2025-10-23T06:08:37+00:00"
+    },
+    {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "AIxCC curl details",
       "item_url": "https://daniel.haxx.se/blog/2025/10/22/aixcc-curl-details/",
       "time": "2025-10-22T08:08:25+00:00"
@@ -314,13 +321,6 @@
       "item_name": "Developer of the year",
       "item_url": "https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/",
       "time": "2025-09-13T20:37:52+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "curl 8.16.0",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/10/curl-8-16-0/",
-      "time": "2025-09-10T05:49:32+00:00"
     },
     {
       "blog_id": "刘泓君",
