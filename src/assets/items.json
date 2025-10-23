@@ -1,32 +1,11 @@
 {
   "items": [
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "AIxCC curl details",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/22/aixcc-curl-details/",
-      "time": "2025-10-22T08:08:25+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E210｜日本“失去的30年”，炼成了中国餐厅排队王？",
       "item_url": "https://sv101.fireside.fm/221",
       "time": "2025-10-22T07:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "错误处理：异常好于状态码",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
-      "time": "2025-10-21T16:28:41+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "A royal gold medal",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/21/a-royal-gold-medal/",
-      "time": "2025-10-21T06:30:03+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -57,32 +36,11 @@
       "time": "2025-10-18T00:00:00+00:00"
     },
     {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 369 期）：Tim 与罗永浩的对谈",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-369.html",
-      "time": "2025-10-17T00:10:56+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "chart: which host, which protocol",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/16/chart-which-host-which-protocol/",
-      "time": "2025-10-16T06:02:12+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
       "item_url": "https://sv101.fireside.fm/219",
       "time": "2025-10-13T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "炎热10月的自留地探索",
-      "item_url": "http://blog.wraith615.xyz/articles/tnd47obqdrz1te8i",
-      "time": "2025-10-12T13:29:55+00:00"
     },
     {
       "blog_id": "云风",
@@ -97,27 +55,6 @@
       "item_name": "Providing technical clarity to non-technical leaders",
       "item_url": "https://seangoedecke.com/clarity/",
       "time": "2025-10-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "A new breed of analyzers",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
-      "time": "2025-10-10T11:58:37+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 368 期）：不要这样管理软件团队",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html",
-      "time": "2025-10-10T00:08:05+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Notes on switching to Helix from vim",
-      "item_url": "https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/",
-      "time": "2025-10-10T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -148,39 +85,11 @@
       "time": "2025-10-05T07:06:12+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Sora update #1",
-      "item_url": "https://blog.samaltman.com/sora-update-number-1",
-      "time": "2025-10-04T00:37:50+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "How I influence tech company politics as a staff software engineer",
       "item_url": "https://seangoedecke.com/how-to-influence-politics/",
       "time": "2025-10-04T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "一天之内，智谱和 Anthropic 都发了最强编程模型",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html",
-      "time": "2025-10-01T11:05:15+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "How I maintain release notes for curl",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/",
-      "time": "2025-10-01T09:03:23+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Sora 2",
-      "item_url": "https://blog.samaltman.com/sora-2",
-      "time": "2025-09-30T17:13:47+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -204,13 +113,6 @@
       "time": "2025-09-27T00:00:00+00:00"
     },
     {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html",
-      "time": "2025-09-26T00:08:40+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Endless AI-generated Wikipedia",
@@ -232,25 +134,11 @@
       "time": "2025-09-24T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Abundant Intelligence",
-      "item_url": "https://blog.samaltman.com/abundant-intelligence",
-      "time": "2025-09-23T13:41:02+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "What I learned building an AI-driven spaced repetition app",
       "item_url": "https://seangoedecke.com/autodeck/",
       "time": "2025-09-23T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "CRA compliant curl",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/22/cra-compliant-curl/",
-      "time": "2025-09-22T07:57:31+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -274,27 +162,6 @@
       "time": "2025-09-20T00:00:00+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "Bye bye Kerberos FTP",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/19/bye-bye-kerberos-ftp/",
-      "time": "2025-09-19T06:23:25+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html",
-      "time": "2025-09-19T00:10:49+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "From suspicion to published curl CVE",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/",
-      "time": "2025-09-18T07:32:47+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E207｜智能体创业者们的成本突围与商业落地",
@@ -309,20 +176,6 @@
       "time": "2025-09-16T05:05:44+00:00"
     },
     {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "Developer of the year",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/13/developer-of-the-year/",
-      "time": "2025-09-13T20:37:52+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "curl 8.16.0",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/10/curl-8-16-0/",
-      "time": "2025-09-10T05:49:32+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E206｜临近机器人GPT-3时刻，具身智能开源模型的加速演进",
@@ -335,13 +188,6 @@
       "item_name": "立即模式下的鼠标交互处理",
       "item_url": "https://blog.codingnow.com/2025/09/mouse_im_mode.html",
       "time": "2025-09-09T09:26:04+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Jakub and Szymon",
-      "item_url": "https://blog.samaltman.com/jakub-and-szymon",
-      "time": "2025-09-09T00:10:22+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -981,13 +827,6 @@
       "time": "2025-06-26T01:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "New zine: The Secret Rules of the Terminal",
-      "item_url": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
-      "time": "2025-06-26T00:00:00+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #97 - 日本旅行小记",
@@ -1049,20 +888,6 @@
       "item_name": "Core 2 Duo - Beta Test Signup!",
       "item_url": "https://ericmigi.com/blog/core-2-duo-alphabeta-test-signup",
       "time": "2025-06-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Gentle Singularity",
-      "item_url": "https://blog.samaltman.com/the-gentle-singularity",
-      "time": "2025-06-10T21:12:47+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Using `make` to compile C programs (for non-C-programmers)",
-      "item_url": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
-      "time": "2025-06-10T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -1184,13 +1009,6 @@
       "time": "2025-05-12T00:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "松弛的泉州行（下）",
-      "item_url": "http://blog.wraith615.xyz/articles/a1j9y1dikoxe8i55",
-      "time": "2025-05-11T14:00:22+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "卡牌构筑类桌游核心规则之七",
@@ -1238,13 +1056,6 @@
       "item_name": "周报 #93 - 婚礼纪录片与失落的电影院",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_93",
       "time": "2025-04-28T02:22:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "松弛的泉州行（上)",
-      "item_url": "http://blog.wraith615.xyz/articles/kjkpm7csmgtejw6g",
-      "time": "2025-04-28T00:12:23+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -1308,13 +1119,6 @@
       "item_name": "谷歌 Agent2Agent（A2A）协议深度调研报告",
       "item_url": "https://justin3go.com/posts/2025/04/10-in-depth-research-report-google-agent2agent-a2a-protocol",
       "time": "2025-04-10T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "一些最近的世纪公园记录",
-      "item_url": "http://blog.wraith615.xyz/articles/0vptg08nmnw2tiz5",
-      "time": "2025-04-09T07:26:25+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1492,32 +1296,11 @@
       "time": "2025-03-12T12:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "迟到的2024总结",
-      "item_url": "http://blog.wraith615.xyz/articles/hx2oe1jd4iae2sww",
-      "time": "2025-03-10T14:36:00+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Where do you belong, system researchers?",
       "item_url": "https://xuanwo.io/links/2025/03/where-do-you-belong-system-researchers/",
       "time": "2025-03-10T01:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "上海迪士尼能看什么鸟？",
-      "item_url": "http://blog.wraith615.xyz/articles/p24yu3z64nmuyc6e",
-      "time": "2025-03-09T13:47:37+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Standards for ANSI escape codes",
-      "item_url": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
-      "time": "2025-03-07T00:00:00+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1583,13 +1366,6 @@
       "time": "2025-02-14T00:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "How to add a directory to your PATH",
-      "item_url": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
-      "time": "2025-02-13T12:27:56+00:00"
-    },
-    {
       "blog_id": "Corey Chiu",
       "feed": "https://coreychiu.com/feed",
       "item_name": "网站收录终极指南！让你的网站流量起飞！",
@@ -1602,13 +1378,6 @@
       "item_name": "Hacking Gemini's Memory with Prompt Injection and Delayed Tool Invocation",
       "item_url": "https://embracethered.com/blog/posts/2025/gemini-memory-persistence-prompt-injection/",
       "time": "2025-02-10T14:30:21+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Three Observations",
-      "item_url": "https://blog.samaltman.com/three-observations",
-      "time": "2025-02-09T21:05:32+00:00"
     },
     {
       "blog_id": "Randy",
@@ -1637,13 +1406,6 @@
       "item_name": "How to help us build open source Pebble software!",
       "item_url": "https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software",
       "time": "2025-02-06T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Some terminal frustrations",
-      "item_url": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
-      "time": "2025-02-05T16:57:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -1737,13 +1499,6 @@
       "time": "2025-01-17T00:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "What's involved in getting a \"modern\" terminal setup?",
-      "item_url": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
-      "time": "2025-01-11T09:46:01+00:00"
-    },
-    {
       "blog_id": "Corey Chiu",
       "feed": "https://coreychiu.com/feed",
       "item_name": "Next.js webpack.cache.PackFileCacheStrategy打包失败问题解决",
@@ -1770,13 +1525,6 @@
       "item_name": "E177｜“没有AI我会难受至极”：与大学生聊聊智能工具的依赖与适应",
       "item_url": "https://sv101.fireside.fm/184",
       "time": "2025-01-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Reflections",
-      "item_url": "https://blog.samaltman.com/reflections",
-      "time": "2025-01-06T01:37:29+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1884,20 +1632,6 @@
       "time": "2024-12-16T00:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "\"Rules\" that terminal programs follow",
-      "item_url": "https://jvns.ca/blog/2024/11/26/terminal-rules/",
-      "time": "2024-12-12T09:28:22+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "12月初探松江",
-      "item_url": "http://blog.wraith615.xyz/articles/a5wjckcet2pxdn24",
-      "time": "2024-12-12T08:16:23+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E175｜专访导演方励：人类没有未来",
@@ -1968,13 +1702,6 @@
       "time": "2024-11-29T18:22:09+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Why pipes sometimes get \"stuck\": buffering",
-      "item_url": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
-      "time": "2024-11-29T08:23:31+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #79 - 清迈旅居、曼谷之行与 Follow",
@@ -2003,13 +1730,6 @@
       "time": "2024-11-22T00:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Importing a frontend Javascript library without a build system",
-      "item_url": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
-      "time": "2024-11-18T09:35:42+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "RSSHub 开发实践 #01：Telegram 频道 RSS 订阅实现与部署方案",
@@ -2029,13 +1749,6 @@
       "item_name": "E172｜大选影响下的硅谷：比特币总统、逆行者与反觉醒文化",
       "item_url": "https://sv101.fireside.fm/179",
       "time": "2024-11-14T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "New microblog with TILs",
-      "item_url": "https://jvns.ca/blog/2024/11/09/new-microblog/",
-      "time": "2024-11-09T09:24:29+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -2066,13 +1779,6 @@
       "time": "2024-11-05T16:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "11月的南汇追风记",
-      "item_url": "http://blog.wraith615.xyz/articles/rtsvf5796gyxn92l",
-      "time": "2024-11-04T15:53:36+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "Follow —— 信息获取的另一种形态",
@@ -2087,25 +1793,11 @@
       "time": "2024-11-04T00:42:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "ASCII control characters in my terminal",
-      "item_url": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
-      "time": "2024-10-31T08:00:10+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #77 - 一间只属于自己的房间（对亲密关系的思考）",
       "item_url": "https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030",
       "time": "2024-10-30T00:42:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Using less memory to look up IP addresses in Mess With DNS",
-      "item_url": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
-      "time": "2024-10-27T07:47:04+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -2164,13 +1856,6 @@
       "time": "2024-10-09T00:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Some notes on upgrading Hugo",
-      "item_url": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
-      "time": "2024-10-07T09:19:57+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E168｜全息显示的AR眼镜真的来了，聊聊Meta Connect与日趋成熟的XR生态",
@@ -2178,39 +1863,11 @@
       "time": "2024-10-06T00:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Terminal colours are tricky",
-      "item_url": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
-      "time": "2024-10-01T10:01:44+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "西双版纳自然行 part5",
-      "item_url": "http://blog.wraith615.xyz/articles/nkqkl1u1mphyhqnx",
-      "time": "2024-09-30T23:38:18+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E167｜聊聊顶流网红做服装：卡戴珊与她的内衣王国Skims",
       "item_url": "https://sv101.fireside.fm/174",
       "time": "2024-09-29T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "西双版纳自然行 part4：植物园篇（下）",
-      "item_url": "http://blog.wraith615.xyz/articles/wbpx0agmibvksrku",
-      "time": "2024-09-28T14:26:38+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Some Go web dev notes",
-      "item_url": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
-      "time": "2024-09-27T11:16:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -2241,32 +1898,11 @@
       "time": "2024-09-17T19:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "西双版纳自然行 part3：植物园篇（上）",
-      "item_url": "http://blog.wraith615.xyz/articles/8sbp6nskh1sqrh3a",
-      "time": "2024-09-12T15:26:41+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Reasons I still love the fish shell",
-      "item_url": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
-      "time": "2024-09-12T15:09:12+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #72 - 滑板体验、Rust Conf 与 Follow 公测（含邀请码）",
       "item_url": "https://www.pseudoyu.com/zh/2024/09/08/weekly_review_20240908",
       "time": "2024-09-08T08:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "世纪公园秋迁开始",
-      "item_url": "http://blog.wraith615.xyz/articles/42rh3az79g47mrsz",
-      "time": "2024-09-07T13:01:11+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -2311,13 +1947,6 @@
       "time": "2024-08-25T00:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "西双版纳自然行 part2",
-      "item_url": "http://blog.wraith615.xyz/articles/gx1yhe8v65iarcmi",
-      "time": "2024-08-24T08:36:40+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Google AI Studio: LLM-Powered Data Exfiltration Hits Again! Quickly Fixed.",
@@ -2332,13 +1961,6 @@
       "time": "2024-08-22T00:00:00+00:00"
     },
     {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Migrating Mess With DNS to use PowerDNS",
-      "item_url": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
-      "time": "2024-08-19T08:15:28+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #69 - AI Coding 体验与学习的源动力",
@@ -2351,13 +1973,6 @@
       "item_name": "周报 #68 - 关于写博客这件事与我生活的色彩",
       "item_url": "https://www.pseudoyu.com/zh/2024/08/18/weekly_review_20240818",
       "time": "2024-08-17T21:30:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "西双版纳自然行 part1",
-      "item_url": "http://blog.wraith615.xyz/articles/irq4wxn6ox97qws7",
-      "time": "2024-08-16T14:26:35+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -2393,13 +2008,6 @@
       "item_name": "使用 GoatCounter 与 Zeabur 搭建网站数据统计系统",
       "item_url": "https://www.pseudoyu.com/zh/2024/08/06/deploy_web_statistics_system_using_goatcounter_and_zeabur",
       "time": "2024-08-06T11:00:42+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Go structs are copied on assignment (and other things about Go I'd missed)",
-      "item_url": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
-      "time": "2024-08-06T08:38:35+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2458,13 +2066,6 @@
       "time": "2024-07-21T17:10:42+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "7月的南汇：鸟荒中的观鸟观虫之旅",
-      "item_url": "http://blog.wraith615.xyz/articles/oryxu3itvsigcq4n",
-      "time": "2024-07-21T10:52:56+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #65 - Adventure X 体验、Apple Notes 笔记实践与 EpubKit",
@@ -2479,25 +2080,11 @@
       "time": "2024-07-20T00:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "老头环 DLC！part2",
-      "item_url": "http://blog.wraith615.xyz/articles/hxbmz5g7g417gmwf",
-      "time": "2024-07-17T13:32:09+00:00"
-    },
-    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2024.07.15: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-07-15/",
       "time": "2024-07-14T16:31:04+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "老头环 DLC！堂堂开始！",
-      "item_url": "http://blog.wraith615.xyz/articles/b04tioeu919i1yys",
-      "time": "2024-07-12T00:25:18+00:00"
     },
     {
       "blog_id": "勾股",
@@ -2526,13 +2113,6 @@
       "item_name": "Sorry, ChatGPT Is Under Maintenance: Persistent Denial of Service through Prompt Injection and Memory Attacks",
       "item_url": "https://embracethered.com/blog/posts/2024/chatgpt-persistent-denial-of-service/",
       "time": "2024-07-08T21:30:18+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Entering text in the terminal is complicated",
-      "item_url": "https://jvns.ca/blog/2024/07/08/readline/",
-      "time": "2024-07-08T13:00:15+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2759,13 +2339,6 @@
       "time": "2024-05-14T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "GPT-4o",
-      "item_url": "https://blog.samaltman.com/gpt-4o",
-      "time": "2024-05-13T17:39:38+00:00"
-    },
-    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "友情、爱情、亲情三足鼎立，上面插着燃烧的青春",
@@ -2794,13 +2367,6 @@
       "time": "2024-04-28T02:17:05+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "和朋友们在东京的愉快一日",
-      "item_url": "http://blog.wraith615.xyz/articles/n6zgxlc3xvxumqsj",
-      "time": "2024-04-23T16:18:35+00:00"
-    },
-    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "什么是 NAS？如何低成本玩 NAS？",
@@ -2820,13 +2386,6 @@
       "item_name": "Initiative on Sponsorship Forwarding",
       "item_url": "https://antfu.me/posts/sponsorship-forwarding",
       "time": "2024-04-20T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "二岐鹿角蕨上板记",
-      "item_url": "http://blog.wraith615.xyz/articles/t0og0gvcn72p5pjb",
-      "time": "2024-04-14T09:57:45+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -2869,13 +2428,6 @@
       "item_name": "Introducing ESLint Config Inspector",
       "item_url": "https://antfu.me/posts/eslint-config-inspector",
       "time": "2024-04-05T16:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "春季的夜晚，在后滩散步",
-      "item_url": "http://blog.wraith615.xyz/articles/g0jr2buk6v5em6u7",
-      "time": "2024-03-31T13:29:19+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -3032,13 +2584,6 @@
       "time": "2024-01-15T02:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "一些22-23年的读书记录",
-      "item_url": "http://blog.wraith615.xyz/articles/yu3szo2k330x8pf3",
-      "time": "2024-01-14T02:47:50+00:00"
-    },
-    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "2024，我想开一门 AI 应用全栈开发课",
@@ -3116,20 +2661,6 @@
       "time": "2023-12-22T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "What I Wish Someone Had Told Me",
-      "item_url": "https://blog.samaltman.com/what-i-wish-someone-had-told-me",
-      "time": "2023-12-21T22:44:25+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "12月南京赏秋之旅",
-      "item_url": "http://blog.wraith615.xyz/articles/laj1rcv4vmv9ix9d",
-      "time": "2023-12-21T06:52:49+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Beeper – Moving Forward",
@@ -3149,27 +2680,6 @@
       "item_name": "TwoSlash with Shiki",
       "item_url": "https://antfu.me/posts/shikiji-twoslash",
       "time": "2023-12-12T16:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "奥德之行番外-森林里的自然观察",
-      "item_url": "http://blog.wraith615.xyz/articles/vbjyitcsj4jcffar",
-      "time": "2023-12-09T15:55:24+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "奥地利湖区+德国国王湖之行 part5",
-      "item_url": "http://blog.wraith615.xyz/articles/p215bt0fzcrurw3e",
-      "time": "2023-12-09T14:24:21+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "梦魇梦语 01",
-      "item_url": "http://blog.wraith615.xyz/articles/x3n3dzsi0jtsttuz",
-      "time": "2023-12-06T04:45:27+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -3270,13 +2780,6 @@
       "time": "2023-11-18T00:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "奥地利湖区+德国国王湖之行 part4",
-      "item_url": "http://blog.wraith615.xyz/articles/ehgtdgg0rx5a5nf5",
-      "time": "2023-11-17T13:52:26+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Nuxt Devtools v1.0",
@@ -3284,25 +2787,11 @@
       "time": "2023-11-13T16:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "上海植物园11月散步行",
-      "item_url": "http://blog.wraith615.xyz/articles/szkv7zo6z6d4vb1y",
-      "time": "2023-11-12T15:39:37+00:00"
-    },
-    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "创建一个可调用第三方 API 的 gpts 应用",
       "item_url": "https://idoubi.cv/blogs/how-to-create-gpts",
       "time": "2023-11-10T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "奥地利湖区+德国国王湖之行 part3",
-      "item_url": "http://blog.wraith615.xyz/articles/o5mbba0r8396a6cg",
-      "time": "2023-11-05T03:30:29+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -3319,20 +2808,6 @@
       "time": "2023-10-28T08:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "奥地利湖区+德国国王湖之行 part2",
-      "item_url": "http://blog.wraith615.xyz/articles/1z0439qn7bgmn5ak",
-      "time": "2023-10-25T14:55:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "奥地利湖区+德国国王湖之行 part1",
-      "item_url": "http://blog.wraith615.xyz/articles/hp67sgircs7j3gfm",
-      "time": "2023-10-23T14:54:00+00:00"
-    },
-    {
       "blog_id": "yulu",
       "feed": "https://littlecheesecake.me/feed",
       "item_name": "学习的本质",
@@ -3345,34 +2820,6 @@
       "item_name": "Now, and the Future of Nuxt Devtools",
       "item_url": "https://antfu.me/posts/now-and-future-devtools-nuxt-nation-2023",
       "time": "2023-10-18T08:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "玉带凤蝶饲养记录",
-      "item_url": "http://blog.wraith615.xyz/articles/sv1ukbtbn5mb6p2g",
-      "time": "2023-10-18T02:11:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "小白建站杂记",
-      "item_url": "http://blog.wraith615.xyz/articles/itvxfwq868ygg25d",
-      "time": "2023-10-17T04:48:58+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "不太完整的咖啡透翅天蛾饲养记录",
-      "item_url": "http://blog.wraith615.xyz/articles/3xhtk7dy31sibroh",
-      "time": "2023-10-16T16:49:01+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "游戏：Darksouls 通关感想",
-      "item_url": "http://blog.wraith615.xyz/articles/cd4tqaz3gicp5qhh",
-      "time": "2023-10-16T15:19:07+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -3436,13 +2883,6 @@
       "item_name": "对“假开源”事件的反省",
       "item_url": "https://www.owenyoung.com/blog/fake-open-source/",
       "time": "2023-08-05T16:26:25+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "上海植物园夏季散步行",
-      "item_url": "http://blog.wraith615.xyz/articles/3shgthq05n4cm56v",
-      "time": "2023-08-05T12:41:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -3515,13 +2955,6 @@
       "time": "2023-07-10T05:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "7月后滩夜观",
-      "item_url": "http://blog.wraith615.xyz/articles/00e90pnhfe7pt38p",
-      "time": "2023-07-03T12:40:00+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "在清迈冥想学习 7 天后，我不再「追求」幸福",
@@ -3576,13 +3009,6 @@
       "item_name": "我要是有钱...",
       "item_url": "https://www.owenyoung.com/blog/basic-income/",
       "time": "2023-06-23T17:38:22+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "6月后滩自然观察",
-      "item_url": "http://blog.wraith615.xyz/articles/g5gr6gr3yrjg8hbu",
-      "time": "2023-06-22T10:06:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -4012,13 +3438,6 @@
       "time": "2022-07-15T07:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Helion Needs You",
-      "item_url": "https://blog.samaltman.com/helion-needs-you",
-      "time": "2022-07-13T15:47:32+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Rethinking Pessimism",
@@ -4066,13 +3485,6 @@
       "item_name": "新交规科目一知识导图速记",
       "item_url": "https://daimajia.com/2022/04/07/kemu1/",
       "time": "2022-04-07T00:47:03+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "DALL•E 2",
-      "item_url": "https://blog.samaltman.com/dall-star-e-2",
-      "time": "2022-04-06T18:15:13+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
@@ -4124,13 +3536,6 @@
       "time": "2021-11-18T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Helion",
-      "item_url": "https://blog.samaltman.com/helion",
-      "time": "2021-11-05T13:39:16+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Icons in Pure CSS",
@@ -4157,13 +3562,6 @@
       "item_name": "再谈辍学",
       "item_url": "https://lutaonan.com/blog/talking-about-dropout-again",
       "time": "2021-10-20T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "2021-10月浙江爬山自然记录",
-      "item_url": "http://blog.wraith615.xyz/articles/ycwb0vg79nwh4lta",
-      "time": "2021-10-08T09:00:00+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
@@ -4362,20 +3760,6 @@
       "time": "2021-01-02T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Strength of Being Misunderstood",
-      "item_url": "https://blog.samaltman.com/the-strength-of-being-misunderstood",
-      "time": "2020-12-01T18:56:39+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "PG and Jessica",
-      "item_url": "https://blog.samaltman.com/pg-and-jessica",
-      "time": "2020-09-25T14:45:50+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "我的时间管理系统",
@@ -4411,27 +3795,6 @@
       "time": "2020-07-09T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Researchers and Founders",
-      "item_url": "https://blog.samaltman.com/researchers-and-founders",
-      "time": "2020-06-19T17:39:12+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Project Covalence",
-      "item_url": "https://blog.samaltman.com/project-covalence",
-      "time": "2020-06-16T17:08:44+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Idea Generation",
-      "item_url": "https://blog.samaltman.com/idea-generation",
-      "time": "2020-05-28T19:12:40+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "离开阿里巴巴",
@@ -4460,13 +3823,6 @@
       "time": "2020-04-20T17:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Please Fund More Science",
-      "item_url": "https://blog.samaltman.com/please-fund-more-science",
-      "time": "2020-03-30T17:46:36+00:00"
-    },
-    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "小谈我对新技术的态度",
@@ -4474,32 +3830,11 @@
       "time": "2020-03-26T09:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Funding for COVID-19 Projects",
-      "item_url": "https://blog.samaltman.com/funding-for-covid-19-projects",
-      "time": "2020-03-15T16:31:23+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Virus",
-      "item_url": "https://blog.samaltman.com/the-virus",
-      "time": "2020-03-07T18:58:55+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "好产品帮助用户变得更好 - 读 Badass: Making Users Awesome",
       "item_url": "https://lutaonan.com/blog/read-badass-making-users-awesome",
       "time": "2020-03-01T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Hard Startups",
-      "item_url": "https://blog.samaltman.com/hard-startups",
-      "time": "2020-02-26T18:28:47+00:00"
     },
     {
       "blog_id": "geekplux",
@@ -4521,13 +3856,6 @@
       "item_name": "复式记账、财报、量化与图论",
       "item_url": "https://geekplux.com/posts/accounting-earnings-report-graph-theory",
       "time": "2020-01-16T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "How To Invest In Startups",
-      "item_url": "https://blog.samaltman.com/how-to-invest-in-startups",
-      "time": "2020-01-13T16:41:14+00:00"
     },
     {
       "blog_id": "Randy",
@@ -4747,13 +4075,6 @@
       "time": "2019-01-27T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "How To Be Successful",
-      "item_url": "https://blog.samaltman.com/how-to-be-successful",
-      "time": "2019-01-24T21:01:07+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "健身一年",
@@ -4880,13 +4201,6 @@
       "time": "2018-07-05T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Reinforcement Learning Progress",
-      "item_url": "https://blog.samaltman.com/reinforcement-learning-progress",
-      "time": "2018-06-25T16:10:37+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "初心",
@@ -4894,25 +4208,11 @@
       "time": "2018-06-16T00:00:00+00:00"
     },
     {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "US Digital Currency",
-      "item_url": "https://blog.samaltman.com/us-digital-currency",
-      "time": "2018-05-10T17:07:07+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Announcing Startup School Beijing",
       "item_url": "https://ericmigi.com/blog/announcing-startup-school-beijing",
       "time": "2018-04-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "Productivity",
-      "item_url": "https://blog.samaltman.com/productivity",
-      "time": "2018-04-10T16:18:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -4948,34 +4248,6 @@
       "item_name": "2017 年终总结",
       "item_url": "https://lutaonan.com/blog/2017-summary",
       "time": "2018-01-03T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "A Clarification",
-      "item_url": "https://blog.samaltman.com/a-clarification",
-      "time": "2017-12-16T19:00:42+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "E Pur Si Muove",
-      "item_url": "https://blog.samaltman.com/e-pur-si-muove",
-      "time": "2017-12-14T17:12:38+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "The Merge",
-      "item_url": "https://blog.samaltman.com/the-merge",
-      "time": "2017-12-07T16:56:28+00:00"
-    },
-    {
-      "blog_id": "Sam Altman",
-      "feed": "https://blog.samaltman.com/posts.atom",
-      "item_name": "American Equity",
-      "item_url": "https://blog.samaltman.com/american-equity",
-      "time": "2017-11-27T17:24:42+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
