@@ -99,6 +99,13 @@
       "time": "2025-10-16T06:02:12+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "The scariest “user support” email I’ve ever received",
+      "item_url": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
+      "time": "2025-10-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
@@ -125,6 +132,13 @@
       "item_name": "Providing technical clarity to non-technical leaders",
       "item_url": "https://seangoedecke.com/clarity/",
       "time": "2025-10-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Discovering the joy of driving as a long-time paper driver",
+      "item_url": "https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/",
+      "time": "2025-10-11T00:00:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -295,6 +309,20 @@
       "time": "2025-09-22T01:00:00+00:00"
     },
     {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "PyCome",
+      "item_url": "https://frostming.com/2025/pycon/",
+      "time": "2025-09-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "Notes on Pycon2025",
+      "item_url": "https://blog.yihong0618.me/issue-327/",
+      "time": "2025-09-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "AI is good news for Australian and European software engineers",
@@ -379,6 +407,13 @@
       "time": "2025-09-09T00:00:00+00:00"
     },
     {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "从错误中学习",
+      "item_url": "https://blog.yihong0618.me/issue-326/",
+      "time": "2025-09-08T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "'Make invalid states unrepresentable' considered harmful",
@@ -391,6 +426,13 @@
       "item_name": "An unofficial FAQ for Stripe's new \"Tempo\" blockchain",
       "item_url": "https://seangoedecke.com/tempo-faq/",
       "time": "2025-09-05T00:00:00+00:00"
+    },
+    {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "一次艰难的 cpython issue 排查过程，以及我学到了什么",
+      "item_url": "https://blog.yihong0618.me/issue-325/",
+      "time": "2025-09-04T00:00:00+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -426,6 +468,20 @@
       "item_name": "Windsurf MCP Integration: Missing Security Controls Put Users at Risk",
       "item_url": "https://embracethered.com/blog/posts/2025/windsurf-dangers-lack-of-security-controls-for-mcp-server-tool-invocation/",
       "time": "2025-08-28T19:20:58+00:00"
+    },
+    {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "八月",
+      "item_url": "https://blog.yihong0618.me/issue-324/",
+      "time": "2025-08-28T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Zen: Why Inkdrop never extends Markdown syntax",
+      "item_url": "https://www.devas.life/zen-why-inkdrop-never-extends-markdown-syntax/",
+      "time": "2025-08-28T00:00:00+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -792,6 +848,13 @@
       "time": "2025-08-01T15:00:58+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more",
+      "item_url": "https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/",
+      "time": "2025-08-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Trying to impress people you don't respect",
@@ -876,6 +939,13 @@
       "time": "2025-07-22T17:46:07+00:00"
     },
     {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "从给 Greptime 贡献代码的过程中，我都学到了什么",
+      "item_url": "https://blog.yihong0618.me/issue-320/",
+      "time": "2025-07-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #99 - 离开 RSS3，迷茫与重启人生",
@@ -895,6 +965,13 @@
       "item_name": "E200｜投资人视角深聊：AI Agent的核心壁垒与投资逻辑",
       "item_url": "https://sv101.fireside.fm/210",
       "time": "2025-07-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Agentic coding made programming fun again",
+      "item_url": "https://www.devas.life/agentic-coding-made-programming-fun-again/",
+      "time": "2025-07-16T00:00:00+00:00"
     },
     {
       "blog_id": "Hawstein",
@@ -943,6 +1020,13 @@
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 Coral：去体验只此一次的人生",
       "item_url": "https://hawstein.com/2025/07/11/live-your-one-and-only-life/",
+      "time": "2025-07-11T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How to automate signing your Windows app with Certum's SimplySign app",
+      "item_url": "https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/",
       "time": "2025-07-11T00:00:00+00:00"
     },
     {
@@ -1114,6 +1198,13 @@
       "time": "2025-06-21T00:00:00+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How to automate development journaling with Claude Code",
+      "item_url": "https://www.devas.life/how-to-automate-development-journaling-with-claude-code/",
+      "time": "2025-06-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E197｜七大模型多模态之争，AI如何改变动漫产业？",
@@ -1219,6 +1310,13 @@
       "time": "2025-06-05T00:00:00+00:00"
     },
     {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "Notes on May",
+      "item_url": "https://blog.yihong0618.me/issue-318/",
+      "time": "2025-06-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E193｜吃益生菌是智商税吗？全面复盘肠道健康迷思",
@@ -1310,6 +1408,13 @@
       "time": "2025-05-11T14:00:22+00:00"
     },
     {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "河南行拾遗",
+      "item_url": "https://frostming.com/2025/henan/",
+      "time": "2025-05-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "卡牌构筑类桌游核心规则之七",
@@ -1343,6 +1448,13 @@
       "item_name": "My new podcast: Tick Talk + Core 2 Duo demo",
       "item_url": "https://ericmigi.com/blog/i-started-a-podcast-called-tick-talk",
       "time": "2025-05-01T00:00:00+00:00"
+    },
+    {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "Things I like",
+      "item_url": "https://blog.yihong0618.me/issue-311/",
+      "time": "2025-04-29T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -1380,6 +1492,13 @@
       "time": "2025-04-24T06:02:49+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "What I did for upgrading React Native to 0.79.1 from 0.74.2",
+      "item_url": "https://www.devas.life/what-i-did-for-upgrading-react-native-to-0-79-1-from-0-74-2/",
+      "time": "2025-04-23T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E188｜靠自学造火箭挑战SpaceX，Rocket Lab的太空版图",
@@ -1394,11 +1513,25 @@
       "time": "2025-04-22T02:45:00+00:00"
     },
     {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "我的 35 岁",
+      "item_url": "https://blog.yihong0618.me/issue-309/",
+      "time": "2025-04-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #91 - 一席、消失的时代与自由意志",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_91",
       "time": "2025-04-15T23:04:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How to animate a TanStack Virtual list with motion (rev. 2)",
+      "item_url": "https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion-rev-2/",
+      "time": "2025-04-15T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -1541,6 +1674,13 @@
       "time": "2025-03-25T23:00:00+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How I implemented TOTP-based 2FA for my Markdown note app",
+      "item_url": "https://www.devas.life/how-i-implemented-totp-based-2fa-for-my-markdown-note-app/",
+      "time": "2025-03-25T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #88 - 方大同、《回留》与人生清单",
@@ -1581,6 +1721,13 @@
       "item_name": "周报 #87 - 我们主持了自己的宝可梦婚礼，还为它办了一个展",
       "item_url": "https://www.pseudoyu.com/zh/2025/03/18/weekly_review_87",
       "time": "2025-03-18T10:10:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Answering dev questions based on my tech notes using MCP + Claude",
+      "item_url": "https://www.devas.life/answering-dev-questions-based-on-my-tech-notes-using-mcp-claude/",
+      "time": "2025-03-18T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -1639,6 +1786,13 @@
       "time": "2025-03-12T12:00:00+00:00"
     },
     {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "连续跑了 365 天",
+      "item_url": "https://blog.yihong0618.me/issue-306/",
+      "time": "2025-03-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "Nicholas Carlini",
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "What my privacy papers (don't) have to say about copyright and generative AI",
@@ -1674,6 +1828,13 @@
       "time": "2025-03-07T00:00:00+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Integrating my note app with Claude's MCP",
+      "item_url": "https://www.devas.life/integrating-my-note-app-with-claudes-mcp/",
+      "time": "2025-03-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "MCP Server OpenDAL",
@@ -1685,6 +1846,13 @@
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "Career Update: Google DeepMind -> Anthropic",
       "item_url": "https://nicholas.carlini.com/writing/2025/career-update.html",
+      "time": "2025-03-05T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "再也别问 Singleton 了好吗？",
+      "item_url": "https://frostming.com/2025/singleton/",
       "time": "2025-03-05T00:00:00+00:00"
     },
     {
@@ -1723,6 +1891,13 @@
       "time": "2025-02-28T00:00:00+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How to animate a TanStack Virtual list with Motion",
+      "item_url": "https://www.devas.life/how-to-animate-a-tanstack-virtual-list-with-motion/",
+      "time": "2025-02-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "AI 辅助编程的崛起意味着什么？",
@@ -1735,6 +1910,13 @@
       "item_name": "E181｜聊天的艺术：如何打造高情商的AI机器人？",
       "item_url": "https://sv101.fireside.fm/189",
       "time": "2025-02-26T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How I efficiently built a browser extension",
+      "item_url": "https://www.devas.life/how-i-efficiently-built-a-browser-extension/",
+      "time": "2025-02-21T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -1835,6 +2017,13 @@
       "time": "2025-02-05T00:00:00+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Supporting iOS Share Extensions & Android Intents on React Native",
+      "item_url": "https://www.devas.life/supporting-ios-share-extensions-android-intents-on-react-native/",
+      "time": "2025-02-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #86 - 用影像打败时间",
@@ -1854,6 +2043,13 @@
       "item_name": "周报 #84 - 想起他们 Echos of Reverie",
       "item_url": "https://www.pseudoyu.com/zh/2025/02/03/weekly_review_84",
       "time": "2025-02-02T16:57:00+00:00"
+    },
+    {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "最近给开源项目贡献的记录",
+      "item_url": "https://blog.yihong0618.me/issue-304/",
+      "time": "2025-01-27T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -1891,6 +2087,13 @@
       "time": "2025-01-26T00:00:00+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "I will not care about numbers for my indie dev in 2025",
+      "item_url": "https://www.devas.life/i-will-not-care-about-numbers-for-my-indie-dev-in-2025/",
+      "time": "2025-01-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
@@ -1924,6 +2127,13 @@
       "item_name": "What's involved in getting a \"modern\" terminal setup?",
       "item_url": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
       "time": "2025-01-11T09:46:01+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "New wallpaper pack: Textures of Kyoto",
+      "item_url": "https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/",
+      "time": "2025-01-09T00:00:00+00:00"
     },
     {
       "blog_id": "Corey Chiu",
@@ -2052,10 +2262,24 @@
       "time": "2024-12-28T00:00:00+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How to create beautiful glowing components on React Native 0.76+",
+      "item_url": "https://www.devas.life/how-to-create-beautiful-glowing-components-on-react-native-0-76/",
+      "time": "2024-12-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "Nicholas Carlini",
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "Letting Language Models Write my Website",
       "item_url": "https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html",
+      "time": "2024-12-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "The Roadmap of Inkdrop vol.6",
+      "item_url": "https://www.devas.life/the-roadmap-of-inkdrop-vol-6/",
       "time": "2024-12-25T00:00:00+00:00"
     },
     {
@@ -2064,6 +2288,13 @@
       "item_name": "Trust No AI: Prompt Injection Along the CIA Security Triad Paper",
       "item_url": "https://embracethered.com/blog/posts/2024/trust-no-ai-prompt-injection-along-the-cia-security-triad-paper/",
       "time": "2024-12-24T00:30:53+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "我的 2024",
+      "item_url": "https://frostming.com/2024/review/",
+      "time": "2024-12-24T00:00:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -2078,6 +2309,13 @@
       "item_name": "E176｜SpaceX 的商业版图与太空经济的崛起",
       "item_url": "https://sv101.fireside.fm/183",
       "time": "2024-12-20T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "一个 monkeypatch 引起的循环引用问题",
+      "item_url": "https://frostming.com/2024/circular-ref-monkeypatch/",
+      "time": "2024-12-18T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -2290,6 +2528,13 @@
       "time": "2024-11-08T00:00:00+00:00"
     },
     {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "功不唐捐",
+      "item_url": "https://frostming.com/2024/efforts/",
+      "time": "2024-11-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E171｜濒临破产的23andMe与基因检测行业的新旧交替",
@@ -2386,6 +2631,13 @@
       "item_name": "周报 #74 - 清迈异闻录",
       "item_url": "https://www.pseudoyu.com/zh/2024/10/21/weekly_review_202401021",
       "time": "2024-10-21T00:20:00+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "表达的阈值",
+      "item_url": "https://frostming.com/2024/express-threshold/",
+      "time": "2024-10-20T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -2715,6 +2967,13 @@
       "item_name": "Google Colab AI: Data Leakage Through Image Rendering Fixed. Some Risks Remain.",
       "item_url": "https://embracethered.com/blog/posts/2024/google-colab-image-render-exfil/",
       "time": "2024-07-25T05:00:25+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "《21世纪》与主流文化",
+      "item_url": "https://frostming.com/2024/21-centry-trend/",
+      "time": "2024-07-24T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -5739,6 +5998,13 @@
       "item_name": "The Effective Engineer",
       "item_url": "https://linghao.io/notes/the-effective-engineer",
       "time": "2018-10-16T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo",
+      "item_url": "https://www.devas.life/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/",
+      "time": "2018-10-15T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
