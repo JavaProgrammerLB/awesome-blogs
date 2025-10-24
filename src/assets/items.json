@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 370 期）：正确的代码高亮",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html",
+      "time": "2025-10-24T00:18:03+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E211｜站在内容创作者与机器人的交界处：聊聊3D数字人的进化",
+      "item_url": "https://sv101.fireside.fm/222",
+      "time": "2025-10-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "On 110 operating systems",
@@ -286,13 +300,6 @@
       "item_name": "Bye bye Kerberos FTP",
       "item_url": "https://daniel.haxx.se/blog/2025/09/19/bye-bye-kerberos-ftp/",
       "time": "2025-09-19T06:23:25+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 366 期）：旧金山疯狂的 AI 广告",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-366.html",
-      "time": "2025-09-19T00:10:49+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -2652,13 +2659,6 @@
       "item_name": "实现 GPT-4o 使用自由",
       "item_url": "https://depp.wang/2024/gpt4o-free-use/",
       "time": "2024-06-11T13:11:41+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E154｜一己之力拉动全球经济的Taylor Swift：她如何成为音乐界顶流？",
-      "item_url": "https://sv101.fireside.fm/160",
-      "time": "2024-06-11T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
