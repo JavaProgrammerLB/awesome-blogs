@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "xuanwo",
+      "feed": "https://xuanwo.io/index.xml",
+      "item_name": "How I Coding? (Oct 2025 Edition)",
+      "item_url": "https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/",
+      "time": "2025-10-24T01:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 370 期）：正确的代码高亮",
@@ -1861,13 +1868,6 @@
       "item_name": "E182｜影子美元与金融新秩序：起底全球人均最赚钱的公司Tether",
       "item_url": "https://sv101.fireside.fm/190",
       "time": "2025-03-05T00:00:00+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "ArchLinux removed deprecated repo community",
-      "item_url": "https://xuanwo.io/links/2025/03/archlinux-removed-deprecated-repo-community/",
-      "time": "2025-03-03T01:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
