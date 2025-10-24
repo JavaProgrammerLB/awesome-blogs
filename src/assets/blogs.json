@@ -256,6 +256,7 @@
     "url": "https://sharonbrizinov.com/",
     "describe": "一个从git误提交密码中赚了6.4万美元的安全研究员",
     "avatar": "avatar/sharonbrizinov.webp",
+    "feed": "https://feeds.yitianyigexiangfa.com/SharonBrizinov.xml",
     "like": [
       {
         "title": "How I Made $64K from Deleted Files: A Bug Bounty Story",
@@ -343,6 +344,7 @@
     "url": "https://blog.yihong0618.me/",
     "describe": "一个生活在大连喜欢使用github的沈阳人、开发者",
     "avatar": "avatar.webp",
+    "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
     "like": [
       {
         "title": "连续跑了 365 天",
@@ -355,6 +357,7 @@
     "url": "https://frostming.com/",
     "describe": "python开发者,和yetone都在BentoML工作",
     "avatar": "avatar.webp",
+    "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
     "like": [
       {
         "title": "我「接见」了诺奖得主",
@@ -393,6 +396,7 @@
     "url": "https://www.devas.life/",
     "describe": "Inkdrop（笔记SaaS）作者，独立开发者，沉浸式编程，看了他的youtube视频让我静下心来安心写代码",
     "avatar": "avatar/takuya_matsuyama.webp",
+    "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
     "like": [
       {
         "title": "For beginners: How to create a 'link in bio' page for Instagram (No frameworks)",
