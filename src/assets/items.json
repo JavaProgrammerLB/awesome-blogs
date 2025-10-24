@@ -85,6 +85,13 @@
       "time": "2025-10-17T00:10:56+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "构建自己的反思系统",
+      "item_url": "https://limboy.me/posts/review-system",
+      "time": "2025-10-17T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "chart: which host, which protocol",
@@ -246,6 +253,13 @@
       "time": "2025-09-24T19:20:58+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "避风塘 V2",
+      "item_url": "https://limboy.me/posts/before-town-v2",
+      "time": "2025-09-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E208｜量产CEO这事儿，是怎么被宝洁办成的？",
@@ -314,6 +328,13 @@
       "item_name": "E207｜智能体创业者们的成本突围与商业落地",
       "item_url": "https://sv101.fireside.fm/217",
       "time": "2025-09-18T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "We have outgrown the Process model",
+      "item_url": "https://sidhion.com/blog/process_model_outgrown/",
+      "time": "2025-09-17T00:00:00+00:00"
     },
     {
       "blog_id": "云风",
@@ -736,6 +757,13 @@
       "time": "2025-08-04T07:04:58+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Gate-level emulation of an Intel 4004 in 4004 bytes of C",
+      "item_url": "https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html",
+      "time": "2025-08-04T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Anthropic Filesystem MCP Server: Directory Access Bypass via Improper Path Validation",
@@ -769,6 +797,13 @@
       "item_name": "Trying to impress people you don't respect",
       "item_url": "https://seangoedecke.com/impressing-people/",
       "time": "2025-08-01T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "miniHDL: A Python Hardware Description Language DSL",
+      "item_url": "https://nicholas.carlini.com/writing/2025/minihdl-python-hardware-description-dsl.html",
+      "time": "2025-07-31T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -897,6 +932,13 @@
       "time": "2025-07-12T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "35mm Coffee - 一个创意工作者的线上社区",
+      "item_url": "https://limboy.me/posts/35mm-coffee",
+      "time": "2025-07-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 Coral：去体验只此一次的人生",
@@ -946,6 +988,13 @@
       "time": "2025-07-08T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "避风塘",
+      "item_url": "https://limboy.me/posts/before-town",
+      "time": "2025-07-08T00:00:00+00:00"
+    },
+    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 Coral：Keep looking. Don't settle.",
@@ -981,11 +1030,32 @@
       "time": "2025-06-29T01:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "做了一个小游戏：笔画猜成语",
+      "item_url": "https://limboy.me/posts/stroke",
+      "time": "2025-06-29T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Vibe Coding 一段时间后的感受",
+      "item_url": "https://limboy.me/posts/vibe-coding",
+      "time": "2025-06-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "How I Vibe Coding?",
       "item_url": "https://xuanwo.io/2025/03-how-i-vibe-coding/",
       "time": "2025-06-26T01:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "20 years of programming",
+      "item_url": "https://sidhion.com/blog/20_years/",
+      "time": "2025-06-26T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1007,6 +1077,34 @@
       "item_name": "Security Advisory: Anthropic's Slack MCP Server Vulnerable to Data Exfiltration",
       "item_url": "https://embracethered.com/blog/posts/2025/security-advisory-anthropic-slack-mcp-server-data-leakage/",
       "time": "2025-06-24T23:00:46+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "On getting better at programming",
+      "item_url": "https://sidhion.com/blog/becoming_good_at_programming/",
+      "time": "2025-06-24T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "科萨人和祖鲁人",
+      "item_url": "https://limboy.me/posts/amaxhosa-amazulu",
+      "time": "2025-06-23T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "LimTube",
+      "item_url": "https://limboy.me/posts/limtube",
+      "time": "2025-06-23T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Email",
+      "item_url": "https://limboy.me/posts/email",
+      "time": "2025-06-21T00:00:00+00:00"
     },
     {
       "blog_id": "Justin3go",
@@ -1044,11 +1142,25 @@
       "time": "2025-06-13T19:29:31+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "冷水澡",
+      "item_url": "https://limboy.me/posts/code-shower",
+      "time": "2025-06-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E196｜稳定币之战：Circle崛起之路与传统金融入局的新势力角逐",
       "item_url": "https://sv101.fireside.fm/206",
       "time": "2025-06-13T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "关于 AI 辅助编程的一些实践和思考",
+      "item_url": "https://limboy.me/posts/ai-assisted-coding",
+      "time": "2025-06-12T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -1401,6 +1513,13 @@
       "time": "2025-03-28T00:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Recording object snapshots by (ab)using JavaScript proxies",
+      "item_url": "https://sidhion.com/blog/javascript_object_snapshot_prototype/",
+      "time": "2025-03-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Gratitude and FAQ",
@@ -1471,11 +1590,25 @@
       "time": "2025-03-18T00:00:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Machines of Ruthless Efficiency",
+      "item_url": "https://nicholas.carlini.com/writing/2025/machines-of-ruthless-efficiency.html",
+      "time": "2025-03-17T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Apple restricts Pebble from being awesome with iPhones",
       "item_url": "https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones",
       "time": "2025-03-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "理想的文本内容创作、分发和消费系统",
+      "item_url": "https://limboy.me/posts/ideal-text-content-create-deliver-consume",
+      "time": "2025-03-15T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -1492,11 +1625,25 @@
       "time": "2025-03-13T00:21:25+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "My Thoughts on the Future of \"AI\"",
+      "item_url": "https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html",
+      "time": "2025-03-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Photos Page",
       "item_url": "https://antfu.me/posts/photos-page",
       "time": "2025-03-12T12:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "What my privacy papers (don't) have to say about copyright and generative AI",
+      "item_url": "https://nicholas.carlini.com/writing/2025/privacy-copyright-and-generative-models.html",
+      "time": "2025-03-11T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -1534,6 +1681,13 @@
       "time": "2025-03-05T01:00:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Career Update: Google DeepMind -> Anthropic",
+      "item_url": "https://nicholas.carlini.com/writing/2025/career-update.html",
+      "time": "2025-03-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E182｜影子美元与金融新秩序：起底全球人均最赚钱的公司Tether",
@@ -1560,6 +1714,20 @@
       "item_name": "February Shenzhen Trip Update",
       "item_url": "https://ericmigi.com/blog/february-shenzhen-trip-update",
       "time": "2025-03-03T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "以终为始，面向价值观生活",
+      "item_url": "https://limboy.me/posts/value-oriented-life",
+      "time": "2025-02-28T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "AI 辅助编程的崛起意味着什么？",
+      "item_url": "https://limboy.me/posts/ai-programming",
+      "time": "2025-02-27T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -1622,6 +1790,13 @@
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "我如何使用 Apple Notes 做笔记",
       "item_url": "https://lutaonan.com/blog/apple-notes-and-para",
+      "time": "2025-02-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "AI forecasting retrospective: you're (probably) over-confident",
+      "item_url": "https://nicholas.carlini.com/writing/2025/forecasting-ai-2025-update.html",
       "time": "2025-02-09T00:00:00+00:00"
     },
     {
@@ -1800,6 +1975,20 @@
       "time": "2025-01-05T11:59:51+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "A 2-ply minimax chess engine in 84,688 regular expressions",
+      "item_url": "https://nicholas.carlini.com/writing/2025/regex-chess.html",
+      "time": "2025-01-05T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "28h Days: year 1 update",
+      "item_url": "https://sidhion.com/blog/28h_days_update_1/",
+      "time": "2025-01-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Microsoft 365 Copilot Generated Images Accessible Without Authentication -- Fixed!",
@@ -1835,6 +2024,13 @@
       "time": "2024-12-31T15:52:37+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Another log update",
+      "item_url": "https://sidhion.com/blog/log_update_2/",
+      "time": "2024-12-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "有序退网",
@@ -1854,6 +2050,13 @@
       "item_name": "2024: 在夜海中观望浪潮",
       "item_url": "https://lutaonan.com/blog/2024-summary",
       "time": "2024-12-28T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Letting Language Models Write my Website",
+      "item_url": "https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html",
+      "time": "2024-12-25T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1954,6 +2157,13 @@
       "time": "2024-12-02T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "去喀什旅行",
+      "item_url": "https://limboy.me/posts/travel-to-kashi",
+      "time": "2024-12-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "How To Be Great 101",
@@ -2003,6 +2213,13 @@
       "time": "2024-11-25T16:00:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "You should forecast the future of AI",
+      "item_url": "https://nicholas.carlini.com/writing/2024/forecasting-ai-future.html",
+      "time": "2024-11-25T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E173｜一个对硅谷教育不满的老师，做了一所自己的学校",
@@ -2038,6 +2255,13 @@
       "time": "2024-11-14T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "独立开发之路：在不确定中寻找确定性",
+      "item_url": "https://limboy.me/posts/indie-dev",
+      "time": "2024-11-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "New microblog with TILs",
@@ -2059,11 +2283,25 @@
       "time": "2024-11-09T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？",
+      "item_url": "https://limboy.me/posts/bike-shedding",
+      "time": "2024-11-08T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E171｜濒临破产的23andMe与基因检测行业的新旧交替",
       "item_url": "https://sv101.fireside.fm/178",
       "time": "2024-11-07T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Thoughts on changing systems",
+      "item_url": "https://sidhion.com/blog/thoughts_changing_systems/",
+      "time": "2024-11-06T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -2171,6 +2409,13 @@
       "time": "2024-10-09T00:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Unoffice hours",
+      "item_url": "https://sidhion.com/blog/unoffice_hours/",
+      "time": "2024-10-08T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Some notes on upgrading Hugo",
@@ -2218,6 +2463,13 @@
       "item_name": "Some Go web dev notes",
       "item_url": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
       "time": "2024-09-27T11:16:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "洗澡这件小事值得被认真对待",
+      "item_url": "https://limboy.me/posts/shower-habit",
+      "time": "2024-09-24T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -2276,6 +2528,13 @@
       "time": "2024-09-07T13:01:11+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Rebuilt this site for the next decade using Astro",
+      "item_url": "https://limboy.me/posts/rebuilt-this-site-for-the-next-decade",
+      "time": "2024-09-06T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E165｜智能眼镜爆发前夜，与Ray-Ban Meta产品经理聊聊如何打造一款热门AI眼镜",
@@ -2330,6 +2589,13 @@
       "item_name": "Google AI Studio: LLM-Powered Data Exfiltration Hits Again! Quickly Fixed.",
       "item_url": "https://embracethered.com/blog/posts/2024/google-ai-studio-data-exfiltration-now-fixed/",
       "time": "2024-08-22T02:00:30+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Mountains of software: a romantic and a classical perspective",
+      "item_url": "https://sidhion.com/blog/romantic_classical_world_software/",
+      "time": "2024-08-22T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -2416,6 +2682,13 @@
       "time": "2024-08-04T21:30:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "How I Use \"AI\"",
+      "item_url": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html",
+      "time": "2024-08-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Protect Your Copilots: Preventing Data Leaks in Copilot Studio",
@@ -2456,6 +2729,13 @@
       "item_name": "Breaking Instruction Hierarchy in OpenAI's gpt-4o-mini",
       "item_url": "https://embracethered.com/blog/posts/2024/chatgpt-gpt-4o-mini-instruction-hierarchie-bypasses/",
       "time": "2024-07-22T13:14:05+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "AI 不断发展的时代，人应该做什么",
+      "item_url": "https://limboy.me/posts/thinking-on-the-development-stages-of-ai-and-its-impact",
+      "time": "2024-07-22T00:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2500,6 +2780,13 @@
       "time": "2024-07-14T16:31:04+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "展开讲讲独立创作者的工作节奏",
+      "item_url": "https://limboy.me/posts/indie-creator-routine",
+      "time": "2024-07-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "老头环 DLC！堂堂开始！",
@@ -2540,6 +2827,13 @@
       "item_name": "Entering text in the terminal is complicated",
       "item_url": "https://jvns.ca/blog/2024/07/08/readline/",
       "time": "2024-07-08T13:00:15+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "独立创作是一种生活方式",
+      "item_url": "https://limboy.me/posts/independent-creation-is-a-lifestyle",
+      "time": "2024-07-02T00:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2584,11 +2878,25 @@
       "time": "2024-06-27T00:15:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Notes on Project Oberon",
+      "item_url": "https://sidhion.com/blog/oberon_notes/",
+      "time": "2024-06-25T00:00:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "我如何使用 Obsidian 管理我的个人知识库",
       "item_url": "https://depp.wang/2024/my-obsidian-experience/",
       "time": "2024-06-24T14:30:07+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Why I attack",
+      "item_url": "https://nicholas.carlini.com/writing/2024/why-i-attack.html",
+      "time": "2024-06-24T00:00:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
@@ -2633,6 +2941,13 @@
       "time": "2024-06-16T08:30:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Shuffling a deck of cards (or other things) in CLIPS",
+      "item_url": "https://sidhion.com/blog/clips_deck_shuffle/",
+      "time": "2024-06-16T00:00:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "为好软件付费",
@@ -2675,6 +2990,13 @@
       "time": "2024-06-06T11:42:26+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "如何高效地学习英语",
+      "item_url": "https://limboy.me/posts/learn-english-effectively",
+      "time": "2024-06-04T00:00:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "从 FastAPI 说起，理解 Python 异步 IO 的原理",
@@ -2687,6 +3009,13 @@
       "item_name": "周报 #60 - 虫子旁、教育理念与 EpubKit",
       "item_url": "https://www.pseudoyu.com/zh/2024/06/02/weekly_review_20240602",
       "time": "2024-06-02T08:30:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Polly V2",
+      "item_url": "https://limboy.me/posts/polly-v2",
+      "time": "2024-06-02T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -2731,6 +3060,13 @@
       "time": "2024-05-22T00:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Public companies considered harmful",
+      "item_url": "https://sidhion.com/blog/public_companies_considered_harmful/",
+      "time": "2024-05-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Machine Learning Attack Series: Backdooring Keras Models and How to Detect It",
@@ -2743,6 +3079,13 @@
       "item_name": "Pivot to the Clouds: Cookie Theft in 2024",
       "item_url": "https://embracethered.com/blog/posts/2024/cookie-theft-in-2024-and-what-todo/",
       "time": "2024-05-16T08:00:11+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "用 Telegram 来构建数字花园",
+      "item_url": "https://limboy.me/posts/telegram-digital-garden",
+      "time": "2024-05-16T00:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -2766,11 +3109,25 @@
       "time": "2024-05-13T17:39:38+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "On recruiting",
+      "item_url": "https://sidhion.com/blog/recruiting/",
+      "time": "2024-05-10T00:00:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "友情、爱情、亲情三足鼎立，上面插着燃烧的青春",
       "item_url": "https://depp.wang/2024/reply-1988/",
       "time": "2024-05-07T01:28:34+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "(yet another) Broken Adversarial Example Defense at IEEE S&P 2024",
+      "item_url": "https://nicholas.carlini.com/writing/2024/yet-another-broken-defense.html",
+      "time": "2024-05-06T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -2836,6 +3193,13 @@
       "time": "2024-04-11T13:49:34+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Life is hard. Remember to live it well",
+      "item_url": "https://sidhion.com/blog/life_hard/",
+      "time": "2024-04-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Refreshed Nuxt ESLint Integrations",
@@ -2871,6 +3235,13 @@
       "time": "2024-04-05T16:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Thinking about extremes",
+      "item_url": "https://sidhion.com/blog/socratic_thinking_thoughts/",
+      "time": "2024-04-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "春季的夜晚，在后滩散步",
@@ -2883,6 +3254,13 @@
       "item_name": "周报 #56 - 面基 Randy 与考科目二",
       "item_url": "https://www.pseudoyu.com/zh/2024/03/31/weekly_review_20240331",
       "time": "2024-03-31T08:30:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "NixOS is a good server OS, except when it isn’t",
+      "item_url": "https://sidhion.com/blog/nixos_server_issues/",
+      "time": "2024-03-27T00:00:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -2941,6 +3319,13 @@
       "time": "2024-03-11T12:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "One difference of working on open source vs. a company",
+      "item_url": "https://sidhion.com/blog/one_difference_oss_company/",
+      "time": "2024-03-09T00:00:00+00:00"
+    },
+    {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "深蹲 App(DunDun) 重制版发布啦",
@@ -2952,6 +3337,13 @@
       "feed": "https://antfu.me/feed.xml",
       "item_name": "The Magic in Shiki Magic Move",
       "item_url": "https://antfu.me/posts/shiki-magic-move",
+      "time": "2024-03-04T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "关于易维护的代码",
+      "item_url": "https://limboy.me/posts/maintainable-code",
       "time": "2024-03-04T00:00:00+00:00"
     },
     {
@@ -2969,11 +3361,46 @@
       "time": "2024-02-29T08:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Will we never program in plain English, even with AI?",
+      "item_url": "https://sidhion.com/blog/we_will_never_program_english/",
+      "time": "2024-02-29T03:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Personal note on “Exploring a future of programming”",
+      "item_url": "https://sidhion.com/blog/personal_notes_exploring_future_programming/",
+      "time": "2024-02-29T02:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Exploring a future of programming",
+      "item_url": "https://sidhion.com/blog/exploring_future_programming/",
+      "time": "2024-02-29T00:00:00+00:00"
+    },
+    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "我开源了一个 Sora AI 视频生成器模板，却被人拿去割韭菜",
       "item_url": "https://idoubi.cv/blogs/sora-ai-video-generator",
       "time": "2024-02-23T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "不再好好做音乐流媒体的 Spotify",
+      "item_url": "https://limboy.me/posts/spotify-expand-scope",
+      "time": "2024-02-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "My benchmark for large language models",
+      "item_url": "https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html",
+      "time": "2024-02-19T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -3009,6 +3436,20 @@
       "item_name": "我写了一个 AI 红包封面生成器",
       "item_url": "https://idoubi.cv/blogs/ai-cover-generator",
       "time": "2024-01-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Joining the Nix Documentation team",
+      "item_url": "https://sidhion.com/blog/joining_nix_documentation/",
+      "time": "2024-01-29T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "My research idea logfile, 2016-2019",
+      "item_url": "https://nicholas.carlini.com/writing/2024/my-research-logfile.html",
+      "time": "2024-01-21T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -3053,6 +3494,13 @@
       "time": "2024-01-07T20:04:17+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Compiling Elixir+Mix projects that use Rustler with Nix",
+      "item_url": "https://sidhion.com/blog/using_rustler_nix/",
+      "time": "2024-01-06T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Becoming a Staff Engineer",
@@ -3078,6 +3526,13 @@
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "读 React 18 文档有感",
       "item_url": "https://lutaonan.com/blog/read-react-18-doc",
+      "time": "2024-01-04T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Log update",
+      "item_url": "https://sidhion.com/blog/log_update/",
       "time": "2024-01-04T00:00:00+00:00"
     },
     {
@@ -3186,6 +3641,13 @@
       "time": "2023-12-03T11:59:07+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Reading Data off an Apple ProFile Hard Drive with an Arduino",
+      "item_url": "https://nicholas.carlini.com/writing/2023/reading-an-apple-profile-hard-drive.html",
+      "time": "2023-12-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "一种新的雇佣方案",
@@ -3200,6 +3662,13 @@
       "time": "2023-12-02T18:21:23+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Polly",
+      "item_url": "https://limboy.me/posts/polly",
+      "time": "2023-12-02T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "GitHub-style Alerts",
@@ -3207,11 +3676,32 @@
       "time": "2023-11-30T10:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "吃饭时也可以练习正念",
+      "item_url": "https://limboy.me/posts/be-mindful-while-eating",
+      "time": "2023-11-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "感恩练习",
+      "item_url": "https://limboy.me/posts/grateful-practice",
+      "time": "2023-11-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "忆奶奶与我的二三事",
       "item_url": "https://imtx.me/blog/in-memory-of-grandma/",
       "time": "2023-11-27T15:51:55+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "元宝",
+      "item_url": "https://limboy.me/posts/yuanbao",
+      "time": "2023-11-27T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -3240,6 +3730,13 @@
       "item_name": "公开写作的好处",
       "item_url": "https://www.owenyoung.com/writing/",
       "time": "2023-11-23T16:55:43+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "418 I’m a teapot",
+      "item_url": "https://sidhion.com/blog/http_418/",
+      "time": "2023-11-21T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -3340,6 +3837,13 @@
       "time": "2023-10-21T00:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Optimizing the eviction of code containers from disk",
+      "item_url": "https://sidhion.com/blog/function_image_eviction/",
+      "time": "2023-10-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Now, and the Future of Nuxt Devtools",
@@ -3375,6 +3879,13 @@
       "time": "2023-10-16T15:19:07+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "28h Days",
+      "item_url": "https://sidhion.com/blog/28h_days/",
+      "time": "2023-10-16T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "The better, smarter future of messaging | The Vergecast",
@@ -3394,6 +3905,13 @@
       "item_name": "打电脑，也要保持好坐姿(顶瓜瓜现已支持 MacOS)",
       "item_url": "http://haozes.me/blog/2023/09/27/voicedict/",
       "time": "2023-09-26T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Playing chess with large language models",
+      "item_url": "https://nicholas.carlini.com/writing/2023/chess-llm.html",
+      "time": "2023-09-22T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -3450,6 +3968,13 @@
       "item_name": "博客站迁移至 VitePress 的备忘",
       "item_url": "https://jiongks.name/blog/migrate-my-blog-to-vitepress",
       "time": "2023-08-05T12:31:25+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Little Bobby |endoftext|",
+      "item_url": "https://nicholas.carlini.com/writing/2023/little-bobby-endoftext.html",
+      "time": "2023-08-03T00:00:00+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -3620,6 +4145,20 @@
       "time": "2023-06-15T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我的理想住所",
+      "item_url": "https://limboy.me/posts/my-ideal-residence",
+      "time": "2023-06-15T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "将糟心事变成习惯的触发器",
+      "item_url": "https://limboy.me/posts/turn-bad-thing-into-trigger",
+      "time": "2023-06-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "米德尔马契",
@@ -3634,6 +4173,13 @@
       "time": "2023-06-10T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "方便的代价",
+      "item_url": "https://limboy.me/posts/the-price-of-convenience",
+      "time": "2023-06-06T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2023.06.04: 各种链接",
@@ -3645,6 +4191,13 @@
       "feed": "https://antfu.me/feed.xml",
       "item_name": "DX with Nuxt DevTools",
       "item_url": "https://antfu.me/posts/nuxt-dx-strasbourg-2023",
+      "time": "2023-05-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "把自己当作他人，把他人当做自己，把课题当作科学研究",
+      "item_url": "https://limboy.me/posts/3-tips",
       "time": "2023-05-25T00:00:00+00:00"
     },
     {
@@ -3683,6 +4236,20 @@
       "time": "2023-05-07T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "真诚可能是最重要的一个品德",
+      "item_url": "https://limboy.me/posts/sincerity",
+      "time": "2023-05-07T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "使用 Google Groups 作为评论系统",
+      "item_url": "https://limboy.me/posts/use-google-groups-as-comment-system",
+      "time": "2023-05-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "Enhance Your Internet Privacy in 2023",
@@ -3690,11 +4257,39 @@
       "time": "2023-05-03T22:15:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Paul Graham: What I Worked On",
+      "item_url": "https://limboy.me/posts/what-i-worked-on",
+      "time": "2023-04-29T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Beef, 被压抑的情绪与第22条军规",
+      "item_url": "https://limboy.me/posts/beef",
+      "time": "2023-04-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Demystifying TLMs",
       "item_url": "https://linghao.io/posts/demystifying-tlm",
       "time": "2023-04-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我心目中好工具的标准",
+      "item_url": "https://limboy.me/posts/standards-of-good-tools",
+      "time": "2023-04-21T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Blue Period(蓝色时期)：一部关于画画的动漫",
+      "item_url": "https://limboy.me/posts/blue-period",
+      "time": "2023-04-21T00:00:00+00:00"
     },
     {
       "blog_id": "yulu",
@@ -3716,6 +4311,20 @@
       "item_name": "[DDIA] Chapter 5 - Replication",
       "item_url": "https://littlecheesecake.me/blog1/2023/04/10/ddia-5.html",
       "time": "2023-04-10T02:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Ex Machina(机械姬)：有意识的 AI 会是怎样的",
+      "item_url": "https://limboy.me/posts/ex-machina",
+      "time": "2023-04-07T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2",
+      "item_url": "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html",
+      "time": "2023-04-02T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -3858,6 +4467,13 @@
       "time": "2023-01-21T17:26:45+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "什么是 Mastodon（长毛象），应该怎么玩",
+      "item_url": "https://limboy.me/posts/mastodon",
+      "time": "2023-01-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2023.01.14: 各种链接",
@@ -3884,6 +4500,13 @@
       "item_name": "AIGC – 图片与文字分享",
       "item_url": "https://daimajia.com/2023/01/03/aigc/",
       "time": "2023-01-03T09:42:12+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "关于工作后 Gap Year 的一些经验",
+      "item_url": "https://limboy.me/posts/gap-year",
+      "time": "2023-01-01T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -3928,6 +4551,13 @@
       "time": "2022-11-26T09:46:47+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我的博客系统演变之路",
+      "item_url": "https://limboy.me/posts/my-blog-system",
+      "time": "2022-11-02T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "与人聊天的美好",
@@ -3942,11 +4572,25 @@
       "time": "2022-10-16T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我在 Obsidian 上的 ZettelKasten 实践",
+      "item_url": "https://limboy.me/posts/obsidian-zettelkasten",
+      "time": "2022-10-14T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Vite, the on-demand DX",
       "item_url": "https://antfu.me/posts/vite-on-demand-dx-viteconf-2022",
       "time": "2022-10-11T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Routine",
+      "item_url": "https://limboy.me/posts/routine",
+      "time": "2022-10-10T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -3963,6 +4607,13 @@
       "time": "2022-10-04T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "React Router 6 是如何工作的",
+      "item_url": "https://limboy.me/posts/react-router-6",
+      "time": "2022-10-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Why I don't use Prettier",
@@ -3977,11 +4628,25 @@
       "time": "2022-09-20T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "你要如何衡量你的人生",
+      "item_url": "https://limboy.me/posts/how-will-you-measure-your-life",
+      "time": "2022-08-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "读《九宫格写作法》",
       "item_url": "https://lutaonan.com/blog/read-grid-writing-method",
       "time": "2022-08-20T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Reflecting on Towards Evaluating the Robustness of Neural Networks",
+      "item_url": "https://nicholas.carlini.com/writing/2022/reflections-towards-evaluating-the-robustness.html",
+      "time": "2022-08-17T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -4026,6 +4691,34 @@
       "time": "2022-07-13T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Alpine, Tailwind, Deno, SQLite 我的本地服务四件套",
+      "item_url": "https://limboy.me/posts/local-services-tools",
+      "time": "2022-07-02T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Vercel, Cloudflare, fly.io 我的云服务三剑客",
+      "item_url": "https://limboy.me/posts/vercel-cf-fly",
+      "time": "2022-06-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "通过 VisiData 来方便地分析数据",
+      "item_url": "https://limboy.me/posts/visidata",
+      "time": "2022-06-23T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Rapid Iteration in Machine Learning Research",
+      "item_url": "https://nicholas.carlini.com/writing/2022/rapid-iteration-machine-learning-research.html",
+      "time": "2022-06-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Superficial Similarity",
@@ -4061,11 +4754,39 @@
       "time": "2022-05-01T00:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "WireGuard inside WireGuard: accessing my homelab through my VPN provider",
+      "item_url": "https://sidhion.com/blog/wireguard_inside_wireguard_homelab/",
+      "time": "2022-04-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Workflow engines, Kubernetes, and WebAssembly",
+      "item_url": "https://sidhion.com/blog/workflows/",
+      "time": "2022-04-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "A Case of Plagarism in Machine Learning Research",
+      "item_url": "https://nicholas.carlini.com/writing/2022/a-case-of-plagarism-in-machine-learning.html",
+      "time": "2022-04-08T00:00:00+00:00"
+    },
+    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "新交规科目一知识导图速记",
       "item_url": "https://daimajia.com/2022/04/07/kemu1/",
       "time": "2022-04-07T00:47:03+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "刚好够用的简易前端工具集",
+      "item_url": "https://limboy.me/posts/just-enough-toolkits-for-simple-frontend-project",
+      "time": "2022-04-07T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -4082,6 +4803,55 @@
       "time": "2022-04-06T09:46:37+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我的前端学习路线",
+      "item_url": "https://limboy.me/posts/frontend-learning",
+      "time": "2022-04-04T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "用 Apple Watch 来约束娱乐时间",
+      "item_url": "https://limboy.me/posts/limit-entertainment",
+      "time": "2022-04-03T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "通过视频片段来学习英语",
+      "item_url": "https://limboy.me/posts/english-video-clips",
+      "time": "2022-03-31T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Robbing Tamashi’s",
+      "item_url": "https://sidhion.com/blog/robbing_tamashis/",
+      "time": "2022-03-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我的 Logseq 使用习惯",
+      "item_url": "https://limboy.me/posts/logseq",
+      "time": "2022-03-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "拼音猜成语",
+      "item_url": "https://limboy.me/posts/idiom",
+      "time": "2022-03-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "关于 Bytetalk",
+      "item_url": "https://limboy.me/posts/bytetalk",
+      "time": "2022-03-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "Web 3.0 带来了什么？",
@@ -4089,11 +4859,39 @@
       "time": "2022-03-16T23:21:53+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Multiplexing Circuits on the Game of Life - Part 5",
+      "item_url": "https://nicholas.carlini.com/writing/2022/multiplexing-circuits-game-of-life.html",
+      "time": "2022-02-27T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Research Paper Release Checklist",
+      "item_url": "https://nicholas.carlini.com/writing/2022/paper-release-checklist.html",
+      "time": "2022-01-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Introduction to Vitest",
       "item_url": "https://antfu.me/posts/introduction-to-vitest-vue-nation-2022",
       "time": "2022-01-26T08:00:00+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "2021 Review",
+      "item_url": "https://limboy.me/posts/2021-review",
+      "time": "2022-01-11T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "A Simple CPU on the Game of Life - Part 4",
+      "item_url": "https://nicholas.carlini.com/writing/2021/unlimited-register-machine-game-of-life.html",
+      "time": "2021-12-30T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -4278,6 +5076,13 @@
       "time": "2021-03-24T16:00:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Improved Logic Gates on Conway's Game of Life - Part 3",
+      "item_url": "https://nicholas.carlini.com/writing/2021/improved-logic-gates-game-of-life.html",
+      "time": "2021-03-23T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Windi CSS and Tailwind JIT",
@@ -4362,6 +5167,20 @@
       "time": "2021-01-02T00:00:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Yet Another Space Game (In 13kb of JavaScript)",
+      "item_url": "https://nicholas.carlini.com/writing/2020/javascript-space-game-13k.html",
+      "time": "2020-12-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "InstaHide Disappointingly Wins Bell Labs Prize, 2nd Place",
+      "item_url": "https://nicholas.carlini.com/writing/2020/instahide_disappointingly_wins_bell_labs_prize.html",
+      "time": "2020-12-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "The Strength of Being Misunderstood",
@@ -4369,11 +5188,25 @@
       "time": "2020-12-01T18:56:39+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Yet Another MOBA (In 13kb of JavaScript)",
+      "item_url": "https://nicholas.carlini.com/writing/2021/javascript-moba-13k.html",
+      "time": "2020-11-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "PG and Jessica",
       "item_url": "https://blog.samaltman.com/pg-and-jessica",
       "time": "2020-09-25T14:45:50+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Realtime Screen Recording of Breaking a Defense to Adversarial Examples",
+      "item_url": "https://nicholas.carlini.com/writing/2020/screen-recording-breaking-adversarial-example-defense.html",
+      "time": "2020-09-15T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -4425,11 +5258,32 @@
       "time": "2020-06-16T17:08:44+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "One of the best projects I worked on had zero-overhead communication",
+      "item_url": "https://sidhion.com/blog/zero_overhead_communication/",
+      "time": "2020-06-14T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "An Introduction to Circuit Design on Conway's Game of Life - Part 2",
+      "item_url": "https://nicholas.carlini.com/writing/2020/intro-to-circuits-game-of-life.html",
+      "time": "2020-06-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Idea Generation",
       "item_url": "https://blog.samaltman.com/idea-generation",
       "time": "2020-05-28T19:12:40+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Setting up a ZFS backup with Syncoid, discovering why it's slow",
+      "item_url": "https://sidhion.com/blog/zfs_syncoid_slow/",
+      "time": "2020-05-20T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -4446,6 +5300,13 @@
       "time": "2020-05-13T00:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Invest on tools",
+      "item_url": "https://sidhion.com/blog/invest_on_tools/",
+      "time": "2020-05-09T00:00:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "中文格式化小工具 zhlint 及其开发心得",
@@ -4458,6 +5319,13 @@
       "item_name": "即将失明，还能继续做程序员吗",
       "item_url": "https://geekplux.com/posts/a-software-engineer-going-blind",
       "time": "2020-04-20T17:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Digital Logic Gates on Conway's Game of Life - Part 1",
+      "item_url": "https://nicholas.carlini.com/writing/2020/digital-logic-game-of-life.html",
+      "time": "2020-04-01T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -4502,6 +5370,13 @@
       "time": "2020-02-26T18:28:47+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Are adversarial example defenses improving?",
+      "item_url": "https://nicholas.carlini.com/writing/2020/are-adversarial-exampe-defenses-improving.html",
+      "time": "2020-02-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "远程工作如何提高效率",
@@ -4509,11 +5384,25 @@
       "time": "2020-02-18T22:30:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Cheap Internet might just be a privacy nightmare",
+      "item_url": "https://sidhion.com/blog/cheap_internet_and_privacy/",
+      "time": "2020-02-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Grow @ Google 02: 「能用就行」还远远不够",
       "item_url": "https://linghao.io/posts/grow-at-google-02",
       "time": "2020-02-03T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Thoughts on recursive structures in design",
+      "item_url": "https://sidhion.com/blog/recursive_structures_design/",
+      "time": "2020-01-30T00:00:00+00:00"
     },
     {
       "blog_id": "geekplux",
@@ -4551,6 +5440,13 @@
       "time": "2020-01-01T00:00:00+00:00"
     },
     {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Interesting Links",
+      "item_url": "https://sidhion.com/blog/interesting_links/",
+      "time": "2019-12-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "为了你爱的人，读一读《非暴力沟通》",
@@ -4577,6 +5473,13 @@
       "item_name": "Announcing Startup School Winter 2020",
       "item_url": "https://ericmigi.com/blog/announcing-startup-school-winter-2020",
       "time": "2019-12-10T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Bernardo",
+      "feed": "https://sidhion.com/rss.xml",
+      "item_name": "Simple Sourcehut Deployments",
+      "item_url": "https://sidhion.com/blog/simple_sourcehut_deployments/",
+      "time": "2019-11-30T00:00:00+00:00"
     },
     {
       "blog_id": "geekplux",
@@ -4642,11 +5545,25 @@
       "time": "2019-09-16T00:00:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Yet Another Doom Clone (In 13kb of JavaScript)",
+      "item_url": "https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html",
+      "time": "2019-09-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "不需要扫描仪，数字化归档自己的文件",
       "item_url": "https://geekplux.com/posts/digitally-archive-your-own-files",
       "time": "2019-08-27T20:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "3D Shadow Mapping Renderer in JavaScript",
+      "item_url": "https://nicholas.carlini.com/writing/2019/3d-renderer-javascript.html",
+      "time": "2019-08-12T00:00:00+00:00"
     },
     {
       "blog_id": "geekplux",
@@ -4682,6 +5599,13 @@
       "item_name": "井底之蛙的一片天空",
       "item_url": "https://lutaonan.com/blog/to-hongkong-people",
       "time": "2019-06-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "A Complete List of All (arXiv) Adversarial Example Papers",
+      "item_url": "https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html",
+      "time": "2019-06-15T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -4866,6 +5790,13 @@
       "time": "2018-07-16T00:00:00+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Adversarial Machine Learning Reading List",
+      "item_url": "https://nicholas.carlini.com/writing/2018/adversarial-machine-learning-reading-list.html",
+      "time": "2018-07-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Hardware Founders: (When) Should You Try To Raise VC Money?",
@@ -4892,6 +5823,13 @@
       "item_name": "初心",
       "item_url": "https://linghao.io/notes/stay-gold",
       "time": "2018-06-16T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Recommendations for Evaluating Adversarial Example Defenses",
+      "item_url": "https://nicholas.carlini.com/writing/2018/evaluating-adversarial-example-defenses.html",
+      "time": "2018-05-26T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
