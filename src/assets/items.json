@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Depp Wang",
+      "feed": "https://depp.wang/rss2.xml",
+      "item_name": "后端工程师等级说明",
+      "item_url": "https://depp.wang/2025/backend-engineer-level-guide/",
+      "time": "2025-10-24T13:45:11+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "How I Coding? (Oct 2025 Edition)",
@@ -3534,13 +3541,6 @@
       "item_name": "周报 #55 - 油画体验、博客系统升级与对 self-hosting 的思考",
       "item_url": "https://www.pseudoyu.com/zh/2024/03/24/weekly_review_20240324",
       "time": "2024-03-23T21:20:00+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "如何利用 IPv6 免费把家里电脑变成服务器",
-      "item_url": "https://depp.wang/2024/03/23/ipv6-mac-server/",
-      "time": "2024-03-23T14:41:09+00:00"
     },
     {
       "blog_id": "Anthony Fu",
