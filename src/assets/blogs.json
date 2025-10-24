@@ -123,6 +123,7 @@
     "url": "https://limboy.me/posts",
     "describe": "图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者",
     "avatar": "avatar/limboy.webp",
+    "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
     "like": [
       {
         "title": "独立创作是一种生活方式",
@@ -189,6 +190,7 @@
     "url": "https://nicholas.carlini.com/writing",
     "describe": "当前在Anthropic工作，之前是Google(Deep Mind)的研究科学家",
     "avatar": "avatar/nicholas.carlini.webp",
+    "feed": "https://nicholas.carlini.com/writing/feed.xml",
     "like": [
       {
         "title": "How I Use AI",
@@ -203,6 +205,7 @@
   {
     "name": "Bernardo",
     "url": "https://sidhion.com/blog/",
+    "feed": "https://sidhion.com/rss.xml",
     "avatar": "avatar.webp"
   },
   {
