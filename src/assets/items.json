@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Linghao Zhang",
+      "feed": "https://linghao.io/feed.xml",
+      "item_name": "AI Assisted System Design Interview Prep",
+      "item_url": "https://linghao.io/posts/ai-assisted-system-design-interview-prep",
+      "time": "2025-10-27T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A gold ceremony to remember",
