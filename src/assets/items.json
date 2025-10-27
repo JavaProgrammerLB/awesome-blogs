@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #102 - 我是如何使用 AI 的",
+      "item_url": "https://www.pseudoyu.com/posts/weekly_review_102",
+      "time": "2025-10-27T18:38:00+00:00"
+    },
+    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "记一次与 Coding Agent 合作实现 Feature 的过程",
@@ -162,13 +169,6 @@
       "time": "2025-10-12T13:29:55+00:00"
     },
     {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "关于桌游设计大赛的介绍",
-      "item_url": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
-      "time": "2025-10-12T09:57:22+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Providing technical clarity to non-technical leaders",
@@ -223,13 +223,6 @@
       "item_name": "GPT-5-Codex is a better AI researcher than me",
       "item_url": "https://seangoedecke.com/ai-research-with-codex/",
       "time": "2025-10-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "深远未来开发总结",
-      "item_url": "https://blog.codingnow.com/2025/10/deepfuture_dev.html",
-      "time": "2025-10-05T07:06:12+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -407,25 +400,11 @@
       "time": "2025-09-17T00:00:00+00:00"
     },
     {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "有惊无险的一次网站系统升级",
-      "item_url": "https://blog.codingnow.com/2025/09/update_blog_utf8.html",
-      "time": "2025-09-16T05:05:44+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E206｜临近机器人GPT-3时刻，具身智能开源模型的加速演进",
       "item_url": "https://sv101.fireside.fm/216",
       "time": "2025-09-09T23:00:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "立即模式下的鼠标交互处理",
-      "item_url": "https://blog.codingnow.com/2025/09/mouse_im_mode.html",
-      "time": "2025-09-09T09:26:04+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -540,13 +519,6 @@
       "time": "2025-08-26T14:00:58+00:00"
     },
     {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "在 Lua 中定义类型的简单方法",
-      "item_url": "https://blog.codingnow.com/2025/08/lua_class.html",
-      "time": "2025-08-26T00:37:50+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Finding the low-hanging fruit",
@@ -594,13 +566,6 @@
       "item_name": "Windsurf: Memory-Persistent Data Exfiltration (SpAIware Exploit)",
       "item_url": "https://embracethered.com/blog/posts/2025/windsurf-spaiware-exploit-persistent-prompt-injection/",
       "time": "2025-08-22T22:21:58+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "编写游戏程序的一些启示",
-      "item_url": "https://blog.codingnow.com/2025/08/gamedev.html",
-      "time": "2025-08-22T17:14:10+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -769,13 +734,6 @@
       "item_name": "OpenHands and the Lethal Trifecta: How Prompt Injection Can Leak Access Tokens",
       "item_url": "https://embracethered.com/blog/posts/2025/openhands-the-lethal-trifecta-strikes-again/",
       "time": "2025-08-09T10:00:58+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "SetWindowText 引起的死锁",
-      "item_url": "https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html",
-      "time": "2025-08-09T02:51:37+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -981,13 +939,6 @@
       "time": "2025-07-21T14:27:00+00:00"
     },
     {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "慢跑",
-      "item_url": "https://blog.codingnow.com/2025/07/jogging.html",
-      "time": "2025-07-20T04:21:00+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E200｜投资人视角深聊：AI Agent的核心壁垒与投资逻辑",
@@ -1014,13 +965,6 @@
       "item_name": "E199｜悬赏1亿美金逆转人类10年生理年龄，抗衰疗法距离落地还有多远？",
       "item_url": "https://sv101.fireside.fm/209",
       "time": "2025-07-14T00:00:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "极度未来（ Deep Future ）给我的启发",
-      "item_url": "https://blog.codingnow.com/2025/07/deep_future.html",
-      "time": "2025-07-13T04:50:02+00:00"
     },
     {
       "blog_id": "Hawstein",
@@ -1247,13 +1191,6 @@
       "time": "2025-06-16T00:00:00+00:00"
     },
     {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "育儿的一些日常",
-      "item_url": "https://blog.codingnow.com/2025/06/kids.html",
-      "time": "2025-06-15T10:52:47+00:00"
-    },
-    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.06.14: 各种链接",
@@ -1308,13 +1245,6 @@
       "item_name": "E195｜从工具到伙伴：七位AI Agent深度使用者的思考",
       "item_url": "https://sv101.fireside.fm/205",
       "time": "2025-06-10T00:00:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "电梯的交互和调度",
-      "item_url": "https://blog.codingnow.com/2025/06/elevator.html",
-      "time": "2025-06-09T06:02:45+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1408,13 +1338,6 @@
       "time": "2025-05-16T00:00:00+00:00"
     },
     {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "一个简单的 A star 寻路算法实现",
-      "item_url": "https://blog.codingnow.com/2025/05/a_star_pathfinding.html",
-      "time": "2025-05-14T04:05:48+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Why S3 ListObjects Taking 120s to Respond?",
@@ -1441,13 +1364,6 @@
       "item_name": "河南行拾遗",
       "item_url": "https://frostming.com/2025/henan/",
       "time": "2025-05-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "卡牌构筑类桌游核心规则之七",
-      "item_url": "https://blog.codingnow.com/2025/05/dbg_rules_7.html",
-      "time": "2025-05-08T06:48:19+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1576,13 +1492,6 @@
       "time": "2025-04-11T00:00:00+00:00"
     },
     {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "对数和自然对数的底",
-      "item_url": "https://blog.codingnow.com/2025/04/log_e.html",
-      "time": "2025-04-10T14:52:40+00:00"
-    },
-    {
       "blog_id": "Justin3go",
       "feed": "https://justin3go.com/feed.xml",
       "item_name": "谷歌 Agent2Agent（A2A）协议深度调研报告",
@@ -1616,13 +1525,6 @@
       "item_name": "现代浏览器插件开发指南",
       "item_url": "https://lutaonan.com/blog/browser-extension-development-guide",
       "time": "2025-04-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "卡牌构筑类桌游核心规则之六",
-      "item_url": "https://blog.codingnow.com/2025/04/dbg_rules_6.html",
-      "time": "2025-04-08T13:10:54+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -3576,13 +3478,6 @@
       "item_name": "Mental Health in Open Source",
       "item_url": "https://antfu.me/posts/mental-health-oss",
       "time": "2024-03-16T12:00:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #54 - 漂流计划、钱包被盗与 Home Server",
-      "item_url": "https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316",
-      "time": "2024-03-15T21:20:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
