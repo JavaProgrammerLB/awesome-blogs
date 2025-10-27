@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "记一次与 Coding Agent 合作实现 Feature 的过程",
+      "item_url": "https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature",
+      "time": "2025-10-27T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "AI Assisted System Design Interview Prep",
@@ -5144,13 +5151,6 @@
       "item_name": "Introduction to Vitest",
       "item_url": "https://antfu.me/posts/introduction-to-vitest-vue-nation-2022",
       "time": "2022-01-26T08:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "2021 Review",
-      "item_url": "https://limboy.me/posts/2021-review",
-      "time": "2022-01-11T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
