@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #102 - 我是如何使用 AI 的",
+      "item_url": "https://www.pseudoyu.com/posts/weekly_review_102",
+      "time": "2025-10-27T18:38:00+00:00"
+    },
+    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "记一次与 Coding Agent 合作实现 Feature 的过程",
@@ -3576,13 +3583,6 @@
       "item_name": "Mental Health in Open Source",
       "item_url": "https://antfu.me/posts/mental-health-oss",
       "time": "2024-03-16T12:00:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #54 - 漂流计划、钱包被盗与 Home Server",
-      "item_url": "https://www.pseudoyu.com/zh/2024/03/16/weekly_review_20240316",
-      "time": "2024-03-15T21:20:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
