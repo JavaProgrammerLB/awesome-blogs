@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Claude Pirate: Abusing Anthropic's File API For Data Exfiltration",
+      "item_url": "https://embracethered.com/blog/posts/2025/claude-abusing-network-access-and-anthropic-api-for-data-exfiltration/",
+      "time": "2025-10-28T15:36:30+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #102 - 我是如何使用 AI 的",
@@ -3359,13 +3366,6 @@
       "item_name": "Machine Learning Attack Series: Backdooring Keras Models and How to Detect It",
       "item_url": "https://embracethered.com/blog/posts/2024/machine-learning-attack-series-keras-backdoor-model/",
       "time": "2024-05-18T23:00:00+00:00"
-    },
-    {
-      "blog_id": "wunderwuzzi",
-      "feed": "https://embracethered.com/blog/index.xml",
-      "item_name": "Pivot to the Clouds: Cookie Theft in 2024",
-      "item_url": "https://embracethered.com/blog/posts/2024/cookie-theft-in-2024-and-what-todo/",
-      "time": "2024-05-16T08:00:11+00:00"
     },
     {
       "blog_id": "Limboy",
