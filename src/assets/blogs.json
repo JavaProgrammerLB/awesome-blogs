@@ -501,5 +501,18 @@
         "url": "https://mechanical-library.org/"
       }
     ]
+  },
+  {
+    "name": "池建强",
+    "url": "https://macshuo.com/?paged=1",
+    "describe": "生于70年代的中国开发者",
+    "avatar": "avatar.webp",
+    "feed": "https://macshuo.com/?feed=rss2",
+    "like": [
+      {
+        "title": "选择从众，还是走小众路线",
+        "url": "https://macshuo.com/?p=1928"
+      }
+    ]
   }
 ]
