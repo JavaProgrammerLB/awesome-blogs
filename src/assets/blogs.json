@@ -514,5 +514,22 @@
         "url": "https://macshuo.com/?p=1928"
       }
     ]
+  },
+  {
+    "name": "水星",
+    "url": "https://mercurychong.blogspot.com/",
+    "describe": "说中文的写关于投资、阅读播客大马来西亚人",
+    "avatar": "avatar/mercury.jpg",
+    "feed": "https://mercurychong.blogspot.com/atom.xml",
+    "like": [
+      {
+        "title": "那段停滯不前的時段",
+        "url": "https://mercurychong.blogspot.com/2025/10/blog-post_22.html"
+      },
+      {
+        "title": "為夢想抗爭&妥協",
+        "url": "https://mercurychong.blogspot.com/2025/10/blog-post_21.html"
+      }
+    ]
   }
 ]
