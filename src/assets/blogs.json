@@ -504,14 +504,18 @@
   },
   {
     "name": "池建强",
-    "url": "https://macshuo.com/?paged=1",
-    "describe": "生于70年代的中国开发者",
-    "avatar": "avatar.webp",
-    "feed": "https://macshuo.com/?feed=rss2",
+    "url": "https://mercurychong.blogspot.com/",
+    "describe": "说中文的，写关于投资、阅读博客的马来西亚人",
+    "avatar": "avatar/mercury.jpg",
+    "feed": "https://mercurychong.blogspot.com/atom.xml",
     "like": [
       {
-        "title": "选择从众，还是走小众路线",
-        "url": "https://macshuo.com/?p=1928"
+        "title": "那段停滯不前的時段",
+        "url": "https://mercurychong.blogspot.com/2025/10/blog-post_22.html"
+      },
+      {
+        "title": "為夢想抗爭&妥協",
+        "url": "https://mercurychong.blogspot.com/2025/10/blog-post_21.html"
       }
     ]
   }
