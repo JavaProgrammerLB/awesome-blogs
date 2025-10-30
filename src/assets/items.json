@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Why do AI models use so many em-dashes?",
+      "item_url": "https://seangoedecke.com/em-dashes/",
+      "time": "2025-10-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Claude Pirate: Abusing Anthropic's File API For Data Exfiltration",
@@ -1021,13 +1028,6 @@
       "item_name": "The Month of AI Bugs 2025",
       "item_url": "https://embracethered.com/blog/posts/2025/announcement-the-month-of-ai-bugs/",
       "time": "2025-07-28T17:20:58+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Can small AI models think as well as large ones?",
-      "item_url": "https://seangoedecke.com/cognitive-core/",
-      "time": "2025-07-27T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
