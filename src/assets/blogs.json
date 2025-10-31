@@ -531,5 +531,22 @@
         "url": "https://mercurychong.blogspot.com/2025/10/blog-post_21.html"
       }
     ]
+  },
+  {
+    "name": "Kevin Kelly",
+    "url": "https://kk.org/",
+    "describe": "凯文·凯利",
+    "avatar": "avatar/kk.jpg",
+    "feed": "https://feedpress.me/TheTechnium",
+    "like": [
+      {
+        "title": "Essentials for Independent Travel in China",
+        "url": "https://kk.org/thetechnium/essentials-for-independent-travel-in-china/"
+      },
+      {
+        "title": "Paying AIs to Read My Books",
+        "url": "https://kk.org/thetechnium/paying-ais-to-read-my-books/"
+      }
+    ]
   }
 ]
