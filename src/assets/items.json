@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html",
+      "time": "2025-10-31T00:09:44+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它",
+      "item_url": "https://sv101.fireside.fm/220",
+      "time": "2025-10-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Why do AI models use so many em-dashes?",
@@ -349,13 +363,6 @@
       "item_name": "AI coding agents rely too much on fallbacks",
       "item_url": "https://seangoedecke.com/agents-and-fallbacks/",
       "time": "2025-09-27T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 367 期）：Nano Banana 的几个妙用",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/09/weekly-issue-367.html",
-      "time": "2025-09-26T00:08:40+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -3499,13 +3506,6 @@
       "item_name": "GitHub Copilot Chat: From Prompt Injection to Data Exfiltration",
       "item_url": "https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/",
       "time": "2024-06-15T05:00:17+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E155｜马斯克太空梦进度条70%，聊聊星舰的四次发射与SpaceX Mafia",
-      "item_url": "https://sv101.fireside.fm/161",
-      "time": "2024-06-14T00:00:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
