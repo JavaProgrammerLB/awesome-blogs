@@ -8,6 +8,13 @@
       "time": "2025-10-31T00:09:44+00:00"
     },
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "How low self-esteem and hyperfocus drove me to burnout",
+      "item_url": "https://www.devas.life/how-low-self-esteem-and-hyperfocus-drove-me-to-burnout/",
+      "time": "2025-10-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它",
@@ -2609,13 +2616,6 @@
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "Letting Language Models Write my Website",
       "item_url": "https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html",
-      "time": "2024-12-25T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "The Roadmap of Inkdrop vol.6",
-      "item_url": "https://www.devas.life/the-roadmap-of-inkdrop-vol-6/",
       "time": "2024-12-25T00:00:00+00:00"
     },
     {
