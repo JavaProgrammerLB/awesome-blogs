@@ -8,6 +8,13 @@
       "time": "2025-11-01T08:15:40+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我的第一款 iOS App：PingMind",
+      "item_url": "https://limboy.me/posts/pingmind",
+      "time": "2025-11-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
@@ -5431,13 +5438,6 @@
       "item_name": "拼音猜成语",
       "item_url": "https://limboy.me/posts/idiom",
       "time": "2022-03-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "关于 Bytetalk",
-      "item_url": "https://limboy.me/posts/bytetalk",
-      "time": "2022-03-21T00:00:00+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
