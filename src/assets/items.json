@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Depp Wang",
+      "feed": "https://depp.wang/rss2.xml",
+      "item_name": "Apple TV 上使用 RetroArch 玩魂斗罗",
+      "item_url": "https://depp.wang/2025/apple-tv-contra/",
+      "time": "2025-11-01T08:15:40+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
@@ -3814,13 +3821,6 @@
       "item_name": "周报 #57 - 生活在别处（巴厘岛之行）",
       "item_url": "https://www.pseudoyu.com/zh/2024/04/10/weekly_review_20240410",
       "time": "2024-04-10T08:30:00+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "如何给家庭网络免费开启 IPv6 与设置软路由",
-      "item_url": "https://depp.wang/2024/open-ipv6-and-soft-router/",
-      "time": "2024-04-09T06:25:22+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
