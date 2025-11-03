@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Is it worrying that 95% of AI enterprise projects fail?",
+      "item_url": "https://seangoedecke.com/why-do-ai-enterprise-projects-fail/",
+      "time": "2025-11-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "Apple TV 上使用 RetroArch 玩魂斗罗",
@@ -1119,13 +1126,6 @@
       "item_name": "E202｜对话肖风：在香港稳定币的沸腾时刻，一些回归常识的冷思考",
       "item_url": "https://sv101.fireside.fm/212",
       "time": "2025-07-31T00:00:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "The refusal problem in large language models",
-      "item_url": "https://seangoedecke.com/the-refusal-problem/",
-      "time": "2025-07-29T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
