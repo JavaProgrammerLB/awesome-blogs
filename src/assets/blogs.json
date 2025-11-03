@@ -548,5 +548,13 @@
         "url": "https://kk.org/thetechnium/paying-ais-to-read-my-books/"
       }
     ]
+  },
+  {
+    "name": "Ahmad Shadeed",
+    "describe": "网站前端以及移动端，进行用户体验设计与教学的人",
+    "avatar": "avatar/ahmad.webp",
+    "url": "https://ishadeed.com/articles/",
+    "feed": "https://ishadeed.com/feed.xml",
+    "like": []
   }
 ]
