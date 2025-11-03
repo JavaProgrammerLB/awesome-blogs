@@ -680,6 +680,13 @@
       "time": "2025-08-28T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "The Basics of Anchor Positioning",
+      "item_url": "https://ishadeed.com/article/anchor-positioning/",
+      "time": "2025-08-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Cline: Vulnerable To Data Exfiltration And How To Protect Your Data",
@@ -2178,6 +2185,13 @@
       "time": "2025-03-09T13:47:37+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Relative Colors",
+      "item_url": "https://ishadeed.com/article/css-relative-colors/",
+      "time": "2025-03-09T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Standards for ANSI escape codes",
@@ -2553,6 +2567,13 @@
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "28h Days: year 1 update",
       "item_url": "https://sidhion.com/blog/28h_days_update_1/",
+      "time": "2025-01-05T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Balancing Text In CSS",
+      "item_url": "https://ishadeed.com/article/balancing-text-css/",
       "time": "2025-01-05T00:00:00+00:00"
     },
     {
@@ -2960,6 +2981,13 @@
       "item_name": "周报 #77 - 一间只属于自己的房间（对亲密关系的思考）",
       "item_url": "https://www.pseudoyu.com/zh/2024/10/30/weekly_review_202401030",
       "time": "2024-10-30T00:42:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Should masonry be part of CSS grid?",
+      "item_url": "https://ishadeed.com/article/css-grid-masonry/",
+      "time": "2024-10-30T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -3396,6 +3424,13 @@
       "time": "2024-07-20T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Grid Areas",
+      "item_url": "https://ishadeed.com/article/css-grid-area/",
+      "time": "2024-07-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "老头环 DLC！part2",
@@ -3611,6 +3646,13 @@
       "item_name": "27 岁的自白：成长是一件很扫兴的事",
       "item_url": "https://www.pseudoyu.com/zh/2024/06/06/yearly_review_27",
       "time": "2024-06-06T11:42:26+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Cap Unit",
+      "item_url": "https://ishadeed.com/article/css-cap-unit/",
+      "time": "2024-06-05T00:00:00+00:00"
     },
     {
       "blog_id": "Limboy",
@@ -3844,6 +3886,13 @@
       "time": "2024-04-05T16:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "An Interactive Guide to CSS Container Queries",
+      "item_url": "https://ishadeed.com/article/css-container-query-guide/",
+      "time": "2024-04-02T00:00:00+00:00"
+    },
+    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Thinking about extremes",
@@ -3975,6 +4024,13 @@
       "item_name": "Exploring a future of programming",
       "item_url": "https://sidhion.com/blog/exploring_future_programming/",
       "time": "2024-02-29T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS :has() Interactive Guide",
+      "item_url": "https://ishadeed.com/article/css-has-guide/",
+      "time": "2024-02-24T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -4355,6 +4411,20 @@
       "time": "2023-11-19T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Nesting UX in DevTools",
+      "item_url": "https://ishadeed.com/article/css-nesting-ux/",
+      "time": "2023-11-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Nesting",
+      "item_url": "https://ishadeed.com/article/css-nesting/",
+      "time": "2023-11-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "有意思的实物",
@@ -4705,6 +4775,13 @@
       "time": "2023-06-22T10:06:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Future CSS: State Container Queries",
+      "item_url": "https://ishadeed.com/article/css-state-queries/",
+      "time": "2023-06-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2023.06.18: 各种链接",
@@ -4745,6 +4822,13 @@
       "item_name": "我的理想住所",
       "item_url": "https://limboy.me/posts/my-ideal-residence",
       "time": "2023-06-15T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Rebuilding a comment component with modern CSS",
+      "item_url": "https://ishadeed.com/article/comment-component/",
+      "time": "2023-06-13T00:00:00+00:00"
     },
     {
       "blog_id": "Limboy",
@@ -4815,6 +4899,13 @@
       "item_name": "Introducing Beepberry – a portable e-paper computer for hackers",
       "item_url": "https://ericmigi.com/blog/introducing-beepberry-a-portable-e-paper-computer-for-hackers",
       "time": "2023-05-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Conditional CSS with :has and :nth-last-child",
+      "item_url": "https://ishadeed.com/article/conditional-css-has-nth-last-child/",
+      "time": "2023-05-16T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -4920,6 +5011,13 @@
       "item_name": "A ChatGPT clone, in 3000 bytes of C, backed by GPT-2",
       "item_url": "https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html",
       "time": "2023-04-02T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Masking",
+      "item_url": "https://ishadeed.com/article/css-masking/",
+      "time": "2023-03-30T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -5090,6 +5188,13 @@
       "time": "2023-01-09T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Conditional CSS",
+      "item_url": "https://ishadeed.com/article/conditional-css/",
+      "time": "2023-01-09T00:00:00+00:00"
+    },
+    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "AIGC – 图片与文字分享",
@@ -5116,6 +5221,13 @@
       "item_name": "Sync YaoYao data to Samsung Health with Health Connect（Android）",
       "item_url": "http://haozes.me/blog/2022/12/22/healthconnect_en/",
       "time": "2022-12-21T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Style Queries",
+      "item_url": "https://ishadeed.com/article/css-container-style-queries/",
+      "time": "2022-12-19T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -5221,6 +5333,13 @@
       "item_name": "做了 6 年程序员，我学到的 10 条经验",
       "item_url": "https://lutaonan.com/blog/things-i-learnt-after-6-years-as-software-engineer",
       "time": "2022-09-20T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS container queries are finally here",
+      "item_url": "https://ishadeed.com/article/container-queries-are-finally-here/",
+      "time": "2022-08-30T00:00:00+00:00"
     },
     {
       "blog_id": "Limboy",
@@ -5335,6 +5454,13 @@
       "time": "2022-05-23T05:06:54+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "First Look At The CSS object-view-box Property",
+      "item_url": "https://ishadeed.com/article/css-object-view-box/",
+      "time": "2022-05-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "I want an iPhone Mini-sized Android phone",
@@ -5354,6 +5480,13 @@
       "item_name": "WireGuard inside WireGuard: accessing my homelab through my VPN provider",
       "item_url": "https://sidhion.com/blog/wireguard_inside_wireguard_homelab/",
       "time": "2022-04-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS :has Parent Selector",
+      "item_url": "https://ishadeed.com/article/css-has-parent-selector/",
+      "time": "2022-04-13T00:00:00+00:00"
     },
     {
       "blog_id": "Bernardo",
@@ -5447,11 +5580,25 @@
       "time": "2022-03-16T23:21:53+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Aligning Content In Different Wrappers",
+      "item_url": "https://ishadeed.com/article/aligning-content-different-wrappers/",
+      "time": "2022-03-14T00:00:00+00:00"
+    },
+    {
       "blog_id": "Nicholas Carlini",
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "Multiplexing Circuits on the Game of Life - Part 5",
       "item_url": "https://nicholas.carlini.com/writing/2022/multiplexing-circuits-game-of-life.html",
       "time": "2022-02-27T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Hello, CSS Cascade Layers",
+      "item_url": "https://ishadeed.com/article/cascade-layers/",
+      "time": "2022-02-11T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -5466,6 +5613,20 @@
       "item_name": "Introduction to Vitest",
       "item_url": "https://antfu.me/posts/introduction-to-vitest-vue-nation-2022",
       "time": "2022-01-26T08:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Building UI Components With SVG and CSS",
+      "item_url": "https://ishadeed.com/article/building-components-svg-css/",
+      "time": "2022-01-18T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "A Deep CSS Dive Into Radial And Conic Gradients",
+      "item_url": "https://ishadeed.com/article/css-radial-conic-gradient/",
+      "time": "2022-01-10T18:47:11+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -5545,6 +5706,20 @@
       "time": "2021-10-08T09:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Conditional Border Radius In CSS",
+      "item_url": "https://ishadeed.com/article/conditional-border-radius/",
+      "time": "2021-10-04T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Container Query Units",
+      "item_url": "https://ishadeed.com/article/container-query-units/",
+      "time": "2021-09-18T00:00:00+00:00"
+    },
+    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "Q&A：技术人如何转投资？",
@@ -5580,6 +5755,13 @@
       "time": "2021-08-24T16:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Aligning a Button Label Vertically",
+      "item_url": "https://ishadeed.com/article/button-label-alignment/",
+      "time": "2021-07-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Async with Composition API",
@@ -5594,11 +5776,32 @@
       "time": "2021-07-14T16:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Comparing Design Mockups To Code Result",
+      "item_url": "https://ishadeed.com/article/compare-design-to-code-result/",
+      "time": "2021-07-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Optimize Await",
       "item_url": "https://antfu.me/posts/optimize-await",
       "time": "2021-07-01T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Let's Learn About Aspect Ratio In CSS",
+      "item_url": "https://ishadeed.com/article/css-aspect-ratio/",
+      "time": "2021-06-10T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Container Queries For Designers",
+      "item_url": "https://ishadeed.com/article/container-queries-for-designers/",
+      "time": "2021-05-25T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -5615,11 +5818,25 @@
       "time": "2021-05-12T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "The State of CSS Cross-Browser Development",
+      "item_url": "https://ishadeed.com/article/cross-browser-development/",
+      "time": "2021-05-04T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Composable Vue",
       "item_url": "https://antfu.me/posts/composable-vue-vueday-2021",
       "time": "2021-04-28T16:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Overflow Issues In CSS",
+      "item_url": "https://ishadeed.com/article/css-overflow-issues/",
+      "time": "2021-04-14T18:47:11+00:00"
     },
     {
       "blog_id": "Randy",
@@ -5678,6 +5895,13 @@
       "time": "2021-03-14T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Digging Into CSS Logical Properties",
+      "item_url": "https://ishadeed.com/article/css-logical-properties/",
+      "time": "2021-03-10T00:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "我对 Svelte 的看法",
@@ -5706,6 +5930,13 @@
       "time": "2021-03-01T16:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Clipping Scrollable Areas On The inline-start Side",
+      "item_url": "https://ishadeed.com/article/clip-scrollable-areas-inline-start/",
+      "time": "2021-02-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "Legacy code best practice: how to take over an existing project smoothly",
@@ -5727,6 +5958,13 @@
       "time": "2021-01-20T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Understanding Clip Path in CSS",
+      "item_url": "https://ishadeed.com/article/clip-path/",
+      "time": "2021-01-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "2020 年终总结",
@@ -5741,6 +5979,13 @@
       "time": "2021-01-05T18:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "The Art of Building Real-life Components",
+      "item_url": "https://ishadeed.com/article/building-real-life-components/",
+      "time": "2021-01-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Grow @ Google 03: 文档意识与培养新人",
@@ -5753,6 +5998,20 @@
       "item_name": "Yet Another Space Game (In 13kb of JavaScript)",
       "item_url": "https://nicholas.carlini.com/writing/2020/javascript-space-game-13k.html",
       "time": "2020-12-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Handling Short And Long Content In CSS",
+      "item_url": "https://ishadeed.com/article/css-short-long-content/",
+      "time": "2020-12-16T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Scroll Snap",
+      "item_url": "https://ishadeed.com/article/css-scroll-snap/",
+      "time": "2020-12-08T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -5776,6 +6035,13 @@
       "time": "2020-11-21T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "A Deep Dive Into CSS Grid minmax()",
+      "item_url": "https://ishadeed.com/article/css-grid-minmax/",
+      "time": "2020-11-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "PG and Jessica",
@@ -5797,6 +6063,20 @@
       "time": "2020-08-16T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Mistakes While On Autopilot",
+      "item_url": "https://ishadeed.com/article/css-mistakes/",
+      "time": "2020-08-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Digging Into the Flex Property",
+      "item_url": "https://ishadeed.com/article/css-flex-property/",
+      "time": "2020-08-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "A Philosophy of Software Design",
@@ -5811,6 +6091,13 @@
       "time": "2020-07-29T23:23:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Understanding CSS Multiple Backgrounds",
+      "item_url": "https://ishadeed.com/article/css-multiple-backgrounds/",
+      "time": "2020-07-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "「程序员」和「软件工程师」是一回事吗？",
@@ -5823,6 +6110,13 @@
       "item_name": "The Universal Communication Bus",
       "item_url": "https://ericmigi.com/blog/the-universal-communication-bus",
       "time": "2020-07-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Aligning Logo Images in CSS",
+      "item_url": "https://ishadeed.com/article/aligning-logos-css/",
+      "time": "2020-06-25T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -5851,6 +6145,13 @@
       "item_name": "An Introduction to Circuit Design on Conway's Game of Life - Part 2",
       "item_url": "https://nicholas.carlini.com/writing/2020/intro-to-circuits-game-of-life.html",
       "time": "2020-06-01T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Colors in CSS",
+      "item_url": "https://ishadeed.com/article/css-color/",
+      "time": "2020-05-31T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -5888,6 +6189,13 @@
       "time": "2020-05-09T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "min(), max(), and clamp() CSS Functions",
+      "item_url": "https://ishadeed.com/article/css-min-max-clamp/",
+      "time": "2020-05-06T00:00:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "中文格式化小工具 zhlint 及其开发心得",
@@ -5923,6 +6231,13 @@
       "time": "2020-03-26T09:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Everything About Auto in CSS",
+      "item_url": "https://ishadeed.com/article/auto-css/",
+      "time": "2020-03-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Funding for COVID-19 Projects",
@@ -5949,6 +6264,13 @@
       "item_name": "Hard Startups",
       "item_url": "https://blog.samaltman.com/hard-startups",
       "time": "2020-02-26T18:28:47+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Let's Use CSS Counters",
+      "item_url": "https://ishadeed.com/article/css-counters/",
+      "time": "2020-02-26T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -6035,6 +6357,13 @@
       "time": "2019-12-25T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Creating a Variable Color Font From Scratch",
+      "item_url": "https://ishadeed.com/article/creating-a-variable-font/",
+      "time": "2019-12-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "三种主流的网赚套利，躺着赚钱？",
@@ -6070,6 +6399,13 @@
       "time": "2019-11-12T20:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Blending Modes in CSS",
+      "item_url": "https://ishadeed.com/article/blending-modes-css/",
+      "time": "2019-11-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "薅羊毛的最大意义：保持对规则的敏感度",
@@ -6098,6 +6434,13 @@
       "time": "2019-10-26T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Rebuilding Apple Music Header in HTML & CSS",
+      "item_url": "https://ishadeed.com/article/apple-music-header/",
+      "time": "2019-10-16T00:00:00+00:00"
+    },
+    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "数据可视化技术实现的关键点",
@@ -6119,6 +6462,13 @@
       "time": "2019-09-21T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Accessible Checkbox",
+      "item_url": "https://ishadeed.com/article/accessible-checkbox/",
+      "time": "2019-09-17T18:47:11+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "爱情是愿意为你放弃寻新鲜",
@@ -6138,6 +6488,13 @@
       "item_name": "不需要扫描仪，数字化归档自己的文件",
       "item_url": "https://geekplux.com/posts/digitally-archive-your-own-files",
       "time": "2019-08-27T20:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Enhancing The Clickable Area Size",
+      "item_url": "https://ishadeed.com/article/clickable-area/",
+      "time": "2019-08-13T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -6217,6 +6574,27 @@
       "time": "2019-05-12T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Part 3: The Process of Implementing A UI Design From Scratch",
+      "item_url": "https://ishadeed.com/article/building-ui-design-scratch-part-3/",
+      "time": "2019-05-11T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Part 2: The Process of Implementing A UI Design From Scratch",
+      "item_url": "https://ishadeed.com/article/building-ui-design-scratch-part-2/",
+      "time": "2019-04-28T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Building An Old Nav Design",
+      "item_url": "https://ishadeed.com/article/building-an-old-nav-design/",
+      "time": "2019-04-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "vue-mark-display：用 markdown 语法轻松撰写幻灯片",
@@ -6243,6 +6621,13 @@
       "item_name": "杭州最适合闲来溜达的几条路线",
       "item_url": "https://geekplux.com/posts/hangzhou-scenic-route",
       "time": "2019-02-24T20:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "The Process of Implementing A UI Design From Scratch",
+      "item_url": "https://ishadeed.com/article/building-ui-design-scratch/",
+      "time": "2019-02-11T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -6278,6 +6663,13 @@
       "item_name": "2018 平淡无奇",
       "item_url": "https://geekplux.com/posts/2018-summary",
       "time": "2019-01-05T20:53:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Common CSS Issues For Front-End Projects",
+      "item_url": "https://ishadeed.com/article/common-css-issues-front-end-projects/",
+      "time": "2018-12-27T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -6546,6 +6938,13 @@
       "time": "2017-06-27T19:57:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "How to Build Web Form Layouts With CSS Grid",
+      "item_url": "https://ishadeed.com/article/css-grid-forms/",
+      "time": "2017-06-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "我的编程经历",
@@ -6658,6 +7057,13 @@
       "time": "2016-11-26T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Grid Layout Ah-ha Moment",
+      "item_url": "https://ishadeed.com/article/css-grid/",
+      "time": "2016-11-23T00:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "你根本用不着退学",
@@ -6665,11 +7071,25 @@
       "time": "2016-11-06T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Enhancing Our Components with CSS :empty",
+      "item_url": "https://ishadeed.com/article/css-empty/",
+      "time": "2016-10-18T00:00:00+00:00"
+    },
+    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "Vue 2.0 来了！",
       "item_url": "https://jiongks.name/blog/vue-2-is-here",
       "time": "2016-10-01T12:45:09+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Building Resizeable Components with Relative CSS Units",
+      "item_url": "https://ishadeed.com/article/building-resizeable-components-relative-css-units/",
+      "time": "2016-09-09T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
