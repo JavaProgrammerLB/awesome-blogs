@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html",
+      "time": "2025-11-04T00:21:31+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Is it worrying that 95% of AI enterprise projects fail?",
@@ -363,13 +370,6 @@
       "item_name": "How I influence tech company politics as a staff software engineer",
       "item_url": "https://seangoedecke.com/how-to-influence-politics/",
       "time": "2025-10-04T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "一天之内，智谱和 Anthropic 都发了最强编程模型",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/glm-4.6.html",
-      "time": "2025-10-01T11:05:15+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
