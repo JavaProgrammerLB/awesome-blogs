@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "Yes really, curl is still developed",
+      "item_url": "https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/",
+      "time": "2025-11-04T09:27:16+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
@@ -517,13 +524,6 @@
       "item_name": "吃飯捧碗",
       "item_url": "https://mercurychong.blogspot.com/2025/09/blog-post.html",
       "time": "2025-09-19T05:48:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "From suspicion to published curl CVE",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/18/from-suspicion-to-published-curl-cve/",
-      "time": "2025-09-18T07:32:47+00:00"
     },
     {
       "blog_id": "刘泓君",
