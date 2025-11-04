@@ -8,6 +8,13 @@
       "time": "2025-11-04T09:27:16+00:00"
     },
     {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "《公正：何为正当之为》读书笔记",
+      "item_url": "https://www.owenyoung.com/blog/books/justice/",
+      "time": "2025-11-04T03:13:47+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
@@ -5172,13 +5179,6 @@
       "item_name": "2023.01.14: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2023-01-14/",
       "time": "2023-01-14T09:00:52+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2023.01.11: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2023-01-11/",
-      "time": "2023-01-11T11:54:05+00:00"
     },
     {
       "blog_id": "Randy",
