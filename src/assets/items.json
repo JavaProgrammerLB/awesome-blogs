@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "curl 8.17.0",
+      "item_url": "https://daniel.haxx.se/blog/2025/11/05/curl-8-17-0/",
+      "time": "2025-11-05T07:04:39+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "欧陆风云 5 的经济系统",
@@ -524,13 +531,6 @@
       "item_name": "AI is good news for Australian and European software engineers",
       "item_url": "https://seangoedecke.com/ai-is-good-news-for-australian-engineers/",
       "time": "2025-09-20T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "Bye bye Kerberos FTP",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/19/bye-bye-kerberos-ftp/",
-      "time": "2025-09-19T06:23:25+00:00"
     },
     {
       "blog_id": "水星",
