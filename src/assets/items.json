@@ -8,6 +8,13 @@
       "time": "2025-11-05T07:04:39+00:00"
     },
     {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "How To Build A Smartwatch: Software - Setting Expectations & Roadmap",
+      "item_url": "https://ericmigi.com/blog/how-to-build-a-smartwatch-software-setting-expectations-and-roadmap",
+      "time": "2025-11-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "欧陆风云 5 的经济系统",
@@ -1335,13 +1342,6 @@
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Recording object snapshots by (ab)using JavaScript proxies",
       "item_url": "https://sidhion.com/blog/javascript_object_snapshot_prototype/",
-      "time": "2025-03-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "Gratitude and FAQ",
-      "item_url": "https://ericmigi.com/blog/gratitude-and-faq",
       "time": "2025-03-26T00:00:00+00:00"
     },
     {
