@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 372 期）：软件界面如何设计",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html",
+      "time": "2025-11-07T00:14:38+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E213｜从爱好到投资，卡牌能成为年轻人的第一桶金吗？",
+      "item_url": "https://sv101.fireside.fm/223",
+      "time": "2025-11-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "yihong",
       "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
       "item_name": "Things I don’t like",
@@ -344,13 +358,6 @@
       "time": "2025-10-10T11:24:00+00:00"
     },
     {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 368 期）：不要这样管理软件团队",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-368.html",
-      "time": "2025-10-10T00:08:05+00:00"
-    },
-    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Notes on switching to Helix from vim",
@@ -594,13 +601,6 @@
       "item_name": "The Trust Quotient (TQ)",
       "item_url": "https://kk.org/thetechnium/the-trust-quotient-tq/",
       "time": "2025-09-02T20:15:23+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E205｜和丛乐聊基因编辑：碳基生命如何面对硅基挑战？",
-      "item_url": "https://sv101.fireside.fm/215",
-      "time": "2025-09-01T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
