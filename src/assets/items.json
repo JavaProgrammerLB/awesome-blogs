@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)",
+      "item_url": "https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/",
+      "time": "2025-11-08T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 372 期）：软件界面如何设计",
@@ -1091,13 +1098,6 @@
       "item_name": "两年后又捣鼓了一个健康类小程序",
       "item_url": "https://justin3go.com/posts/2025/06/21-health-mini-program-after-two-years",
       "time": "2025-06-21T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "How to automate development journaling with Claude Code",
-      "item_url": "https://www.devas.life/how-to-automate-development-journaling-with-claude-code/",
-      "time": "2025-06-20T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
