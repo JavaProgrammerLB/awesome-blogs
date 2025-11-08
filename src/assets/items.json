@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "To get better at technical writing, lower your expectations",
+      "item_url": "https://seangoedecke.com/technical-communication/",
+      "time": "2025-11-09T00:00:00+00:00"
+    },
+    {
       "blog_id": "Takuya Matsuyama",
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)",
@@ -454,13 +461,6 @@
       "item_name": "Quick P2D production update",
       "item_url": "https://ericmigi.com/blog/quick-p2d-production-update",
       "time": "2025-09-29T00:00:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "What is \"good taste\" in software engineering?",
-      "item_url": "https://seangoedecke.com/taste/",
-      "time": "2025-09-28T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
