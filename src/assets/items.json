@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "Parsing integers in C",
+      "item_url": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
+      "time": "2025-11-13T07:35:18+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "The new Pebble app is live on iOS and Android",
@@ -475,13 +482,6 @@
       "item_name": "Abundant Intelligence",
       "item_url": "https://blog.samaltman.com/abundant-intelligence",
       "time": "2025-09-23T13:41:02+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "CRA compliant curl",
-      "item_url": "https://daniel.haxx.se/blog/2025/09/22/cra-compliant-curl/",
-      "time": "2025-09-22T07:57:31+00:00"
     },
     {
       "blog_id": "xuanwo",
