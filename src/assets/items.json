@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "The new Pebble app is live on iOS and Android",
+      "item_url": "https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android",
+      "time": "2025-11-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "国产大模型接入 Claude Code 教程：以 Doubao-Seed-Code 为例",
@@ -1147,13 +1154,6 @@
       "item_name": "河南行拾遗",
       "item_url": "https://frostming.com/2025/henan/",
       "time": "2025-05-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "My new podcast: Tick Talk + Core 2 Duo demo",
-      "item_url": "https://ericmigi.com/blog/i-started-a-podcast-called-tick-talk",
-      "time": "2025-05-01T00:00:00+00:00"
     },
     {
       "blog_id": "yihong",
