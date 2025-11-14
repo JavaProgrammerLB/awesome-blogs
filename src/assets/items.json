@@ -8,6 +8,13 @@
       "time": "2025-11-14T00:06:44+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Writing for AIs is a good way to reach more humans",
+      "item_url": "https://seangoedecke.com/writing-for-ais/",
+      "time": "2025-11-14T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "Parsing integers in C",
@@ -440,13 +447,6 @@
       "item_name": "Sora update #1",
       "item_url": "https://blog.samaltman.com/sora-update-number-1",
       "time": "2025-10-04T00:37:50+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "How I influence tech company politics as a staff software engineer",
-      "item_url": "https://seangoedecke.com/how-to-influence-politics/",
-      "time": "2025-10-04T00:00:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
