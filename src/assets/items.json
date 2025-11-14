@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html",
+      "time": "2025-11-14T00:06:44+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "Parsing integers in C",
@@ -258,13 +265,6 @@
       "item_name": "E210｜日本“失去的30年”，炼成了中国餐厅排队王？",
       "item_url": "https://sv101.fireside.fm/221",
       "time": "2025-10-22T07:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "错误处理：异常好于状态码",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/exception.html",
-      "time": "2025-10-21T16:28:41+00:00"
     },
     {
       "blog_id": "水星",
