@@ -162,13 +162,6 @@
       "time": "2025-10-30T00:00:00+00:00"
     },
     {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Essentials for Independent Travel in China",
-      "item_url": "https://kk.org/thetechnium/essentials-for-independent-travel-in-china/",
-      "time": "2025-10-29T18:40:06+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Claude Pirate: Abusing Anthropic's File API For Data Exfiltration",
@@ -407,25 +400,11 @@
       "time": "2025-10-09T00:00:00+00:00"
     },
     {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Weekly Links, 10/03/2025",
-      "item_url": "https://kk.org/thetechnium/weekly-links-10-03-2025/",
-      "time": "2025-10-08T22:21:21+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "在 Claude Code 中使用 GLM 4.6 的体验",
       "item_url": "https://lutaonan.com/blog/glm-with-claude-code",
       "time": "2025-10-08T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Paying AIs to Read My Books",
-      "item_url": "https://kk.org/thetechnium/paying-ais-to-read-my-books/",
-      "time": "2025-10-07T17:09:36+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -496,13 +475,6 @@
       "item_name": "E208｜量产CEO这事儿，是怎么被宝洁办成的？",
       "item_url": "https://sv101.fireside.fm/218",
       "time": "2025-09-24T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "The Periodic Table of Cognition",
-      "item_url": "https://kk.org/thetechnium/the-periodic-table-of-cognition/",
-      "time": "2025-09-23T22:50:22+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -610,13 +582,6 @@
       "time": "2025-09-04T00:00:00+00:00"
     },
     {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "The Trust Quotient (TQ)",
-      "item_url": "https://kk.org/thetechnium/the-trust-quotient-tq/",
-      "time": "2025-09-02T20:15:23+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Wrap Up: The Month of AI Bugs",
@@ -715,13 +680,6 @@
       "time": "2025-08-23T23:20:58+00:00"
     },
     {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Emotional Agents",
-      "item_url": "https://kk.org/thetechnium/emotional-agents/",
-      "time": "2025-08-23T21:57:26+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "编写游戏程序的一些启示",
@@ -757,13 +715,6 @@
       "time": "2025-08-15T15:05:30+00:00"
     },
     {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Everything I Know about Self-Publishing",
-      "item_url": "https://kk.org/thetechnium/everything-i-know-about-self-publishing/",
-      "time": "2025-08-13T15:01:55+00:00"
-    },
-    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "从一期播客说起",
@@ -785,13 +736,6 @@
       "time": "2025-08-12T14:29:17+00:00"
     },
     {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "No Limit for Better",
-      "item_url": "https://kk.org/thetechnium/no-limit-for-better/",
-      "time": "2025-08-11T19:23:07+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "SetWindowText 引起的死锁",
@@ -806,25 +750,11 @@
       "time": "2025-08-06T01:00:00+00:00"
     },
     {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Artificial Intelligences, So Far",
-      "item_url": "https://kk.org/thetechnium/artificial-intelligences-so-far/",
-      "time": "2025-08-05T16:59:27+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #100 - 过去这十年",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_100",
       "time": "2025-08-05T10:43:00+00:00"
-    },
-    {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "An Audience of One",
-      "item_url": "https://kk.org/thetechnium/an-audience-of-one/",
-      "time": "2025-08-05T00:54:34+00:00"
     },
     {
       "blog_id": "Depp Wang",
