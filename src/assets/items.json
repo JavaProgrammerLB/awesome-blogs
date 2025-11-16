@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Only three kinds of AI products actually work",
+      "item_url": "https://seangoedecke.com/ai-products/",
+      "time": "2025-11-16T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
@@ -426,13 +433,6 @@
       "item_name": "Paying AIs to Read My Books",
       "item_url": "https://kk.org/thetechnium/paying-ais-to-read-my-books/",
       "time": "2025-10-07T17:09:36+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "GPT-5-Codex is a better AI researcher than me",
-      "item_url": "https://seangoedecke.com/ai-research-with-codex/",
-      "time": "2025-10-07T00:00:00+00:00"
     },
     {
       "blog_id": "云风",
