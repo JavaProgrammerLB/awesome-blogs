@@ -1,4 +1,4 @@
-import { Card, Text } from '@radix-ui/themes'
+import { Card, Text, Badge } from '@radix-ui/themes'
 import { Routes, Route, Link } from 'react-router'
 import './App.css'
 import blogsData from './assets/blogs.json'
@@ -25,7 +25,15 @@ interface Blog {
 const blogs: Blog[] = blogsData as Blog[];
 
 function Them() {
-  const { currentItems, currentPage, totalPages, startIndex, endIndex, totalItems, setPage } = usePagination(blogs, 20);
+  // 计算将最后5个项目前置的数组，并标记这些“最新”项
+  const sliceCount = Math.min(5, blogs.length);
+  const lastN = blogs.slice(-sliceCount);
+  const rest = blogs.slice(0, blogs.length - sliceCount);
+  const arranged: Blog[] = [...lastN, ...rest];
+  const toKey = (b: Blog) => `${b.name}|${b.url}`;
+  const newSet = new Set(lastN.map(toKey));
+
+  const { currentItems, currentPage, totalPages, startIndex, endIndex, totalItems, setPage } = usePagination(arranged, 20);
   return (
     <div className='container mx-auto flex flex-col gap-4'>
       <div className='text-center text-sm text-gray-500 mb-2'>
@@ -47,6 +55,11 @@ function Them() {
                     decoding="async"
                   />
                 </a>
+                {newSet.has(toKey(blog)) && (
+                  <div className="absolute top-2 right-2 z-10">
+                    <Badge color="green" variant="solid" radius="full">New</Badge>
+                  </div>
+                )}
               </div>
               <div>
                 <a href={blog.url} target="_blank" rel="noopener noreferrer">
