@@ -22,6 +22,13 @@
       "time": "2025-11-16T00:00:00+00:00"
     },
     {
+      "blog_id": "Kevin Kelly",
+      "feed": "https://feedpress.me/TheTechnium",
+      "item_name": "Weekly Links, 11/17/2025",
+      "item_url": "https://kk.org/thetechnium/weekly-links-11-17-2025/",
+      "time": "2025-11-14T22:37:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
@@ -825,13 +832,6 @@
       "item_name": "周报 #100 - 过去这十年",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_100",
       "time": "2025-08-05T10:43:00+00:00"
-    },
-    {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "An Audience of One",
-      "item_url": "https://kk.org/thetechnium/an-audience-of-one/",
-      "time": "2025-08-05T00:54:34+00:00"
     },
     {
       "blog_id": "Depp Wang",
