@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
+      "item_url": "https://sv101.fireside.fm/224",
+      "time": "2025-11-17T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Only three kinds of AI products actually work",
@@ -566,13 +573,6 @@
       "item_name": "Claude 这条路在中国企业这里彻底断掉了",
       "item_url": "https://macshuo.com/?p=1980",
       "time": "2025-09-10T04:49:45+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E206｜临近机器人GPT-3时刻，具身智能开源模型的加速演进",
-      "item_url": "https://sv101.fireside.fm/216",
-      "time": "2025-09-09T23:00:00+00:00"
     },
     {
       "blog_id": "云风",
