@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Depp Wang",
+      "feed": "https://depp.wang/rss2.xml",
+      "item_name": "使用运动相机当摩托车行车记录仪",
+      "item_url": "https://depp.wang/2025/action4-dash-cam/",
+      "time": "2025-11-17T15:34:03+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
@@ -1931,13 +1938,6 @@
       "item_name": "我如何使用 Obsidian 管理我的个人知识库",
       "item_url": "https://depp.wang/2024/my-obsidian-experience/",
       "time": "2024-06-24T14:30:07+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "《硅谷》- 一部创业踩坑纪录大全",
-      "item_url": "https://depp.wang/2024/silicon-valley/",
-      "time": "2024-06-23T17:13:11+00:00"
     },
     {
       "blog_id": "艾逗笔",
