@@ -8,13 +8,6 @@
       "time": "2025-11-17T15:34:03+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
-      "item_url": "https://sv101.fireside.fm/224",
-      "time": "2025-11-17T00:00:00+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Only three kinds of AI products actually work",
@@ -85,13 +78,6 @@
       "time": "2025-11-07T00:14:38+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E213｜从爱好到投资，卡牌能成为年轻人的第一桶金吗？",
-      "item_url": "https://sv101.fireside.fm/223",
-      "time": "2025-11-07T00:00:00+00:00"
-    },
-    {
       "blog_id": "yihong",
       "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
       "item_name": "Things I don’t like",
@@ -125,13 +111,6 @@
       "item_name": "Yes really, curl is still developed",
       "item_url": "https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/",
       "time": "2025-11-04T09:27:16+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "《公正：何为正当之为》读书笔记",
-      "item_url": "https://www.owenyoung.com/blog/books/justice/",
-      "time": "2025-11-04T03:13:47+00:00"
     },
     {
       "blog_id": "阮一峰",
@@ -176,13 +155,6 @@
       "time": "2025-10-31T00:00:00+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E212｜AI数据中心的万亿大基建时代：美国GDP增长全靠它",
-      "item_url": "https://sv101.fireside.fm/220",
-      "time": "2025-10-31T00:00:00+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Why do AI models use so many em-dashes?",
@@ -218,13 +190,6 @@
       "time": "2025-10-27T00:00:00+00:00"
     },
     {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "AI Assisted System Design Interview Prep",
-      "item_url": "https://linghao.io/posts/ai-assisted-system-design-interview-prep",
-      "time": "2025-10-27T00:00:00+00:00"
-    },
-    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A gold ceremony to remember",
@@ -253,25 +218,11 @@
       "time": "2025-10-24T13:45:11+00:00"
     },
     {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "How I Coding? (Oct 2025 Edition)",
-      "item_url": "https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/",
-      "time": "2025-10-24T01:00:00+00:00"
-    },
-    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 370 期）：正确的代码高亮",
       "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html",
       "time": "2025-10-24T00:18:03+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E211｜站在内容创作者与机器人的交界处：聊聊3D数字人的进化",
-      "item_url": "https://sv101.fireside.fm/222",
-      "time": "2025-10-24T00:00:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -293,13 +244,6 @@
       "item_name": "AIxCC curl details",
       "item_url": "https://daniel.haxx.se/blog/2025/10/22/aixcc-curl-details/",
       "time": "2025-10-22T08:08:25+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E210｜日本“失去的30年”，炼成了中国餐厅排队王？",
-      "item_url": "https://sv101.fireside.fm/221",
-      "time": "2025-10-22T07:00:00+00:00"
     },
     {
       "blog_id": "水星",
@@ -365,20 +309,6 @@
       "time": "2025-10-15T00:00:00+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
-      "item_url": "https://sv101.fireside.fm/219",
-      "time": "2025-10-13T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "炎热10月的自留地探索",
-      "item_url": "http://blog.wraith615.xyz/articles/tnd47obqdrz1te8i",
-      "time": "2025-10-12T13:29:55+00:00"
-    },
-    {
       "blog_id": "水星",
       "feed": "https://mercurychong.blogspot.com/atom.xml",
       "item_name": "終點線之前",
@@ -440,13 +370,6 @@
       "item_name": "Weekly Links, 10/03/2025",
       "item_url": "https://kk.org/thetechnium/weekly-links-10-03-2025/",
       "time": "2025-10-08T22:21:21+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "在 Claude Code 中使用 GLM 4.6 的体验",
-      "item_url": "https://lutaonan.com/blog/glm-with-claude-code",
-      "time": "2025-10-08T00:00:00+00:00"
     },
     {
       "blog_id": "Kevin Kelly",
@@ -512,13 +435,6 @@
       "time": "2025-09-24T00:00:00+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E208｜量产CEO这事儿，是怎么被宝洁办成的？",
-      "item_url": "https://sv101.fireside.fm/218",
-      "time": "2025-09-24T00:00:00+00:00"
-    },
-    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "The Periodic Table of Cognition",
@@ -531,13 +447,6 @@
       "item_name": "Abundant Intelligence",
       "item_url": "https://blog.samaltman.com/abundant-intelligence",
       "time": "2025-09-23T13:41:02+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "How I Vibe Coding? (Sept 2025 Edition)",
-      "item_url": "https://xuanwo.io/2025/06-how-i-vibe-coding-sept-2025-edition/",
-      "time": "2025-09-22T01:00:00+00:00"
     },
     {
       "blog_id": "Frost",
@@ -559,13 +468,6 @@
       "item_name": "吃飯捧碗",
       "item_url": "https://mercurychong.blogspot.com/2025/09/blog-post.html",
       "time": "2025-09-19T05:48:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E207｜智能体创业者们的成本突围与商业落地",
-      "item_url": "https://sv101.fireside.fm/217",
-      "time": "2025-09-18T00:00:00+00:00"
     },
     {
       "blog_id": "Bernardo",
@@ -673,13 +575,6 @@
       "time": "2025-08-28T00:00:00+00:00"
     },
     {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "The Basics of Anchor Positioning",
-      "item_url": "https://ishadeed.com/article/anchor-positioning/",
-      "time": "2025-08-28T00:00:00+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Cline: Vulnerable To Data Exfiltration And How To Protect Your Data",
@@ -741,13 +636,6 @@
       "item_name": "编写游戏程序的一些启示",
       "item_url": "https://blog.codingnow.com/2025/08/gamedev.html",
       "time": "2025-08-22T17:14:10+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Hotel California",
-      "item_url": "https://linghao.io/posts/hotel-california-2025",
-      "time": "2025-08-22T00:00:00+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -813,13 +701,6 @@
       "time": "2025-08-09T02:51:37+00:00"
     },
     {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "Learn Rust by Reasoning with Code Agents",
-      "item_url": "https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/",
-      "time": "2025-08-06T01:00:00+00:00"
-    },
-    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "Artificial Intelligences, So Far",
@@ -869,25 +750,11 @@
       "time": "2025-07-25T00:00:00+00:00"
     },
     {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "RBIR: An Aurora DSQL story",
-      "item_url": "https://xuanwo.io/links/2025/07/rbir_an_aurora_dsql_story/",
-      "time": "2025-07-24T01:00:00+00:00"
-    },
-    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "记「乾坤大挪移」式使用双系统",
       "item_url": "https://imtx.me/blog/macos-dual-boot/",
       "time": "2025-07-23T02:37:04+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "《良好生活的哲学》读书笔记",
-      "item_url": "https://www.owenyoung.com/blog/books/philosophy-life/",
-      "time": "2025-07-22T17:46:07+00:00"
     },
     {
       "blog_id": "yihong",
@@ -988,13 +855,6 @@
       "time": "2025-07-09T00:00:00+00:00"
     },
     {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "n8n自部署极速版教程（Dokploy版）",
-      "item_url": "https://coreychiu.com/blogs/how-to-install-n8n-on-dokploy",
-      "time": "2025-07-09T00:00:00+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #98 - 生活之书与 Agentic Coding",
@@ -1030,20 +890,6 @@
       "time": "2025-07-06T00:00:00+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "AI 时代如何做独立开发",
-      "item_url": "https://idoubi.cv/blogs/ai-solo-dev",
-      "time": "2025-07-03T00:00:00+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "Thank you, Databend; Hello, LanceDB",
-      "item_url": "https://xuanwo.io/2025/04-thank-you-databend-hello-lancedb/",
-      "time": "2025-06-29T01:00:00+00:00"
-    },
-    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "做了一个小游戏：笔画猜成语",
@@ -1056,13 +902,6 @@
       "item_name": "Vibe Coding 一段时间后的感受",
       "item_url": "https://limboy.me/posts/vibe-coding",
       "time": "2025-06-28T00:00:00+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "How I Vibe Coding?",
-      "item_url": "https://xuanwo.io/2025/03-how-i-vibe-coding/",
-      "time": "2025-06-26T01:00:00+00:00"
     },
     {
       "blog_id": "Bernardo",
@@ -1107,27 +946,6 @@
       "time": "2025-06-23T00:00:00+00:00"
     },
     {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "两年后又捣鼓了一个健康类小程序",
-      "item_url": "https://justin3go.com/posts/2025/06/21-health-mini-program-after-two-years",
-      "time": "2025-06-21T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "MCP is all you need",
-      "item_url": "https://idoubi.cv/blogs/mcp-is-all-you-need",
-      "time": "2025-06-16T00:00:00+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.06.14: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-06-14/",
-      "time": "2025-06-13T19:29:31+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Core 2 Duo - Beta Test Signup!",
@@ -1170,13 +988,6 @@
       "time": "2025-06-01T00:00:00+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.05.28: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-05-28/",
-      "time": "2025-05-27T19:29:31+00:00"
-    },
-    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "ProNotes，让 Apple Notes 支持 MarkDown",
@@ -1205,25 +1016,11 @@
       "time": "2025-05-19T01:03:00+00:00"
     },
     {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "Why S3 ListObjects Taking 120s to Respond?",
-      "item_url": "https://xuanwo.io/2025/02-why-s3-list-objects-taking-120s-to-respond/",
-      "time": "2025-05-13T01:00:00+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "How To Build A Smartwatch: Picking A Chip",
       "item_url": "https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip",
       "time": "2025-05-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "松弛的泉州行（下）",
-      "item_url": "http://blog.wraith615.xyz/articles/a1j9y1dikoxe8i55",
-      "time": "2025-05-11T14:00:22+00:00"
     },
     {
       "blog_id": "Frost",
@@ -1245,13 +1042,6 @@
       "item_name": "Categorize Your Dependencies",
       "item_url": "https://antfu.me/posts/categorize-deps",
       "time": "2025-04-28T14:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "松弛的泉州行（上)",
-      "item_url": "http://blog.wraith615.xyz/articles/kjkpm7csmgtejw6g",
-      "time": "2025-04-28T00:12:23+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -1282,46 +1072,11 @@
       "time": "2025-04-11T11:24:09+00:00"
     },
     {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "GPT4o生图风格小全",
-      "item_url": "https://justin3go.com/posts/2025/04/11-gpt-4o-image-generation-guide",
-      "time": "2025-04-11T00:00:00+00:00"
-    },
-    {
       "blog_id": "池建强",
       "feed": "https://macshuo.com/?feed=rss2",
       "item_name": "如何理解段永平这周的股市操作",
       "item_url": "https://macshuo.com/?p=1958",
       "time": "2025-04-10T04:00:52+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "谷歌 Agent2Agent（A2A）协议深度调研报告",
-      "item_url": "https://justin3go.com/posts/2025/04/10-in-depth-research-report-google-agent2agent-a2a-protocol",
-      "time": "2025-04-10T00:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "一些最近的世纪公园记录",
-      "item_url": "http://blog.wraith615.xyz/articles/0vptg08nmnw2tiz5",
-      "time": "2025-04-09T07:26:25+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "BackON v1.5.0 Released",
-      "item_url": "https://xuanwo.io/links/2025/04/backon_v1_5_0/",
-      "time": "2025-04-09T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "现代浏览器插件开发指南",
-      "item_url": "https://lutaonan.com/blog/browser-extension-development-guide",
-      "time": "2025-04-09T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -1331,53 +1086,11 @@
       "time": "2025-04-08T00:00:00+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "我的普鲁斯特问卷回答 - 《请回答普鲁斯特》播客访谈文字稿",
-      "item_url": "https://www.owenyoung.com/blog/proust/",
-      "time": "2025-04-06T05:50:59+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "我们高估了智力的重要性",
-      "item_url": "https://lutaonan.com/blog/oi",
-      "time": "2025-04-01T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "我开发了一个Hacker News上的每日产品精选",
-      "item_url": "https://justin3go.com/posts/2025/03/28-hacker-news-daily-product-picks",
-      "time": "2025-03-28T00:00:00+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Recording object snapshots by (ab)using JavaScript proxies",
       "item_url": "https://sidhion.com/blog/javascript_object_snapshot_prototype/",
       "time": "2025-03-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "阿里云ECS国内服务器部署Dokploy教程",
-      "item_url": "https://coreychiu.com/blogs/how-to-install-dokploy-on-aliyun-ecs-server",
-      "time": "2025-03-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.03.24: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-03-24/",
-      "time": "2025-03-23T19:45:06+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "最受欢迎的内容创作工具目录",
-      "item_url": "https://justin3go.com/posts/2025/03/22-turbo0-the-most-popular-content-creation-tools-directory",
-      "time": "2025-03-22T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -1422,39 +1135,11 @@
       "time": "2025-03-11T00:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "迟到的2024总结",
-      "item_url": "http://blog.wraith615.xyz/articles/hx2oe1jd4iae2sww",
-      "time": "2025-03-10T14:36:00+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "Where do you belong, system researchers?",
-      "item_url": "https://xuanwo.io/links/2025/03/where-do-you-belong-system-researchers/",
-      "time": "2025-03-10T01:00:00+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "上海迪士尼能看什么鸟？",
-      "item_url": "http://blog.wraith615.xyz/articles/p24yu3z64nmuyc6e",
-      "time": "2025-03-09T13:47:37+00:00"
-    },
-    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Standards for ANSI escape codes",
       "item_url": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
       "time": "2025-03-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "MCP Server OpenDAL",
-      "item_url": "https://xuanwo.io/links/2025/03/mcp-server-opendal/",
-      "time": "2025-03-05T01:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1485,13 +1170,6 @@
       "time": "2025-02-13T12:27:56+00:00"
     },
     {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "网站收录终极指南！让你的网站流量起飞！",
-      "item_url": "https://coreychiu.com/blogs/ultimate-guide-to-search-engine-submission",
-      "time": "2025-02-11T00:00:00+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Three Observations",
@@ -1499,25 +1177,11 @@
       "time": "2025-02-09T21:05:32+00:00"
     },
     {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "我如何使用 Apple Notes 做笔记",
-      "item_url": "https://lutaonan.com/blog/apple-notes-and-para",
-      "time": "2025-02-09T00:00:00+00:00"
-    },
-    {
       "blog_id": "Nicholas Carlini",
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "AI forecasting retrospective: you're (probably) over-confident",
       "item_url": "https://nicholas.carlini.com/writing/2025/forecasting-ai-2025-update.html",
       "time": "2025-02-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "新 MacBook 的设置和软件",
-      "item_url": "https://lutaonan.com/blog/2024-new-macbook-setup",
-      "time": "2025-02-08T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1534,46 +1198,11 @@
       "time": "2025-02-05T00:00:00+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.01.27: 各种链接之 - 来点艺术家的震撼",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-01-27/",
-      "time": "2025-01-26T17:04:34+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "GitHub登录配置教程极简版",
-      "item_url": "https://coreychiu.com/blogs/github-oauth-setup",
-      "time": "2025-01-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "三分钟配置好Google登录教程小白版",
-      "item_url": "https://coreychiu.com/blogs/google-oauth-setup",
-      "time": "2025-01-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
-      "item_url": "https://www.owenyoung.com/blog/ai-expert-guidance/",
-      "time": "2025-01-23T21:28:03+00:00"
-    },
-    {
       "blog_id": "池建强",
       "feed": "https://macshuo.com/?feed=rss2",
       "item_name": "字节跳动发布了一款 AI IDE：Trae",
       "item_url": "https://macshuo.com/?p=1948",
       "time": "2025-01-23T07:53:04+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.01.22: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-01-22/",
-      "time": "2025-01-22T06:14:01+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1587,13 +1216,6 @@
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "New wallpaper pack: Textures of Kyoto",
       "item_url": "https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/",
-      "time": "2025-01-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "Next.js webpack.cache.PackFileCacheStrategy打包失败问题解决",
-      "item_url": "https://coreychiu.com/blogs/webpack-caching-failed-for-pack",
       "time": "2025-01-09T00:00:00+00:00"
     },
     {
@@ -1632,20 +1254,6 @@
       "time": "2025-01-05T00:00:00+00:00"
     },
     {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Balancing Text In CSS",
-      "item_url": "https://ishadeed.com/article/balancing-text-css/",
-      "time": "2025-01-05T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "2024，我追过的 AI 风口",
-      "item_url": "https://idoubi.cv/blogs/my-ai-2024",
-      "time": "2025-01-01T00:00:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "CPU Profiling Nuxt",
@@ -1672,13 +1280,6 @@
       "item_name": "有序退网",
       "item_url": "https://jiongks.name/blog/get-rid-of-the-addictive-internet",
       "time": "2024-12-30T11:32:11+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "2024: 在夜海中观望浪潮",
-      "item_url": "https://lutaonan.com/blog/2024-summary",
-      "time": "2024-12-28T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1716,13 +1317,6 @@
       "time": "2024-12-12T09:28:22+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "12月初探松江",
-      "item_url": "http://blog.wraith615.xyz/articles/a5wjckcet2pxdn24",
-      "time": "2024-12-12T08:16:23+00:00"
-    },
-    {
       "blog_id": "池建强",
       "feed": "https://macshuo.com/?feed=rss2",
       "item_name": "墨问小程序发布小红书切图笔记功能",
@@ -1737,32 +1331,11 @@
       "time": "2024-12-09T05:33:43+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2024.12.09: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2024-12-09/",
-      "time": "2024-12-08T16:14:25+00:00"
-    },
-    {
       "blog_id": "池建强",
       "feed": "https://macshuo.com/?feed=rss2",
       "item_name": "选择从众，还是走小众路线",
       "item_url": "https://macshuo.com/?p=1928",
       "time": "2024-12-05T15:50:05+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "出海做导航站应该如何盈利，如何定价？",
-      "item_url": "https://coreychiu.com/blogs/directory-monetization-and-pricing",
-      "time": "2024-12-04T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "How To Be Great 101",
-      "item_url": "https://linghao.io/posts/how-to-be-great-101",
-      "time": "2024-12-01T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -1793,27 +1366,6 @@
       "time": "2024-11-18T09:35:42+00:00"
     },
     {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Lessons Learned Building LLM Applications",
-      "item_url": "https://linghao.io/posts/building-llm-apps-2024",
-      "time": "2024-11-16T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我跑通了全球收付款的流程",
-      "item_url": "https://idoubi.cv/blogs/get-paied-all-over-the-world",
-      "time": "2024-11-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Why is ML Runtime Infra So Hard",
-      "item_url": "https://linghao.io/posts/why-is-ml-runtime-infra-so-hard",
-      "time": "2024-11-09T00:00:00+00:00"
-    },
-    {
       "blog_id": "Frost",
       "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
       "item_name": "功不唐捐",
@@ -1835,25 +1387,11 @@
       "time": "2024-11-05T16:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "11月的南汇追风记",
-      "item_url": "http://blog.wraith615.xyz/articles/rtsvf5796gyxn92l",
-      "time": "2024-11-04T15:53:36+00:00"
-    },
-    {
       "blog_id": "Frost",
       "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
       "item_name": "表达的阈值",
       "item_url": "https://frostming.com/2024/express-threshold/",
       "time": "2024-10-20T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "AI 和写作",
-      "item_url": "https://lutaonan.com/blog/ai-writing",
-      "time": "2024-10-09T00:00:00+00:00"
     },
     {
       "blog_id": "Bernardo",
@@ -1863,53 +1401,11 @@
       "time": "2024-10-08T00:00:00+00:00"
     },
     {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "西双版纳自然行 part5",
-      "item_url": "http://blog.wraith615.xyz/articles/nkqkl1u1mphyhqnx",
-      "time": "2024-09-30T23:38:18+00:00"
-    },
-    {
-      "blog_id": "鱼鱼",
-      "feed": "https://blog.wraith615.xyz/rss.xml",
-      "item_name": "西双版纳自然行 part4：植物园篇（下）",
-      "item_url": "http://blog.wraith615.xyz/articles/wbpx0agmibvksrku",
-      "time": "2024-09-28T14:26:38+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "活动预告：我们硅谷线下见",
-      "item_url": "https://sv101.fireside.fm/172",
-      "time": "2024-09-19T04:15:00+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Naming Matters: DRI vs. Owner in Software Projects",
-      "item_url": "https://linghao.io/posts/dri-vs-owner",
-      "time": "2024-08-25T00:00:00+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Mountains of software: a romantic and a classical perspective",
       "item_url": "https://sidhion.com/blog/romantic_classical_world_software/",
       "time": "2024-08-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我把网站迁移到 cf，省了几万块",
-      "item_url": "https://idoubi.cv/blogs/migrate-to-cloudflare",
-      "time": "2024-08-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "「代码艺术家」不会被 AI 取代",
-      "item_url": "https://lutaonan.com/blog/code-artists",
-      "time": "2024-08-10T00:00:00+00:00"
     },
     {
       "blog_id": "Frost",
@@ -1940,20 +1436,6 @@
       "time": "2024-06-24T14:30:07+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我做了一个 AI 搜索引擎",
-      "item_url": "https://idoubi.cv/blogs/ai-search-engine",
-      "time": "2024-05-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "不上班的第一年",
-      "item_url": "https://lutaonan.com/blog/a-year-off-work",
-      "time": "2024-05-14T00:00:00+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "GPT-4o",
@@ -1966,13 +1448,6 @@
       "item_name": "把「开新坑」作为「心灵按摩」",
       "item_url": "https://imtx.me/blog/starting-new-projects-as-spiritual-massage/",
       "time": "2024-04-28T02:17:05+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "在 Electron 中使用 SQLite 的最好方式",
-      "item_url": "https://lutaonan.com/blog/electron-sqlite",
-      "time": "2024-04-22T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -2003,13 +1478,6 @@
       "time": "2024-03-07T16:00:00+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我写了一个 AI 红包封面生成器",
-      "item_url": "https://idoubi.cv/blogs/ai-cover-generator",
-      "time": "2024-01-30T00:00:00+00:00"
-    },
-    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "2023 一蓑烟雨",
@@ -2022,13 +1490,6 @@
       "item_name": "The Essence of Effective Learning",
       "item_url": "https://littlecheesecake.me/blog1/2024/01/15/effective-learning-2.html",
       "time": "2024-01-15T02:00:00+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Becoming a Staff Engineer",
-      "item_url": "https://linghao.io/posts/staff-eng-learnings-2024",
-      "time": "2024-01-06T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -2045,25 +1506,11 @@
       "time": "2023-12-21T22:44:25+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我写了一款 AI-Native 产品",
-      "item_url": "https://idoubi.cv/blogs/an-ai-native-product",
-      "time": "2023-12-20T00:00:00+00:00"
-    },
-    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "忆奶奶与我的二三事",
       "item_url": "https://imtx.me/blog/in-memory-of-grandma/",
       "time": "2023-11-27T15:51:55+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "1024，我从腾讯裸辞了",
-      "item_url": "https://idoubi.cv/blogs/I-quit-from-tencent",
-      "time": "2023-11-24T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -2078,13 +1525,6 @@
       "item_name": "Send a voice to a friend on your watch with YaoYao!",
       "item_url": "http://haozes.me/blog/2023/11/20/yaoyao-voice-en/",
       "time": "2023-11-19T16:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "创建一个可调用第三方 API 的 gpts 应用",
-      "item_url": "https://idoubi.cv/blogs/how-to-create-gpts",
-      "time": "2023-11-10T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -2178,13 +1618,6 @@
       "time": "2023-06-15T00:00:00+00:00"
     },
     {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Demystifying TLMs",
-      "item_url": "https://linghao.io/posts/demystifying-tlm",
-      "time": "2023-04-25T00:00:00+00:00"
-    },
-    {
       "blog_id": "yulu",
       "feed": "https://littlecheesecake.me/feed",
       "item_name": "[DDIA] Chapter 6 - Partition",
@@ -2255,27 +1688,6 @@
       "time": "2022-11-26T09:46:47+00:00"
     },
     {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Learnings as a Tech Lead",
-      "item_url": "https://linghao.io/posts/tl-learnings-2022",
-      "time": "2022-10-06T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Staff Engineer",
-      "item_url": "https://linghao.io/notes/staff-engineer",
-      "time": "2022-08-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "小公告｜新播客Web3 101上线了",
-      "item_url": "https://sv101.fireside.fm/82",
-      "time": "2022-07-15T07:00:00+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Helion Needs You",
@@ -2311,20 +1723,6 @@
       "time": "2022-03-16T23:21:53+00:00"
     },
     {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Aligning Content In Different Wrappers",
-      "item_url": "https://ishadeed.com/article/aligning-content-different-wrappers/",
-      "time": "2022-03-14T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Building UI Components With SVG and CSS",
-      "item_url": "https://ishadeed.com/article/building-components-svg-css/",
-      "time": "2022-01-18T00:00:00+00:00"
-    },
-    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "新年轻人和新资产",
@@ -2353,13 +1751,6 @@
       "time": "2021-01-05T18:00:00+00:00"
     },
     {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Aligning Logo Images in CSS",
-      "item_url": "https://ishadeed.com/article/aligning-logos-css/",
-      "time": "2020-06-25T00:00:00+00:00"
-    },
-    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "中文格式化小工具 zhlint 及其开发心得",
@@ -2374,13 +1765,6 @@
       "time": "2020-04-20T17:00:00+00:00"
     },
     {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Everything About Auto in CSS",
-      "item_url": "https://ishadeed.com/article/auto-css/",
-      "time": "2020-03-20T00:00:00+00:00"
-    },
-    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "复式记账、财报、量化与图论",
@@ -2393,34 +1777,6 @@
       "item_name": "2019 柳暗花明",
       "item_url": "https://geekplux.com/posts/2019-summary",
       "time": "2020-01-06T20:50:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Blending Modes in CSS",
-      "item_url": "https://ishadeed.com/article/blending-modes-css/",
-      "time": "2019-11-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Rebuilding Apple Music Header in HTML & CSS",
-      "item_url": "https://ishadeed.com/article/apple-music-header/",
-      "time": "2019-10-16T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Accessible Checkbox",
-      "item_url": "https://ishadeed.com/article/accessible-checkbox/",
-      "time": "2019-09-17T18:47:11+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Building An Old Nav Design",
-      "item_url": "https://ishadeed.com/article/building-an-old-nav-design/",
-      "time": "2019-04-15T00:00:00+00:00"
     },
     {
       "blog_id": "勾股",
