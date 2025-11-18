@@ -204,13 +204,6 @@
       "time": "2025-10-28T15:36:30+00:00"
     },
     {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #102 - 我是如何使用 AI 的",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_102",
-      "time": "2025-10-27T18:38:00+00:00"
-    },
-    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "记一次与 Coding Agent 合作实现 Feature 的过程",
@@ -321,13 +314,6 @@
       "item_name": "Should LLMs just treat text content as an image?",
       "item_url": "https://seangoedecke.com/text-tokens-as-image-tokens/",
       "time": "2025-10-21T00:00:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #101 - 消失了三个月，我的生活发生了什么变化",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_101",
-      "time": "2025-10-20T01:41:00+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -827,13 +813,6 @@
       "time": "2025-08-05T16:59:27+00:00"
     },
     {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #100 - 过去这十年",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_100",
-      "time": "2025-08-05T10:43:00+00:00"
-    },
-    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "Apple Watch 选购经验和使用体验",
@@ -895,13 +874,6 @@
       "item_name": "从给 Greptime 贡献代码的过程中，我都学到了什么",
       "item_url": "https://blog.yihong0618.me/issue-320/",
       "time": "2025-07-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #99 - 离开 RSS3，迷茫与重启人生",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_99",
-      "time": "2025-07-21T14:27:00+00:00"
     },
     {
       "blog_id": "云风",
@@ -995,13 +967,6 @@
       "time": "2025-07-09T00:00:00+00:00"
     },
     {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #98 - 生活之书与 Agentic Coding",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_98",
-      "time": "2025-07-08T00:30:00+00:00"
-    },
-    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 YC：日间谋生，夜里逐梦",
@@ -1079,13 +1044,6 @@
       "time": "2025-06-26T00:00:00+00:00"
     },
     {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #97 - 日本旅行小记",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_97",
-      "time": "2025-06-25T03:05:00+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "On getting better at programming",
@@ -1105,13 +1063,6 @@
       "item_name": "LimTube",
       "item_url": "https://limboy.me/posts/limtube",
       "time": "2025-06-23T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "两年后又捣鼓了一个健康类小程序",
-      "item_url": "https://justin3go.com/posts/2025/06/21-health-mini-program-after-two-years",
-      "time": "2025-06-21T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -1149,13 +1100,6 @@
       "time": "2025-06-10T00:00:00+00:00"
     },
     {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "28 岁的自白：去找寻自己",
-      "item_url": "https://www.pseudoyu.com/posts/yearly_review_28",
-      "time": "2025-06-06T02:24:26+00:00"
-    },
-    {
       "blog_id": "池建强",
       "feed": "https://macshuo.com/?feed=rss2",
       "item_name": "墨问发布 OpenAI、社区版 mcp 和 chrome AI 剪藏助手",
@@ -1182,27 +1126,6 @@
       "item_name": "ProNotes，让 Apple Notes 支持 MarkDown",
       "item_url": "https://depp.wang/2025/pro-notes/",
       "time": "2025-05-20T13:01:26+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_96",
-      "time": "2025-05-20T01:35:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #95 - All AI 与 No AI",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_95",
-      "time": "2025-05-19T03:02:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #94 - 生活的界限与真实感",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_94",
-      "time": "2025-05-19T01:03:00+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1282,25 +1205,11 @@
       "time": "2025-04-11T11:24:09+00:00"
     },
     {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "GPT4o生图风格小全",
-      "item_url": "https://justin3go.com/posts/2025/04/11-gpt-4o-image-generation-guide",
-      "time": "2025-04-11T00:00:00+00:00"
-    },
-    {
       "blog_id": "池建强",
       "feed": "https://macshuo.com/?feed=rss2",
       "item_name": "如何理解段永平这周的股市操作",
       "item_url": "https://macshuo.com/?p=1958",
       "time": "2025-04-10T04:00:52+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "谷歌 Agent2Agent（A2A）协议深度调研报告",
-      "item_url": "https://justin3go.com/posts/2025/04/10-in-depth-research-report-google-agent2agent-a2a-protocol",
-      "time": "2025-04-10T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -1345,13 +1254,6 @@
       "time": "2025-04-01T00:00:00+00:00"
     },
     {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "我开发了一个Hacker News上的每日产品精选",
-      "item_url": "https://justin3go.com/posts/2025/03/28-hacker-news-daily-product-picks",
-      "time": "2025-03-28T00:00:00+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Recording object snapshots by (ab)using JavaScript proxies",
@@ -1371,13 +1273,6 @@
       "item_name": "2025.03.24: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-03-24/",
       "time": "2025-03-23T19:45:06+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "最受欢迎的内容创作工具目录",
-      "item_url": "https://justin3go.com/posts/2025/03/22-turbo0-the-most-popular-content-creation-tools-directory",
-      "time": "2025-03-22T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
