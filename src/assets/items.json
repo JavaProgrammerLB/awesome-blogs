@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "Pebble, Rebble, and a Path Forward",
+      "item_url": "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward",
+      "time": "2025-11-18T00:00:00+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "使用运动相机当摩托车行车记录仪",
@@ -1210,13 +1217,6 @@
       "item_name": "Why S3 ListObjects Taking 120s to Respond?",
       "item_url": "https://xuanwo.io/2025/02-why-s3-list-objects-taking-120s-to-respond/",
       "time": "2025-05-13T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "How To Build A Smartwatch: Picking A Chip",
-      "item_url": "https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip",
-      "time": "2025-05-12T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
