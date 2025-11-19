@@ -15,6 +15,13 @@
       "time": "2025-11-19T00:30:59+00:00"
     },
     {
+      "blog_id": "Nicholas Carlini",
+      "feed": "https://nicholas.carlini.com/writing/feed.xml",
+      "item_name": "Are large language models worth it?",
+      "item_url": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
+      "time": "2025-11-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble, Rebble, and a Path Forward",
@@ -1784,13 +1791,6 @@
       "item_name": "Introducing Nuxt Icon v1",
       "item_url": "https://antfu.me/posts/nuxt-icon-v1",
       "time": "2024-11-25T16:00:00+00:00"
-    },
-    {
-      "blog_id": "Nicholas Carlini",
-      "feed": "https://nicholas.carlini.com/writing/feed.xml",
-      "item_name": "You should forecast the future of AI",
-      "item_url": "https://nicholas.carlini.com/writing/2024/forecasting-ai-future.html",
-      "time": "2024-11-25T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
