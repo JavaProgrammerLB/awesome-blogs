@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "水星",
+      "feed": "https://mercurychong.blogspot.com/atom.xml",
+      "item_name": "設立界限",
+      "item_url": "https://mercurychong.blogspot.com/2025/11/blog-post.html",
+      "time": "2025-11-19T04:44:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "VS Code 使用国产大模型 MiniMax M2 教程",
@@ -762,13 +769,6 @@
       "item_name": "Pebble 2 Duo is in mass production!",
       "item_url": "https://ericmigi.com/blog/pebble-2-duo-is-in-mass-production",
       "time": "2025-08-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "時間暫停的錯覺",
-      "item_url": "https://mercurychong.blogspot.com/2025/08/blog-post.html",
-      "time": "2025-08-17T11:32:00+00:00"
     },
     {
       "blog_id": "Depp Wang",
