@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "VS Code 使用国产大模型 MiniMax M2 教程",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/11/vs-code-minimax-m2.html",
+      "time": "2025-11-19T00:30:59+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble, Rebble, and a Path Forward",
@@ -265,13 +272,6 @@
       "item_name": "How I Coding? (Oct 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/",
       "time": "2025-10-24T01:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 370 期）：正确的代码高亮",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html",
-      "time": "2025-10-24T00:18:03+00:00"
     },
     {
       "blog_id": "刘泓君",
