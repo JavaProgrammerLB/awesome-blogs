@@ -760,6 +760,13 @@
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Hotel California",
+      "item_url": "https://linghao.io/posts/hotel-california-2025-en",
+      "time": "2025-08-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Linghao Zhang",
+      "feed": "https://linghao.io/feed.xml",
+      "item_name": "Hotel California",
       "item_url": "https://linghao.io/posts/hotel-california-2025",
       "time": "2025-08-22T00:00:00+00:00"
     },
@@ -2260,13 +2267,6 @@
       "item_name": "Learnings as a Tech Lead",
       "item_url": "https://linghao.io/posts/tl-learnings-2022",
       "time": "2022-10-06T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Staff Engineer",
-      "item_url": "https://linghao.io/notes/staff-engineer",
-      "time": "2022-08-07T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
