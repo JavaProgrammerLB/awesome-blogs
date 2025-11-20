@@ -26,6 +26,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Install jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
       - name: Close PRs and delete branches
         env:
           GH_TOKEN: ${{ github.token }}
@@ -58,15 +63,12 @@ jobs:
             branch=$(echo "$pr_info" | jq -r '.headRefName')
             echo "Branch: $branch"
             
-            # Add comment explaining closure
-            gh pr comment "$pr_num" --body "${{ inputs.reason }}"
-            
-            # Close the PR
-            gh pr close "$pr_num" --comment "Automatically closed by workflow"
+            # Close the PR with a comment
+            gh pr close "$pr_num" --comment "${{ inputs.reason }}"
             echo "✓ Closed PR #$pr_num"
             
             # Delete the branch
-            if git ls-remote --heads origin "$branch" | grep -q "$branch"; then
+            if git ls-remote --heads origin "$branch" | grep -q "refs/heads/$branch$"; then
               git push origin --delete "$branch"
               echo "✓ Deleted branch: $branch"
             else

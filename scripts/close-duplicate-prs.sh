@@ -19,6 +19,13 @@ if ! command -v gh &> /dev/null; then
     exit 1
 fi
 
+# Check if jq is installed
+if ! command -v jq &> /dev/null; then
+    echo -e "${RED}Error: jq is not installed${NC}"
+    echo "Please install it: brew install jq (macOS) or apt-get install jq (Linux)"
+    exit 1
+fi
+
 # Check if user is authenticated
 if ! gh auth status &> /dev/null; then
     echo -e "${RED}Error: Not authenticated with GitHub CLI${NC}"
@@ -65,15 +72,8 @@ for pr_num in "${PR_NUMBERS[@]}"; do
         continue
     fi
     
-    # Add comment explaining closure
-    if gh pr comment "$pr_num" --body "$REASON"; then
-        echo -e "${GREEN}  ✓ Added closure comment${NC}"
-    else
-        echo -e "${RED}  ✗ Failed to add comment${NC}"
-    fi
-    
-    # Close the PR
-    if gh pr close "$pr_num"; then
+    # Close the PR with a comment
+    if gh pr close "$pr_num" --comment "$REASON"; then
         echo -e "${GREEN}  ✓ Closed PR #$pr_num${NC}"
     else
         echo -e "${RED}  ✗ Failed to close PR #$pr_num${NC}"
@@ -82,7 +82,7 @@ for pr_num in "${PR_NUMBERS[@]}"; do
     fi
     
     # Delete the branch
-    if git ls-remote --heads origin "$branch" 2>/dev/null | grep -q "$branch"; then
+    if git ls-remote --heads origin "$branch" 2>/dev/null | grep -q "refs/heads/$branch$"; then
         if git push origin --delete "$branch" 2>/dev/null; then
             echo -e "${GREEN}  ✓ Deleted branch: $branch${NC}"
         else
