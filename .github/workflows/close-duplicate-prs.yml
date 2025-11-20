@@ -1,0 +1,79 @@
+name: Close Duplicate Pull Requests
+
+on:
+  workflow_dispatch:
+    inputs:
+      pr_numbers:
+        description: 'Comma-separated list of PR numbers to close (e.g., 242,243,244,245,246,247)'
+        required: true
+        type: string
+      reason:
+        description: 'Reason for closing (will be added as a comment)'
+        required: false
+        default: 'Closing duplicate PR - content already merged in another PR'
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  close-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Close PRs and delete branches
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # Convert comma-separated string to array
+          IFS=',' read -ra PR_ARRAY <<< "${{ inputs.pr_numbers }}"
+          
+          for pr_num in "${PR_ARRAY[@]}"; do
+            # Trim whitespace
+            pr_num=$(echo "$pr_num" | xargs)
+            
+            echo "Processing PR #$pr_num"
+            
+            # Get PR details
+            pr_info=$(gh pr view "$pr_num" --json headRefName,state 2>/dev/null || echo "")
+            
+            if [ -z "$pr_info" ]; then
+              echo "PR #$pr_num not found, skipping"
+              continue
+            fi
+            
+            # Check if PR is already closed
+            state=$(echo "$pr_info" | jq -r '.state')
+            if [ "$state" = "CLOSED" ] || [ "$state" = "MERGED" ]; then
+              echo "PR #$pr_num is already $state, skipping"
+              continue
+            fi
+            
+            # Get branch name
+            branch=$(echo "$pr_info" | jq -r '.headRefName')
+            echo "Branch: $branch"
+            
+            # Add comment explaining closure
+            gh pr comment "$pr_num" --body "${{ inputs.reason }}"
+            
+            # Close the PR
+            gh pr close "$pr_num" --comment "Automatically closed by workflow"
+            echo "✓ Closed PR #$pr_num"
+            
+            # Delete the branch
+            if git ls-remote --heads origin "$branch" | grep -q "$branch"; then
+              git push origin --delete "$branch"
+              echo "✓ Deleted branch: $branch"
+            else
+              echo "Branch $branch does not exist remotely, skipping deletion"
+            fi
+            
+            echo "---"
+          done
+          
+          echo "All specified PRs processed successfully"
