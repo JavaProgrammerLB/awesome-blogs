@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E215｜手握电力的加密矿工，会是AI时代的“淘金卖水人”吗？",
+      "item_url": "https://sv101.fireside.fm/225",
+      "time": "2025-11-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "水星",
       "feed": "https://mercurychong.blogspot.com/atom.xml",
       "item_name": "當初的快樂",
@@ -587,13 +594,6 @@
       "item_name": "吃飯捧碗",
       "item_url": "https://mercurychong.blogspot.com/2025/09/blog-post.html",
       "time": "2025-09-19T05:48:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E207｜智能体创业者们的成本突围与商业落地",
-      "item_url": "https://sv101.fireside.fm/217",
-      "time": "2025-09-18T00:00:00+00:00"
     },
     {
       "blog_id": "Bernardo",
