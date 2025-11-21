@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 374 期）：6GHz 的问题",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html",
+      "time": "2025-11-21T00:10:12+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E215｜手握电力的加密矿工，会是AI时代的“淘金卖水人”吗？",
@@ -202,13 +209,6 @@
       "item_name": "我的第一款 iOS App：PingMind",
       "item_url": "https://limboy.me/posts/pingmind",
       "time": "2025-11-01T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 371 期）：一个乐观主义者的专访",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html",
-      "time": "2025-10-31T00:09:44+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
