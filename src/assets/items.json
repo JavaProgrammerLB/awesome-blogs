@@ -8,6 +8,13 @@
       "time": "2025-11-22T05:52:56+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Why it takes months to tell if new AI models are good",
+      "item_url": "https://seangoedecke.com/are-new-models-good/",
+      "time": "2025-11-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 374 期）：6GHz 的问题",
@@ -454,13 +461,6 @@
       "item_name": "关于桌游设计大赛的介绍",
       "item_url": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
       "time": "2025-10-12T09:57:22+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "How I provide technical clarity to non-technical leaders",
-      "item_url": "https://seangoedecke.com/clarity/",
-      "time": "2025-10-12T00:00:00+00:00"
     },
     {
       "blog_id": "謝懿",
