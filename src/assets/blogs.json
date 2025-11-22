@@ -568,5 +568,13 @@
         "url": "https://luolei.org/shenzhen-marathon-2016"
       }
     ]
+  },
+  {
+    "name": "phodal",
+    "url": "https://www.phodal.com/",
+    "describe": "《自己动手设计物联网》作者",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
+    "feed": "https://www.phodal.com/blog/feeds/rss/",
+    "like": []
   }
 ]
