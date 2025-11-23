@@ -583,5 +583,13 @@
     "avatar": "https://blog.246612.xyz/me.jpeg",
     "feed": "https://xieyi.org/rss.xml",
     "like": []
+  },
+  {
+    "name": "酥米",
+    "url": "https://www.sumi233.top/archives/",
+    "describe": "喜欢编程技术的高三学生",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763870389_063fcd96.png",
+    "feed": "https://www.sumi233.top/rss.xml",
+    "like": []
   }
 ]
