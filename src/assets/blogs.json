@@ -591,5 +591,13 @@
     "avatar": "https://webp.yitianyigexiangfa.com/1763870389_063fcd96.png",
     "feed": "https://www.sumi233.top/rss.xml",
     "like": []
+  },
+  {
+    "name": "Mingnify",
+    "url": "https://mingnify.com/zh/blog/",
+    "describe": "关注AI的产品经理",
+    "avatar": "https://mingnify.com/zh/blog/images/mingnify-icon.png",
+    "feed": "https://mingnify.com/zh/blog/atom.xml",
+    "like": []
   }
 ]
