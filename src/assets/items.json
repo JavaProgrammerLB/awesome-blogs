@@ -71,6 +71,13 @@
       "time": "2025-11-17T15:34:03+00:00"
     },
     {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "没有显卡也能在Windows下开星露谷服务器啦！无显卡开设星露谷物语服务器",
+      "item_url": "https://www.sumi233.top/%E6%95%99%E7%A8%8B/stardewvalleyserver/",
+      "time": "2025-11-17T11:50:13+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
@@ -134,6 +141,13 @@
       "time": "2025-11-11T07:30:25+00:00"
     },
     {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "酥米的碎碎念（4）",
+      "item_url": "https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B54/",
+      "time": "2025-11-10T13:34:56+00:00"
+    },
+    {
       "blog_id": "謝懿",
       "feed": "https://xieyi.org/rss.xml",
       "item_name": "Build Your Own TrendRadar Information Feed——搭建属于你自己的”趋势雷达“-TrendRadar信息流推送",
@@ -146,6 +160,13 @@
       "item_name": "To get better at technical writing, lower your expectations",
       "item_url": "https://seangoedecke.com/technical-communication/",
       "time": "2025-11-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "Windows 11 Insider Preview Build 26220.7070 更新日志",
+      "item_url": "https://www.sumi233.top/Windows/win11dev6/",
+      "time": "2025-11-08T03:50:00+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
@@ -232,6 +253,13 @@
       "time": "2025-11-02T00:00:00+00:00"
     },
     {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "酥米的碎碎念（3）",
+      "item_url": "https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B53/",
+      "time": "2025-11-01T09:30:50+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "Apple TV 上使用 RetroArch 玩魂斗罗",
@@ -272,6 +300,13 @@
       "item_name": "Essentials for Independent Travel in China",
       "item_url": "https://kk.org/thetechnium/essentials-for-independent-travel-in-china/",
       "time": "2025-10-29T18:40:06+00:00"
+    },
+    {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "我成年啦！18岁生日快乐",
+      "item_url": "https://www.sumi233.top/Weekly/zhouji3/",
+      "time": "2025-10-29T14:40:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -328,6 +363,13 @@
       "item_name": "从羽毛球启发的「后端工程师等级说明」",
       "item_url": "https://depp.wang/2025/backend-engineer-level-guide/",
       "time": "2025-10-24T13:45:11+00:00"
+    },
+    {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "酥米周记二之运动会",
+      "item_url": "https://www.sumi233.top/Weekly/zhouji2/",
+      "time": "2025-10-24T11:40:00+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -400,6 +442,13 @@
       "time": "2025-10-20T01:41:00+00:00"
     },
     {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "Windows 11 Insider Preview Build 26220.6972 更新日志：AI助手深化与拖拽托盘优化",
+      "item_url": "https://www.sumi233.top/Windows/win11dev5/",
+      "time": "2025-10-19T14:30:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "What have we learned about building agentic AI tools?",
@@ -412,6 +461,13 @@
       "item_name": "We are in the \"gentleman scientist\" era of AI research",
       "item_url": "https://seangoedecke.com/ai-and-informal-science/",
       "time": "2025-10-18T00:00:00+00:00"
+    },
+    {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "酥米周记一之平淡无聊的一周",
+      "item_url": "https://www.sumi233.top/Weekly/zhouji1/",
+      "time": "2025-10-17T15:30:00+00:00"
     },
     {
       "blog_id": "Limboy",
@@ -433,6 +489,13 @@
       "item_name": "The scariest “user support” email I’ve ever received",
       "item_url": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
       "time": "2025-10-15T00:00:00+00:00"
+    },
+    {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "酥米小站微信小程序即将上线",
+      "item_url": "https://www.sumi233.top/%E5%85%B6%E4%BB%96/sumiblogappsup/",
+      "time": "2025-10-13T16:00:13+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -468,6 +531,13 @@
       "item_name": "Complete Configuration Tutorial for Implementing iCloud and Gmail Email Notifications with Waline——使用 Waline 实现 iCloud 和 Gmail 邮件通知的完整配置教程",
       "item_url": "https://xieyi.org/posts/complete-configuration-tutorial-for-implementing-icloud-and-gmail-email-notifications-with-waline%E4%BD%BF%E7%94%A8-waline-%E5%AE%9E%E7%8E%B0-icloud-%E5%92%8C-gmail-%E9%82%AE%E4%BB%B6%E9%80%9A%E7%9F%A5%E7%9A%84%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/",
       "time": "2025-10-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "酥米",
+      "feed": "https://www.sumi233.top/rss.xml",
+      "item_name": "Windows 11 Insider Preview Build 26220.6780 更新日志：AI助手与拖拽托盘升级",
+      "item_url": "https://www.sumi233.top/Windows/win11dev4/",
+      "time": "2025-10-11T13:58:00+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
