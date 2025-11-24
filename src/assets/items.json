@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!",
+      "item_url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
+      "time": "2025-11-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "嵌入主线程消息循环的任务调度器",
@@ -1287,13 +1294,6 @@
       "item_name": "2025.06.14: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-06-14/",
       "time": "2025-06-13T19:29:31+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "Core 2 Duo - Beta Test Signup!",
-      "item_url": "https://ericmigi.com/blog/core-2-duo-alphabeta-test-signup",
-      "time": "2025-06-11T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
