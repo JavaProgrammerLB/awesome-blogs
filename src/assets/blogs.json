@@ -591,5 +591,18 @@
     "avatar": "https://webp.yitianyigexiangfa.com/1763870389_063fcd96.png",
     "feed": "https://www.sumi233.top/rss.xml",
     "like": []
+  },
+  {
+    "name": "每日明",
+    "url": "https://zh.dailyminz.org/archives/",
+    "describe": "关注人文，关注艺术创作的人",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764035826_2efd837b.jpg",
+    "feed": "https://dailyminz.org/atom.xml",
+    "like": [
+      {
+        "title": "生活之道，创造之道",
+        "url": "https://zh.dailyminz.org/2025/10/21/Way-to-Live-Way-to-Create/"
+      }
+    ]
   }
 ]
