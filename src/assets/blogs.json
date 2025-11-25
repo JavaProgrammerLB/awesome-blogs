@@ -542,10 +542,10 @@
   },
   {
     "name": "王垠",
-    "url": "https://www.yinwang.org/",
+    "url": "https://www.yinwang.org/?page=1",
     "describe": "很早就听说过的很有名的程序员(从清华大学和美国多所计算机名校读博期间退学)",
-    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
-    "feed": "https://rsshub.app/blogs/wangyin",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764043141_a4a99d7e.png",
+    "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
     "like": [
       {
         "title": "我和 Google 的故事",
