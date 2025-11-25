@@ -27,7 +27,7 @@ const blogs: Blog[] = blogsData as Blog[];
 function Them() {
   // 计算将最后5个项目前置的数组，并标记这些“最新”项
   const sliceCount = Math.min(5, blogs.length);
-  const lastN = blogs.slice(-sliceCount);
+  const lastN = blogs.slice(-sliceCount).reverse(); // 反转最新5条,使最新的在最前面
   const rest = blogs.slice(0, blogs.length - sliceCount);
   const arranged: Blog[] = [...lastN, ...rest];
   const toKey = (b: Blog) => `${b.name}|${b.url}`;
