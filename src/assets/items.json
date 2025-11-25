@@ -64,6 +64,13 @@
       "time": "2025-11-17T15:34:03+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev Code Review Agent：应对 10 倍代码量的 Agentic 代码审查",
+      "item_url": "http://www.phodal.com/blog/autodev-review-agent/",
+      "time": "2025-11-17T04:19:07+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
@@ -83,6 +90,13 @@
       "item_name": "Weekly Links, 11/17/2025",
       "item_url": "https://kk.org/thetechnium/weekly-links-11-17-2025/",
       "time": "2025-11-14T22:37:00+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "2025 AI 代码检视：以 ROI 为中心的 AI 代码检视体系与分级",
+      "item_url": "http://www.phodal.com/blog/ai-code-review-2025/",
+      "time": "2025-11-14T04:10:19+00:00"
     },
     {
       "blog_id": "阮一峰",
@@ -106,6 +120,13 @@
       "time": "2025-11-13T07:35:18+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev CLI：构建 AI Agent 生成的 AI Agent 质量保障与验证架构",
+      "item_url": "http://www.phodal.com/blog/autodev-cli-validate-framework/",
+      "time": "2025-11-12T08:35:55+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "The new Pebble app is live on iOS and Android",
@@ -118,6 +139,13 @@
       "item_name": "国产大模型接入 Claude Code 教程：以 Doubao-Seed-Code 为例",
       "item_url": "http://www.ruanyifeng.com/blog/2025/11/doubao-seed-code.html",
       "time": "2025-11-11T07:30:25+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "Vibe Coding 何必只在桌面 IDE，编码智能体协同的思考与设计",
+      "item_url": "http://www.phodal.com/blog/vibe-coding-for-autodev-server/",
+      "time": "2025-11-11T03:57:16+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -181,6 +209,13 @@
       "item_name": "Yes really, curl is still developed",
       "item_url": "https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/",
       "time": "2025-11-04T09:27:16+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "多端编程 Agent（CLI/Desktop/Mobile）：AutoDev 架构升级，欢迎一起参与演进",
+      "item_url": "http://www.phodal.com/blog/autodev-next-poc/",
+      "time": "2025-11-04T07:18:22+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -330,6 +365,13 @@
       "time": "2025-10-22T07:00:00+00:00"
     },
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "🌐 生活之道，创造之道",
+      "item_url": "https://zh.dailyminz.org/2025/10/21/Way-to-Live-Way-to-Create/",
+      "time": "2025-10-21T15:15:29+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A royal gold medal",
@@ -384,6 +426,13 @@
       "item_name": "The scariest “user support” email I’ve ever received",
       "item_url": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
       "time": "2025-10-15T00:00:00+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
+      "item_url": "http://www.phodal.com/blog/prompt-to-agenticg/",
+      "time": "2025-10-14T06:09:53+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -484,6 +533,13 @@
       "time": "2025-09-30T17:13:47+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev A2A 新能力下的云端 Agent 路径思考，从扩展到协作",
+      "item_url": "http://www.phodal.com/blog/autodev-a2a/",
+      "time": "2025-09-29T03:17:38+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Quick P2D production update",
@@ -547,6 +603,13 @@
       "time": "2025-09-21T00:00:00+00:00"
     },
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "历史的创造和创造的历史 [1]",
+      "item_url": "https://zh.dailyminz.org/2025/09/21/The-Historical-Creation-and-the-History-Created-1/",
+      "time": "2025-09-20T16:05:43+00:00"
+    },
+    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "We have outgrown the Process model",
@@ -573,6 +636,13 @@
       "item_name": "Jakub and Szymon",
       "item_url": "https://blog.samaltman.com/jakub-and-szymon",
       "time": "2025-09-09T00:10:22+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "从 Langchain 到 Spring AI，我们究竟需要怎么样一个企业级 AI 开发框架？",
+      "item_url": "http://www.phodal.com/blog/from-langchain-to-spring-ai/",
+      "time": "2025-09-08T11:57:31+00:00"
     },
     {
       "blog_id": "yihong",
@@ -715,6 +785,20 @@
       "time": "2025-08-22T00:00:00+00:00"
     },
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "历史的创造和创造的历史 [0]",
+      "item_url": "https://zh.dailyminz.org/2025/08/20/The-Historical-Creation-and-the-History-Created-0/",
+      "time": "2025-08-20T10:17:22+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "从 Semantic Kernel 到 Spring AI：企业级 AI 应用迁移实践指南 【AI 结合代码生成】",
+      "item_url": "http://www.phodal.com/blog/semantic-kernel-to-spring-ai/",
+      "time": "2025-08-16T01:17:34+00:00"
+    },
+    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "注意力保卫战，我的注意力管理实践",
@@ -762,6 +846,13 @@
       "item_name": "SetWindowText 引起的死锁",
       "item_url": "https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html",
       "time": "2025-08-09T02:51:37+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AI × 旧系统：Vibe Coding 构建 AI 迁移工具，实现端到端智能迁移",
+      "item_url": "http://www.phodal.com/blog/ai4modernization/",
+      "time": "2025-08-07T12:38:08+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1023,6 +1114,13 @@
       "time": "2025-06-25T03:05:00+00:00"
     },
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "评 | ef - a tale of memories [0]",
+      "item_url": "https://zh.dailyminz.org/2025/06/24/Review-ef-a-tale-of-memories-0/",
+      "time": "2025-06-24T13:37:51+00:00"
+    },
+    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "On getting better at programming",
@@ -1177,6 +1275,13 @@
       "time": "2025-04-22T00:00:00+00:00"
     },
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "译 | 懒到不想起标题：互联网如何使你的大脑懒惰",
+      "item_url": "https://zh.dailyminz.org/2025/04/19/Translation-Im-Too-Lazy-to-Come-Up-With-a-Good-Title/",
+      "time": "2025-04-19T10:03:50+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "一些最近的世纪公园记录",
@@ -1217,6 +1322,13 @@
       "item_name": "我们高估了智力的重要性",
       "item_url": "https://lutaonan.com/blog/oi",
       "time": "2025-04-01T00:00:00+00:00"
+    },
+    {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "脑腐：信息的富裕，智识的荒原",
+      "item_url": "https://zh.dailyminz.org/2025/03/31/Brain-Rot-Rich-in-Info-Ragged-in-Wisdom/",
+      "time": "2025-03-31T01:29:01+00:00"
     },
     {
       "blog_id": "Bernardo",
@@ -1266,6 +1378,13 @@
       "item_name": "连续跑了 365 天",
       "item_url": "https://blog.yihong0618.me/issue-306/",
       "time": "2025-03-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "互联网争论 ABC",
+      "item_url": "https://zh.dailyminz.org/2025/03/11/Online-Arguments-ABCs/",
+      "time": "2025-03-11T08:25:26+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1380,6 +1499,13 @@
       "time": "2025-02-05T00:00:00+00:00"
     },
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "关于创造力的随想：教育模式给我们带来了什么",
+      "item_url": "https://zh.dailyminz.org/2025/01/29/Random-Thoughts-on-Creativity/",
+      "time": "2025-01-29T15:08:06+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.01.27: 各种链接之 - 来点艺术家的震撼",
@@ -1457,11 +1583,25 @@
       "time": "2025-01-05T00:00:00+00:00"
     },
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "译 | 中国探路者 2024 年第一季度更新",
+      "item_url": "https://zh.dailyminz.org/2025/01/02/Translation-ChinaPathfinder-Q1Upd/",
+      "time": "2025-01-02T03:00:59+00:00"
+    },
+    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "2024，我追过的 AI 风口",
       "item_url": "https://idoubi.cv/blogs/my-ai-2024",
       "time": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "2024年终总结",
+      "item_url": "https://zh.dailyminz.org/2025/01/01/Annaul-Column-2024/",
+      "time": "2024-12-31T17:31:22+00:00"
     },
     {
       "blog_id": "Anthony Fu",
