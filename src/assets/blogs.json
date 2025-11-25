@@ -512,7 +512,12 @@
     "avatar": "avatar/ahmad.webp",
     "url": "https://ishadeed.com/articles/",
     "feed": "https://ishadeed.com/feed.xml",
-    "like": []
+    "like": [
+      {
+        "title": "The Gap",
+        "url": "https://ishadeed.com/article/the-gap/"
+      }
+    ]
   },
   {
     "name": "phodal",
