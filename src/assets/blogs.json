@@ -539,5 +539,18 @@
         "url": "https://zh.dailyminz.org/2025/10/21/Way-to-Live-Way-to-Create/"
       }
     ]
+  },
+  {
+    "name": "王垠",
+    "url": "https://www.yinwang.org/",
+    "describe": "很早就听说过的很有名的程序员(从清华大学和美国多所计算机名校读博期间退学)",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
+    "feed": "https://rsshub.app/blogs/wangyin",
+    "like": [
+      {
+        "title": "我和 Google 的故事",
+        "url": "https://www.yinwang.org/posts/google-story"
+      }
+    ]
   }
 ]
