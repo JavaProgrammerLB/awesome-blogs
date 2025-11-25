@@ -1226,6 +1226,13 @@
       "time": "2025-05-13T01:00:00+00:00"
     },
     {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "计算机科学视频班课程介绍",
+      "item_url": "https://www.yinwang.org/posts/cs-video-course",
+      "time": "2025-05-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "松弛的泉州行（下）",
@@ -1884,6 +1891,13 @@
       "time": "2024-05-13T17:39:38+00:00"
     },
     {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "计算机科学基础班第 5 期成功结束",
+      "item_url": "https://www.yinwang.org/posts/cs5-completed",
+      "time": "2024-05-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "把「开新坑」作为「心灵按摩」",
@@ -1959,6 +1973,13 @@
       "item_name": "2023 年总结：向外连接与恢复成长的一年",
       "item_url": "https://imtx.me/blog/2023-summary/",
       "time": "2023-12-31T03:41:11+00:00"
+    },
+    {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "计算机科学基础班（第5期，现实接轨班）招生",
+      "item_url": "https://www.yinwang.org/posts/cs-course-5",
+      "time": "2023-12-23T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -2129,6 +2150,13 @@
       "time": "2023-04-10T02:00:00+00:00"
     },
     {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "空气清新剂的噩梦",
+      "item_url": "https://www.yinwang.org/posts/air-freshener-nightmare",
+      "time": "2023-02-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "「阅读器」iPad mini 6 一年体验记",
@@ -2157,6 +2185,13 @@
       "time": "2022-12-21T16:00:00+00:00"
     },
     {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "continuation 和并发计算专项班",
+      "item_url": "https://www.yinwang.org/posts/continuation-course",
+      "time": "2022-12-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "ChatGPT 真格基金内部分享",
@@ -2169,6 +2204,13 @@
       "item_name": "Step by Step 分析一次链上三明治套利攻击",
       "item_url": "https://daimajia.com/2022/12/05/step-by-step-defi-sandwitch-attack/",
       "time": "2022-12-05T06:00:21+00:00"
+    },
+    {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "计算机科学阅读班提供疫情特价",
+      "item_url": "https://www.yinwang.org/posts/tuition-for-covid",
+      "time": "2022-12-01T00:00:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -2234,6 +2276,27 @@
       "time": "2022-03-14T00:00:00+00:00"
     },
     {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "计算机科学进阶班招生",
+      "item_url": "https://www.yinwang.org/posts/advanced-cs-course",
+      "time": "2022-02-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "自然视力恢复法",
+      "item_url": "https://www.yinwang.org/posts/myopia",
+      "time": "2022-02-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "计算机科学阅读班招生说明",
+      "item_url": "https://www.yinwang.org/posts/reading-course",
+      "time": "2022-02-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "Ahmad Shadeed",
       "feed": "https://ishadeed.com/feed.xml",
       "item_name": "Building UI Components With SVG and CSS",
@@ -2253,6 +2316,13 @@
       "item_name": "GameFi 和 DAO",
       "item_url": "https://daimajia.com/2021/11/25/rethink-blockchain-1/",
       "time": "2021-11-25T04:10:53+00:00"
+    },
+    {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "第一位“计算机科学少年班”学生毕业",
+      "item_url": "https://www.yinwang.org/posts/youth-cs-student",
+      "time": "2021-09-16T00:00:00+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
