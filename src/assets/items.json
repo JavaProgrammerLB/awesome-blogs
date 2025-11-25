@@ -36,20 +36,6 @@
       "time": "2025-11-21T00:00:00+00:00"
     },
     {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "當初的快樂",
-      "item_url": "https://mercurychong.blogspot.com/2025/11/blog-post_20.html",
-      "time": "2025-11-20T14:19:00+00:00"
-    },
-    {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "設立界限",
-      "item_url": "https://mercurychong.blogspot.com/2025/11/blog-post.html",
-      "time": "2025-11-19T04:44:00+00:00"
-    },
-    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "VS Code 使用国产大模型 MiniMax M2 教程",
@@ -78,24 +64,10 @@
       "time": "2025-11-17T15:34:03+00:00"
     },
     {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "没有显卡也能在Windows下开星露谷服务器啦！无显卡开设星露谷物语服务器",
-      "item_url": "https://www.sumi233.top/%E6%95%99%E7%A8%8B/stardewvalleyserver/",
-      "time": "2025-11-17T11:50:13+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
       "item_url": "https://sv101.fireside.fm/224",
-      "time": "2025-11-17T00:00:00+00:00"
-    },
-    {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "TseYi-Notes：A Docsify × Obsidian Workspace for AI Learning Journeys——TseYi-Notes：基于 Docsify × Obsidian 的 AI 学习笔记工作台",
-      "item_url": "https://xieyi.org/posts/tseyi-notesa-docsify--obsidian-workspace-for-ai-learning-journeystseyi-notes%E5%9F%BA%E4%BA%8E-docsify--obsidian-%E7%9A%84-ai-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%B7%A5%E4%BD%9C%E5%8F%B0/",
       "time": "2025-11-17T00:00:00+00:00"
     },
     {
@@ -148,32 +120,11 @@
       "time": "2025-11-11T07:30:25+00:00"
     },
     {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "酥米的碎碎念（4）",
-      "item_url": "https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B54/",
-      "time": "2025-11-10T13:34:56+00:00"
-    },
-    {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "Build Your Own TrendRadar Information Feed——搭建属于你自己的”趋势雷达“-TrendRadar信息流推送",
-      "item_url": "https://xieyi.org/posts/build-your-own-trendradar-information-feed%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B6%8B%E5%8A%BF%E9%9B%B7%E8%BE%BE-trendradar%E4%BF%A1%E6%81%AF%E6%B5%81%E6%8E%A8%E9%80%81/",
-      "time": "2025-11-10T00:00:00+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "To get better at technical writing, lower your expectations",
       "item_url": "https://seangoedecke.com/technical-communication/",
       "time": "2025-11-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "Windows 11 Insider Preview Build 26220.7070 更新日志",
-      "item_url": "https://www.sumi233.top/Windows/win11dev6/",
-      "time": "2025-11-08T03:50:00+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
@@ -253,20 +204,6 @@
       "time": "2025-11-03T00:00:00+00:00"
     },
     {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "Astro Blog Layout Refactoring and UX Optimization——Astro 博客布局重构与用户体验优化",
-      "item_url": "https://xieyi.org/posts/astro-blog-layout-refactoring-and-ux-optimizationastro-%E5%8D%9A%E5%AE%A2%E5%B8%83%E5%B1%80%E9%87%8D%E6%9E%84%E4%B8%8E%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E4%BC%98%E5%8C%96/",
-      "time": "2025-11-02T00:00:00+00:00"
-    },
-    {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "酥米的碎碎念（3）",
-      "item_url": "https://www.sumi233.top/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E9%85%A5%E7%B1%B3%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B53/",
-      "time": "2025-11-01T09:30:50+00:00"
-    },
-    {
       "blog_id": "Depp Wang",
       "feed": "https://depp.wang/rss2.xml",
       "item_name": "Apple TV 上使用 RetroArch 玩魂斗罗",
@@ -309,13 +246,6 @@
       "time": "2025-10-29T18:40:06+00:00"
     },
     {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "我成年啦！18岁生日快乐",
-      "item_url": "https://www.sumi233.top/Weekly/zhouji3/",
-      "time": "2025-10-29T14:40:00+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Claude Pirate: Abusing Anthropic's File API For Data Exfiltration",
@@ -351,13 +281,6 @@
       "time": "2025-10-25T11:26:40+00:00"
     },
     {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "投資的力量",
-      "item_url": "https://mercurychong.blogspot.com/2025/10/blog-post_24.html",
-      "time": "2025-10-25T06:42:00+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Mistakes I see engineers making in their code reviews",
@@ -370,13 +293,6 @@
       "item_name": "从羽毛球启发的「后端工程师等级说明」",
       "item_url": "https://depp.wang/2025/backend-engineer-level-guide/",
       "time": "2025-10-24T13:45:11+00:00"
-    },
-    {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "酥米周记二之运动会",
-      "item_url": "https://www.sumi233.top/Weekly/zhouji2/",
-      "time": "2025-10-24T11:40:00+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -400,13 +316,6 @@
       "time": "2025-10-23T06:08:37+00:00"
     },
     {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "那段停滯不前的時段",
-      "item_url": "https://mercurychong.blogspot.com/2025/10/blog-post_22.html",
-      "time": "2025-10-22T11:31:00+00:00"
-    },
-    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "AIxCC curl details",
@@ -419,13 +328,6 @@
       "item_name": "E210｜日本“失去的30年”，炼成了中国餐厅排队王？",
       "item_url": "https://sv101.fireside.fm/221",
       "time": "2025-10-22T07:00:00+00:00"
-    },
-    {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "為夢想抗爭&妥協",
-      "item_url": "https://mercurychong.blogspot.com/2025/10/blog-post_21.html",
-      "time": "2025-10-21T09:44:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -449,13 +351,6 @@
       "time": "2025-10-20T01:41:00+00:00"
     },
     {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "Windows 11 Insider Preview Build 26220.6972 更新日志：AI助手深化与拖拽托盘优化",
-      "item_url": "https://www.sumi233.top/Windows/win11dev5/",
-      "time": "2025-10-19T14:30:00+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "What have we learned about building agentic AI tools?",
@@ -468,13 +363,6 @@
       "item_name": "We are in the \"gentleman scientist\" era of AI research",
       "item_url": "https://seangoedecke.com/ai-and-informal-science/",
       "time": "2025-10-18T00:00:00+00:00"
-    },
-    {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "酥米周记一之平淡无聊的一周",
-      "item_url": "https://www.sumi233.top/Weekly/zhouji1/",
-      "time": "2025-10-17T15:30:00+00:00"
     },
     {
       "blog_id": "Limboy",
@@ -498,13 +386,6 @@
       "time": "2025-10-15T00:00:00+00:00"
     },
     {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "酥米小站微信小程序即将上线",
-      "item_url": "https://www.sumi233.top/%E5%85%B6%E4%BB%96/sumiblogappsup/",
-      "time": "2025-10-13T16:00:13+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
@@ -519,32 +400,11 @@
       "time": "2025-10-12T13:29:55+00:00"
     },
     {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "終點線之前",
-      "item_url": "https://mercurychong.blogspot.com/2025/10/blog-post.html",
-      "time": "2025-10-12T10:56:00+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "关于桌游设计大赛的介绍",
       "item_url": "https://blog.codingnow.com/2025/10/boardgame_design_contest.html",
       "time": "2025-10-12T09:57:22+00:00"
-    },
-    {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "Complete Configuration Tutorial for Implementing iCloud and Gmail Email Notifications with Waline——使用 Waline 实现 iCloud 和 Gmail 邮件通知的完整配置教程",
-      "item_url": "https://xieyi.org/posts/complete-configuration-tutorial-for-implementing-icloud-and-gmail-email-notifications-with-waline%E4%BD%BF%E7%94%A8-waline-%E5%AE%9E%E7%8E%B0-icloud-%E5%92%8C-gmail-%E9%82%AE%E4%BB%B6%E9%80%9A%E7%9F%A5%E7%9A%84%E5%AE%8C%E6%95%B4%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B/",
-      "time": "2025-10-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "酥米",
-      "feed": "https://www.sumi233.top/rss.xml",
-      "item_name": "Windows 11 Insider Preview Build 26220.6780 更新日志：AI助手与拖拽托盘升级",
-      "item_url": "https://www.sumi233.top/Windows/win11dev4/",
-      "time": "2025-10-11T13:58:00+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
@@ -554,25 +414,11 @@
       "time": "2025-10-11T00:00:00+00:00"
     },
     {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "Waline Comment System for Astro Blogs——为 Astro 博客打造完美的 Waline 评论系统：从集成到深度定制的完整实践",
-      "item_url": "https://xieyi.org/posts/waline-comment-system-for-astro-blogs%E4%B8%BA-astro-%E5%8D%9A%E5%AE%A2%E6%89%93%E9%80%A0%E5%AE%8C%E7%BE%8E%E7%9A%84-waline-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%BB%8E%E9%9B%86%E6%88%90%E5%88%B0%E6%B7%B1%E5%BA%A6%E5%AE%9A%E5%88%B6%E7%9A%84%E5%AE%8C%E6%95%B4%E5%AE%9E%E8%B7%B5/",
-      "time": "2025-10-11T00:00:00+00:00"
-    },
-    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A new breed of analyzers",
       "item_url": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
       "time": "2025-10-10T11:58:37+00:00"
-    },
-    {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "开始构建墨问的 Web 版本",
-      "item_url": "https://macshuo.com/?p=1987",
-      "time": "2025-10-10T11:24:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -603,32 +449,11 @@
       "time": "2025-10-08T00:00:00+00:00"
     },
     {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "Effective context engineering for AI agents——AI 智能体的有效上下文工程",
-      "item_url": "https://xieyi.org/posts/effective-context-engineering-for-ai-agentsai-%E6%99%BA%E8%83%BD%E4%BD%93%E7%9A%84%E6%9C%89%E6%95%88%E4%B8%8A%E4%B8%8B%E6%96%87%E5%B7%A5%E7%A8%8B/",
-      "time": "2025-10-08T00:00:00+00:00"
-    },
-    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "Paying AIs to Read My Books",
       "item_url": "https://kk.org/thetechnium/paying-ais-to-read-my-books/",
       "time": "2025-10-07T17:09:36+00:00"
-    },
-    {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "The Journey of Creating a Dynamic Banner for Astro Blog——Astro 博客动态随机 Banner 实现全记录",
-      "item_url": "https://xieyi.org/posts/the-journey-of-creating-a-dynamic-banner-for-astro-blogastro-%E5%8D%9A%E5%AE%A2%E5%8A%A8%E6%80%81%E9%9A%8F%E6%9C%BA-banner-%E5%AE%9E%E7%8E%B0%E5%85%A8%E8%AE%B0%E5%BD%95/",
-      "time": "2025-10-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "The Third General Assembly of the Beijing Jintao Fellow Townsmen Association——北京金淘乡亲联谊会第三届会员大会",
-      "item_url": "https://xieyi.org/posts/the-third-general-assembly-of-the-beijing-jintao-fellow-townsmen-association%E5%8C%97%E4%BA%AC%E9%87%91%E6%B7%98%E4%B9%A1%E4%BA%B2%E8%81%94%E8%B0%8A%E4%BC%9A%E7%AC%AC%E4%B8%89%E5%B1%8A%E4%BC%9A%E5%91%98%E5%A4%A7%E4%BC%9A/",
-      "time": "2025-10-06T00:00:00+00:00"
     },
     {
       "blog_id": "云风",
@@ -659,32 +484,11 @@
       "time": "2025-09-30T17:13:47+00:00"
     },
     {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "別人的成功是我們的可能性",
-      "item_url": "https://mercurychong.blogspot.com/2025/09/blog-post_30.html",
-      "time": "2025-09-30T10:45:00+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Quick P2D production update",
       "item_url": "https://ericmigi.com/blog/quick-p2d-production-update",
       "time": "2025-09-29T00:00:00+00:00"
-    },
-    {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "Effective learning： Twenty rules of formulating knowledge——高效学习：构建知识的20条黄金法则",
-      "item_url": "https://xieyi.org/posts/effective-learning-twenty-rules-of-formulating-knowledge%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0%E6%9E%84%E5%BB%BA%E7%9F%A5%E8%AF%86%E7%9A%8420%E6%9D%A1%E9%BB%84%E9%87%91%E6%B3%95%E5%88%99/",
-      "time": "2025-09-29T00:00:00+00:00"
-    },
-    {
-      "blog_id": "謝懿",
-      "feed": "https://xieyi.org/rss.xml",
-      "item_name": "Beijing Nan'an Chamber Mid-Autumn Festival Gala——北京南安企业商会 “月圆聚乡情 颂才子创辉”中秋活动",
-      "item_url": "https://xieyi.org/posts/beijing-nanan-chamber-mid-autumn-festival-gala%E5%8C%97%E4%BA%AC%E5%8D%97%E5%AE%89%E4%BC%81%E4%B8%9A%E5%95%86%E4%BC%9A-%E6%9C%88%E5%9C%86%E8%81%9A%E4%B9%A1%E6%83%85-%E9%A2%82%E6%89%8D%E5%AD%90%E5%88%9B%E8%BE%89%E4%B8%AD%E7%A7%8B%E6%B4%BB%E5%8A%A8/",
-      "time": "2025-09-27T00:00:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -743,13 +547,6 @@
       "time": "2025-09-21T00:00:00+00:00"
     },
     {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "吃飯捧碗",
-      "item_url": "https://mercurychong.blogspot.com/2025/09/blog-post.html",
-      "time": "2025-09-19T05:48:00+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "We have outgrown the Process model",
@@ -764,13 +561,6 @@
       "time": "2025-09-16T05:05:44+00:00"
     },
     {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "Claude 这条路在中国企业这里彻底断掉了",
-      "item_url": "https://macshuo.com/?p=1980",
-      "time": "2025-09-10T04:49:45+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "立即模式下的鼠标交互处理",
@@ -783,13 +573,6 @@
       "item_name": "Jakub and Szymon",
       "item_url": "https://blog.samaltman.com/jakub-and-szymon",
       "time": "2025-09-09T00:10:22+00:00"
-    },
-    {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "43歲生日的新里程碑",
-      "item_url": "https://mercurychong.blogspot.com/2025/09/43.html",
-      "time": "2025-09-08T14:12:00+00:00"
     },
     {
       "blog_id": "yihong",
@@ -818,13 +601,6 @@
       "item_name": "Wrap Up: The Month of AI Bugs",
       "item_url": "https://embracethered.com/blog/posts/2025/wrapping-up-month-of-ai-bugs/",
       "time": "2025-08-31T01:20:58+00:00"
-    },
-    {
-      "blog_id": "水星",
-      "feed": "https://mercurychong.blogspot.com/atom.xml",
-      "item_name": "生日寄语",
-      "item_url": "https://mercurychong.blogspot.com/2025/08/blog-post_29.html",
-      "time": "2025-08-30T05:47:00+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1156,13 +932,6 @@
       "time": "2025-07-09T00:00:00+00:00"
     },
     {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "n8n自部署极速版教程（Dokploy版）",
-      "item_url": "https://coreychiu.com/blogs/how-to-install-n8n-on-dokploy",
-      "time": "2025-07-09T00:00:00+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #98 - 生活之书与 Agentic Coding",
@@ -1275,13 +1044,6 @@
       "time": "2025-06-23T00:00:00+00:00"
     },
     {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "两年后又捣鼓了一个健康类小程序",
-      "item_url": "https://justin3go.com/posts/2025/06/21-health-mini-program-after-two-years",
-      "time": "2025-06-21T00:00:00+00:00"
-    },
-    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "MCP is all you need",
@@ -1315,13 +1077,6 @@
       "item_name": "28 岁的自白：去找寻自己",
       "item_url": "https://www.pseudoyu.com/posts/yearly_review_28",
       "time": "2025-06-06T02:24:26+00:00"
-    },
-    {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "墨问发布 OpenAI、社区版 mcp 和 chrome AI 剪藏助手",
-      "item_url": "https://macshuo.com/?p=1974",
-      "time": "2025-06-01T14:23:57+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1415,46 +1170,11 @@
       "time": "2025-04-24T06:02:49+00:00"
     },
     {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "墨问便签正成为历史",
-      "item_url": "https://macshuo.com/?p=1969",
-      "time": "2025-04-22T10:40:38+00:00"
-    },
-    {
       "blog_id": "yihong",
       "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
       "item_name": "我的 35 岁",
       "item_url": "https://blog.yihong0618.me/issue-309/",
       "time": "2025-04-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "使用海外产品（包括 AI）的时候，发现个秘密",
-      "item_url": "https://macshuo.com/?p=1967",
-      "time": "2025-04-11T11:24:09+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "GPT4o生图风格小全",
-      "item_url": "https://justin3go.com/posts/2025/04/11-gpt-4o-image-generation-guide",
-      "time": "2025-04-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "如何理解段永平这周的股市操作",
-      "item_url": "https://macshuo.com/?p=1958",
-      "time": "2025-04-10T04:00:52+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "谷歌 Agent2Agent（A2A）协议深度调研报告",
-      "item_url": "https://justin3go.com/posts/2025/04/10-in-depth-research-report-google-agent2agent-a2a-protocol",
-      "time": "2025-04-10T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -1499,24 +1219,10 @@
       "time": "2025-04-01T00:00:00+00:00"
     },
     {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "我开发了一个Hacker News上的每日产品精选",
-      "item_url": "https://justin3go.com/posts/2025/03/28-hacker-news-daily-product-picks",
-      "time": "2025-03-28T00:00:00+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Recording object snapshots by (ab)using JavaScript proxies",
       "item_url": "https://sidhion.com/blog/javascript_object_snapshot_prototype/",
-      "time": "2025-03-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "阿里云ECS国内服务器部署Dokploy教程",
-      "item_url": "https://coreychiu.com/blogs/how-to-install-dokploy-on-aliyun-ecs-server",
       "time": "2025-03-26T00:00:00+00:00"
     },
     {
@@ -1525,13 +1231,6 @@
       "item_name": "2025.03.24: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-03-24/",
       "time": "2025-03-23T19:45:06+00:00"
-    },
-    {
-      "blog_id": "Justin3go",
-      "feed": "https://justin3go.com/feed.xml",
-      "item_name": "最受欢迎的内容创作工具目录",
-      "item_url": "https://justin3go.com/posts/2025/03/22-turbo0-the-most-popular-content-creation-tools-directory",
-      "time": "2025-03-22T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -1639,13 +1338,6 @@
       "time": "2025-02-13T12:27:56+00:00"
     },
     {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "网站收录终极指南！让你的网站流量起飞！",
-      "item_url": "https://coreychiu.com/blogs/ultimate-guide-to-search-engine-submission",
-      "time": "2025-02-11T00:00:00+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Three Observations",
@@ -1695,32 +1387,11 @@
       "time": "2025-01-26T17:04:34+00:00"
     },
     {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "GitHub登录配置教程极简版",
-      "item_url": "https://coreychiu.com/blogs/github-oauth-setup",
-      "time": "2025-01-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "三分钟配置好Google登录教程小白版",
-      "item_url": "https://coreychiu.com/blogs/google-oauth-setup",
-      "time": "2025-01-26T00:00:00+00:00"
-    },
-    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
       "item_url": "https://www.owenyoung.com/blog/ai-expert-guidance/",
       "time": "2025-01-23T21:28:03+00:00"
-    },
-    {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "字节跳动发布了一款 AI IDE：Trae",
-      "item_url": "https://macshuo.com/?p=1948",
-      "time": "2025-01-23T07:53:04+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -1741,13 +1412,6 @@
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "New wallpaper pack: Textures of Kyoto",
       "item_url": "https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/",
-      "time": "2025-01-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "Next.js webpack.cache.PackFileCacheStrategy打包失败问题解决",
-      "item_url": "https://coreychiu.com/blogs/webpack-caching-failed-for-pack",
       "time": "2025-01-09T00:00:00+00:00"
     },
     {
@@ -1877,39 +1541,11 @@
       "time": "2024-12-12T08:16:23+00:00"
     },
     {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "墨问小程序发布小红书切图笔记功能",
-      "item_url": "https://macshuo.com/?p=1939",
-      "time": "2024-12-12T05:31:32+00:00"
-    },
-    {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "4 月以来墨问便签小程序的发布节奏",
-      "item_url": "https://macshuo.com/?p=1931",
-      "time": "2024-12-09T05:33:43+00:00"
-    },
-    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2024.12.09: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2024-12-09/",
       "time": "2024-12-08T16:14:25+00:00"
-    },
-    {
-      "blog_id": "池建强",
-      "feed": "https://macshuo.com/?feed=rss2",
-      "item_name": "选择从众，还是走小众路线",
-      "item_url": "https://macshuo.com/?p=1928",
-      "time": "2024-12-05T15:50:05+00:00"
-    },
-    {
-      "blog_id": "Corey Chiu",
-      "feed": "https://coreychiu.com/feed",
-      "item_name": "出海做导航站应该如何盈利，如何定价？",
-      "item_url": "https://coreychiu.com/blogs/directory-monetization-and-pricing",
-      "time": "2024-12-04T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
