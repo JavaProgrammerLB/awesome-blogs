@@ -202,19 +202,6 @@ Inkdrop（笔记SaaS）作者，独立开发者，沉浸式编程，看了他的
 
 一个教人怎么自己做智能手表的人
 
-## Corey Chiu
-<a href="https://coreychiu.com/blogs"><img src="src/assets/avatar/coreychiu.webp" width="300" height="auto" /></a>
-
-## Justin3go
-<a href="https://justin3go.com/"><img src="src/assets/avatar/Justin3go.png" width="300" height="auto" /></a>
-
-2001年出生的，生活在重庆的独立开发者，前端工程师，喜欢摄影，喜欢打羽毛球
-
-## Depp Wang
-<a href="https://depp.wang/"><img src="src/assets/avatar/deppwang.png" width="300" height="auto" /></a>
-
-[[我家的装修设计](https://depp.wang/2024/decoration-design/)]
-
 ## 鱼鱼
 <a href="https://blog.wraith615.xyz/"><img src="src/assets/avatar.webp" width="300" height="auto" /></a>
 
