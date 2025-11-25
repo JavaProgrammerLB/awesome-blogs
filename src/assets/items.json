@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Antigravity Grounded! Security Vulnerabilities in Google's Latest IDE",
+      "item_url": "https://embracethered.com/blog/posts/2025/security-keeps-google-antigravity-grounded/",
+      "time": "2025-11-25T13:00:58+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!",
@@ -741,13 +748,6 @@
       "item_name": "How Deep Research Agents Can Leak Your Data",
       "item_url": "https://embracethered.com/blog/posts/2025/chatgpt-deep-research-connectors-data-spill-and-leaks/",
       "time": "2025-08-25T01:03:35+00:00"
-    },
-    {
-      "blog_id": "wunderwuzzi",
-      "feed": "https://embracethered.com/blog/index.xml",
-      "item_name": "Sneaking Invisible Instructions by Developers in Windsurf",
-      "item_url": "https://embracethered.com/blog/posts/2025/windsurf-sneaking-invisible-instructions-for-prompt-injection/",
-      "time": "2025-08-23T23:20:58+00:00"
     },
     {
       "blog_id": "Kevin Kelly",
