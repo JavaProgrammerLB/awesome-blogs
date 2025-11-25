@@ -516,9 +516,9 @@
   },
   {
     "name": "phodal",
-    "url": "https://www.phodal.com/",
+    "url": "https://www.phodal.com/blog/",
     "describe": "《自己动手设计物联网》作者",
-    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764037781_e5346e94.jpg",
     "feed": "https://www.phodal.com/blog/feeds/rss/",
     "like": []
   },
@@ -527,7 +527,7 @@
     "url": "https://zh.dailyminz.org/archives/",
     "describe": "关注人文，关注艺术创作的人",
     "avatar": "https://webp.yitianyigexiangfa.com/1764035826_2efd837b.jpg",
-    "feed": "https://dailyminz.org/atom.xml",
+    "feed": "https://zh.dailyminz.org/atom.xml",
     "like": [
       {
         "title": "生活之道，创造之道",
