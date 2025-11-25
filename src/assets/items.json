@@ -1226,6 +1226,13 @@
       "time": "2025-05-13T01:00:00+00:00"
     },
     {
+      "blog_id": "王垠",
+      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
+      "item_name": "计算机科学视频班课程介绍",
+      "item_url": "https://www.yinwang.org/",
+      "time": "2025-05-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "松弛的泉州行（下）",
