@@ -415,19 +415,6 @@
     "feed": "https://ericmigi.com/rss.xml"
   },
   {
-    "name": "Corey Chiu",
-    "url": "https://coreychiu.com/blogs",
-    "avatar": "avatar/coreychiu.webp",
-    "feed": "https://coreychiu.com/feed"
-  },
-  {
-    "name": "Justin3go",
-    "describe": "2001年出生的，生活在重庆的独立开发者，前端工程师，喜欢摄影，喜欢打羽毛球",
-    "url": "https://justin3go.com/",
-    "avatar": "avatar/Justin3go.png",
-    "feed": "https://justin3go.com/feed.xml"
-  },
-  {
     "name": "Depp Wang",
     "url": "https://depp.wang/",
     "avatar": "avatar/deppwang.png",
@@ -503,36 +490,6 @@
     ]
   },
   {
-    "name": "池建强",
-    "url": "https://macshuo.com/?paged=1",
-    "describe": "生于70年代的中国开发者",
-    "avatar": "avatar.webp",
-    "feed": "https://macshuo.com/?feed=rss2",
-    "like": [
-      {
-        "title": "选择从众，还是走小众路线",
-        "url": "https://macshuo.com/?p=1928"
-      }
-    ]
-  },
-  {
-    "name": "水星",
-    "url": "https://mercurychong.blogspot.com/",
-    "describe": "说中文的，写关于投资、阅读博客的马来西亚人",
-    "avatar": "avatar/mercury.jpg",
-    "feed": "https://mercurychong.blogspot.com/atom.xml",
-    "like": [
-      {
-        "title": "那段停滯不前的時段",
-        "url": "https://mercurychong.blogspot.com/2025/10/blog-post_22.html"
-      },
-      {
-        "title": "為夢想抗爭&妥協",
-        "url": "https://mercurychong.blogspot.com/2025/10/blog-post_21.html"
-      }
-    ]
-  },
-  {
     "name": "Kevin Kelly",
     "url": "https://kk.org/",
     "describe": "凯文·凯利",
@@ -558,38 +515,11 @@
     "like": []
   },
   {
-    "name": "罗磊",
-    "url": "https://luolei.org/",
-    "describe": "经常跑步的程序员",
-    "avatar": "avatar.webp",
-    "like": [
-      {
-        "title": "马拉松 | 2016深圳国际马拉松",
-        "url": "https://luolei.org/shenzhen-marathon-2016"
-      }
-    ]
-  },
-  {
     "name": "phodal",
     "url": "https://www.phodal.com/",
     "describe": "《自己动手设计物联网》作者",
     "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "feed": "https://www.phodal.com/blog/feeds/rss/",
-    "like": []
-  },
-  {
-    "name": "謝懿",
-    "url": "https://xieyi.org/",
-    "avatar": "https://blog.246612.xyz/me.jpeg",
-    "feed": "https://xieyi.org/rss.xml",
-    "like": []
-  },
-  {
-    "name": "酥米",
-    "url": "https://www.sumi233.top/archives/",
-    "describe": "喜欢编程技术的高三学生",
-    "avatar": "https://webp.yitianyigexiangfa.com/1763870389_063fcd96.png",
-    "feed": "https://www.sumi233.top/rss.xml",
     "like": []
   },
   {
