@@ -591,5 +591,13 @@
     "avatar": "https://webp.yitianyigexiangfa.com/1763870389_063fcd96.png",
     "feed": "https://www.sumi233.top/rss.xml",
     "like": []
+  },
+  {
+    "name": "DailyMinz",
+    "url": "https://dailyminz.org/",
+    "describe": "ddd",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764034378_2efd837b.jpg",
+    "feed": "https://dailyminz.org/atom.xml",
+    "like": []
   }
 ]
