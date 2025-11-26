@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "终于有人做了 Subagent，TRAE 国内版 SOLO 模式来了",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/11/trae-solo.html",
+      "time": "2025-11-26T00:17:19+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Antigravity Grounded! Security Vulnerabilities in Google's Latest IDE",
@@ -230,13 +237,6 @@
       "item_name": "《公正：何为正当之为》读书笔记",
       "item_url": "https://www.owenyoung.com/blog/books/justice/",
       "time": "2025-11-04T03:13:47+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "大模型比拼：MiniMax M2 vs GLM 4.6 vs Claude Sonnet 4.5",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/11/minimax-m2.html",
-      "time": "2025-11-04T00:21:31+00:00"
     },
     {
       "blog_id": "sean goedecke",
