@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
+      "item_url": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
+      "time": "2025-11-26T09:19:56+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "终于有人做了 Subagent，TRAE 国内版 SOLO 模式来了",
@@ -846,13 +853,6 @@
       "item_name": "SetWindowText 引起的死锁",
       "item_url": "https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html",
       "time": "2025-08-09T02:51:37+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AI × 旧系统：Vibe Coding 构建 AI 迁移工具，实现端到端智能迁移",
-      "item_url": "http://www.phodal.com/blog/ai4modernization/",
-      "time": "2025-08-07T12:38:08+00:00"
     },
     {
       "blog_id": "xuanwo",
