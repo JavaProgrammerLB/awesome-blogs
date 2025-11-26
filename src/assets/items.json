@@ -15,6 +15,13 @@
       "time": "2025-11-26T00:17:19+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Becoming unblockable",
+      "item_url": "https://seangoedecke.com/unblockable/",
+      "time": "2025-11-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Antigravity Grounded! Security Vulnerabilities in Google's Latest IDE",
@@ -412,13 +419,6 @@
       "item_name": "What have we learned about building agentic AI tools?",
       "item_url": "https://seangoedecke.com/ideas-in-agentic-ai-tooling/",
       "time": "2025-10-19T00:00:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "We are in the \"gentleman scientist\" era of AI research",
-      "item_url": "https://seangoedecke.com/ai-and-informal-science/",
-      "time": "2025-10-18T00:00:00+00:00"
     },
     {
       "blog_id": "Limboy",
