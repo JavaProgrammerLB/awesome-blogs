@@ -206,7 +206,7 @@
     "name": "Bernardo",
     "url": "https://sidhion.com/blog/",
     "feed": "https://sidhion.com/rss.xml",
-    "avatar": "avatar.webp"
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp"
   },
   {
     "name": "云风",
@@ -229,7 +229,7 @@
     "name": "Julia Evans",
     "url": "https://jvns.ca",
     "describe": "Make hard things Easy",
-    "avatar": "avatar.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "feed": "https://jvns.ca/atom.xml",
     "like": [
       {
@@ -342,7 +342,7 @@
     "name": "yihong",
     "url": "https://blog.yihong0618.me/",
     "describe": "一个生活在大连喜欢使用github的沈阳人、开发者",
-    "avatar": "avatar.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
     "like": [
       {
@@ -355,7 +355,7 @@
     "name": "Frost",
     "url": "https://frostming.com/",
     "describe": "python开发者,和yetone都在BentoML工作",
-    "avatar": "avatar.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
     "like": [
       {
@@ -368,7 +368,7 @@
     "name": "xuanwo",
     "url": "https://xuanwo.io/",
     "describe": "yihong写在我崇拜的人里的人",
-    "avatar": "avatar.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "feed": "https://xuanwo.io/index.xml",
     "like": [
       {
@@ -430,7 +430,7 @@
     "name": "鱼鱼",
     "url": "https://blog.wraith615.xyz/",
     "describe": "一个喜欢矿石的人",
-    "avatar": "avatar.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "like": [
       {
         "title": "矿物站目录导览",
@@ -463,7 +463,7 @@
   {
     "name": "sean goedecke",
     "url": "https://www.seangoedecke.com/",
-    "avatar": "avatar.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "describe": "阮一峰介绍的github的高级软件工程师",
     "feed": "https://www.seangoedecke.com/rss.xml",
     "like": [
@@ -481,7 +481,7 @@
     "name": "Steve Turbek",
     "url": "https://turbek.com/",
     "describe": "《Mechanical Library》网站作者",
-    "avatar": "avatar.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
     "like": [
       {
         "title": "Mechanical Library",
