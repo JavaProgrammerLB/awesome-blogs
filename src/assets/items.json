@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Don’t be a scary old guy: My 40s survival strategy with charm",
+      "item_url": "https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/",
+      "time": "2025-11-27T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
@@ -992,13 +999,6 @@
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 Coral：去体验只此一次的人生",
       "item_url": "https://hawstein.com/2025/07/11/live-your-one-and-only-life/",
-      "time": "2025-07-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "How to automate signing your Windows app with Certum's SimplySign app",
-      "item_url": "https://www.devas.life/how-to-automate-signing-your-windows-app-with-certum/",
       "time": "2025-07-11T00:00:00+00:00"
     },
     {
