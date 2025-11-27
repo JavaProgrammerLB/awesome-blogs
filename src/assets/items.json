@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev DocQL：Agentic RAG 下的结构化检索设计、实现与实验探索",
+      "item_url": "http://www.phodal.com/blog/autodev-docql/",
+      "time": "2025-11-27T15:31:30+00:00"
+    },
+    {
       "blog_id": "Takuya Matsuyama",
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "Don’t be a scary old guy: My 40s survival strategy with charm",
@@ -804,13 +811,6 @@
       "item_name": "历史的创造和创造的历史 [0]",
       "item_url": "https://zh.dailyminz.org/2025/08/20/The-Historical-Creation-and-the-History-Created-0/",
       "time": "2025-08-20T10:17:22+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "从 Semantic Kernel 到 Spring AI：企业级 AI 应用迁移实践指南 【AI 结合代码生成】",
-      "item_url": "http://www.phodal.com/blog/semantic-kernel-to-spring-ai/",
-      "time": "2025-08-16T01:17:34+00:00"
     },
     {
       "blog_id": "Depp Wang",
