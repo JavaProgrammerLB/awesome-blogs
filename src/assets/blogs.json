@@ -2,7 +2,7 @@
   {
     "name": "yulu",
     "url": "https://littlecheesecake.me/blog2/index.html",
-    "avatar": "avatar/littlecheesecake.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208613_854fb528.webp",
     "describe": "制作精美的博客，软件工程师，也研究理财与保险",
     "feed": "https://littlecheesecake.me/feed",
     "like": [
@@ -20,7 +20,7 @@
     "name": "owenyoung",
     "url": "https://owenyoung.com/archive",
     "describe": "沉浸式翻译作者",
-    "avatar": "avatar/owenyoung.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208633_6b3d69cf.webp",
     "feed": "https://www.owenyoung.com/atom.xml",
     "like": [
       {
@@ -37,7 +37,7 @@
     "name": "Anthony Fu",
     "url": "https://antfu.me/posts",
     "describe": "靠开源就能生活的很好的人，yihong说Anthony是宇宙最强前端开发者",
-    "avatar": "avatar/anthony_fu.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208564_cb357573.webp",
     "feed": "https://antfu.me/feed.xml",
     "like": [
       {
@@ -54,7 +54,7 @@
     "name": "艾逗笔",
     "url": "https://idoubi.cv/blogs",
     "describe": "mcp.so开发者",
-    "avatar": "avatar/aidoubi.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208559_7b07c576.webp",
     "feed": "https://idoubi.cv/feed",
     "like": [
       {
@@ -71,7 +71,7 @@
     "name": "Hawstein",
     "url": "https://hawstein.com",
     "describe": "算法题老师，独立创作者，左程云（在马士兵教育教算法的老师）的老同事",
-    "avatar": "avatar/hawstein.ico",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208589_ca270745.ico",
     "feed": "https://hawstein.com/feed.xml",
     "like": [
       {
@@ -88,7 +88,7 @@
     "name": "Randy",
     "url": "https://lutaonan.com/",
     "describe": "《代码之外》播客主播，youtuber，会唱歌、会录歌的程序员",
-    "avatar": "avatar/randy.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208641_5871f56a.webp",
     "feed": "https://lutaonan.com/rss.xml",
     "like": [
       {
@@ -104,7 +104,7 @@
   {
     "name": "pseudoyu",
     "url": "https://www.pseudoyu.com/posts",
-    "avatar": "avatar/pseudoyu.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208639_934f82f4.webp",
     "describe": "喜欢写作的程序员，web3行业，数字游民",
     "feed": "https://www.pseudoyu.com/feed.xml",
     "like": [
@@ -122,7 +122,7 @@
     "name": "Limboy",
     "url": "https://limboy.me/posts",
     "describe": "图拉鼎在博客中介绍的一个采访了很多开发者的播客制作者",
-    "avatar": "avatar/limboy.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208606_cdd14148.webp",
     "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
     "like": [
       {
@@ -138,7 +138,7 @@
   {
     "name": "林惠文(daimajia)",
     "url": "https://daimajia.com/page/1",
-    "avatar": "avatar/daimajia.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208571_ae4b81bc.webp",
     "describe": "huntscreens.com这个开源项目的作者",
     "feed": "https://daimajia.com/feed/",
     "like": [
@@ -156,7 +156,7 @@
     "name": "Paul Graham",
     "url": "https://paulgraham.com/articles.html",
     "describe": "《黑客与画家》作者，YC创始人",
-    "avatar": "avatar/paulgraham.gif",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208637_74c4f7f5.gif",
     "like": [
       {
         "title": "How to Do Great Work",
@@ -172,7 +172,7 @@
     "name": "Sam Altman",
     "url": "https://blog.samaltman.com/",
     "describe": "OpenAI CEO",
-    "avatar": "avatar/samaltman.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208647_357fdef2.webp",
     "feed": "https://blog.samaltman.com/posts.atom",
     "like": [
       {
@@ -189,7 +189,7 @@
     "name": "Nicholas Carlini",
     "url": "https://nicholas.carlini.com/writing",
     "describe": "当前在Anthropic工作，之前是Google(Deep Mind)的研究科学家",
-    "avatar": "avatar/nicholas.carlini.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208620_5f791260.webp",
     "feed": "https://nicholas.carlini.com/writing/feed.xml",
     "like": [
       {
@@ -212,7 +212,7 @@
     "name": "云风",
     "url": "https://blog.codingnow.com",
     "describe": "原网易游戏核心成员，《大话西游》重要开发者",
-    "avatar": "avatar/yunfeng.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208672_77328ba8.webp",
     "feed": "https://blog.codingnow.com/atom.xml",
     "like": [
       {
@@ -242,7 +242,7 @@
     "name": "wunderwuzzi",
     "url": "https://embracethered.com/blog/",
     "describe": "Security Engineer who care about mcp",
-    "avatar": "avatar/wunderwuzzi.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208665_7de77d8c.webp",
     "feed": "https://embracethered.com/blog/index.xml",
     "like": [
       {
@@ -255,7 +255,7 @@
     "name": "Sharon Brizinov",
     "url": "https://sharonbrizinov.com/",
     "describe": "一个从git误提交密码中赚了6.4万美元的安全研究员",
-    "avatar": "avatar/sharonbrizinov.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208650_e8fb430e.webp",
     "like": [
       {
         "title": "How I Made $64K from Deleted Files: A Bug Bounty Story",
@@ -267,7 +267,7 @@
     "name": "Daniel Stenberg",
     "url": "https://daniel.haxx.se/blog",
     "describe": "curl的作者",
-    "avatar": "avatar/danielstenberg.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208572_d177c8c3.webp",
     "feed": "https://daniel.haxx.se/blog/feed/",
     "like": [
       {
@@ -280,7 +280,7 @@
     "name": "图拉鼎",
     "url": "https://imtx.me/",
     "describe": "'良渚文化村村民'独立开发者",
-    "avatar": "avatar/tulading.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208657_b01c3b1e.webp",
     "feed": "https://imtx.me/feed/latest/",
     "like": [
       {
@@ -297,7 +297,7 @@
     "name": "Derek Sivers",
     "url": "https://sive.rs/about",
     "describe": "CD Baby创始人，乔布斯的itunes平台也和他打过交道",
-    "avatar": "avatar/dereksivers.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208577_9327277c.webp",
     "like": [
       {
         "title": "Just selling my CD",
@@ -309,7 +309,7 @@
     "name": "geekplux",
     "url": "https://geekplux.com/posts",
     "describe": "代码之外播客发起人",
-    "avatar": "avatar/geekplux.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208583_9864f502.webp",
     "feed": "https://geekplux.com/feed.xml",
     "like": [
       {
@@ -322,21 +322,21 @@
     "name": "勾股",
     "url": "https://jiongks.name/",
     "describe": "weex重要开发者",
-    "avatar": "avatar/gougou.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208585_2569b0b4.webp",
     "feed": "https://jiongks.name/atom.xml"
   },
   {
     "name": "Linghao Zhang",
     "url": "https://linghao.io/posts",
     "describe": "生活在湾区的Google程序员",
-    "avatar": "avatar/linghao_zhang.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208610_bcd372f5.webp",
     "feed": "https://linghao.io/feed.xml"
   },
   {
     "name": "Shu Ding",
     "url": "https://shud.in/thoughts",
     "describe": "在Vercel工作的程序员与设计师",
-    "avatar": "avatar/shu_ding.webp"
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208652_406bd239.webp"
   },
   {
     "name": "yihong",
@@ -381,7 +381,7 @@
     "name": "汪二 (Haozes)",
     "url": "https://blog.yaoyaojumprope.com/",
     "describe": "独立开发者，Apple Watch平台上开发了乐摇摇APP，统计跳绳的个数，既能当程序员，又能赚钱，还有个好身体，汪二的工作太有意义啦",
-    "avatar": "avatar/haoze.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208587_92e58159.webp",
     "feed": "https://blog.yaoyaojumprope.com/feed.xml",
     "like": [
       {
@@ -394,7 +394,7 @@
     "name": "Takuya Matsuyama",
     "url": "https://www.devas.life/",
     "describe": "Inkdrop（笔记SaaS）作者，独立开发者，沉浸式编程，看了他的youtube视频让我静下心来安心写代码",
-    "avatar": "avatar/takuya_matsuyama.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208654_a7aa808f.webp",
     "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
     "like": [
       {
@@ -411,13 +411,13 @@
     "name": "Eric Migicovsky",
     "url": "https://ericmigi.com",
     "describe": "一个教人怎么自己做智能手表的人",
-    "avatar": "avatar/ericmigi.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208580_39a024d9.webp",
     "feed": "https://ericmigi.com/rss.xml"
   },
   {
     "name": "Depp Wang",
     "url": "https://depp.wang/",
-    "avatar": "avatar/deppwang.png",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208576_a6786cee.png",
     "feed": "https://depp.wang/rss2.xml",
     "like": [
       {
@@ -442,7 +442,7 @@
   {
     "name": "刘泓君",
     "url": "https://sv101.fireside.fm/",
-    "avatar": "avatar/liuhongjun.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208615_f1405b69.webp",
     "describe": "《硅谷101》播客主持人，播客对应公司创始人CEO，泓君做的播客专业而且严谨",
     "feed": "https://feeds.fireside.fm/sv101/rss",
     "like": [
@@ -455,7 +455,7 @@
   {
     "name": "阮一峰",
     "url": "https://www.ruanyifeng.com/blog/archives.html",
-    "avatar": "avatar/ruanyifeng.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208645_1941a94c.webp",
     "describe": "《黑客与画家》中文译者，《如何变得有思想》的作者",
     "feed": "https://feeds.feedburner.com/ruanyifeng",
     "like": []
@@ -493,7 +493,7 @@
     "name": "Kevin Kelly",
     "url": "https://kk.org/",
     "describe": "凯文·凯利",
-    "avatar": "avatar/kk.jpg",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208598_ba68bc9d.jpg",
     "feed": "https://feedpress.me/TheTechnium",
     "like": [
       {
@@ -509,7 +509,7 @@
   {
     "name": "Ahmad Shadeed",
     "describe": "网站前端以及移动端，进行用户体验设计与教学的人",
-    "avatar": "avatar/ahmad.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764208558_4d68162b.webp",
     "url": "https://ishadeed.com/articles/",
     "feed": "https://ishadeed.com/feed.xml",
     "like": [
