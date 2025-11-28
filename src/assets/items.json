@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 375 期）：一扇门的 Bug",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-375.html",
+      "time": "2025-11-28T00:14:06+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E216｜对话机器人投资人：投资也得看论文，规模性商业化还很远",
+      "item_url": "https://sv101.fireside.fm/226",
+      "time": "2025-11-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AutoDev DocQL：Agentic RAG 下的结构化检索设计、实现与实验探索",
@@ -202,13 +216,6 @@
       "item_name": "My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)",
       "item_url": "https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/",
       "time": "2025-11-08T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 372 期）：软件界面如何设计",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-372.html",
-      "time": "2025-11-07T00:14:38+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -586,13 +593,6 @@
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "避风塘 V2",
       "item_url": "https://limboy.me/posts/before-town-v2",
-      "time": "2025-09-24T00:00:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E208｜量产CEO这事儿，是怎么被宝洁办成的？",
-      "item_url": "https://sv101.fireside.fm/218",
       "time": "2025-09-24T00:00:00+00:00"
     },
     {
