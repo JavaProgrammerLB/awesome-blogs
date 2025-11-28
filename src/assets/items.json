@@ -8,6 +8,13 @@
       "time": "2025-11-28T10:53:55+00:00"
     },
     {
+      "blog_id": "xuanwo",
+      "feed": "https://xuanwo.io/index.xml",
+      "item_name": "How I Coding? (Nov 2025 Edition)",
+      "item_url": "https://xuanwo.io/2025/08-how-i-coding-nov-2025-edition/",
+      "time": "2025-11-28T01:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 375 期）：一扇门的 Bug",
@@ -1448,13 +1455,6 @@
       "item_name": "Standards for ANSI escape codes",
       "item_url": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
       "time": "2025-03-07T00:00:00+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "MCP Server OpenDAL",
-      "item_url": "https://xuanwo.io/links/2025/03/mcp-server-opendal/",
-      "time": "2025-03-05T01:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
