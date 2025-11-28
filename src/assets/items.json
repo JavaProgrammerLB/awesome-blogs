@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "云风",
+      "feed": "https://blog.codingnow.com/atom.xml",
+      "item_name": "欧陆风云5的游玩笔记",
+      "item_url": "https://blog.codingnow.com/2025/11/eu5_notes.html",
+      "time": "2025-11-28T10:53:55+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 375 期）：一扇门的 Bug",
@@ -951,13 +958,6 @@
       "item_name": "周报 #99 - 离开 RSS3，迷茫与重启人生",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_99",
       "time": "2025-07-21T14:27:00+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "慢跑",
-      "item_url": "https://blog.codingnow.com/2025/07/jogging.html",
-      "time": "2025-07-20T04:21:00+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
