@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "How good engineers write bad code at big companies",
+      "item_url": "https://seangoedecke.com/bad-code-at-big-companies/",
+      "time": "2025-11-29T00:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "欧陆风云5的游玩笔记",
@@ -447,13 +454,6 @@
       "item_name": "周报 #101 - 消失了三个月，我的生活发生了什么变化",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_101",
       "time": "2025-10-20T01:41:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "What have we learned about building agentic AI tools?",
-      "item_url": "https://seangoedecke.com/ideas-in-agentic-ai-tooling/",
-      "time": "2025-10-19T00:00:00+00:00"
     },
     {
       "blog_id": "Limboy",
