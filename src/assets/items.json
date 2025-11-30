@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "DailyMinz 一周年，兼谈：何以维持创作输出流",
+      "item_url": "https://zh.dailyminz.org/2025/11/30/1st-Anniversary/",
+      "time": "2025-11-30T03:48:15+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "How good engineers write bad code at big companies",
@@ -1637,13 +1644,6 @@
       "item_name": "2024，我追过的 AI 风口",
       "item_url": "https://idoubi.cv/blogs/my-ai-2024",
       "time": "2025-01-01T00:00:00+00:00"
-    },
-    {
-      "blog_id": "每日明",
-      "feed": "https://zh.dailyminz.org/atom.xml",
-      "item_name": "2024年终总结",
-      "item_url": "https://zh.dailyminz.org/2025/01/01/Annaul-Column-2024/",
-      "time": "2024-12-31T17:31:22+00:00"
     },
     {
       "blog_id": "Anthony Fu",
