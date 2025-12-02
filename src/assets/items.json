@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #103 - 工作随想与被吞噬的生活",
+      "item_url": "https://www.pseudoyu.com/posts/weekly_review_103",
+      "time": "2025-12-02T02:40:00+00:00"
+    },
+    {
       "blog_id": "每日明",
       "feed": "https://zh.dailyminz.org/atom.xml",
       "item_name": "DailyMinz 一周年，兼谈：何以维持创作输出流",
@@ -1231,13 +1238,6 @@
       "item_name": "周报 #95 - All AI 与 No AI",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_95",
       "time": "2025-05-19T03:02:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #94 - 生活的界限与真实感",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_94",
-      "time": "2025-05-19T01:03:00+00:00"
     },
     {
       "blog_id": "xuanwo",
