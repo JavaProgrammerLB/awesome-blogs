@@ -582,5 +582,11 @@
         "url": "https://try.jsoup.org/"
       }
     ]
+  },
+  {
+    "name": "Xuanwo",
+    "url": "https://xuanwo.io/",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764643939_2e73e34d.jpg",
+    "like": []
   }
 ]
