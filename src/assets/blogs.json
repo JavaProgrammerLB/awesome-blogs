@@ -354,8 +354,15 @@
   {
     "name": "Frost",
     "url": "https://frostming.com/",
+    "describe": "python开发者,和yetone都在BentoML工作",
     "avatar": "https://webp.yitianyigexiangfa.com/1764643780_52ec961f.png",
-    "like": []
+    "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+    "like": [
+      {
+        "title": "我「接见」了诺奖得主",
+        "url": "https://frostming.com/2024/meet-with-paul/"
+      }
+    ]
   },
   {
     "name": "xuanwo",
