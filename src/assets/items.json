@@ -1387,6 +1387,13 @@
       "time": "2025-03-21T06:20:06+00:00"
     },
     {
+      "blog_id": "Jonathan Hedley",
+      "feed": "https://jhedley.com/feed.xml",
+      "item_name": "On Adding HTTP/2 Support to jsoup",
+      "item_url": "https://jhedley.com/posts/jsoup-http2",
+      "time": "2025-03-18T00:43:49+00:00"
+    },
+    {
       "blog_id": "Nicholas Carlini",
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "Machines of Ruthless Efficiency",
@@ -1483,6 +1490,20 @@
       "item_name": "Async, Sync, in Between",
       "item_url": "https://antfu.me/posts/async-sync-in-between",
       "time": "2025-03-03T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Jonathan Hedley",
+      "feed": "https://jhedley.com/feed.xml",
+      "item_name": "jsoup SAX + DOM StreamParser",
+      "item_url": "https://jhedley.com/links/streamparser-sax-cookbook",
+      "time": "2025-03-02T04:11:30+00:00"
+    },
+    {
+      "blog_id": "Jonathan Hedley",
+      "feed": "https://jhedley.com/feed.xml",
+      "item_name": "Convert Microsoft Word to Plain Text",
+      "item_url": "https://jhedley.com/tools/convert-word-to-plain-text",
+      "time": "2025-03-02T04:09:49+00:00"
     },
     {
       "blog_id": "Julia Evans",
