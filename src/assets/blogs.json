@@ -368,7 +368,7 @@
     "name": "xuanwo",
     "url": "https://xuanwo.io/",
     "describe": "yihong写在我崇拜的人里的人",
-    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764643939_2e73e34d.jpg",
     "feed": "https://xuanwo.io/index.xml",
     "like": [
       {
@@ -582,11 +582,5 @@
         "url": "https://try.jsoup.org/"
       }
     ]
-  },
-  {
-    "name": "Xuanwo",
-    "url": "https://xuanwo.io/",
-    "avatar": "https://webp.yitianyigexiangfa.com/1764643939_2e73e34d.jpg",
-    "like": []
   }
 ]
