@@ -480,8 +480,14 @@
   {
     "name": "Steve Turbek",
     "url": "https://turbek.com/",
+    "describe": "《Mechanical Library》网站作者",
     "avatar": "https://webp.yitianyigexiangfa.com/1764644366_6d1936da.png",
-    "like": []
+    "like": [
+      {
+        "title": "Mechanical Library",
+        "url": "https://mechanical-library.org/"
+      }
+    ]
   },
   {
     "name": "Kevin Kelly",
