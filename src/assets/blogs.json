@@ -586,5 +586,18 @@
         "url": "https://try.jsoup.org/"
       }
     ]
+  },
+  {
+    "name": "拾一",
+    "url": "https://innei.in/posts?view_mode=compact",
+    "describe": "pseudoyu的同事，Folo项目核心开发",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764667663_b1096299.jpg",
+    "feed": "https://innei.in/feed",
+    "like": [
+      {
+        "title": "写在离开 Folo 之后",
+        "url": "https://innei.in/posts/experience/after-leaving-folo"
+      }
+    ]
   }
 ]
