@@ -565,5 +565,22 @@
         "url": "https://immmmm.com/hkzm-2025/"
       }
     ]
+  },
+  {
+    "name": "Jonathan Hedley",
+    "url": "https://jhedley.com/",
+    "describe": "jsoup作者",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764641547_96d600bb.jpg",
+    "feed": "https://jhedley.com/feed.xml",
+    "like": [
+      {
+        "title": "exif info",
+        "url": "https://exifinfo.org/"
+      },
+      {
+        "title": "jsoup",
+        "url": "https://try.jsoup.org/"
+      }
+    ]
   }
 ]
