@@ -603,5 +603,17 @@
         "url": "https://folo.is/"
       }
     ]
+  },
+  {
+    "name": "谢亚东",
+    "url": "https://www.yadongxie.com/",
+    "describe": "Elmo Chat作者，NG-ZORRO原始作者",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764669028_7a6c34c7.jpg",
+    "like": [
+      {
+        "title": "Elmo Chat（浏览器插件）",
+        "url": "https://www.elmo.chat/"
+      }
+    ]
   }
 ]
