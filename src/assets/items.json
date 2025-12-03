@@ -162,13 +162,6 @@
       "time": "2025-11-19T00:00:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "為了幫粉絲放牛，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
-      "time": "2025-11-18T15:28:08+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble, Rebble, and a Path Forward",
@@ -321,6 +314,13 @@
       "item_name": "欧陆风云 5 的经济系统",
       "item_url": "https://blog.codingnow.com/2025/11/eu5.html",
       "time": "2025-11-04T22:07:40+00:00"
+    },
+    {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "The Coffee Bank and the Speed of Change",
+      "item_url": "https://collabfund.com/blog/the-coffee-bank-and-the-speed-of-change/",
+      "time": "2025-11-04T17:44:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -596,6 +596,13 @@
       "time": "2025-10-08T22:21:21+00:00"
     },
     {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "If You Get the Chance",
+      "item_url": "https://collabfund.com/blog/if-you-get-the-chance/",
+      "time": "2025-10-08T15:25:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "在 Claude Code 中使用 GLM 4.6 的体验",
@@ -715,11 +722,11 @@
       "time": "2025-09-20T16:05:43+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "最聽勸的一代，但是...iPhone 17 系列首發體驗",
-      "item_url": "https://www.youtube.com/watch?v=su9aqYLcAhw",
-      "time": "2025-09-17T12:33:42+00:00"
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "Back to School",
+      "item_url": "https://collabfund.com/blog/back-to-school/",
+      "time": "2025-09-17T21:52:00+00:00"
     },
     {
       "blog_id": "Bernardo",
@@ -771,11 +778,25 @@
       "time": "2025-09-04T00:00:00+00:00"
     },
     {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "My New Book: The Art of Spending Money",
+      "item_url": "https://collabfund.com/blog/my-new-book-the-art-of-spending-money/",
+      "time": "2025-09-03T17:59:00+00:00"
+    },
+    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "The Trust Quotient (TQ)",
       "item_url": "https://kk.org/thetechnium/the-trust-quotient-tq/",
       "time": "2025-09-02T20:15:23+00:00"
+    },
+    {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "The Cost of Comfort",
+      "item_url": "https://collabfund.com/blog/the-cost-of-comfort/",
+      "time": "2025-09-02T15:24:00+00:00"
     },
     {
       "blog_id": "拾一",
@@ -911,6 +932,13 @@
       "time": "2025-08-15T15:05:30+00:00"
     },
     {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "Little Rules About Big Things",
+      "item_url": "https://collabfund.com/blog/little-rules-about-big-things/",
+      "time": "2025-08-13T21:54:00+00:00"
+    },
+    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "Everything I Know about Self-Publishing",
@@ -953,13 +981,6 @@
       "time": "2025-08-09T02:51:37+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】為了拍到最美的星雲，我們做了一個移動天文台",
-      "item_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
-      "time": "2025-08-08T10:00:24+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Learn Rust by Reasoning with Code Agents",
@@ -986,6 +1007,13 @@
       "item_name": "Apple Watch 选购经验和使用体验",
       "item_url": "https://depp.wang/2025/apple-watch/",
       "time": "2025-08-04T16:29:49+00:00"
+    },
+    {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "What A World (A few Stories)",
+      "item_url": "https://collabfund.com/blog/what-a-world/",
+      "time": "2025-08-04T09:19:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1023,18 +1051,18 @@
       "time": "2025-07-25T12:58:04+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "為了不用擦白板，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
-      "time": "2025-07-25T09:01:13+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "July Pebble Update",
       "item_url": "https://ericmigi.com/blog/july-pebble-update",
       "time": "2025-07-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "Ferrari Status",
+      "item_url": "https://collabfund.com/blog/ferrari-status/",
+      "time": "2025-07-24T17:20:00+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1070,13 +1098,6 @@
       "item_name": "周报 #99 - 离开 RSS3，迷茫与重启人生",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_99",
       "time": "2025-07-21T14:27:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】為了不用倒垃圾，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
-      "time": "2025-07-21T10:08:02+00:00"
     },
     {
       "blog_id": "拾一",
@@ -1133,6 +1154,13 @@
       "item_name": "写给 Coral：去体验只此一次的人生",
       "item_url": "https://hawstein.com/2025/07/11/live-your-one-and-only-life/",
       "time": "2025-07-11T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "A Screenless Future",
+      "item_url": "https://collabfund.com/blog/a-screenless-future/",
+      "time": "2025-07-10T13:52:00+00:00"
     },
     {
       "blog_id": "Hawstein",
@@ -1219,6 +1247,13 @@
       "time": "2025-06-28T00:00:00+00:00"
     },
     {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "Where does value accrue beyond Open AI?",
+      "item_url": "https://collabfund.com/blog/how-to-compete-against-open-ai/",
+      "time": "2025-06-27T13:05:00+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "How I Vibe Coding?",
@@ -1259,13 +1294,6 @@
       "item_name": "On getting better at programming",
       "item_url": "https://sidhion.com/blog/becoming_good_at_programming/",
       "time": "2025-06-24T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】五年前，我見到了微軟的秘密手機...",
-      "item_url": "https://www.youtube.com/watch?v=7IlggwH5efE",
-      "time": "2025-06-23T06:12:57+00:00"
     },
     {
       "blog_id": "Limboy",
@@ -1359,13 +1387,6 @@
       "time": "2025-05-19T03:02:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "邊充邊玩傷電池？24部手機，6個月，告訴妳最佳充電方式",
-      "item_url": "https://www.youtube.com/watch?v=qQe8xkYu8S4",
-      "time": "2025-05-16T09:01:21+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Why S3 ListObjects Taking 120s to Respond?",
@@ -1392,13 +1413,6 @@
       "item_name": "河南行拾遗",
       "item_url": "https://frostming.com/2025/henan/",
       "time": "2025-05-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】我們做了個特別的鍵盤...",
-      "item_url": "https://www.youtube.com/watch?v=tPAnFz01ieY",
-      "time": "2025-04-30T15:01:36+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1637,20 +1651,6 @@
       "item_name": "Convert Microsoft Word to Plain Text",
       "item_url": "https://jhedley.com/tools/convert-word-to-plain-text",
       "time": "2025-03-02T04:09:49+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "為了橫掃套圈攤，我們做了這個…",
-      "item_url": "https://www.youtube.com/watch?v=Zoe9FOZRkJY",
-      "time": "2025-02-24T06:07:20+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
-      "item_name": "公開我們的絕密數據",
-      "item_url": "https://www.youtube.com/watch?v=5A8jzd0wlOQ",
-      "time": "2025-02-14T02:33:35+00:00"
     },
     {
       "blog_id": "Julia Evans",
