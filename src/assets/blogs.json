@@ -626,11 +626,24 @@
       {
         "title": "为了帮粉丝放牛，我们做了这个",
         "url": "https://www.youtube.com/watch?v=h_NnHgmB530"
-      }, 
+      },
       {
         "title": "你再也回不到19岁的夏天了",
         "url": "https://www.youtube.com/watch?v=u4HduR9I--I"
-      }    
+      }
+    ]
+  },
+  {
+    "name": "Collaborative Fund",
+    "url": "https://collabfund.com/blog/",
+    "describe": "ChatGPT帮我找到的华尔街从业者写的博客",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764735396_d0d13a17.jpg",
+    "feed": "http://feeds.feedburner.com/collabfund",
+    "like": [
+      {
+        "title": "Back to School",
+        "url": "https://collabfund.com/blog/back-to-school/"
+      }
     ]
   }
 ]
