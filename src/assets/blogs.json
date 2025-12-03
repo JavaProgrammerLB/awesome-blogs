@@ -615,5 +615,22 @@
         "url": "https://www.elmo.chat/"
       }
     ]
+  },
+  {
+    "name": "何同学",
+    "url": "https://www.youtube.com/@hetongxue/videos",
+    "describe": "毕业于北京邮电大学，在杭州创建何同学工作室，在bilibili上发布了很多精品视频",
+    "avatar": "https://webp.yitianyigexiangfa.com/1764729272_842744cb.png",
+    "feed": "https://rsshub.pseudoyu.com/youtube/user/@hetongxue",
+    "like": [
+      {
+        "title": "为了帮粉丝放牛，我们做了这个",
+        "url": "https://www.youtube.com/watch?v=h_NnHgmB530"
+      }, 
+      {
+        "title": "你再也回不到19岁的夏天了",
+        "url": "https://www.youtube.com/watch?v=u4HduR9I--I"
+      }    
+    ]
   }
 ]
