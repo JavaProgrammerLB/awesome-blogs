@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "The Normalization of Deviance in AI",
+      "item_url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
+      "time": "2025-12-05T02:42:03+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 376 期）：太空数据中心的争议",
@@ -888,13 +895,6 @@
       "item_name": "How Prompt Injection Exposes Manus' VS Code Server to the Internet",
       "item_url": "https://embracethered.com/blog/posts/2025/manus-ai-kill-chain-expose-port-vs-code-server-on-internet/",
       "time": "2025-08-25T11:00:58+00:00"
-    },
-    {
-      "blog_id": "wunderwuzzi",
-      "feed": "https://embracethered.com/blog/index.xml",
-      "item_name": "How Deep Research Agents Can Leak Your Data",
-      "item_url": "https://embracethered.com/blog/posts/2025/chatgpt-deep-research-connectors-data-spill-and-leaks/",
-      "time": "2025-08-25T01:03:35+00:00"
     },
     {
       "blog_id": "Kevin Kelly",
