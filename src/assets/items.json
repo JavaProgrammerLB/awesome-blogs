@@ -1,10 +1,24 @@
 {
   "items": [
     {
+      "blog_id": "Depp Wang",
+      "feed": "https://depp.wang/rss2.xml",
+      "item_name": "Git 部署常见分支问题",
+      "item_url": "https://depp.wang/2025/git-branch-deploy-pitfalls/",
+      "time": "2025-12-08T03:40:01+00:00"
+    },
+    {
+      "blog_id": "Depp Wang",
+      "feed": "https://depp.wang/rss2.xml",
+      "item_name": "macOS 利用 LaunchAgents + GitHub 自动同步文件修改",
+      "item_url": "https://depp.wang/2025/macos-launchagents-git-autosync/",
+      "time": "2025-12-08T03:40:01+00:00"
+    },
+    {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "watchOS 开发点滴",
-      "item_url": "http://haozes.me/blog/2025/12/07/watchos-dev/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2025/12/07/watchos-dev/",
       "time": "2025-12-06T16:00:00+00:00"
     },
     {
@@ -113,11 +127,25 @@
       "time": "2025-11-28T00:00:00+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev DocQL：Agentic RAG 下的结构化检索设计、实现与实验探索",
+      "item_url": "http://www.phodal.com/blog/autodev-docql/",
+      "time": "2025-11-27T15:31:30+00:00"
+    },
+    {
       "blog_id": "Takuya Matsuyama",
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "Don’t be a scary old guy: My 40s survival strategy with charm",
       "item_url": "https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/",
       "time": "2025-11-27T00:00:00+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
+      "item_url": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
+      "time": "2025-11-26T09:19:56+00:00"
     },
     {
       "blog_id": "阮一峰",
@@ -204,6 +232,13 @@
       "time": "2025-11-17T15:34:03+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev Code Review Agent：应对 10 倍代码量的 Agentic 代码审查",
+      "item_url": "http://www.phodal.com/blog/autodev-review-agent/",
+      "time": "2025-11-17T04:19:07+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
@@ -232,6 +267,13 @@
       "time": "2025-11-14T22:37:00+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "2025 AI 代码检视：以 ROI 为中心的 AI 代码检视体系与分级",
+      "item_url": "http://www.phodal.com/blog/ai-code-review-2025/",
+      "time": "2025-11-14T04:10:19+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
@@ -253,11 +295,25 @@
       "time": "2025-11-13T07:35:18+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev CLI：构建 AI Agent 生成的 AI Agent 质量保障与验证架构",
+      "item_url": "http://www.phodal.com/blog/autodev-cli-validate-framework/",
+      "time": "2025-11-12T08:35:55+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "The new Pebble app is live on iOS and Android",
       "item_url": "https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android",
       "time": "2025-11-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "Vibe Coding 何必只在桌面 IDE，编码智能体协同的思考与设计",
+      "item_url": "http://www.phodal.com/blog/vibe-coding-for-autodev-server/",
+      "time": "2025-11-11T03:57:16+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -321,6 +377,13 @@
       "item_name": "Yes really, curl is still developed",
       "item_url": "https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/",
       "time": "2025-11-04T09:27:16+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "多端编程 Agent（CLI/Desktop/Mobile）：AutoDev 架构升级，欢迎一起参与演进",
+      "item_url": "http://www.phodal.com/blog/autodev-next-poc/",
+      "time": "2025-11-04T07:18:22+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -512,6 +575,13 @@
       "time": "2025-10-15T00:00:00+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
+      "item_url": "http://www.phodal.com/blog/prompt-to-agenticg/",
+      "time": "2025-10-14T06:09:53+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
@@ -624,6 +694,13 @@
       "time": "2025-09-30T17:13:47+00:00"
     },
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev A2A 新能力下的云端 Agent 路径思考，从扩展到协作",
+      "item_url": "http://www.phodal.com/blog/autodev-a2a/",
+      "time": "2025-09-29T03:17:38+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Quick P2D production update",
@@ -720,6 +797,13 @@
       "item_name": "Jakub and Szymon",
       "item_url": "https://blog.samaltman.com/jakub-and-szymon",
       "time": "2025-09-09T00:10:22+00:00"
+    },
+    {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "从 Langchain 到 Spring AI，我们究竟需要怎么样一个企业级 AI 开发框架？",
+      "item_url": "http://www.phodal.com/blog/from-langchain-to-spring-ai/",
+      "time": "2025-09-08T11:57:31+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1761,7 +1845,7 @@
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "我需要向这个世界证明什么吗？--个体户开发者的 5年",
-      "item_url": "http://haozes.me/blog/2025/01/01/5-years/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2025/01/01/5-years/",
       "time": "2024-12-31T16:00:00+00:00"
     },
     {
@@ -1798,13 +1882,6 @@
       "item_name": "我的 2024",
       "item_url": "https://frostming.com/2024/review/",
       "time": "2024-12-24T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "我为什么没有为了 AI 功能买外版 iPhone",
-      "item_url": "https://depp.wang/2024/ai-iphone/",
-      "time": "2024-12-21T10:27:27+00:00"
     },
     {
       "blog_id": "Frost",
@@ -1901,7 +1978,7 @@
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "周一到周五跳绳，周末呢？",
-      "item_url": "http://haozes.me/blog/2024/11/06/toopoo-launched/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2024/11/06/toopoo-launched/",
       "time": "2024-11-05T16:00:00+00:00"
     },
     {
@@ -1996,13 +2073,6 @@
       "time": "2024-06-25T00:00:00+00:00"
     },
     {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "我如何使用 Obsidian 管理我的个人知识库",
-      "item_url": "https://depp.wang/2024/my-obsidian-experience/",
-      "time": "2024-06-24T14:30:07+00:00"
-    },
-    {
       "blog_id": "艾逗笔",
       "feed": "https://idoubi.cv/feed",
       "item_name": "我做了一个 AI 搜索引擎",
@@ -2069,7 +2139,7 @@
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "深蹲 App(DunDun) 重制版发布啦",
-      "item_url": "http://haozes.me/blog/2024/03/08/yaoyao-dundun-remaster/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2024/03/08/yaoyao-dundun-remaster/",
       "time": "2024-03-07T16:00:00+00:00"
     },
     {
@@ -2146,14 +2216,14 @@
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "用 YaoYao 在手表上给好友发一条语音吧",
-      "item_url": "http://haozes.me/blog/2023/11/20/yaoyao-voice/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2023/11/20/yaoyao-voice/",
       "time": "2023-11-19T16:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "Send a voice to a friend on your watch with YaoYao!",
-      "item_url": "http://haozes.me/blog/2023/11/20/yaoyao-voice-en/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2023/11/20/yaoyao-voice-en/",
       "time": "2023-11-19T16:00:00+00:00"
     },
     {
@@ -2181,21 +2251,21 @@
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "打电脑，也要保持好坐姿(顶瓜瓜现已支持 MacOS)",
-      "item_url": "http://haozes.me/blog/2023/09/27/voicedict/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2023/09/27/voicedict/",
       "time": "2023-09-26T16:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "YaoYao Jump Rope now supports iPad!",
-      "item_url": "http://haozes.me/blog/2023/09/06/yaoyao_ios17_en/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2023/09/06/yaoyao_ios17_en/",
       "time": "2023-09-05T16:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "支持 iPad 的 YaoYao 跳绳来了",
-      "item_url": "http://haozes.me/blog/2023/09/06/yaoyao_ios17/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2023/09/06/yaoyao_ios17/",
       "time": "2023-09-05T16:00:00+00:00"
     },
     {
@@ -2307,7 +2377,7 @@
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "2022 汪二的年终总结",
-      "item_url": "http://haozes.me/blog/2022/12/23/2022year/",
+      "item_url": "http://blog.yaoyaojumprope.com/blog/2022/12/23/2022year/",
       "time": "2022-12-22T16:00:00+00:00"
     },
     {
