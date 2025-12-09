@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "Git 部署常见分支问题",
-      "item_url": "https://depp.wang/2025/git-branch-deploy-pitfalls/",
-      "time": "2025-12-08T03:40:01+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "macOS 利用 LaunchAgents + GitHub 自动同步文件修改",
-      "item_url": "https://depp.wang/2025/macos-launchagents-git-autosync/",
-      "time": "2025-12-08T03:40:01+00:00"
-    },
-    {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "watchOS 开发点滴",
@@ -162,6 +148,13 @@
       "time": "2025-11-26T00:00:00+00:00"
     },
     {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "How to get hired in 2025",
+      "item_url": "https://tonsky.me/blog/hiring-ai/",
+      "time": "2025-11-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Antigravity Grounded! Security Vulnerabilities in Google's Latest IDE",
@@ -173,7 +166,7 @@
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "We made this to help our fans herd cattle...",
       "item_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
-      "time": "2025-11-25T02:30:46+00:00"
+      "time": "2025-11-25T03:31:05+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -239,11 +232,11 @@
       "time": "2025-11-18T00:00:00+00:00"
     },
     {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "使用运动相机当摩托车行车记录仪",
-      "item_url": "https://depp.wang/2025/action4-dash-cam/",
-      "time": "2025-11-17T15:34:03+00:00"
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "Logo: Clojure+",
+      "item_url": "https://tonsky.me/design/#2025-11-clojure-plus",
+      "time": "2025-11-18T00:00:00+00:00"
     },
     {
       "blog_id": "phodal",
@@ -314,6 +307,13 @@
       "item_name": "Parsing integers in C",
       "item_url": "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/",
       "time": "2025-11-13T07:35:18+00:00"
+    },
+    {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "Needy programs",
+      "item_url": "https://tonsky.me/blog/needy-programs/",
+      "time": "2025-11-13T00:00:00+00:00"
     },
     {
       "blog_id": "phodal",
@@ -421,13 +421,6 @@
       "time": "2025-11-03T00:00:00+00:00"
     },
     {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "Apple TV 上使用 RetroArch 玩魂斗罗",
-      "item_url": "https://depp.wang/2025/apple-tv-contra/",
-      "time": "2025-11-01T08:15:40+00:00"
-    },
-    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "我的第一款 iOS App：PingMind",
@@ -503,13 +496,6 @@
       "item_name": "Mistakes I see engineers making in their code reviews",
       "item_url": "https://seangoedecke.com/good-code-reviews/",
       "time": "2025-10-25T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "从羽毛球启发的「后端工程师等级说明」",
-      "item_url": "https://depp.wang/2025/backend-engineer-level-guide/",
-      "time": "2025-10-24T13:45:11+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -596,6 +582,13 @@
       "time": "2025-10-15T00:00:00+00:00"
     },
     {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "I am sorry, but everyone is getting syntax highlighting wrong",
+      "item_url": "https://tonsky.me/blog/syntax-highlighting/",
+      "time": "2025-10-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
@@ -642,7 +635,7 @@
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "最聽勸的一代，但是...iPhone 17 系列首發體驗",
       "item_url": "https://www.youtube.com/watch?v=su9aqYLcAhw",
-      "time": "2025-10-10T02:30:46+00:00"
+      "time": "2025-10-10T03:31:05+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -876,6 +869,13 @@
       "time": "2025-09-02T15:24:00+00:00"
     },
     {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "Talk: Почему компьютеры не умеют считать? @ Podlodka",
+      "item_url": "https://tonsky.me/talks/#2025-09-01",
+      "time": "2025-09-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "拾一",
       "feed": "https://innei.in/feed",
       "item_name": "从代码到古镇，从屏幕到舞台",
@@ -995,13 +995,6 @@
       "time": "2025-08-20T10:17:22+00:00"
     },
     {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "注意力保卫战，我的注意力管理实践",
-      "item_url": "https://depp.wang/2025/attention/",
-      "time": "2025-08-15T15:05:30+00:00"
-    },
-    {
       "blog_id": "Collaborative Fund",
       "feed": "http://feeds.feedburner.com/collabfund",
       "item_name": "Little Rules About Big Things",
@@ -1030,13 +1023,6 @@
       "time": "2025-08-13T00:00:00+00:00"
     },
     {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "900 元一个月的编程助手值不值？Claude Code 真实使用体验",
-      "item_url": "https://depp.wang/2025/claude-code/",
-      "time": "2025-08-12T14:29:17+00:00"
-    },
-    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "No Limit for Better",
@@ -1048,21 +1034,21 @@
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "【何同學】為了拍到最美的星雲，我們做了一個移動天文台",
       "item_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
-      "time": "2025-08-11T02:30:46+00:00"
+      "time": "2025-08-11T03:31:05+00:00"
     },
     {
       "blog_id": "何同学",
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "為了不用擦白板，我們做了這個...",
       "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
-      "time": "2025-08-11T02:30:46+00:00"
+      "time": "2025-08-11T03:31:05+00:00"
     },
     {
       "blog_id": "何同学",
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "【何同學】為了不用倒垃圾，我們做了這個...",
       "item_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
-      "time": "2025-08-11T02:30:46+00:00"
+      "time": "2025-08-11T03:31:05+00:00"
     },
     {
       "blog_id": "云风",
@@ -1091,13 +1077,6 @@
       "item_name": "周报 #100 - 过去这十年",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_100",
       "time": "2025-08-05T10:43:00+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "Apple Watch 选购经验和使用体验",
-      "item_url": "https://depp.wang/2025/apple-watch/",
-      "time": "2025-08-04T16:29:49+00:00"
     },
     {
       "blog_id": "Collaborative Fund",
@@ -1230,7 +1209,7 @@
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "【何同學】五年前，我見到了微軟的秘密手機...",
       "item_url": "https://www.youtube.com/watch?v=7IlggwH5efE",
-      "time": "2025-07-12T02:30:46+00:00"
+      "time": "2025-07-12T03:31:05+00:00"
     },
     {
       "blog_id": "Hawstein",
@@ -1440,7 +1419,7 @@
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "邊充邊玩傷電池？24部手機，6個月，告訴妳最佳充電方式",
       "item_url": "https://www.youtube.com/watch?v=qQe8xkYu8S4",
-      "time": "2025-06-12T02:30:46+00:00"
+      "time": "2025-06-12T03:31:05+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -1485,13 +1464,6 @@
       "time": "2025-05-27T19:29:31+00:00"
     },
     {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "ProNotes，让 Apple Notes 支持 MarkDown",
-      "item_url": "https://depp.wang/2025/pro-notes/",
-      "time": "2025-05-20T13:01:26+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流",
@@ -1517,7 +1489,7 @@
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "【何同學】我們做了個特別的鍵盤...",
       "item_url": "https://www.youtube.com/watch?v=tPAnFz01ieY",
-      "time": "2025-05-13T02:30:46+00:00"
+      "time": "2025-05-13T03:31:05+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1706,14 +1678,14 @@
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "為了橫掃套圈攤，我們做了這個…",
       "item_url": "https://www.youtube.com/watch?v=Zoe9FOZRkJY",
-      "time": "2025-03-14T02:30:46+00:00"
+      "time": "2025-03-14T03:31:05+00:00"
     },
     {
       "blog_id": "何同学",
       "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
       "item_name": "公開我們的絕密數據",
       "item_url": "https://www.youtube.com/watch?v=5A8jzd0wlOQ",
-      "time": "2025-03-14T02:30:46+00:00"
+      "time": "2025-03-14T03:31:05+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1931,13 +1903,6 @@
       "item_name": "Reflections",
       "item_url": "https://blog.samaltman.com/reflections",
       "time": "2025-01-06T01:37:29+00:00"
-    },
-    {
-      "blog_id": "Depp Wang",
-      "feed": "https://depp.wang/rss2.xml",
-      "item_name": "充电宝的额定容量与充电次数",
-      "item_url": "https://depp.wang/2025/rechargeable-battery/",
-      "time": "2025-01-05T11:59:51+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
