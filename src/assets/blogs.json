@@ -645,5 +645,18 @@
         "url": "https://collabfund.com/blog/back-to-school/"
       }
     ]
+  },
+  {
+    "name": "Chang Luo",
+    "url": "https://www.luochang.ink/posts/",
+    "describe": "毕业于北京邮电大学，自学langgraph时写了《LangGraph 1.0 完全指南》",
+    "avatar": "https://webp.yitianyigexiangfa.com/1765246846_7b62e621.webp",
+    "feed": "https://www.luochang.ink/index.xml",
+    "like": [
+      {
+        "title": "《LangGraph 1.0 完全指南》发布",
+        "url": "https://www.luochang.ink/posts/dive_into_langgraph/"
+      }
+    ]
   }
 ]
