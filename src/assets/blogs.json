@@ -658,5 +658,17 @@
         "url": "https://www.luochang.ink/posts/dive_into_langgraph/"
       }
     ]
+  },
+  {
+    "name": "Nikita Prokopov",
+    "url": "https://tonsky.me/projects/",
+    "describe": "拥有20多年开发经验的程序员，开发了很多clojure语言的开源项目",
+    "avatar": "https://webp.yitianyigexiangfa.com/1765247950_4dd615e7.webp",
+    "like": [
+      {
+        "title": "What I worked on",
+        "url": "https://tonsky.me/projects/"
+      }
+    ]
   }
 ]
