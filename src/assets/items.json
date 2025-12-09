@@ -162,13 +162,6 @@
       "time": "2025-11-25T13:00:58+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "We made this to help our fans herd cattle...",
-      "item_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
-      "time": "2025-11-25T03:31:05+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!",
@@ -223,6 +216,13 @@
       "item_name": "Are large language models worth it?",
       "item_url": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
       "time": "2025-11-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "為了幫粉絲放牛，我們做了這個...",
+      "item_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
+      "time": "2025-11-18T15:28:08+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -414,6 +414,13 @@
       "time": "2025-11-04T03:13:47+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "我們做了個漂移輪椅…",
+      "item_url": "https://www.youtube.com/shorts/I8gmrqJPPcU",
+      "time": "2025-11-03T15:00:37+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Is it worrying that 95% of AI enterprise projects fail?",
@@ -568,6 +575,13 @@
       "time": "2025-10-17T00:00:00+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "在轉，但沒在轉？",
+      "item_url": "https://www.youtube.com/shorts/zywQICdbtZQ",
+      "time": "2025-10-16T10:15:51+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "chart: which host, which protocol",
@@ -629,13 +643,6 @@
       "item_name": "A new breed of analyzers",
       "item_url": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
       "time": "2025-10-10T11:58:37+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "最聽勸的一代，但是...iPhone 17 系列首發體驗",
-      "item_url": "https://www.youtube.com/watch?v=su9aqYLcAhw",
-      "time": "2025-10-10T03:31:05+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -792,6 +799,13 @@
       "time": "2025-09-17T21:52:00+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "最聽勸的一代，但是...iPhone 17 系列首發體驗",
+      "item_url": "https://www.youtube.com/watch?v=su9aqYLcAhw",
+      "time": "2025-09-17T12:33:42+00:00"
+    },
+    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "We have outgrown the Process model",
@@ -895,6 +909,13 @@
       "item_name": "AgentHopper: An AI Virus",
       "item_url": "https://embracethered.com/blog/posts/2025/agenthopper-a-poc-ai-virus/",
       "time": "2025-08-30T03:20:58+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "把星空放大 200 倍能看到什麼？",
+      "item_url": "https://www.youtube.com/shorts/A5r5wQXHx1I",
+      "time": "2025-08-29T15:00:31+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1030,32 +1051,18 @@
       "time": "2025-08-11T19:23:07+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】為了拍到最美的星雲，我們做了一個移動天文台",
-      "item_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
-      "time": "2025-08-11T03:31:05+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "為了不用擦白板，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
-      "time": "2025-08-11T03:31:05+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】為了不用倒垃圾，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
-      "time": "2025-08-11T03:31:05+00:00"
-    },
-    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "SetWindowText 引起的死锁",
       "item_url": "https://blog.codingnow.com/2025/08/setwindowtext_deadlock.html",
       "time": "2025-08-09T02:51:37+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "【何同學】為了拍到最美的星雲，我們做了一個移動天文台",
+      "item_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
+      "time": "2025-08-08T10:00:24+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1077,6 +1084,13 @@
       "item_name": "周报 #100 - 过去这十年",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_100",
       "time": "2025-08-05T10:43:00+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "這不是特效，是3D打印",
+      "item_url": "https://www.youtube.com/shorts/yNe26VO8C3c",
+      "time": "2025-08-04T10:01:28+00:00"
     },
     {
       "blog_id": "Collaborative Fund",
@@ -1114,6 +1128,13 @@
       "time": "2025-07-31T00:00:00+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "為了不用倒垃圾，我們做了這個...",
+      "item_url": "https://www.youtube.com/shorts/WkY-F2p6SQ8",
+      "time": "2025-07-29T10:00:53+00:00"
+    },
+    {
       "blog_id": "Chang Luo",
       "feed": "https://www.luochang.ink/index.xml",
       "item_name": "耶是 ClickHouse！我们有救了！！",
@@ -1126,6 +1147,13 @@
       "item_name": "在废土中修路，在代码中造梦",
       "item_url": "https://innei.in/notes/196",
       "time": "2025-07-25T12:58:04+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "為了不用擦白板，我們做了這個...",
+      "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
+      "time": "2025-07-25T09:01:13+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -1177,6 +1205,13 @@
       "time": "2025-07-21T14:27:00+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "【何同學】為了不用倒垃圾，我們做了這個...",
+      "item_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
+      "time": "2025-07-21T10:08:02+00:00"
+    },
+    {
       "blog_id": "拾一",
       "feed": "https://innei.in/feed",
       "item_name": "AI 编码方法论：从探索到精进的系统化实践",
@@ -1203,13 +1238,6 @@
       "item_name": "写给 XP：半桶水与做事",
       "item_url": "https://hawstein.com/2025/07/13/dabbler-and-doing-things/",
       "time": "2025-07-13T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】五年前，我見到了微軟的秘密手機...",
-      "item_url": "https://www.youtube.com/watch?v=7IlggwH5efE",
-      "time": "2025-07-12T03:31:05+00:00"
     },
     {
       "blog_id": "Hawstein",
@@ -1415,13 +1443,6 @@
       "time": "2025-06-13T19:29:31+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "邊充邊玩傷電池？24部手機，6個月，告訴妳最佳充電方式",
-      "item_url": "https://www.youtube.com/watch?v=qQe8xkYu8S4",
-      "time": "2025-06-12T03:31:05+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "The Gentle Singularity",
@@ -1483,13 +1504,6 @@
       "item_name": "AUV～ 演出现场",
       "item_url": "https://luochang212.github.io/posts/underground_idols/",
       "time": "2025-05-17T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "【何同學】我們做了個特別的鍵盤...",
-      "item_url": "https://www.youtube.com/watch?v=tPAnFz01ieY",
-      "time": "2025-05-13T03:31:05+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1672,20 +1686,6 @@
       "item_name": "Machines of Ruthless Efficiency",
       "item_url": "https://nicholas.carlini.com/writing/2025/machines-of-ruthless-efficiency.html",
       "time": "2025-03-17T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "為了橫掃套圈攤，我們做了這個…",
-      "item_url": "https://www.youtube.com/watch?v=Zoe9FOZRkJY",
-      "time": "2025-03-14T03:31:05+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
-      "item_name": "公開我們的絕密數據",
-      "item_url": "https://www.youtube.com/watch?v=5A8jzd0wlOQ",
-      "time": "2025-03-14T03:31:05+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
