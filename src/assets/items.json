@@ -169,11 +169,25 @@
       "time": "2025-11-25T13:00:58+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "We made this to help our fans herd cattle...",
+      "item_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
+      "time": "2025-11-25T02:30:46+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble Watch Software Is Now 100% Open Source + Tick Talk #4 - PT2 Demos!",
       "item_url": "https://ericmigi.com/blog/pebble-watch-software-is-now-100percent-open-source",
       "time": "2025-11-24T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "《LangGraph 1.0 完全指南》发布",
+      "item_url": "https://luochang212.github.io/posts/dive_into_langgraph/",
+      "time": "2025-11-23T00:00:00+00:00"
     },
     {
       "blog_id": "云风",
@@ -258,6 +272,13 @@
       "item_name": "Only three kinds of AI products actually work",
       "item_url": "https://seangoedecke.com/ai-products/",
       "time": "2025-11-16T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "使用 Docker Compose 部署大数据集群：Spark + Hadoop + Hive + JupyterLab",
+      "item_url": "https://luochang212.github.io/posts/bigdata_env/",
+      "time": "2025-11-15T00:00:00+00:00"
     },
     {
       "blog_id": "Kevin Kelly",
@@ -617,6 +638,13 @@
       "time": "2025-10-10T11:58:37+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "最聽勸的一代，但是...iPhone 17 系列首發體驗",
+      "item_url": "https://www.youtube.com/watch?v=su9aqYLcAhw",
+      "time": "2025-10-10T02:30:46+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "Notes on switching to Helix from vim",
@@ -811,6 +839,13 @@
       "item_name": "从错误中学习",
       "item_url": "https://blog.yihong0618.me/issue-326/",
       "time": "2025-09-08T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "阿里发布新版 Quick BI，聊聊 ChatBI 的底层架构、交互设计和云计算生态",
+      "item_url": "https://luochang212.github.io/posts/quick_bi_intro/",
+      "time": "2025-09-06T00:00:00+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1009,6 +1044,27 @@
       "time": "2025-08-11T19:23:07+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "【何同學】為了拍到最美的星雲，我們做了一個移動天文台",
+      "item_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
+      "time": "2025-08-11T02:30:46+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "為了不用擦白板，我們做了這個...",
+      "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
+      "time": "2025-08-11T02:30:46+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "【何同學】為了不用倒垃圾，我們做了這個...",
+      "item_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
+      "time": "2025-08-11T02:30:46+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "SetWindowText 引起的死锁",
@@ -1077,6 +1133,13 @@
       "item_name": "miniHDL: A Python Hardware Description Language DSL",
       "item_url": "https://nicholas.carlini.com/writing/2025/minihdl-python-hardware-description-dsl.html",
       "time": "2025-07-31T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "耶是 ClickHouse！我们有救了！！",
+      "item_url": "https://luochang212.github.io/posts/chat_to_clickhouse/",
+      "time": "2025-07-26T00:00:00+00:00"
     },
     {
       "blog_id": "拾一",
@@ -1163,6 +1226,13 @@
       "time": "2025-07-13T00:00:00+00:00"
     },
     {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "【何同學】五年前，我見到了微軟的秘密手機...",
+      "item_url": "https://www.youtube.com/watch?v=7IlggwH5efE",
+      "time": "2025-07-12T02:30:46+00:00"
+    },
+    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 YK：系统与规则",
@@ -1174,6 +1244,13 @@
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "35mm Coffee - 一个创意工作者的线上社区",
       "item_url": "https://limboy.me/posts/35mm-coffee",
+      "time": "2025-07-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "新瓶装旧酒：纸牌魔术 MCP",
+      "item_url": "https://luochang212.github.io/posts/card_magic_mcp/",
       "time": "2025-07-12T00:00:00+00:00"
     },
     {
@@ -1345,11 +1422,25 @@
       "time": "2025-06-16T00:00:00+00:00"
     },
     {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "Agent 实战：智能路由、任务拆解和链路工程",
+      "item_url": "https://luochang212.github.io/posts/agent_project/",
+      "time": "2025-06-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.06.14: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-06-14/",
       "time": "2025-06-13T19:29:31+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "邊充邊玩傷電池？24部手機，6個月，告訴妳最佳充電方式",
+      "item_url": "https://www.youtube.com/watch?v=qQe8xkYu8S4",
+      "time": "2025-06-12T02:30:46+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -1415,6 +1506,20 @@
       "time": "2025-05-19T03:02:00+00:00"
     },
     {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "AUV～ 演出现场",
+      "item_url": "https://luochang212.github.io/posts/underground_idols/",
+      "time": "2025-05-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "【何同學】我們做了個特別的鍵盤...",
+      "item_url": "https://www.youtube.com/watch?v=tPAnFz01ieY",
+      "time": "2025-05-13T02:30:46+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Why S3 ListObjects Taking 120s to Respond?",
@@ -1464,6 +1569,13 @@
       "time": "2025-04-28T00:12:23+00:00"
     },
     {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "三种方法实现监督微调：LLaMA Factory, trl 和 unsloth",
+      "item_url": "https://luochang212.github.io/posts/sft_note/",
+      "time": "2025-04-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "Now",
@@ -1483,6 +1595,13 @@
       "item_name": "译 | 懒到不想起标题：互联网如何使你的大脑懒惰",
       "item_url": "https://zh.dailyminz.org/2025/04/19/Translation-Im-Too-Lazy-to-Come-Up-With-a-Good-Title/",
       "time": "2025-04-19T10:03:50+00:00"
+    },
+    {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "DNN 模型聚类特征更新方法",
+      "item_url": "https://luochang212.github.io/posts/cluster_label_assign/",
+      "time": "2025-04-19T00:00:00+00:00"
     },
     {
       "blog_id": "林小沐",
@@ -1562,6 +1681,13 @@
       "time": "2025-03-21T06:20:06+00:00"
     },
     {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "本地部署大模型：Ollama 和 vLLM",
+      "item_url": "https://luochang212.github.io/posts/llm_deploy/",
+      "time": "2025-03-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "Jonathan Hedley",
       "feed": "https://jhedley.com/feed.xml",
       "item_name": "On Adding HTTP/2 Support to jsoup",
@@ -1574,6 +1700,20 @@
       "item_name": "Machines of Ruthless Efficiency",
       "item_url": "https://nicholas.carlini.com/writing/2025/machines-of-ruthless-efficiency.html",
       "time": "2025-03-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "為了橫掃套圈攤，我們做了這個…",
+      "item_url": "https://www.youtube.com/watch?v=Zoe9FOZRkJY",
+      "time": "2025-03-14T02:30:46+00:00"
+    },
+    {
+      "blog_id": "何同学",
+      "feed": "https://rsshub.rssforever.com/youtube/user/@hetongxue",
+      "item_name": "公開我們的絕密數據",
+      "item_url": "https://www.youtube.com/watch?v=5A8jzd0wlOQ",
+      "time": "2025-03-14T02:30:46+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
