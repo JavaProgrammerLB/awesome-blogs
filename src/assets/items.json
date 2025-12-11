@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法",
+      "item_url": "https://sv101.fireside.fm/227",
+      "time": "2025-12-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "watchOS 开发点滴",
@@ -608,13 +615,6 @@
       "item_name": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
       "item_url": "http://www.phodal.com/blog/prompt-to-agenticg/",
       "time": "2025-10-14T06:09:53+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E209｜挑战Neuralink，硅谷大佬争相涌入的超声脑机接口是什么？",
-      "item_url": "https://sv101.fireside.fm/219",
-      "time": "2025-10-13T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
