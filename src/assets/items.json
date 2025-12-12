@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 377 期）：14万美元的贫困线",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-377.html",
+      "time": "2025-12-12T00:07:48+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法",
@@ -300,13 +307,6 @@
       "item_name": "2025 AI 代码检视：以 ROI 为中心的 AI 代码检视体系与分级",
       "item_url": "http://www.phodal.com/blog/ai-code-review-2025/",
       "time": "2025-11-14T04:10:19+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 373 期）：数据模型是新产品的核心",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-373.html",
-      "time": "2025-11-14T00:06:44+00:00"
     },
     {
       "blog_id": "sean goedecke",
