@@ -15,13 +15,6 @@
       "time": "2025-12-11T00:00:00+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.12.11: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-12-11/",
-      "time": "2025-12-10T21:12:10+00:00"
-    },
-    {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "watchOS 开发点滴",
@@ -87,8 +80,8 @@
     {
       "blog_id": "拾一",
       "feed": "https://innei.in/feed",
-      "item_name": "写在离开 Folo 之后",
-      "item_url": "https://innei.in/posts/experience/after-leaving-folo",
+      "item_name": "把这一年收进抽屉",
+      "item_url": "https://innei.in/posts/experience/put-this-year-in-a-drawer",
       "time": "2025-11-30T17:36:27+00:00"
     },
     {
@@ -419,13 +412,6 @@
       "item_name": "多端编程 Agent（CLI/Desktop/Mobile）：AutoDev 架构升级，欢迎一起参与演进",
       "item_url": "http://www.phodal.com/blog/autodev-next-poc/",
       "time": "2025-11-04T07:18:22+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "《公正：何为正当之为》读书笔记",
-      "item_url": "https://www.owenyoung.com/blog/books/justice/",
-      "time": "2025-11-04T03:13:47+00:00"
     },
     {
       "blog_id": "何同学",
@@ -1191,13 +1177,6 @@
       "time": "2025-07-23T02:37:04+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "《良好生活的哲学》读书笔记",
-      "item_url": "https://www.owenyoung.com/blog/books/philosophy-life/",
-      "time": "2025-07-22T17:46:07+00:00"
-    },
-    {
       "blog_id": "yihong",
       "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
       "item_name": "从给 Greptime 贡献代码的过程中，我都学到了什么",
@@ -1443,13 +1422,6 @@
       "time": "2025-06-15T00:00:00+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.06.14: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-06-14/",
-      "time": "2025-06-13T19:29:31+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "The Gentle Singularity",
@@ -1483,13 +1455,6 @@
       "item_name": "Lucky-canvas 抽奖插件折腾记",
       "item_url": "https://immmmm.com/lucky-everday/",
       "time": "2025-05-31T12:02:58+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.05.28: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-05-28/",
-      "time": "2025-05-27T19:29:31+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -1632,13 +1597,6 @@
       "time": "2025-04-08T00:00:00+00:00"
     },
     {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "我的普鲁斯特问卷回答 - 《请回答普鲁斯特》播客访谈文字稿",
-      "item_url": "https://www.owenyoung.com/blog/proust/",
-      "time": "2025-04-06T05:50:59+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "我们高估了智力的重要性",
@@ -1658,13 +1616,6 @@
       "item_name": "Recording object snapshots by (ab)using JavaScript proxies",
       "item_url": "https://sidhion.com/blog/javascript_object_snapshot_prototype/",
       "time": "2025-03-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.03.24: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-03-24/",
-      "time": "2025-03-23T19:45:06+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -1854,27 +1805,6 @@
       "item_name": "关于创造力的随想：教育模式给我们带来了什么",
       "item_url": "https://zh.dailyminz.org/2025/01/29/Random-Thoughts-on-Creativity/",
       "time": "2025-01-29T15:08:06+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.01.27: 各种链接之 - 来点艺术家的震撼",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-01-27/",
-      "time": "2025-01-26T17:04:34+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
-      "item_url": "https://www.owenyoung.com/blog/ai-expert-guidance/",
-      "time": "2025-01-23T21:28:03+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.01.22: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-01-22/",
-      "time": "2025-01-22T06:14:01+00:00"
     },
     {
       "blog_id": "林小沐",
