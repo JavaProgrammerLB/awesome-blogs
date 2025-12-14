@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "拾一",
+      "feed": "https://innei.in/feed",
+      "item_name": "在安稳中寻求生存",
+      "item_url": "https://innei.in/notes/204",
+      "time": "2025-12-14T05:32:01+00:00"
+    },
+    {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #104 - 被遗忘的生活一隅",
+      "item_url": "https://www.pseudoyu.com/posts/weekly_review_104",
+      "time": "2025-12-14T01:54:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 377 期）：14万美元的贫困线",
@@ -87,8 +101,8 @@
     {
       "blog_id": "拾一",
       "feed": "https://innei.in/feed",
-      "item_name": "把这一年收进抽屉",
-      "item_url": "https://innei.in/posts/experience/put-this-year-in-a-drawer",
+      "item_name": "回头看见自己",
+      "item_url": "https://innei.in/posts/experience/looking-back-at-myself",
       "time": "2025-11-30T17:36:27+00:00"
     },
     {
@@ -1219,13 +1233,6 @@
       "time": "2025-07-21T10:08:02+00:00"
     },
     {
-      "blog_id": "拾一",
-      "feed": "https://innei.in/feed",
-      "item_name": "AI 编码方法论：从探索到精进的系统化实践",
-      "item_url": "https://innei.in/posts/tech/ai-coding-methodology-systematic-practice",
-      "time": "2025-07-17T15:07:50+00:00"
-    },
-    {
       "blog_id": "Takuya Matsuyama",
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "Agentic coding made programming fun again",
@@ -1497,13 +1504,6 @@
       "item_name": "周报 #96 - 基于 Roo Code/Cursor 的 iOS 开发工作流",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_96",
       "time": "2025-05-20T01:35:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "周报 #95 - All AI 与 No AI",
-      "item_url": "https://www.pseudoyu.com/posts/weekly_review_95",
-      "time": "2025-05-19T03:02:00+00:00"
     },
     {
       "blog_id": "Chang Luo",
