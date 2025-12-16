@@ -659,5 +659,11 @@
         "url": "https://tonsky.me/projects/"
       }
     ]
+  },
+  {
+    "name": "博客",
+    "url": "https://idoubi.ai/blog",
+    "avatar": "https://webp.yitianyigexiangfa.com/1765852997_311be6c9.png",
+    "like": []
   }
 ]
