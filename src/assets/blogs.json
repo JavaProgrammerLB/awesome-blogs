@@ -52,18 +52,18 @@
   },
   {
     "name": "艾逗笔",
-    "url": "https://idoubi.cv/blogs",
+    "url": "https://idoubi.ai/blog",
     "describe": "mcp.so开发者",
     "avatar": "https://webp.yitianyigexiangfa.com/1765852997_311be6c9.png",
-    "feed": "https://idoubi.cv/feed",
+    "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
     "like": [
       {
         "title": "2024，我追过的 AI 风口",
-        "url": "https://idoubi.cv/blogs/my-ai-2024"
+        "url": "https://idoubi.ai/blog/my-ai-2024"
       },
       {
         "title": "我跑通了全球收付款的流程",
-        "url": "https://idoubi.cv/blogs/get-paied-all-over-the-world"
+        "url": "https://idoubi.ai/blog/get-paied-all-over-the-world"
       }
     ]
   },
