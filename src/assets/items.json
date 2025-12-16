@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AutoDev 3.0 → Xiuper：咻！全平台、全流程智能体编程平台",
-      "item_url": "http://www.phodal.com/blog/autodev-xiuper/",
-      "time": "2025-12-16T14:18:04+00:00"
-    },
-    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "12月再探东营（下）",
@@ -197,25 +190,11 @@
       "time": "2025-11-28T00:00:00+00:00"
     },
     {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AutoDev DocQL：Agentic RAG 下的结构化检索设计、实现与实验探索",
-      "item_url": "http://www.phodal.com/blog/autodev-docql/",
-      "time": "2025-11-27T15:31:30+00:00"
-    },
-    {
       "blog_id": "Takuya Matsuyama",
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "Don’t be a scary old guy: My 40s survival strategy with charm",
       "item_url": "https://www.devas.life/dont-be-a-scary-old-guy-my-40s-survival-strategy-with-charm/",
       "time": "2025-11-27T00:00:00+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
-      "item_url": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
-      "time": "2025-11-26T09:19:56+00:00"
     },
     {
       "blog_id": "阮一峰",
@@ -323,13 +302,6 @@
       "time": "2025-11-18T00:00:00+00:00"
     },
     {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AutoDev Code Review Agent：应对 10 倍代码量的 Agentic 代码审查",
-      "item_url": "http://www.phodal.com/blog/autodev-review-agent/",
-      "time": "2025-11-17T04:19:07+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E214｜拯救发际线的硬核科普，现代医学与自然选择的拉锯战",
@@ -365,13 +337,6 @@
       "time": "2025-11-14T22:37:00+00:00"
     },
     {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "2025 AI 代码检视：以 ROI 为中心的 AI 代码检视体系与分级",
-      "item_url": "http://www.phodal.com/blog/ai-code-review-2025/",
-      "time": "2025-11-14T04:10:19+00:00"
-    },
-    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Writing for AIs is a good way to reach more humans",
@@ -393,25 +358,11 @@
       "time": "2025-11-13T00:00:00+00:00"
     },
     {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AutoDev CLI：构建 AI Agent 生成的 AI Agent 质量保障与验证架构",
-      "item_url": "http://www.phodal.com/blog/autodev-cli-validate-framework/",
-      "time": "2025-11-12T08:35:55+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "The new Pebble app is live on iOS and Android",
       "item_url": "https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android",
       "time": "2025-11-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "Vibe Coding 何必只在桌面 IDE，编码智能体协同的思考与设计",
-      "item_url": "http://www.phodal.com/blog/vibe-coding-for-autodev-server/",
-      "time": "2025-11-11T03:57:16+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -475,13 +426,6 @@
       "item_name": "Yes really, curl is still developed",
       "item_url": "https://daniel.haxx.se/blog/2025/11/04/yes-really-curl-is-still-developed/",
       "time": "2025-11-04T09:27:16+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "多端编程 Agent（CLI/Desktop/Mobile）：AutoDev 架构升级，欢迎一起参与演进",
-      "item_url": "http://www.phodal.com/blog/autodev-next-poc/",
-      "time": "2025-11-04T07:18:22+00:00"
     },
     {
       "blog_id": "owenyoung",
@@ -673,13 +617,6 @@
       "time": "2025-10-15T00:00:00+00:00"
     },
     {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
-      "item_url": "http://www.phodal.com/blog/prompt-to-agenticg/",
-      "time": "2025-10-14T06:09:53+00:00"
-    },
-    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "炎热10月的自留地探索",
@@ -783,13 +720,6 @@
       "item_name": "Sora 2",
       "item_url": "https://blog.samaltman.com/sora-2",
       "time": "2025-09-30T17:13:47+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AutoDev A2A 新能力下的云端 Agent 路径思考，从扩展到协作",
-      "item_url": "http://www.phodal.com/blog/autodev-a2a/",
-      "time": "2025-09-29T03:17:38+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
