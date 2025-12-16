@@ -1233,6 +1233,13 @@
       "time": "2025-07-21T10:08:02+00:00"
     },
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我的新书《这就是 MCP》出版了",
+      "item_url": "https://idoubi.ai/blog/my-mcp-book",
+      "time": "2025-07-17T00:00:00+00:00"
+    },
+    {
       "blog_id": "Takuya Matsuyama",
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "Agentic coding made programming fun again",
@@ -1345,6 +1352,13 @@
       "time": "2025-07-06T00:00:00+00:00"
     },
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "AI 时代如何做独立开发",
+      "item_url": "https://idoubi.ai/blog/ai-solo-dev",
+      "time": "2025-07-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Thank you, Databend; Hello, LanceDB",
@@ -1427,6 +1441,13 @@
       "item_name": "LimTube",
       "item_url": "https://limboy.me/posts/limtube",
       "time": "2025-06-23T00:00:00+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "MCP is all you need",
+      "item_url": "https://idoubi.ai/blog/mcp-is-all-you-need",
+      "time": "2025-06-16T00:00:00+00:00"
     },
     {
       "blog_id": "Chang Luo",
@@ -1583,11 +1604,32 @@
       "time": "2025-04-19T00:00:00+00:00"
     },
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "详解 MCP 核心架构",
+      "item_url": "https://idoubi.ai/blog/mcp-architecture",
+      "time": "2025-04-13T00:00:00+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "详解 MCP 连接生命周期",
+      "item_url": "https://idoubi.ai/blog/mcp-lifecycle",
+      "time": "2025-04-12T00:00:00+00:00"
+    },
+    {
       "blog_id": "林小沐",
       "feed": "https://immmmm.com/atom.xml",
       "item_name": "沉迷“吉卜力”中……",
       "item_url": "https://immmmm.com/ghiblio-enjoy/",
       "time": "2025-04-11T23:59:32+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "详解 MCP 传输机制",
+      "item_url": "https://idoubi.ai/blog/mcp-transport",
+      "time": "2025-04-11T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -1926,6 +1968,13 @@
       "time": "2025-01-02T03:00:59+00:00"
     },
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "2024，我追过的 AI 风口",
+      "item_url": "https://idoubi.ai/blog/my-ai-2024",
+      "time": "2025-01-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "CPU Profiling Nuxt",
@@ -1982,6 +2031,13 @@
       "time": "2024-12-18T00:00:00+00:00"
     },
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我用 AI 辅助编程，效率提升 x 倍",
+      "item_url": "https://idoubi.ai/blog/use-ai-coding-copilot",
+      "time": "2024-12-16T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "\"Rules\" that terminal programs follow",
@@ -2029,6 +2085,13 @@
       "item_name": "Lessons Learned Building LLM Applications",
       "item_url": "https://linghao.io/posts/building-llm-apps-2024",
       "time": "2024-11-16T00:00:00+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我跑通了全球收付款的流程",
+      "item_url": "https://idoubi.ai/blog/get-paied-all-over-the-world",
+      "time": "2024-11-09T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
@@ -2120,6 +2183,13 @@
       "item_name": "Mountains of software: a romantic and a classical perspective",
       "item_url": "https://sidhion.com/blog/romantic_classical_world_software/",
       "time": "2024-08-22T00:00:00+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我把网站迁移到 cf，省了几万块",
+      "item_url": "https://idoubi.ai/blog/migrate-to-cloudflare",
+      "time": "2024-08-12T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
