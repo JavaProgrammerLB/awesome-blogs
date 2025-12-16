@@ -8,6 +8,13 @@
       "time": "2025-12-15T08:32:32+00:00"
     },
     {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "Statistics made simple",
+      "item_url": "https://tonsky.me/blog/clj-simple-stats/",
+      "time": "2025-12-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E218｜Netflix与派拉蒙竞购华纳兄弟，好莱坞的洗牌时刻？",
@@ -911,13 +918,6 @@
       "time": "2025-09-02T15:24:00+00:00"
     },
     {
-      "blog_id": "Nikita Prokopov",
-      "feed": "https://tonsky.me/atom.xml",
-      "item_name": "Talk: Почему компьютеры не умеют считать? @ Podlodka",
-      "item_url": "https://tonsky.me/talks/#2025-09-01",
-      "time": "2025-09-01T00:00:00+00:00"
-    },
-    {
       "blog_id": "拾一",
       "feed": "https://innei.in/feed",
       "item_name": "从代码到古镇，从屏幕到舞台",
@@ -1345,13 +1345,6 @@
       "time": "2025-07-06T00:00:00+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "AI 时代如何做独立开发",
-      "item_url": "https://idoubi.cv/blogs/ai-solo-dev",
-      "time": "2025-07-03T00:00:00+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Thank you, Databend; Hello, LanceDB",
@@ -1434,13 +1427,6 @@
       "item_name": "LimTube",
       "item_url": "https://limboy.me/posts/limtube",
       "time": "2025-06-23T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "MCP is all you need",
-      "item_url": "https://idoubi.cv/blogs/mcp-is-all-you-need",
-      "time": "2025-06-16T00:00:00+00:00"
     },
     {
       "blog_id": "Chang Luo",
@@ -1940,13 +1926,6 @@
       "time": "2025-01-02T03:00:59+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "2024，我追过的 AI 风口",
-      "item_url": "https://idoubi.cv/blogs/my-ai-2024",
-      "time": "2025-01-01T00:00:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "CPU Profiling Nuxt",
@@ -2052,13 +2031,6 @@
       "time": "2024-11-16T00:00:00+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我跑通了全球收付款的流程",
-      "item_url": "https://idoubi.cv/blogs/get-paied-all-over-the-world",
-      "time": "2024-11-09T00:00:00+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Why is ML Runtime Infra So Hard",
@@ -2150,13 +2122,6 @@
       "time": "2024-08-22T00:00:00+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我把网站迁移到 cf，省了几万块",
-      "item_url": "https://idoubi.cv/blogs/migrate-to-cloudflare",
-      "time": "2024-08-12T00:00:00+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "「代码艺术家」不会被 AI 取代",
@@ -2176,13 +2141,6 @@
       "item_name": "Notes on Project Oberon",
       "item_url": "https://sidhion.com/blog/oberon_notes/",
       "time": "2024-06-25T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我做了一个 AI 搜索引擎",
-      "item_url": "https://idoubi.cv/blogs/ai-search-engine",
-      "time": "2024-05-22T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
@@ -2248,13 +2206,6 @@
       "time": "2024-03-07T16:00:00+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我写了一个 AI 红包封面生成器",
-      "item_url": "https://idoubi.cv/blogs/ai-cover-generator",
-      "time": "2024-01-30T00:00:00+00:00"
-    },
-    {
       "blog_id": "geekplux",
       "feed": "https://geekplux.com/feed.xml",
       "item_name": "2023 一蓑烟雨",
@@ -2297,25 +2248,11 @@
       "time": "2023-12-21T22:44:25+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "我写了一款 AI-Native 产品",
-      "item_url": "https://idoubi.cv/blogs/an-ai-native-product",
-      "time": "2023-12-20T00:00:00+00:00"
-    },
-    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "忆奶奶与我的二三事",
       "item_url": "https://imtx.me/blog/in-memory-of-grandma/",
       "time": "2023-11-27T15:51:55+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "1024，我从腾讯裸辞了",
-      "item_url": "https://idoubi.cv/blogs/I-quit-from-tencent",
-      "time": "2023-11-24T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -2330,13 +2267,6 @@
       "item_name": "Send a voice to a friend on your watch with YaoYao!",
       "item_url": "http://blog.yaoyaojumprope.com/blog/2023/11/20/yaoyao-voice-en/",
       "time": "2023-11-19T16:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://idoubi.cv/feed",
-      "item_name": "创建一个可调用第三方 API 的 gpts 应用",
-      "item_url": "https://idoubi.cv/blogs/how-to-create-gpts",
-      "time": "2023-11-10T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
