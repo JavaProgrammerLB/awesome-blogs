@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AutoDev 3.0 → Xiuper：咻！全平台、全流程智能体编程平台",
+      "item_url": "http://www.phodal.com/blog/autodev-xiuper/",
+      "time": "2025-12-16T14:18:04+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "12月再探东营（下）",
@@ -888,13 +895,6 @@
       "item_name": "Jakub and Szymon",
       "item_url": "https://blog.samaltman.com/jakub-and-szymon",
       "time": "2025-09-09T00:10:22+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "从 Langchain 到 Spring AI，我们究竟需要怎么样一个企业级 AI 开发框架？",
-      "item_url": "http://www.phodal.com/blog/from-langchain-to-spring-ai/",
-      "time": "2025-09-08T11:57:31+00:00"
     },
     {
       "blog_id": "yihong",
