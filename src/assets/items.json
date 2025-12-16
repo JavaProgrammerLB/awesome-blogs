@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "20,000 issues on GitHub",
+      "item_url": "https://daniel.haxx.se/blog/2025/12/16/20000-issues-on-github/",
+      "time": "2025-12-16T22:22:55+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AutoDev 3.0 → Xiuper：咻！全平台、全流程智能体编程平台",
@@ -769,13 +776,6 @@
       "item_name": "Sora update #1",
       "item_url": "https://blog.samaltman.com/sora-update-number-1",
       "time": "2025-10-04T00:37:50+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "How I maintain release notes for curl",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/01/how-i-maintain-release-notes-for-curl/",
-      "time": "2025-10-01T09:03:23+00:00"
     },
     {
       "blog_id": "Sam Altman",
