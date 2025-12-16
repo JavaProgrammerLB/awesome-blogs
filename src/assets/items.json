@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我的新书《这就是 MCP》出版了",
+      "item_url": "https://idoubi.ai/blog/my-mcp-book",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "AI 时代如何做独立开发",
+      "item_url": "https://idoubi.ai/blog/ai-solo-dev",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "MCP is all you need",
+      "item_url": "https://idoubi.ai/blog/mcp-is-all-you-need",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "详解 MCP 核心架构",
+      "item_url": "https://idoubi.ai/blog/mcp-architecture",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "详解 MCP 连接生命周期",
+      "item_url": "https://idoubi.ai/blog/mcp-lifecycle",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "详解 MCP 传输机制",
+      "item_url": "https://idoubi.ai/blog/mcp-transport",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "2024，我追过的 AI 风口",
+      "item_url": "https://idoubi.ai/blog/my-ai-2024",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我用 AI 辅助编程，效率提升 x 倍",
+      "item_url": "https://idoubi.ai/blog/use-ai-coding-copilot",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我跑通了全球收付款的流程",
+      "item_url": "https://idoubi.ai/blog/get-paied-all-over-the-world",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我把网站迁移到 cf，省了几万块",
+      "item_url": "https://idoubi.ai/blog/migrate-to-cloudflare",
+      "time": "2025-12-16T07:21:38+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "带可可学数学",
