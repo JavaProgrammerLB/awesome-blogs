@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E219｜140亿欧元爱马仕股份是怎么消失的？",
+      "item_url": "https://sv101.fireside.fm/229",
+      "time": "2025-12-17T23:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "20,000 issues on GitHub",
@@ -90,6 +97,13 @@
       "item_name": "2025.12.11: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-12-11/",
       "time": "2025-12-10T21:12:10+00:00"
+    },
+    {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "Meet Pebble Index 01 - External Memory For Your Brain",
+      "item_url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
+      "time": "2025-12-09T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -601,13 +615,6 @@
       "item_name": "How I Coding? (Oct 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/",
       "time": "2025-10-24T01:00:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E211｜站在内容创作者与机器人的交界处：聊聊3D数字人的进化",
-      "item_url": "https://sv101.fireside.fm/222",
-      "time": "2025-10-24T00:00:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -1328,13 +1335,6 @@
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 Shawn：不要投资，不要办公室，不组建团队",
       "item_url": "https://hawstein.com/2025/07/09/no-investment-no-office-no-team/",
-      "time": "2025-07-09T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "Quick Pebble Project Update",
-      "item_url": "https://ericmigi.com/blog/quick-pebble-project-update",
       "time": "2025-07-09T00:00:00+00:00"
     },
     {
