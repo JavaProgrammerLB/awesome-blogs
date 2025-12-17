@@ -155,6 +155,13 @@
       "time": "2025-12-01T06:37:48+00:00"
     },
     {
+      "blog_id": "Collaborative Fund",
+      "feed": "http://feeds.feedburner.com/collabfund",
+      "item_name": "Warren Buffett Was Always a Brand Guy",
+      "item_url": "https://collabfund.com/blog/warren-buffett-was-always-a-brand-guy/",
+      "time": "2025-11-30T21:44:00+00:00"
+    },
+    {
       "blog_id": "拾一",
       "feed": "https://innei.in/feed",
       "item_name": "回头看见自己",
@@ -1392,13 +1399,6 @@
       "item_name": "Vibe Coding 一段时间后的感受",
       "item_url": "https://limboy.me/posts/vibe-coding",
       "time": "2025-06-28T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Collaborative Fund",
-      "feed": "http://feeds.feedburner.com/collabfund",
-      "item_name": "Where does value accrue beyond Open AI?",
-      "item_url": "https://collabfund.com/blog/how-to-compete-against-open-ai/",
-      "time": "2025-06-27T13:05:00+00:00"
     },
     {
       "blog_id": "xuanwo",
