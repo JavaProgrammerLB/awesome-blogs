@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "林惠文(daimajia)",
+      "feed": "https://daimajia.com/feed/",
+      "item_name": "定在原地，回头和远望",
+      "item_url": "https://daimajia.com/2025/12/18/three-years-off-work-living-with-pain-and-finding-life/",
+      "time": "2025-12-18T08:31:24+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E219｜140亿欧元爱马仕股份是怎么消失的？",
@@ -2624,13 +2631,6 @@
       "item_name": "第一位“计算机科学少年班”学生毕业",
       "item_url": "https://www.yinwang.org/posts/youth-cs-student",
       "time": "2021-09-16T00:00:00+00:00"
-    },
-    {
-      "blog_id": "林惠文(daimajia)",
-      "feed": "https://daimajia.com/feed/",
-      "item_name": "Q&A：技术人如何转投资？",
-      "item_url": "https://daimajia.com/2021/09/15/coder-to-investor/",
-      "time": "2021-09-15T10:18:08+00:00"
     },
     {
       "blog_id": "geekplux",
