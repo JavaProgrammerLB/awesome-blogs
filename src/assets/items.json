@@ -2290,13 +2290,6 @@
       "time": "2024-01-16T03:00:00+00:00"
     },
     {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "The Essence of Effective Learning",
-      "item_url": "https://littlecheesecake.me/blog1/2024/01/15/effective-learning-2.html",
-      "time": "2024-01-15T02:00:00+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Becoming a Staff Engineer",
@@ -2353,13 +2346,6 @@
       "time": "2023-11-02T12:48:45+00:00"
     },
     {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "学习的本质",
-      "item_url": "https://littlecheesecake.me/blog2/2023/10/21/effective-learning.html",
-      "time": "2023-10-21T00:00:00+00:00"
-    },
-    {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "打电脑，也要保持好坐姿(顶瓜瓜现已支持 MacOS)",
@@ -2381,46 +2367,11 @@
       "time": "2023-09-05T16:00:00+00:00"
     },
     {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[Kafka Guide] Chapter 4 Kafka Consumer",
-      "item_url": "https://littlecheesecake.me/blog1/2023/08/30/kafka-notes-chapter4.html",
-      "time": "2023-08-30T08:00:00+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "Publish Jekyll Site to GitHub Pages",
-      "item_url": "https://littlecheesecake.me/blog1/2023/08/27/github-page-tips.html",
-      "time": "2023-08-27T00:00:00+00:00"
-    },
-    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "博客站迁移至 VitePress 的备忘",
       "item_url": "https://jiongks.name/blog/migrate-my-blog-to-vitepress",
       "time": "2023-08-05T12:31:25+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[Kafka Guide] Chapter 3 - Kafka Producer",
-      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter3.html",
-      "time": "2023-07-31T19:00:00+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[Kafka Guide] Chapter 2 - Install Kafka",
-      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter2.html",
-      "time": "2023-07-31T19:00:00+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[Kafka Guide] Chapter 1 - Meet Kafka",
-      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter1.html",
-      "time": "2023-07-31T19:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -2430,13 +2381,6 @@
       "time": "2023-06-15T05:35:10+00:00"
     },
     {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "屎壳郎，外卖和马屁精",
-      "item_url": "https://littlecheesecake.me/blog2/2023/06/15/growing-up.html",
-      "time": "2023-06-15T00:00:00+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Demystifying TLMs",
@@ -2444,25 +2388,11 @@
       "time": "2023-04-25T00:00:00+00:00"
     },
     {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[DDIA] Chapter 6 - Partition",
-      "item_url": "https://littlecheesecake.me/blog1/2023/04/12/ddia-6.html",
-      "time": "2023-04-12T02:00:00+00:00"
-    },
-    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "PasteNow 两周年随感",
       "item_url": "https://imtx.me/blog/pastenow-two-years-old/",
       "time": "2023-04-10T02:47:08+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[DDIA] Chapter 5 - Replication",
-      "item_url": "https://littlecheesecake.me/blog1/2023/04/10/ddia-5.html",
-      "time": "2023-04-10T02:00:00+00:00"
     },
     {
       "blog_id": "王垠",
