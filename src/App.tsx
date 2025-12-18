@@ -102,7 +102,7 @@ function App() {
         <div className="max-w-7xl mx-auto flex gap-10 items-center">
           <Link to="/" className="flex items-center">
             <img
-              src="/logo.svg"
+              src="https://webp.yitianyigexiangfa.com/1766053621_3c67f075.svg"
               alt="Awesome Blogs Logo"
               className="h-16 w-16 shrink-0 md:h-12 md:w-12"
             />
