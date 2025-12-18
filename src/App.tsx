@@ -103,7 +103,7 @@ function App() {
           <Link to="/" className="flex items-center">
             <img
               src="https://webp.yitianyigexiangfa.com/1766053621_3c67f075.svg"
-              alt="Awesome Blogs Logo"
+              alt="kuzi ai logo"
               className="h-16 w-16 shrink-0 md:h-12 md:w-12"
             />
           </Link>
