@@ -101,7 +101,11 @@ function App() {
       <nav className="bg-gray-100 p-4 mb-4">
         <div className="max-w-7xl mx-auto flex gap-10 items-center">
           <Link to="/" className="flex items-center">
-            <img src="/logo.svg" alt="Awesome Blogs Logo" className="h-12 w-12" />
+            <img
+              src="/logo.svg"
+              alt="Awesome Blogs Logo"
+              className="h-16 w-16 shrink-0 md:h-12 md:w-12"
+            />
           </Link>
           <div className='flex flex-col'>
             <Link to="/">
