@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html",
+      "time": "2025-12-19T00:06:47+00:00"
+    },
+    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "定在原地，回头和远望",
@@ -328,13 +335,6 @@
       "item_name": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
       "item_url": "https://sv101.fireside.fm/225",
       "time": "2025-11-21T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "VS Code 使用国产大模型 MiniMax M2 教程",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/11/vs-code-minimax-m2.html",
-      "time": "2025-11-19T00:30:59+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
