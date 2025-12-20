@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "owenyoung",
+      "feed": "https://www.owenyoung.com/atom.xml",
+      "item_name": "新的日记",
+      "item_url": "https://www.owenyoung.com/blog/journals/2025-12-20/",
+      "time": "2025-12-20T19:37:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
@@ -1917,13 +1924,6 @@
       "item_name": "与其直接问 AI 答案，不如请 AI 找到研究这些问题最好的老师",
       "item_url": "https://www.owenyoung.com/blog/ai-expert-guidance/",
       "time": "2025-01-23T21:28:03+00:00"
-    },
-    {
-      "blog_id": "owenyoung",
-      "feed": "https://www.owenyoung.com/atom.xml",
-      "item_name": "2025.01.22: 各种链接",
-      "item_url": "https://www.owenyoung.com/blog/journals/2025-01-22/",
-      "time": "2025-01-22T06:14:01+00:00"
     },
     {
       "blog_id": "林小沐",
