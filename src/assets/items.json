@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Linghao Zhang",
+      "feed": "https://linghao.io/feed.xml",
+      "item_name": "Why You Should Probably Work on AI Engineering",
+      "item_url": "https://linghao.io/posts/why-you-should-work-on-ai-engineering",
+      "time": "2025-12-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
@@ -2526,13 +2533,6 @@
       "item_name": "写给我的奶奶",
       "item_url": "https://jiongks.name/blog/to-my-granny",
       "time": "2022-11-26T09:46:47+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Learnings as a Tech Lead",
-      "item_url": "https://linghao.io/posts/tl-learnings-2022",
-      "time": "2022-10-06T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
