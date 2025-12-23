@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "A curl 2025 review",
+      "item_url": "https://daniel.haxx.se/blog/2025/12/23/a-curl-2025-review/",
+      "time": "2025-12-23T12:00:18+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "我如何用 AI 处理历史遗留代码：MiniMax M2.1 升级体验",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/12/minimax-m2.1.html",
+      "time": "2025-12-23T11:28:38+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "Agentic 时代的前端革命：重塑 UI 为 AI 的执行界面",
@@ -356,13 +370,6 @@
       "item_name": "Why it takes months to tell if new AI models are good",
       "item_url": "https://seangoedecke.com/are-new-models-good/",
       "time": "2025-11-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 374 期）：6GHz 的问题",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/11/weekly-issue-374.html",
-      "time": "2025-11-21T00:10:12+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -769,13 +776,6 @@
       "item_name": "Discovering the joy of driving as a long-time paper driver",
       "item_url": "https://www.devas.life/discovering-the-joy-of-driving-as-a-long-time-paper-driver/",
       "time": "2025-10-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "A new breed of analyzers",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/",
-      "time": "2025-10-10T11:58:37+00:00"
     },
     {
       "blog_id": "Julia Evans",
