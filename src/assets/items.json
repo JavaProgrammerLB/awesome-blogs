@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "Agentic 时代的前端革命：重塑 UI 为 AI 的执行界面",
+      "item_url": "http://www.phodal.com/blog/agentic-ui-solution/",
+      "time": "2025-12-23T04:26:02+00:00"
+    },
+    {
+      "blog_id": "云风",
+      "feed": "https://blog.codingnow.com/atom.xml",
+      "item_name": "Skynet 升级到 Lua 5.5.0",
+      "item_url": "https://blog.codingnow.com/2025/12/skynet_lua_550.html",
+      "time": "2025-12-23T02:19:52+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Why You Should Probably Work on AI Engineering",
@@ -188,13 +202,6 @@
       "item_name": "周报 #103 - 工作随想与被吞噬的生活",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_103",
       "time": "2025-12-02T02:40:00+00:00"
-    },
-    {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "被嫌弃的松子的一生",
-      "item_url": "https://frostming.com/2025/county-woman/",
-      "time": "2025-12-02T00:00:00+00:00"
     },
     {
       "blog_id": "拾一",
@@ -827,13 +834,6 @@
       "time": "2025-09-30T17:13:47+00:00"
     },
     {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AutoDev A2A 新能力下的云端 Agent 路径思考，从扩展到协作",
-      "item_url": "http://www.phodal.com/blog/autodev-a2a/",
-      "time": "2025-09-29T03:17:38+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Quick P2D production update",
@@ -874,13 +874,6 @@
       "item_name": "How I Vibe Coding? (Sept 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/06-how-i-vibe-coding-sept-2025-edition/",
       "time": "2025-09-22T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "PyCome",
-      "item_url": "https://frostming.com/2025/pycon/",
-      "time": "2025-09-22T00:00:00+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1049,13 +1042,6 @@
       "item_name": "AWS Kiro: Arbitrary Code Execution via Indirect Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/aws-kiro-aribtrary-command-execution-with-indirect-prompt-injection/",
       "time": "2025-08-26T14:00:58+00:00"
-    },
-    {
-      "blog_id": "云风",
-      "feed": "https://blog.codingnow.com/atom.xml",
-      "item_name": "在 Lua 中定义类型的简单方法",
-      "item_url": "https://blog.codingnow.com/2025/08/lua_class.html",
-      "time": "2025-08-26T00:37:50+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1576,13 +1562,6 @@
       "time": "2025-05-11T14:00:22+00:00"
     },
     {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "河南行拾遗",
-      "item_url": "https://frostming.com/2025/henan/",
-      "time": "2025-05-11T00:00:00+00:00"
-    },
-    {
       "blog_id": "yihong",
       "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
       "item_name": "Things I like",
@@ -1821,13 +1800,6 @@
       "time": "2025-03-05T00:00:00+00:00"
     },
     {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "再也别问 Singleton 了好吗？",
-      "item_url": "https://frostming.com/2025/singleton/",
-      "time": "2025-03-05T00:00:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Async, Sync, in Between",
@@ -2045,20 +2017,6 @@
       "time": "2024-12-25T00:00:00+00:00"
     },
     {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "我的 2024",
-      "item_url": "https://frostming.com/2024/review/",
-      "time": "2024-12-24T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "一个 monkeypatch 引起的循环引用问题",
-      "item_url": "https://frostming.com/2024/circular-ref-monkeypatch/",
-      "time": "2024-12-18T00:00:00+00:00"
-    },
-    {
       "blog_id": "艾逗笔",
       "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
       "item_name": "我用 AI 辅助编程，效率提升 x 倍",
@@ -2129,13 +2087,6 @@
       "time": "2024-11-09T00:00:00+00:00"
     },
     {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "功不唐捐",
-      "item_url": "https://frostming.com/2024/efforts/",
-      "time": "2024-11-07T00:00:00+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Thoughts on changing systems",
@@ -2155,13 +2106,6 @@
       "item_name": "11月的南汇追风记",
       "item_url": "http://blog.wraith615.xyz/articles/rtsvf5796gyxn92l",
       "time": "2024-11-04T15:53:36+00:00"
-    },
-    {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "表达的阈值",
-      "item_url": "https://frostming.com/2024/express-threshold/",
-      "time": "2024-10-20T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
