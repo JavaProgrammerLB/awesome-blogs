@@ -513,7 +513,12 @@
     "describe": "《自己动手设计物联网》作者",
     "avatar": "https://webp.yitianyigexiangfa.com/1764037781_e5346e94.jpg",
     "feed": "https://www.phodal.com/blog/feeds/rss/",
-    "like": []
+    "like": [
+      {
+        "title": "Agentic 时代的前端革命：重塑 UI 为 AI 的执行界面",
+        "url": "https://www.phodal.com/blog/agentic-ui-solution/"
+      }
+    ]
   },
   {
     "name": "每日明",
