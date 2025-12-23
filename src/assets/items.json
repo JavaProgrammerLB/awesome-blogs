@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "Agentic UI：重新定义“好体验”——不是美化按钮，而是让认知负担归零",
+      "item_url": "http://www.phodal.com/blog/agentic-frontend/",
+      "time": "2025-12-23T12:42:27+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "A curl 2025 review",
@@ -748,13 +755,6 @@
       "item_name": "I am sorry, but everyone is getting syntax highlighting wrong",
       "item_url": "https://tonsky.me/blog/syntax-highlighting/",
       "time": "2025-10-15T00:00:00+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "Agent 架构综述：从 Prompt 到上下文工程构建 AI Agent",
-      "item_url": "http://www.phodal.com/blog/prompt-to-agenticg/",
-      "time": "2025-10-14T06:09:53+00:00"
     },
     {
       "blog_id": "鱼鱼",
