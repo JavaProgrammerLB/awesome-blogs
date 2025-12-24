@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Nobody knows how large software products work",
+      "item_url": "https://seangoedecke.com/nobody-knows-how-software-products-work/",
+      "time": "2025-12-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "Agentic UI：重新定义“好体验”——不是美化按钮，而是让认知负担归零",
@@ -664,13 +671,6 @@
       "item_name": "A gold ceremony to remember",
       "item_url": "https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/",
       "time": "2025-10-25T11:26:40+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Mistakes I see engineers making in their code reviews",
-      "item_url": "https://seangoedecke.com/good-code-reviews/",
-      "time": "2025-10-25T00:00:00+00:00"
     },
     {
       "blog_id": "xuanwo",
