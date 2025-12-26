@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
+      "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html",
+      "time": "2025-12-25T23:51:08+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Nobody knows how large software products work",
@@ -328,13 +335,6 @@
       "item_name": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
       "item_url": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
       "time": "2025-11-26T09:19:56+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "终于有人做了 Subagent，TRAE 国内版 SOLO 模式来了",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/11/trae-solo.html",
-      "time": "2025-11-26T00:17:19+00:00"
     },
     {
       "blog_id": "sean goedecke",
