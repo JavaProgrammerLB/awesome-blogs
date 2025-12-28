@@ -1,11 +1,53 @@
 {
   "items": [
     {
+      "blog_id": "拾一",
+      "feed": "https://innei.in/feed",
+      "item_name": "2025 · 仍在路上，半径之外",
+      "item_url": "https://innei.in/notes/205",
+      "time": "2025-12-27T15:38:02+00:00"
+    },
+    {
+      "blog_id": "Randy",
+      "feed": "https://lutaonan.com/rss.xml",
+      "item_name": "让 AI 戴着镣铐跳舞",
+      "item_url": "https://lutaonan.com/blog/ai-coding-principle",
+      "time": "2025-12-27T00:00:00+00:00"
+    },
+    {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "You can't design software you don't work on",
+      "item_url": "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/",
+      "time": "2025-12-27T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "RAG：大模型时代的搜索基座",
+      "item_url": "https://luochang212.github.io/posts/rag_intro/",
+      "time": "2025-12-27T00:00:00+00:00"
+    },
+    {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "2025 年我提了 500 个 Pull Requests",
+      "item_url": "https://blog.yihong0618.me/issue-334/",
+      "time": "2025-12-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
       "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html",
       "time": "2025-12-25T23:51:08+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Write, then walk: Why a simple notes app is sufficient",
+      "item_url": "https://www.devas.life/why-a-linear-notes-app-is-sufficient/",
+      "time": "2025-12-25T00:00:00+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -624,13 +666,6 @@
       "time": "2025-10-31T00:00:00+00:00"
     },
     {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Why do AI models use so many em-dashes?",
-      "item_url": "https://seangoedecke.com/em-dashes/",
-      "time": "2025-10-30T00:00:00+00:00"
-    },
-    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "Essentials for Independent Travel in China",
@@ -1226,13 +1261,6 @@
       "time": "2025-07-26T00:00:00+00:00"
     },
     {
-      "blog_id": "拾一",
-      "feed": "https://innei.in/feed",
-      "item_name": "在废土中修路，在代码中造梦",
-      "item_url": "https://innei.in/notes/196",
-      "time": "2025-07-25T12:58:04+00:00"
-    },
-    {
       "blog_id": "何同学",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
       "item_name": "為了不用擦白板，我們做了這個...",
@@ -1301,13 +1329,6 @@
       "item_name": "我的新书《这就是 MCP》出版了",
       "item_url": "https://idoubi.ai/blog/my-mcp-book",
       "time": "2025-07-17T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "Agentic coding made programming fun again",
-      "item_url": "https://www.devas.life/agentic-coding-made-programming-fun-again/",
-      "time": "2025-07-16T00:00:00+00:00"
     },
     {
       "blog_id": "Hawstein",
@@ -1590,13 +1611,6 @@
       "time": "2025-05-11T00:00:00+00:00"
     },
     {
-      "blog_id": "yihong",
-      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
-      "item_name": "Things I like",
-      "item_url": "https://blog.yihong0618.me/issue-311/",
-      "time": "2025-04-29T00:00:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Categorize Your Dependencies",
@@ -1735,13 +1749,6 @@
       "item_name": "开发 PopTranslate 背后的故事",
       "item_url": "https://imtx.me/blog/the-story-behind-the-development-of-poptranslate/",
       "time": "2025-03-21T06:20:06+00:00"
-    },
-    {
-      "blog_id": "Chang Luo",
-      "feed": "https://www.luochang.ink/index.xml",
-      "item_name": "本地部署大模型：Ollama 和 vLLM",
-      "item_url": "https://luochang212.github.io/posts/llm_deploy/",
-      "time": "2025-03-21T00:00:00+00:00"
     },
     {
       "blog_id": "Jonathan Hedley",
@@ -2232,13 +2239,6 @@
       "item_name": "把「开新坑」作为「心灵按摩」",
       "item_url": "https://imtx.me/blog/starting-new-projects-as-spiritual-massage/",
       "time": "2024-04-28T02:17:05+00:00"
-    },
-    {
-      "blog_id": "Randy",
-      "feed": "https://lutaonan.com/rss.xml",
-      "item_name": "在 Electron 中使用 SQLite 的最好方式",
-      "item_url": "https://lutaonan.com/blog/electron-sqlite",
-      "time": "2024-04-22T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
