@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Software engineers should be a little bit cynical",
+      "item_url": "https://seangoedecke.com/a-little-bit-cynical/",
+      "time": "2025-12-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "拾一",
       "feed": "https://innei.in/feed",
       "item_name": "2025 · 仍在路上，半径之外",
@@ -636,13 +643,6 @@
       "item_name": "我們做了個漂移輪椅…",
       "item_url": "https://www.youtube.com/shorts/I8gmrqJPPcU",
       "time": "2025-11-03T15:00:37+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Is it worrying that 95% of AI enterprise projects fail?",
-      "item_url": "https://seangoedecke.com/why-do-ai-enterprise-projects-fail/",
-      "time": "2025-11-03T00:00:00+00:00"
     },
     {
       "blog_id": "Limboy",
