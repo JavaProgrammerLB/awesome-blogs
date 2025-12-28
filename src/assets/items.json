@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "拾一",
+      "feed": "https://innei.in/feed",
+      "item_name": "我是如何使用 AI 辅助创作的",
+      "item_url": "https://innei.in/posts/tech/how-to-use-ai-for-assisted-creation",
+      "time": "2025-12-28T12:29:16+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Software engineers should be a little bit cynical",
@@ -1231,13 +1238,6 @@
       "item_name": "Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more",
       "item_url": "https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/",
       "time": "2025-08-01T00:00:00+00:00"
-    },
-    {
-      "blog_id": "拾一",
-      "feed": "https://innei.in/feed",
-      "item_name": "TailwindCSS v4 全新颜色系统与主题切换",
-      "item_url": "https://innei.in/posts/tech/tailwindcss-v4-color-system-theme-switching-guide",
-      "time": "2025-07-31T16:14:58+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
