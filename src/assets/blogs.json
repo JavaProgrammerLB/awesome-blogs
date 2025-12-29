@@ -664,5 +664,18 @@
         "url": "https://tonsky.me/projects/"
       }
     ]
+  },
+  {
+    "name": "Maggie",
+    "url": "https://www.maggiephysio.com/archive/",
+    "describe": "物理治疗师，普拉提教练，自由职业者，作者，喜欢读书的人",
+    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
+    "feed": "https://www.maggiephysio.com/rss/",
+    "like": [
+      {
+        "title": "人生就是体验和创造",
+        "url": "https://www.maggiephysio.com/about/"
+      }
+    ]
   }
 ]
