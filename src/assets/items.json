@@ -8,6 +8,13 @@
       "time": "2025-12-30T08:25:12+00:00"
     },
     {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "Obsidian X Claude Code - A Seamless Vibe Writing Experience",
+      "item_url": "https://littlecheesecake.me/blog1/2025/12/30/obsidian-times-claude.html",
+      "time": "2025-12-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "Frost",
       "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
       "item_name": "友好的 Python：从其他语言移植",
@@ -2519,13 +2526,6 @@
       "item_name": "PasteNow 两周年随感",
       "item_url": "https://imtx.me/blog/pastenow-two-years-old/",
       "time": "2023-04-10T02:47:08+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[DDIA] Chapter 5 - Replication",
-      "item_url": "https://littlecheesecake.me/blog1/2023/04/10/ddia-5.html",
-      "time": "2023-04-10T02:00:00+00:00"
     },
     {
       "blog_id": "王垠",
