@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AI 编程 2025 总结：国产模型“能力追平”，国产编程工具还在“情感陪伴”",
+      "item_url": "http://www.phodal.com/blog/ai-coding-2025-summary/",
+      "time": "2025-12-30T08:25:12+00:00"
+    },
+    {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "Obsidian X Claude Code - A Seamless Vibe Writing Experience",
+      "item_url": "https://littlecheesecake.me/blog1/2025/12/30/obsidian-times-claude.html",
+      "time": "2025-12-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "友好的 Python：从其他语言移植",
+      "item_url": "https://frostming.com/posts/2025/friendly-python-port",
+      "time": "2025-12-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "no strcpy either",
@@ -13,6 +34,13 @@
       "item_name": "2025 节点：当 AI 开始释放创造力，工程师如何重新站位",
       "item_url": "http://www.phodal.com/blog/node-2025/",
       "time": "2025-12-29T10:07:29+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我招了 6 个 AI 员工一起干活",
+      "item_url": "https://idoubi.ai/blog/ai-agents-work-together",
+      "time": "2025-12-29T00:00:00+00:00"
     },
     {
       "blog_id": "刘泓君",
@@ -601,13 +629,6 @@
       "item_name": "The new Pebble app is live on iOS and Android",
       "item_url": "https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android",
       "time": "2025-11-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "Vibe Coding 何必只在桌面 IDE，编码智能体协同的思考与设计",
-      "item_url": "http://www.phodal.com/blog/vibe-coding-for-autodev-server/",
-      "time": "2025-11-11T03:57:16+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -2255,13 +2276,6 @@
       "time": "2024-08-22T00:00:00+00:00"
     },
     {
-      "blog_id": "艾逗笔",
-      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
-      "item_name": "我把网站迁移到 cf，省了几万块",
-      "item_url": "https://idoubi.ai/blog/migrate-to-cloudflare",
-      "time": "2024-08-12T00:00:00+00:00"
-    },
-    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "「代码艺术家」不会被 AI 取代",
@@ -2512,13 +2526,6 @@
       "item_name": "PasteNow 两周年随感",
       "item_url": "https://imtx.me/blog/pastenow-two-years-old/",
       "time": "2023-04-10T02:47:08+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[DDIA] Chapter 5 - Replication",
-      "item_url": "https://littlecheesecake.me/blog1/2023/04/10/ddia-5.html",
-      "time": "2023-04-10T02:00:00+00:00"
     },
     {
       "blog_id": "王垠",
