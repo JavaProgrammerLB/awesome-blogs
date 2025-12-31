@@ -38,7 +38,7 @@ function News() {
       </div>
       {currentItems.map(item => (
         <Card key={item.item_url}>
-          <div className='flex flex-row gap-2'>
+          <div className='flex flex-row gap-4'>
             <div className='w-20 min-w-20 aspect-square overflow-hidden rounded-lg'>
               <img src={resolveAvatar(blogMap[item.blog_id]?.avatar)} />
             </div>
