@@ -15,6 +15,13 @@
       "time": "2025-12-31T05:20:58+00:00"
     },
     {
+      "blog_id": "xuanwo",
+      "feed": "https://xuanwo.io/index.xml",
+      "item_name": "2025 Review - All in AI",
+      "item_url": "https://xuanwo.io/2025/09-2025-review/",
+      "time": "2025-12-31T01:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AI 编程 2025 总结：国产模型“能力追平”，国产编程工具还在“情感陪伴”",
@@ -1959,13 +1966,6 @@
       "item_name": "迟到的2024总结",
       "item_url": "http://blog.wraith615.xyz/articles/hx2oe1jd4iae2sww",
       "time": "2025-03-10T14:36:00+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "Where do you belong, system researchers?",
-      "item_url": "https://xuanwo.io/links/2025/03/where-do-you-belong-system-researchers/",
-      "time": "2025-03-10T01:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
