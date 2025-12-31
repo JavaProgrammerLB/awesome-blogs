@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "勾股",
+      "feed": "https://jiongks.name/atom.xml",
+      "item_name": "奔四了，写给40岁的自己",
+      "item_url": "https://jiongks.name/blog/to-my-40s",
+      "time": "2025-12-31T10:22:39+00:00"
+    },
+    {
+      "blog_id": "wunderwuzzi",
+      "feed": "https://embracethered.com/blog/index.xml",
+      "item_name": "Agentic ProbLLMs: Exploiting AI Computer-Use And Coding Agents (39C3 Video + Slides)",
+      "item_url": "https://embracethered.com/blog/posts/2025/39c3-agentic-probllms-exploiting-computer-use-and-coding-agents/",
+      "time": "2025-12-31T05:20:58+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AI 编程 2025 总结：国产模型“能力追平”，国产编程工具还在“情感陪伴”",
@@ -12,6 +26,20 @@
       "feed": "https://littlecheesecake.me/feed",
       "item_name": "Obsidian X Claude Code - A Seamless Vibe Writing Experience",
       "item_url": "https://littlecheesecake.me/blog1/2025/12/30/obsidian-times-claude.html",
+      "time": "2025-12-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Linghao Zhang",
+      "feed": "https://linghao.io/feed.xml",
+      "item_name": "My 2025 Games of the Year",
+      "item_url": "https://linghao.io/posts/2025-games-of-the-year-en",
+      "time": "2025-12-30T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Linghao Zhang",
+      "feed": "https://linghao.io/feed.xml",
+      "item_name": "My 2025 Games of the Year",
+      "item_url": "https://linghao.io/posts/2025-games-of-the-year",
       "time": "2025-12-30T00:00:00+00:00"
     },
     {
@@ -526,13 +554,6 @@
       "time": "2025-11-19T00:00:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "為了幫粉絲放牛，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
-      "time": "2025-11-18T15:28:08+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble, Rebble, and a Path Forward",
@@ -701,13 +722,6 @@
       "time": "2025-11-04T03:13:47+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "我們做了個漂移輪椅…",
-      "item_url": "https://www.youtube.com/shorts/I8gmrqJPPcU",
-      "time": "2025-11-03T15:00:37+00:00"
-    },
-    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "我的第一款 iOS App：PingMind",
@@ -799,6 +813,13 @@
       "time": "2025-10-21T06:30:03+00:00"
     },
     {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "好的 AI 笔记工具是能够引发多层思考的",
+      "item_url": "https://fehey.com/good-ai-note-tools-for-multi-layered-thinking",
+      "time": "2025-10-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #101 - 消失了三个月，我的生活发生了什么变化",
@@ -818,13 +839,6 @@
       "item_name": "构建自己的反思系统",
       "item_url": "https://limboy.me/posts/review-system",
       "time": "2025-10-17T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "在轉，但沒在轉？",
-      "item_url": "https://www.youtube.com/shorts/zywQICdbtZQ",
-      "time": "2025-10-16T10:15:51+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
@@ -1023,13 +1037,6 @@
       "time": "2025-09-17T21:52:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "最聽勸的一代，但是...iPhone 17 系列首發體驗",
-      "item_url": "https://www.youtube.com/watch?v=su9aqYLcAhw",
-      "time": "2025-09-17T12:33:42+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "We have outgrown the Process model",
@@ -1121,13 +1128,6 @@
       "time": "2025-08-30T03:20:58+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "把星空放大 200 倍能看到什麼？",
-      "item_url": "https://www.youtube.com/shorts/A5r5wQXHx1I",
-      "time": "2025-08-29T15:00:31+00:00"
-    },
-    {
       "blog_id": "wunderwuzzi",
       "feed": "https://embracethered.com/blog/index.xml",
       "item_name": "Windsurf MCP Integration: Missing Security Controls Put Users at Risk",
@@ -1175,13 +1175,6 @@
       "item_name": "AWS Kiro: Arbitrary Code Execution via Indirect Prompt Injection",
       "item_url": "https://embracethered.com/blog/posts/2025/aws-kiro-aribtrary-command-execution-with-indirect-prompt-injection/",
       "time": "2025-08-26T14:00:58+00:00"
-    },
-    {
-      "blog_id": "wunderwuzzi",
-      "feed": "https://embracethered.com/blog/index.xml",
-      "item_name": "How Prompt Injection Exposes Manus' VS Code Server to the Internet",
-      "item_url": "https://embracethered.com/blog/posts/2025/manus-ai-kill-chain-expose-port-vs-code-server-on-internet/",
-      "time": "2025-08-25T11:00:58+00:00"
     },
     {
       "blog_id": "Kevin Kelly",
@@ -1254,13 +1247,6 @@
       "time": "2025-08-11T19:23:07+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "【何同學】為了拍到最美的星雲，我們做了一個移動天文台",
-      "item_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
-      "time": "2025-08-08T10:00:24+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Learn Rust by Reasoning with Code Agents",
@@ -1280,13 +1266,6 @@
       "item_name": "周报 #100 - 过去这十年",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_100",
       "time": "2025-08-05T10:43:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "這不是特效，是3D打印",
-      "item_url": "https://www.youtube.com/shorts/yNe26VO8C3c",
-      "time": "2025-08-04T10:01:28+00:00"
     },
     {
       "blog_id": "Collaborative Fund",
@@ -1324,25 +1303,11 @@
       "time": "2025-07-31T00:00:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "為了不用倒垃圾，我們做了這個...",
-      "item_url": "https://www.youtube.com/shorts/WkY-F2p6SQ8",
-      "time": "2025-07-29T10:00:53+00:00"
-    },
-    {
       "blog_id": "Chang Luo",
       "feed": "https://www.luochang.ink/index.xml",
       "item_name": "耶是 ClickHouse！我们有救了！！",
       "item_url": "https://luochang212.github.io/posts/chat_to_clickhouse/",
       "time": "2025-07-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "為了不用擦白板，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
-      "time": "2025-07-25T09:01:13+00:00"
     },
     {
       "blog_id": "Eric Migicovsky",
@@ -1392,13 +1357,6 @@
       "item_name": "周报 #99 - 离开 RSS3，迷茫与重启人生",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_99",
       "time": "2025-07-21T14:27:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "【何同學】為了不用倒垃圾，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
-      "time": "2025-07-21T10:08:02+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -1497,6 +1455,13 @@
       "item_name": "写给 Sulhg：独立创造者的无限游戏",
       "item_url": "https://hawstein.com/2025/07/06/indie-hacker-and-infinite-game/",
       "time": "2025-07-06T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "「一次性思维」的应用开发启示",
+      "item_url": "https://fehey.com/one-time-mindset-in-development",
+      "time": "2025-07-04T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -1674,6 +1639,13 @@
       "time": "2025-05-17T00:00:00+00:00"
     },
     {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "如何写好提示词（Prompt）？",
+      "item_url": "https://fehey.com/how-to-write-effective-prompts",
+      "time": "2025-05-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Why S3 ListObjects Taking 120s to Respond?",
@@ -1700,6 +1672,13 @@
       "item_name": "河南行拾遗",
       "item_url": "https://frostming.com/posts/2025/henan",
       "time": "2025-05-11T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "Command R+、DeepSeek V2、GPT 3.5 翻译效果对比",
+      "item_url": "https://fehey.com/command-r-plus-deepseek-v2-gpt-3-5-translation-comparison",
+      "time": "2025-05-08T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -1742,6 +1721,13 @@
       "item_name": "DNN 模型聚类特征更新方法",
       "item_url": "https://luochang212.github.io/posts/cluster_label_assign/",
       "time": "2025-04-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "在杂草中",
+      "item_url": "https://fehey.com/in-the-weeds",
+      "time": "2025-04-14T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -1828,6 +1814,13 @@
       "time": "2025-03-26T00:00:00+00:00"
     },
     {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "真正的领导力来自于预见可能性并主动塑造未来",
+      "item_url": "https://fehey.com/leadership-through-foresight",
+      "time": "2025-03-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.03.24: 各种链接",
@@ -1868,6 +1861,13 @@
       "item_name": "Photos Page",
       "item_url": "https://antfu.me/posts/photos-page",
       "time": "2025-03-12T12:00:00+00:00"
+    },
+    {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "为 Micro SaaS Creator 整理的资源集",
+      "item_url": "https://fehey.com/micro-saas-resources",
+      "time": "2025-03-12T00:00:00+00:00"
     },
     {
       "blog_id": "每日明",
@@ -1933,6 +1933,13 @@
       "time": "2025-03-05T00:00:00+00:00"
     },
     {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "一些感悟。🌱",
+      "item_url": "https://fehey.com/tiny-thoughts",
+      "time": "2025-03-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Async, Sync, in Between",
@@ -1952,6 +1959,13 @@
       "item_name": "Convert Microsoft Word to Plain Text",
       "item_url": "https://jhedley.com/tools/convert-word-to-plain-text",
       "time": "2025-03-02T04:09:49+00:00"
+    },
+    {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "Minttr 从 0 → 1 → 50 的感受",
+      "item_url": "https://fehey.com/minttr-from-0-to-50",
+      "time": "2025-02-28T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -2064,6 +2078,13 @@
       "item_name": "Epoch Semantic Versioning",
       "item_url": "https://antfu.me/posts/epoch-semver",
       "time": "2025-01-07T12:00:00+00:00"
+    },
+    {
+      "blog_id": "Zayn Hao",
+      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
+      "item_name": "2024 年回顾",
+      "item_url": "https://fehey.com/2024-in-review",
+      "time": "2025-01-07T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -2367,13 +2388,6 @@
       "time": "2024-01-15T02:00:00+00:00"
     },
     {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Becoming a Staff Engineer",
-      "item_url": "https://linghao.io/posts/staff-eng-learnings-2024",
-      "time": "2024-01-06T00:00:00+00:00"
-    },
-    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "2023 年总结：向外连接与恢复成长的一年",
@@ -2505,13 +2519,6 @@
       "item_name": "屎壳郎，外卖和马屁精",
       "item_url": "https://littlecheesecake.me/blog2/2023/06/15/growing-up.html",
       "time": "2023-06-15T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Linghao Zhang",
-      "feed": "https://linghao.io/feed.xml",
-      "item_name": "Demystifying TLMs",
-      "item_url": "https://linghao.io/posts/demystifying-tlm",
-      "time": "2023-04-25T00:00:00+00:00"
     },
     {
       "blog_id": "yulu",
@@ -2806,13 +2813,6 @@
       "item_name": "How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo",
       "item_url": "https://www.devas.life/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/",
       "time": "2018-10-15T00:00:00+00:00"
-    },
-    {
-      "blog_id": "勾股",
-      "feed": "https://jiongks.name/atom.xml",
-      "item_name": "第四届 CSSConf CN 见闻",
-      "item_url": "https://jiongks.name/blog/cssconf-cn-4",
-      "time": "2018-04-03T10:49:26+00:00"
     },
     {
       "blog_id": "geekplux",
