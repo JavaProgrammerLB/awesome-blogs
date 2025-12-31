@@ -323,7 +323,13 @@
     "url": "https://jiongks.name/",
     "describe": "weex重要开发者",
     "avatar": "https://webp.yitianyigexiangfa.com/1764208585_2569b0b4.webp",
-    "feed": "https://jiongks.name/atom.xml"
+    "feed": "https://jiongks.name/atom.xml",
+    "like": [
+      {
+        "title": "奔四了，写给40岁的自己",
+        "url": "https://jiongks.name/blog/to-my-40s"
+      }
+    ]
   },
   {
     "name": "Linghao Zhang",
