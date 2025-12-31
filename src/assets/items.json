@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "每日明",
+      "feed": "https://zh.dailyminz.org/atom.xml",
+      "item_name": "2025 年终总结",
+      "item_url": "https://zh.dailyminz.org/2025/12/31/Annual-Column-2025/",
+      "time": "2025-12-31T15:34:24+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "2025 年末回顾 - Anything different is good",
@@ -2183,13 +2190,6 @@
       "item_name": "Balancing Text In CSS",
       "item_url": "https://ishadeed.com/article/balancing-text-css/",
       "time": "2025-01-05T00:00:00+00:00"
-    },
-    {
-      "blog_id": "每日明",
-      "feed": "https://zh.dailyminz.org/atom.xml",
-      "item_name": "译 | 中国探路者 2024 年第一季度更新",
-      "item_url": "https://zh.dailyminz.org/2025/01/02/Translation-ChinaPathfinder-Q1Upd/",
-      "time": "2025-01-02T03:00:59+00:00"
     },
     {
       "blog_id": "艾逗笔",
