@@ -36,6 +36,13 @@
       "time": "2025-12-31T01:00:00+00:00"
     },
     {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "Pebble Relaunch - Year One Done!",
+      "item_url": "https://ericmigi.com/blog/pebble-relaunch-year-one-done",
+      "time": "2025-12-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AI 编程 2025 总结：国产模型“能力追平”，国产编程工具还在“情感陪伴”",
@@ -1392,13 +1399,6 @@
       "item_name": "為了不用擦白板，我們做了這個...",
       "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
       "time": "2025-07-25T09:01:13+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "July Pebble Update",
-      "item_url": "https://ericmigi.com/blog/july-pebble-update",
-      "time": "2025-07-25T00:00:00+00:00"
     },
     {
       "blog_id": "Collaborative Fund",
