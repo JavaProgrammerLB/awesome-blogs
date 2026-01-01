@@ -36,6 +36,13 @@
       "time": "2025-12-31T01:00:00+00:00"
     },
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我的 AI 员工会后空翻",
+      "item_url": "https://idoubi.ai/blog/ai-agents-cowork",
+      "time": "2025-12-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble Relaunch - Year One Done!",
@@ -2295,13 +2302,6 @@
       "item_name": "Lessons Learned Building LLM Applications",
       "item_url": "https://linghao.io/posts/building-llm-apps-2024",
       "time": "2024-11-16T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
-      "item_name": "我跑通了全球收付款的流程",
-      "item_url": "https://idoubi.ai/blog/get-paied-all-over-the-world",
-      "time": "2024-11-09T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
