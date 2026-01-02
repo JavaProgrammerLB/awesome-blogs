@@ -126,12 +126,12 @@
     "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
     "like": [
       {
-        "title": "Make good new things",
-        "url": "https://limboy.me/posts/make-good-new-things"
-      },
-      {
         "title": "独立创作是一种生活方式",
         "url": "https://limboy.me/posts/independent-creation-is-a-lifestyle"
+      },
+      {
+        "title": "Make good new things",
+        "url": "https://limboy.me/posts/make-good-new-things"
       },
       {
         "title": "ByteTalk播客主页",
