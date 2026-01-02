@@ -1,11 +1,25 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Grok is enabling mass sexual harassment on Twitter",
+      "item_url": "https://seangoedecke.com/grok-deepfakes/",
+      "time": "2026-01-02T00:00:00+00:00"
+    },
+    {
       "blog_id": "Maggie",
       "feed": "https://www.maggiephysio.com/rss/",
       "item_name": "許新年目標前，分享一本好書",
       "item_url": "https://www.maggiephysio.com/a-book-before-new-year-goals/",
       "time": "2026-01-01T11:36:04+00:00"
+    },
+    {
+      "blog_id": "xuanwo",
+      "feed": "https://xuanwo.io/index.xml",
+      "item_name": "Build GPUI + Ghostty without writing code",
+      "item_url": "https://xuanwo.io/2026/01-gpui-ghostty/",
+      "time": "2026-01-01T01:00:00+00:00"
     },
     {
       "blog_id": "yulu",
@@ -706,13 +720,6 @@
       "item_name": "The new Pebble app is live on iOS and Android",
       "item_url": "https://ericmigi.com/blog/the-new-pebble-app-is-live-on-ios-and-android",
       "time": "2025-11-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "To get better at technical writing, lower your expectations",
-      "item_url": "https://seangoedecke.com/technical-communication/",
-      "time": "2025-11-09T00:00:00+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
@@ -1861,13 +1868,6 @@
       "item_name": "一些最近的世纪公园记录",
       "item_url": "http://blog.wraith615.xyz/articles/0vptg08nmnw2tiz5",
       "time": "2025-04-09T07:26:25+00:00"
-    },
-    {
-      "blog_id": "xuanwo",
-      "feed": "https://xuanwo.io/index.xml",
-      "item_name": "BackON v1.5.0 Released",
-      "item_url": "https://xuanwo.io/links/2025/04/backon_v1_5_0/",
-      "time": "2025-04-09T01:00:00+00:00"
     },
     {
       "blog_id": "Randy",
