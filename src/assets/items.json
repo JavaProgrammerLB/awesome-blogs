@@ -8,6 +8,13 @@
       "time": "2026-01-02T00:00:00+00:00"
     },
     {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "Pebble Round 2 - The Most Stylish Pebble Ever",
+      "item_url": "https://repebble.com/blog/pebble-round-2-the-most-stylish-pebble-ever",
+      "time": "2026-01-02T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Grok is enabling mass sexual harassment on Twitter",
@@ -1328,13 +1335,6 @@
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "从一期播客说起",
       "item_url": "https://hawstein.com/2025/08/13/starting-from-a-podcast/",
-      "time": "2025-08-13T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "Pebble Time 2* Design Reveal",
-      "item_url": "https://ericmigi.com/blog/pebble-time-2-design-reveal",
       "time": "2025-08-13T00:00:00+00:00"
     },
     {
