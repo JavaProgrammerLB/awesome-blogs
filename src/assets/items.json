@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "2025 was an excellent year for this blog",
+      "item_url": "https://seangoedecke.com/2025-wrapup/",
+      "time": "2026-01-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "Make Good New Things",
@@ -699,13 +706,6 @@
       "item_name": "2025 AI 代码检视：以 ROI 为中心的 AI 代码检视体系与分级",
       "item_url": "http://www.phodal.com/blog/ai-code-review-2025/",
       "time": "2025-11-14T04:10:19+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Writing for AIs is a good way to reach more humans",
-      "item_url": "https://seangoedecke.com/writing-for-ais/",
-      "time": "2025-11-14T00:00:00+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
