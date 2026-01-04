@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Kevin Kelly",
+      "feed": "https://feedpress.me/TheTechnium",
+      "item_name": "How Will the Miracle Happen Today?",
+      "item_url": "https://kk.org/thetechnium/how-will-the-miracle-happen-today/",
+      "time": "2026-01-04T07:51:39+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "2025 was an excellent year for this blog",
@@ -1357,13 +1364,6 @@
       "item_name": "Learn Rust by Reasoning with Code Agents",
       "item_url": "https://xuanwo.io/2025/05-learn-rust-by-reasoning-with-code-agents/",
       "time": "2025-08-06T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Artificial Intelligences, So Far",
-      "item_url": "https://kk.org/thetechnium/artificial-intelligences-so-far/",
-      "time": "2025-08-05T16:59:27+00:00"
     },
     {
       "blog_id": "pseudoyu",
