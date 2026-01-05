@@ -8,6 +8,13 @@
       "time": "2026-01-05T00:00:00+00:00"
     },
     {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "幫家人按背總是手痠？教你一招「側躺擺位」",
+      "item_url": "https://www.youtube.com/shorts/2TpiHP8_Y8A",
+      "time": "2026-01-04T12:00:14+00:00"
+    },
+    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "How Will the Miracle Happen Today?",
@@ -41,6 +48,13 @@
       "item_name": "Grok is enabling mass sexual harassment on Twitter",
       "item_url": "https://seangoedecke.com/grok-deepfakes/",
       "time": "2026-01-02T00:00:00+00:00"
+    },
+    {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "睡前背部開書伸展",
+      "item_url": "https://www.youtube.com/shorts/e96DS-zkYKc",
+      "time": "2026-01-01T12:01:14+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -176,6 +190,13 @@
       "time": "2025-12-28T12:29:16+00:00"
     },
     {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "椎間盤突出後悔一輩子！原來這些日常NG動作，正在慢慢擠壓你的神經。",
+      "item_url": "https://www.youtube.com/shorts/v_Nf-FhEXK4",
+      "time": "2025-12-28T12:01:45+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Software engineers should be a little bit cynical",
@@ -225,11 +246,25 @@
       "time": "2025-12-25T23:51:08+00:00"
     },
     {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "一條毛巾逆轉辦公勞損",
+      "item_url": "https://www.youtube.com/shorts/p0C_oeUX-RE",
+      "time": "2025-12-25T12:01:44+00:00"
+    },
+    {
       "blog_id": "Takuya Matsuyama",
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "Write, then walk: Why a simple notes app is sufficient",
       "item_url": "https://www.devas.life/why-a-linear-notes-app-is-sufficient/",
       "time": "2025-12-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "總是在發炎，練再壯都會背痛！Ft. 台灣尋奇 嘉明@JiaMing_Official",
+      "item_url": "https://www.youtube.com/watch?v=nle9Zpz5_-w",
+      "time": "2025-12-24T10:01:22+00:00"
     },
     {
       "blog_id": "sean goedecke",
@@ -244,6 +279,13 @@
       "item_name": "Agentic UI：重新定义“好体验”——不是美化按钮，而是让认知负担归零",
       "item_url": "http://www.phodal.com/blog/agentic-frontend/",
       "time": "2025-12-23T12:42:27+00:00"
+    },
+    {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "適肌調節枕-王先生試躺",
+      "item_url": "https://www.youtube.com/shorts/nUcNHkC08Qw",
+      "time": "2025-12-23T12:01:47+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
@@ -281,6 +323,13 @@
       "time": "2025-12-22T00:00:00+00:00"
     },
     {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "滑手機滑到大拇指痠痛？兇手是「大魚際肌」！",
+      "item_url": "https://www.youtube.com/shorts/W5Vo7E2_If4",
+      "time": "2025-12-21T12:00:55+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Why You Should Probably Work on AI Engineering",
@@ -293,6 +342,13 @@
       "item_name": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
       "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html",
       "time": "2025-12-19T00:06:47+00:00"
+    },
+    {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "這動作救了超多人的腰！ 椎間盤突出的看過來！",
+      "item_url": "https://www.youtube.com/shorts/MD9_yGPn8xw",
+      "time": "2025-12-18T12:00:41+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
@@ -316,6 +372,13 @@
       "time": "2025-12-17T23:00:00+00:00"
     },
     {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "枕頭不好睡？可能是你的背部發炎害的！！",
+      "item_url": "https://www.youtube.com/watch?v=OePobB_3RIw",
+      "time": "2025-12-17T10:00:41+00:00"
+    },
+    {
       "blog_id": "Collaborative Fund",
       "feed": "http://feeds.feedburner.com/collabfund",
       "item_name": "The Misfit Tree",
@@ -335,6 +398,13 @@
       "item_name": "AutoDev 3.0 → Xiuper：咻！全平台、全流程智能体编程平台",
       "item_url": "http://www.phodal.com/blog/autodev-xiuper/",
       "time": "2025-12-16T14:18:04+00:00"
+    },
+    {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "按摩後腦勺幫助睡眠",
+      "item_url": "https://www.youtube.com/shorts/CduzFaqdaag",
+      "time": "2025-12-16T12:00:22+00:00"
     },
     {
       "blog_id": "鱼鱼",
