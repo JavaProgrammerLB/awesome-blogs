@@ -43,13 +43,6 @@
       "time": "2026-01-02T00:00:00+00:00"
     },
     {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "許新年目標前，分享一本好書",
-      "item_url": "https://www.maggiephysio.com/a-book-before-new-year-goals/",
-      "time": "2026-01-01T11:36:04+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Build GPUI + Ghostty without writing code",
@@ -302,13 +295,6 @@
       "time": "2025-12-19T00:06:47+00:00"
     },
     {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "提高收入，其實只需要開口多問一句",
-      "item_url": "https://www.maggiephysio.com/increase-income-by-asking-one-more-question/",
-      "time": "2025-12-18T13:37:36+00:00"
-    },
-    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "定在原地，回头和远望",
@@ -414,13 +400,6 @@
       "time": "2025-12-12T00:07:48+00:00"
     },
     {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "轉職教皮拉提斯，要多久才能達到理想收入？",
-      "item_url": "https://www.maggiephysio.com/how-long-to-earn-ideal-income-teaching-pilates/",
-      "time": "2025-12-11T14:08:07+00:00"
-    },
-    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E217｜机器人开可乐发扑克有多难？聊聊灵巧手的硬件与算法",
@@ -475,13 +454,6 @@
       "item_name": "Better Auth 的多租户用户鉴权的构想",
       "item_url": "https://innei.in/posts/tech/better-auth-multi-tenant-auth-concept",
       "time": "2025-12-04T15:07:18+00:00"
-    },
-    {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "終於放假了，今年的大轉變",
-      "item_url": "https://www.maggiephysio.com/my-big-transformation-this-year/",
-      "time": "2025-12-04T07:26:52+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1072,13 +1044,6 @@
       "time": "2025-10-04T00:37:50+00:00"
     },
     {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "如何找到觀眾想看的主題？",
-      "item_url": "https://www.maggiephysio.com/finding-content-for-your-audience/",
-      "time": "2025-10-02T13:58:40+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Sora 2",
@@ -1091,13 +1056,6 @@
       "item_name": "Quick P2D production update",
       "item_url": "https://ericmigi.com/blog/quick-p2d-production-update",
       "time": "2025-09-29T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "當我們成了有禮貌的大人，第一次參加實體讀書會心得",
-      "item_url": "https://www.maggiephysio.com/first-book-club-reflection/",
-      "time": "2025-09-25T13:41:20+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1154,13 +1112,6 @@
       "item_name": "历史的创造和创造的历史 [1]",
       "item_url": "https://zh.dailyminz.org/2025/09/21/The-Historical-Creation-and-the-History-Created-1/",
       "time": "2025-09-20T16:05:43+00:00"
-    },
-    {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "每個月教幾堂課才剛好？",
-      "item_url": "https://www.maggiephysio.com/how-many-classes-per-month/",
-      "time": "2025-09-18T04:13:41+00:00"
     },
     {
       "blog_id": "Collaborative Fund",
@@ -1280,13 +1231,6 @@
       "item_name": "Windsurf MCP Integration: Missing Security Controls Put Users at Risk",
       "item_url": "https://embracethered.com/blog/posts/2025/windsurf-dangers-lack-of-security-controls-for-mcp-server-tool-invocation/",
       "time": "2025-08-28T19:20:58+00:00"
-    },
-    {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "為什麼寫這本書？恐懼是成長的必經之路",
-      "item_url": "https://www.maggiephysio.com/why-i-wrote-this-book-fear-and-growth/",
-      "time": "2025-08-28T09:55:53+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1434,13 +1378,6 @@
       "item_name": "Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more",
       "item_url": "https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/",
       "time": "2025-08-01T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "我這一年從翻譯學到的事",
-      "item_url": "https://www.maggiephysio.com/a-year-of-translating-reflections/",
-      "time": "2025-07-31T10:47:12+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1700,13 +1637,6 @@
       "item_name": "科萨人和祖鲁人",
       "item_url": "https://limboy.me/posts/amaxhosa-amazulu",
       "time": "2025-06-23T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Maggie",
-      "feed": "https://www.maggiephysio.com/rss/",
-      "item_name": "不如把內耗的力氣拿來運動",
-      "item_url": "https://www.maggiephysio.com/move-instead-of-overthinking/",
-      "time": "2025-06-20T03:06:37+00:00"
     },
     {
       "blog_id": "艾逗笔",
