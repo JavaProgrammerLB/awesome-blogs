@@ -148,13 +148,6 @@
       "time": "2025-12-30T00:00:00+00:00"
     },
     {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "友好的 Python：从其他语言移植",
-      "item_url": "https://frostming.com/posts/2025/friendly-python-port",
-      "time": "2025-12-30T00:00:00+00:00"
-    },
-    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "no strcpy either",
@@ -314,13 +307,6 @@
       "item_name": "Skynet 升级到 Lua 5.5.0",
       "item_url": "https://blog.codingnow.com/2025/12/skynet_lua_550.html",
       "time": "2025-12-23T02:19:52+00:00"
-    },
-    {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "珍重",
-      "item_url": "https://frostming.com/posts/2025/take-care",
-      "time": "2025-12-22T00:00:00+00:00"
     },
     {
       "blog_id": "三個字SunGuts",
@@ -538,13 +524,6 @@
       "item_name": "周报 #103 - 工作随想与被吞噬的生活",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_103",
       "time": "2025-12-02T02:40:00+00:00"
-    },
-    {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "被嫌弃的松子的一生",
-      "item_url": "https://frostming.com/posts/2025/county-woman",
-      "time": "2025-12-02T00:00:00+00:00"
     },
     {
       "blog_id": "郭家宝BYVoid",
@@ -1161,13 +1140,6 @@
       "item_name": "How I Vibe Coding? (Sept 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/06-how-i-vibe-coding-sept-2025-edition/",
       "time": "2025-09-22T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "PyCome",
-      "item_url": "https://frostming.com/posts/2025/pycon",
-      "time": "2025-09-22T00:00:00+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1807,13 +1779,6 @@
       "time": "2025-05-11T14:00:22+00:00"
     },
     {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "河南行拾遗",
-      "item_url": "https://frostming.com/posts/2025/henan",
-      "time": "2025-05-11T00:00:00+00:00"
-    },
-    {
       "blog_id": "Zayn Hao",
       "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
       "item_name": "Command R+、DeepSeek V2、GPT 3.5 翻译效果对比",
@@ -2052,13 +2017,6 @@
       "time": "2025-03-05T00:00:00+00:00"
     },
     {
-      "blog_id": "Frost",
-      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
-      "item_name": "再也别问 Singleton 了好吗？",
-      "item_url": "https://frostming.com/posts/2025/singleton",
-      "time": "2025-03-05T00:00:00+00:00"
-    },
-    {
       "blog_id": "Zayn Hao",
       "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
       "item_name": "一些感悟。🌱",
@@ -2248,6 +2206,13 @@
       "time": "2025-01-01T00:00:00+00:00"
     },
     {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "2025，MCP、Agent、AI Coding",
+      "item_url": "https://idoubi.ai/blog/my-ai-2025",
+      "time": "2025-01-01T00:00:00+00:00"
+    },
+    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "CPU Profiling Nuxt",
@@ -2288,13 +2253,6 @@
       "item_name": "Letting Language Models Write my Website",
       "item_url": "https://nicholas.carlini.com/writing/2025/llms-write-my-bio.html",
       "time": "2024-12-25T00:00:00+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
-      "item_name": "我用 AI 辅助编程，效率提升 x 倍",
-      "item_url": "https://idoubi.ai/blog/use-ai-coding-copilot",
-      "time": "2024-12-16T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
