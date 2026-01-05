@@ -704,5 +704,18 @@
         "url": "https://x.com/Hawstein/status/2005480962151555452"
       }
     ]
+  },
+  {
+    "name": "郭家宝BYVoid",
+    "url": "https://byvoid.com/zhs/blog/archive/",
+    "describe": "2010年入学清华大学Computer Science专业，从2014年开始在Google工作，去了很多地方旅行，写了很多游记",
+    "avatar": "https://webp.yitianyigexiangfa.com/1767582855_d9e34f0d.jpg",
+    "feed": "https://byvoid.com/zhs/blog/feed.xml",
+    "like": [
+      {
+        "title": "在Google的这四年（一）",
+        "url": "https://byvoid.com/zhs/blog/4-years-at-google-1/"
+      }
+    ]
   }
 ]
