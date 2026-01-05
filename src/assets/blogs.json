@@ -713,8 +713,8 @@
     "feed": "https://byvoid.com/zhs/blog/feed.xml",
     "like": [
       {
-        "title": "Node.js开发指南",
-        "url": "https://byvoid.com/zhs/project/node/"
+        "title": "写书小记",
+        "url": "https://byvoid.com/zhs/blog/compose-a-book/"
       },
       {
         "title": "在Google的这四年（一）",
