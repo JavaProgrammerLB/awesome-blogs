@@ -8,6 +8,13 @@
       "time": "2026-01-05T00:00:00+00:00"
     },
     {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "It’s hard to justify Tahoe icons",
+      "item_url": "https://tonsky.me/blog/tahoe-icons/",
+      "time": "2026-01-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "三個字SunGuts",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
       "item_name": "幫家人按背總是手痠？教你一招「側躺擺位」",
@@ -999,13 +1006,6 @@
       "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
       "item_name": "The scariest “user support” email I’ve ever received",
       "item_url": "https://www.devas.life/the-scariest-user-support-email-ive-ever-received/",
-      "time": "2025-10-15T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Nikita Prokopov",
-      "feed": "https://tonsky.me/atom.xml",
-      "item_name": "I am sorry, but everyone is getting syntax highlighting wrong",
-      "item_url": "https://tonsky.me/blog/syntax-highlighting/",
       "time": "2025-10-15T00:00:00+00:00"
     },
     {
