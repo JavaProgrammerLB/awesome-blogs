@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "The Dictator's Handbook and the politics of technical competence",
+      "item_url": "https://seangoedecke.com/the-dictators-handbook/",
+      "time": "2026-01-05T00:00:00+00:00"
+    },
+    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "How Will the Miracle Happen Today?",
@@ -685,13 +692,6 @@
       "item_name": "在焦虑与创造之间寻找出口",
       "item_url": "https://innei.in/notes/200",
       "time": "2025-11-16T17:35:33+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Only three kinds of AI products actually work",
-      "item_url": "https://seangoedecke.com/ai-products/",
-      "time": "2025-11-16T00:00:00+00:00"
     },
     {
       "blog_id": "Chang Luo",
