@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "三個字SunGuts",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
+      "item_name": "睡覺不自覺聳肩？",
+      "item_url": "https://www.youtube.com/shorts/BHXjlWaR7Sc",
+      "time": "2026-01-06T12:00:24+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "The Dictator's Handbook and the politics of technical competence",
@@ -398,13 +405,6 @@
       "item_name": "AutoDev 3.0 → Xiuper：咻！全平台、全流程智能体编程平台",
       "item_url": "http://www.phodal.com/blog/autodev-xiuper/",
       "time": "2025-12-16T14:18:04+00:00"
-    },
-    {
-      "blog_id": "三個字SunGuts",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
-      "item_name": "按摩後腦勺幫助睡眠",
-      "item_url": "https://www.youtube.com/shorts/CduzFaqdaag",
-      "time": "2025-12-16T12:00:22+00:00"
     },
     {
       "blog_id": "鱼鱼",
