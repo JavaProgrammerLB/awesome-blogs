@@ -8,6 +8,13 @@
       "time": "2026-01-08T12:01:47+00:00"
     },
     {
+      "blog_id": "Julia Evans",
+      "feed": "https://jvns.ca/atom.xml",
+      "item_name": "A data model for Git (and other docs updates)",
+      "item_url": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
+      "time": "2026-01-08T00:00:00+00:00"
+    },
+    {
       "blog_id": "三個字SunGuts",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTPPmVw8pCUmw9tfY_MaKNg",
       "item_name": "正躺傷腰側躺傷肩？到底什麼睡姿才對！？",
@@ -2330,13 +2337,6 @@
       "item_name": "Introducing Nuxt Icon v1",
       "item_url": "https://antfu.me/posts/nuxt-icon-v1",
       "time": "2024-11-25T16:00:00+00:00"
-    },
-    {
-      "blog_id": "Julia Evans",
-      "feed": "https://jvns.ca/atom.xml",
-      "item_name": "Importing a frontend Javascript library without a build system",
-      "item_url": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
-      "time": "2024-11-18T09:35:42+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
