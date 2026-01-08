@@ -15,6 +15,13 @@
       "time": "2026-01-07T07:06:55+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "答题者心态",
+      "item_url": "https://limboy.me/posts/the-mindset-of-the-answerer",
+      "time": "2026-01-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "6,000 curl stickers",
@@ -1672,13 +1679,6 @@
       "item_name": "On getting better at programming",
       "item_url": "https://sidhion.com/blog/becoming_good_at_programming/",
       "time": "2025-06-24T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "科萨人和祖鲁人",
-      "item_url": "https://limboy.me/posts/amaxhosa-amazulu",
-      "time": "2025-06-23T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
