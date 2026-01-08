@@ -1065,6 +1065,13 @@
       "time": "2025-10-15T00:00:00+00:00"
     },
     {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "I am sorry, but everyone is getting syntax highlighting wrong",
+      "item_url": "https://tonsky.me/blog/syntax-highlighting/",
+      "time": "2025-10-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "鱼鱼",
       "feed": "https://blog.wraith615.xyz/rss.xml",
       "item_name": "炎热10月的自留地探索",
@@ -1301,6 +1308,13 @@
       "item_name": "The Cost of Comfort",
       "item_url": "https://collabfund.com/blog/the-cost-of-comfort/",
       "time": "2025-09-02T15:24:00+00:00"
+    },
+    {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "Talk: Почему компьютеры не умеют считать? @ Podlodka",
+      "item_url": "https://tonsky.me/talks/#2025-09-01",
+      "time": "2025-09-01T00:00:00+00:00"
     },
     {
       "blog_id": "拾一",
