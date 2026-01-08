@@ -29,6 +29,13 @@
       "time": "2026-01-07T00:00:00+00:00"
     },
     {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "2025 的号与外",
+      "item_url": "https://frostming.com/posts/2026/2025-recap",
+      "time": "2026-01-07T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "6,000 curl stickers",
@@ -204,6 +211,13 @@
       "time": "2025-12-30T00:00:00+00:00"
     },
     {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "友好的 Python：从其他语言移植",
+      "item_url": "https://frostming.com/posts/2025/friendly-python-port",
+      "time": "2025-12-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "no strcpy either",
@@ -363,6 +377,13 @@
       "item_name": "Skynet 升级到 Lua 5.5.0",
       "item_url": "https://blog.codingnow.com/2025/12/skynet_lua_550.html",
       "time": "2025-12-23T02:19:52+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "珍重",
+      "item_url": "https://frostming.com/posts/2025/take-care",
+      "time": "2025-12-22T00:00:00+00:00"
     },
     {
       "blog_id": "三個字SunGuts",
@@ -566,6 +587,13 @@
       "item_name": "周报 #103 - 工作随想与被吞噬的生活",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_103",
       "time": "2025-12-02T02:40:00+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "被嫌弃的松子的一生",
+      "item_url": "https://frostming.com/posts/2025/county-woman",
+      "time": "2025-12-02T00:00:00+00:00"
     },
     {
       "blog_id": "郭家宝BYVoid",
@@ -1161,6 +1189,13 @@
       "item_name": "How I Vibe Coding? (Sept 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/06-how-i-vibe-coding-sept-2025-edition/",
       "time": "2025-09-22T01:00:00+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "PyCome",
+      "item_url": "https://frostming.com/posts/2025/pycon",
+      "time": "2025-09-22T00:00:00+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1777,6 +1812,13 @@
       "item_name": "松弛的泉州行（下）",
       "item_url": "http://blog.wraith615.xyz/articles/a1j9y1dikoxe8i55",
       "time": "2025-05-11T14:00:22+00:00"
+    },
+    {
+      "blog_id": "Frost",
+      "feed": "https://feeds.yitianyigexiangfa.com/frostming.xml",
+      "item_name": "河南行拾遗",
+      "item_url": "https://frostming.com/posts/2025/henan",
+      "time": "2025-05-11T00:00:00+00:00"
     },
     {
       "blog_id": "Zayn Hao",
