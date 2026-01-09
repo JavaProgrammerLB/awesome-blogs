@@ -591,23 +591,6 @@
     ]
   },
   {
-    "name": "拾一",
-    "url": "https://innei.in/posts?view_mode=compact",
-    "describe": "pseudoyu的同事，Folo项目核心开发",
-    "avatar": "https://webp.yitianyigexiangfa.com/1764667727_b1096299.jpg",
-    "feed": "https://innei.in/feed",
-    "like": [
-      {
-        "title": "写在离开 Folo 之后",
-        "url": "https://innei.in/posts/experience/after-leaving-folo"
-      },
-      {
-        "title": "Folo",
-        "url": "https://folo.is/"
-      }
-    ]
-  },
-  {
     "name": "谢亚东",
     "url": "https://www.yadongxie.com/",
     "describe": "Elmo Chat作者，NG-ZORRO原始作者",
