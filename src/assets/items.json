@@ -8,6 +8,13 @@
       "time": "2026-01-09T00:11:26+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "谁在开车: 西游战车与心智模型",
+      "item_url": "https://limboy.me/posts/who-is-driving",
+      "time": "2026-01-09T00:00:00+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "A data model for Git (and other docs updates)",
@@ -1546,13 +1553,6 @@
       "item_name": "做了一个小游戏：笔画猜成语",
       "item_url": "https://limboy.me/posts/stroke",
       "time": "2025-06-29T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "Vibe Coding 一段时间后的感受",
-      "item_url": "https://limboy.me/posts/vibe-coding",
-      "time": "2025-06-28T00:00:00+00:00"
     },
     {
       "blog_id": "xuanwo",
