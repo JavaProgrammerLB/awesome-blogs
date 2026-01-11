@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "何同学",
+      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
+      "item_name": "我們做了一台魔法鋼琴...",
+      "item_url": "https://www.youtube.com/watch?v=bxm-Gt00-R4",
+      "time": "2026-01-10T16:07:28+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 380 期）：为什么人们拥抱\"不对称收益\"",
@@ -1420,13 +1427,6 @@
       "item_name": "周报 #99 - 离开 RSS3，迷茫与重启人生",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_99",
       "time": "2025-07-21T14:27:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "【何同學】為了不用倒垃圾，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=hFZ1CsQulmw",
-      "time": "2025-07-21T10:08:02+00:00"
     },
     {
       "blog_id": "艾逗笔",
