@@ -340,7 +340,13 @@
     "url": "https://linghao.io/posts",
     "describe": "生活在湾区的Google程序员",
     "avatar": "https://webp.yitianyigexiangfa.com/1764208610_bcd372f5.webp",
-    "feed": "https://linghao.io/feed.xml"
+    "feed": "https://linghao.io/feed.xml",
+    "like": [
+      {
+        "title": "My 2025 Games of the Year",
+        "url": "https://linghao.io/posts/2025-games-of-the-year"
+      }
+    ]
   },
   {
     "name": "Shu Ding",
