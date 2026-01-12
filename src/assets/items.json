@@ -15,6 +15,13 @@
       "time": "2026-01-10T16:07:28+00:00"
     },
     {
+      "blog_id": "Kevin Kelly",
+      "feed": "https://feedpress.me/TheTechnium",
+      "item_name": "Weekly Links, 01/09/2026",
+      "item_url": "https://kk.org/thetechnium/weekly-links-01-09-2026/",
+      "time": "2026-01-09T19:12:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 380 期）：为什么人们拥抱\"不对称收益\"",
@@ -1301,13 +1308,6 @@
       "item_name": "Little Rules About Big Things",
       "item_url": "https://collabfund.com/blog/little-rules-about-big-things/",
       "time": "2025-08-13T21:54:00+00:00"
-    },
-    {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Everything I Know about Self-Publishing",
-      "item_url": "https://kk.org/thetechnium/everything-i-know-about-self-publishing/",
-      "time": "2025-08-13T15:01:55+00:00"
     },
     {
       "blog_id": "Hawstein",
