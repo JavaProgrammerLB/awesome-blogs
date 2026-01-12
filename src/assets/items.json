@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "Agentic RAG 的架构演进：从上下文追踪 (Context Trace) 到全景上下文图谱 (Context Graphs)",
+      "item_url": "http://www.phodal.com/blog/context-trace-in-context-graphs/",
+      "time": "2026-01-11T01:58:00+00:00"
+    },
+    {
       "blog_id": "何同学",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
       "item_name": "我們做了一台魔法鋼琴...",
@@ -741,13 +748,6 @@
       "item_name": "Needy programs",
       "item_url": "https://tonsky.me/blog/needy-programs/",
       "time": "2025-11-13T00:00:00+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "AutoDev CLI：构建 AI Agent 生成的 AI Agent 质量保障与验证架构",
-      "item_url": "http://www.phodal.com/blog/autodev-cli-validate-framework/",
-      "time": "2025-11-12T08:35:55+00:00"
     },
     {
       "blog_id": "郭家宝BYVoid",
