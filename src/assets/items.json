@@ -8,6 +8,13 @@
       "time": "2026-01-11T01:58:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "「共」型人才：AI 时代的个体进化论",
+      "item_url": "https://limboy.me/posts/gong-type-of-talent",
+      "time": "2026-01-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "何同学",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
       "item_name": "我們做了一台魔法鋼琴...",
@@ -925,13 +932,6 @@
       "time": "2025-10-21T15:15:29+00:00"
     },
     {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "好的 AI 笔记工具是能够引发多层思考的",
-      "item_url": "https://fehey.com/good-ai-note-tools-for-multi-layered-thinking",
-      "time": "2025-10-21T00:00:00+00:00"
-    },
-    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #101 - 消失了三个月，我的生活发生了什么变化",
@@ -1527,13 +1527,6 @@
       "time": "2025-07-06T00:00:00+00:00"
     },
     {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "「一次性思维」的应用开发启示",
-      "item_url": "https://fehey.com/one-time-mindset-in-development",
-      "time": "2025-07-04T00:00:00+00:00"
-    },
-    {
       "blog_id": "艾逗笔",
       "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
       "item_name": "AI 时代如何做独立开发",
@@ -1546,13 +1539,6 @@
       "item_name": "Thank you, Databend; Hello, LanceDB",
       "item_url": "https://xuanwo.io/2025/04-thank-you-databend-hello-lancedb/",
       "time": "2025-06-29T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "做了一个小游戏：笔画猜成语",
-      "item_url": "https://limboy.me/posts/stroke",
-      "time": "2025-06-29T00:00:00+00:00"
     },
     {
       "blog_id": "xuanwo",
@@ -1667,25 +1653,11 @@
       "time": "2025-05-17T00:00:00+00:00"
     },
     {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "如何写好提示词（Prompt）？",
-      "item_url": "https://fehey.com/how-to-write-effective-prompts",
-      "time": "2025-05-15T00:00:00+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Why S3 ListObjects Taking 120s to Respond?",
       "item_url": "https://xuanwo.io/2025/02-why-s3-list-objects-taking-120s-to-respond/",
       "time": "2025-05-13T01:00:00+00:00"
-    },
-    {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "计算机科学视频班课程介绍",
-      "item_url": "https://www.yinwang.org/posts/cs-video-course",
-      "time": "2025-05-12T00:00:00+00:00"
     },
     {
       "blog_id": "鱼鱼",
@@ -1700,13 +1672,6 @@
       "item_name": "河南行拾遗",
       "item_url": "https://frostming.com/posts/2025/henan",
       "time": "2025-05-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "Command R+、DeepSeek V2、GPT 3.5 翻译效果对比",
-      "item_url": "https://fehey.com/command-r-plus-deepseek-v2-gpt-3-5-translation-comparison",
-      "time": "2025-05-08T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -1749,13 +1714,6 @@
       "item_name": "DNN 模型聚类特征更新方法",
       "item_url": "https://luochang212.github.io/posts/cluster_label_assign/",
       "time": "2025-04-19T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "在杂草中",
-      "item_url": "https://fehey.com/in-the-weeds",
-      "time": "2025-04-14T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -1835,13 +1793,6 @@
       "time": "2025-03-26T00:00:00+00:00"
     },
     {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "真正的领导力来自于预见可能性并主动塑造未来",
-      "item_url": "https://fehey.com/leadership-through-foresight",
-      "time": "2025-03-26T00:00:00+00:00"
-    },
-    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.03.24: 各种链接",
@@ -1882,13 +1833,6 @@
       "item_name": "Photos Page",
       "item_url": "https://antfu.me/posts/photos-page",
       "time": "2025-03-12T12:00:00+00:00"
-    },
-    {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "为 Micro SaaS Creator 整理的资源集",
-      "item_url": "https://fehey.com/micro-saas-resources",
-      "time": "2025-03-12T00:00:00+00:00"
     },
     {
       "blog_id": "每日明",
@@ -1940,13 +1884,6 @@
       "time": "2025-03-05T00:00:00+00:00"
     },
     {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "一些感悟。🌱",
-      "item_url": "https://fehey.com/tiny-thoughts",
-      "time": "2025-03-05T00:00:00+00:00"
-    },
-    {
       "blog_id": "Anthony Fu",
       "feed": "https://antfu.me/feed.xml",
       "item_name": "Async, Sync, in Between",
@@ -1966,13 +1903,6 @@
       "item_name": "Convert Microsoft Word to Plain Text",
       "item_url": "https://jhedley.com/tools/convert-word-to-plain-text",
       "time": "2025-03-02T04:09:49+00:00"
-    },
-    {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "Minttr 从 0 → 1 → 50 的感受",
-      "item_url": "https://fehey.com/minttr-from-0-to-50",
-      "time": "2025-02-28T00:00:00+00:00"
     },
     {
       "blog_id": "Julia Evans",
@@ -2085,13 +2015,6 @@
       "item_name": "Epoch Semantic Versioning",
       "item_url": "https://antfu.me/posts/epoch-semver",
       "time": "2025-01-07T12:00:00+00:00"
-    },
-    {
-      "blog_id": "Zayn Hao",
-      "feed": "https://feeds.yitianyigexiangfa.com/ZaynHao.xml",
-      "item_name": "2024 年回顾",
-      "item_url": "https://fehey.com/2024-in-review",
-      "time": "2025-01-07T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -2318,13 +2241,6 @@
       "time": "2024-05-13T17:39:38+00:00"
     },
     {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "计算机科学基础班第 5 期成功结束",
-      "item_url": "https://www.yinwang.org/posts/cs5-completed",
-      "time": "2024-05-03T00:00:00+00:00"
-    },
-    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "把「开新坑」作为「心灵按摩」",
@@ -2379,13 +2295,6 @@
       "item_name": "2023 年总结：向外连接与恢复成长的一年",
       "item_url": "https://imtx.me/blog/2023-summary/",
       "time": "2023-12-31T03:41:11+00:00"
-    },
-    {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "计算机科学基础班（第5期，现实接轨班）招生",
-      "item_url": "https://www.yinwang.org/posts/cs-course-5",
-      "time": "2023-12-23T00:00:00+00:00"
     },
     {
       "blog_id": "Sam Altman",
@@ -2514,13 +2423,6 @@
       "time": "2023-04-10T02:47:08+00:00"
     },
     {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "空气清新剂的噩梦",
-      "item_url": "https://www.yinwang.org/posts/air-freshener-nightmare",
-      "time": "2023-02-03T00:00:00+00:00"
-    },
-    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "「阅读器」iPad mini 6 一年体验记",
@@ -2542,13 +2444,6 @@
       "time": "2022-12-22T16:00:00+00:00"
     },
     {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "continuation 和并发计算专项班",
-      "item_url": "https://www.yinwang.org/posts/continuation-course",
-      "time": "2022-12-12T00:00:00+00:00"
-    },
-    {
       "blog_id": "林惠文(daimajia)",
       "feed": "https://daimajia.com/feed/",
       "item_name": "ChatGPT 真格基金内部分享",
@@ -2561,13 +2456,6 @@
       "item_name": "Step by Step 分析一次链上三明治套利攻击",
       "item_url": "https://daimajia.com/2022/12/05/step-by-step-defi-sandwitch-attack/",
       "time": "2022-12-05T06:00:21+00:00"
-    },
-    {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "计算机科学阅读班提供疫情特价",
-      "item_url": "https://www.yinwang.org/posts/tuition-for-covid",
-      "time": "2022-12-01T00:00:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -2633,27 +2521,6 @@
       "time": "2022-03-14T00:00:00+00:00"
     },
     {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "计算机科学进阶班招生",
-      "item_url": "https://www.yinwang.org/posts/advanced-cs-course",
-      "time": "2022-02-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "自然视力恢复法",
-      "item_url": "https://www.yinwang.org/posts/myopia",
-      "time": "2022-02-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "计算机科学阅读班招生说明",
-      "item_url": "https://www.yinwang.org/posts/reading-course",
-      "time": "2022-02-07T00:00:00+00:00"
-    },
-    {
       "blog_id": "Ahmad Shadeed",
       "feed": "https://ishadeed.com/feed.xml",
       "item_name": "Building UI Components With SVG and CSS",
@@ -2680,13 +2547,6 @@
       "item_name": "日本漫游：札幌与酒田",
       "item_url": "https://byvoid.com/zhs/blog/jp-roaming-sapporo-sakata/",
       "time": "2021-10-14T15:28:00+00:00"
-    },
-    {
-      "blog_id": "王垠",
-      "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-      "item_name": "第一位“计算机科学少年班”学生毕业",
-      "item_url": "https://www.yinwang.org/posts/youth-cs-student",
-      "time": "2021-09-16T00:00:00+00:00"
     },
     {
       "blog_id": "郭家宝BYVoid",
