@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "pseudoyu",
+      "feed": "https://www.pseudoyu.com/feed.xml",
+      "item_name": "周报 #105 - 打破无聊的社会",
+      "item_url": "https://www.pseudoyu.com/posts/weekly_review_105",
+      "time": "2026-01-13T23:17:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "Agentic RAG 的架构演进：从上下文追踪 (Context Trace) 到全景上下文图谱 (Context Graphs)",
@@ -1616,13 +1623,6 @@
       "item_name": "Using `make` to compile C programs (for non-C-programmers)",
       "item_url": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
       "time": "2025-06-10T00:00:00+00:00"
-    },
-    {
-      "blog_id": "pseudoyu",
-      "feed": "https://www.pseudoyu.com/feed.xml",
-      "item_name": "28 岁的自白：去找寻自己",
-      "item_url": "https://www.pseudoyu.com/posts/yearly_review_28",
-      "time": "2025-06-06T02:24:26+00:00"
     },
     {
       "blog_id": "yihong",
