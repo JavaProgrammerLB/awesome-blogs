@@ -8,6 +8,13 @@
       "time": "2026-01-13T23:17:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "ET，福尔摩斯，马尔科维奇，爱迪生：四种思维训练法",
+      "item_url": "https://limboy.me/posts/et-holmes-malkovich-edison",
+      "time": "2026-01-13T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "Agentic RAG 的架构演进：从上下文追踪 (Context Trace) 到全景上下文图谱 (Context Graphs)",
@@ -1510,13 +1517,6 @@
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 YC：日间谋生，夜里逐梦",
       "item_url": "https://hawstein.com/2025/07/08/day-job-night-dream/",
-      "time": "2025-07-08T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "避风塘",
-      "item_url": "https://limboy.me/posts/before-town",
       "time": "2025-07-08T00:00:00+00:00"
     },
     {
