@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "新年直播1：AI的2025与2026，技术领域的共识与非共识",
+      "item_url": "https://sv101.fireside.fm/231",
+      "time": "2026-01-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "pseudoyu",
       "feed": "https://www.pseudoyu.com/feed.xml",
       "item_name": "周报 #105 - 打破无聊的社会",
@@ -804,13 +811,6 @@
       "item_name": "My plan to avoid hyperfocus and keep a healthy work pace (as a dad of two)",
       "item_url": "https://www.devas.life/my-plan-to-avoid-hyperfocus-and-keep-a-healthy-work-pace-as-a-dad-of-two/",
       "time": "2025-11-08T00:00:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E213｜从爱好到投资，卡牌能成为年轻人的第一桶金吗？",
-      "item_url": "https://sv101.fireside.fm/223",
-      "time": "2025-11-07T00:00:00+00:00"
     },
     {
       "blog_id": "yihong",
