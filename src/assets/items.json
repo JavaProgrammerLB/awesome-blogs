@@ -36,6 +36,20 @@
       "time": "2026-01-15T00:00:00+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "黑白厨师",
+      "item_url": "https://limboy.me/posts/culinary-class-wars",
+      "time": "2026-01-14T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "My 2025 indie dev journey review",
+      "item_url": "https://www.devas.life/my-2025-indie-dev-journey-review/",
+      "time": "2026-01-14T00:00:00+00:00"
+    },
+    {
       "blog_id": "江宏",
       "feed": "https://1byte.io/articles/index.xml",
       "item_name": "我在 2025 年看完的书",
@@ -1387,13 +1401,6 @@
       "time": "2025-08-04T00:00:00+00:00"
     },
     {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more",
-      "item_url": "https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/",
-      "time": "2025-08-01T00:00:00+00:00"
-    },
-    {
       "blog_id": "Nicholas Carlini",
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "miniHDL: A Python Hardware Description Language DSL",
@@ -1482,13 +1489,6 @@
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 YK：系统与规则",
       "item_url": "https://hawstein.com/2025/07/12/system-and-rules/",
-      "time": "2025-07-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "35mm Coffee - 一个创意工作者的线上社区",
-      "item_url": "https://limboy.me/posts/35mm-coffee",
       "time": "2025-07-12T00:00:00+00:00"
     },
     {
