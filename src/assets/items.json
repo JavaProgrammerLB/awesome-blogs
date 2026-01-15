@@ -3,6 +3,13 @@
     {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "新年直播3：华尔街视角下的AI泡沫、芯片及黑天鹅",
+      "item_url": "https://sv101.fireside.fm/233",
+      "time": "2026-01-15T04:00:00+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "新年直播2：特斯拉FSD以及自动驾驶的商业战争",
       "item_url": "https://sv101.fireside.fm/232",
       "time": "2026-01-15T02:00:00+00:00"
@@ -13,6 +20,13 @@
       "item_name": "新年直播1：AI的2025与2026，技术领域的共识与非共识",
       "item_url": "https://sv101.fireside.fm/231",
       "time": "2026-01-15T00:00:00+00:00"
+    },
+    {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "我在 2025 年看完的书",
+      "item_url": "https://1byte.io/articles/2025-books/",
+      "time": "2026-01-14T00:00:00+00:00"
     },
     {
       "blog_id": "pseudoyu",
@@ -694,13 +708,6 @@
       "time": "2025-11-22T00:00:00+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
-      "item_url": "https://sv101.fireside.fm/225",
-      "time": "2025-11-21T00:00:00+00:00"
-    },
-    {
       "blog_id": "郭家宝BYVoid",
       "feed": "https://byvoid.com/zhs/blog/feed.xml",
       "item_name": "中美洲行记（三）：切图马尔",
@@ -1182,6 +1189,13 @@
       "item_name": "阿里发布新版 Quick BI，聊聊 ChatBI 的底层架构、交互设计和云计算生态",
       "item_url": "https://luochang212.github.io/posts/quick_bi_intro/",
       "time": "2025-09-06T00:00:00+00:00"
+    },
+    {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "西班牙之行",
+      "item_url": "https://1byte.io/articles/spain-trip-2025/",
+      "time": "2025-09-05T00:00:00+00:00"
     },
     {
       "blog_id": "yihong",
@@ -1996,6 +2010,13 @@
       "time": "2025-01-19T11:48:13+00:00"
     },
     {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "2025 年初展望",
+      "item_url": "https://1byte.io/articles/start-of-2025/",
+      "time": "2025-01-13T10:57:41+00:00"
+    },
+    {
       "blog_id": "Julia Evans",
       "feed": "https://jvns.ca/atom.xml",
       "item_name": "What's involved in getting a \"modern\" terminal setup?",
@@ -2043,6 +2064,13 @@
       "item_name": "Balancing Text In CSS",
       "item_url": "https://ishadeed.com/article/balancing-text-css/",
       "time": "2025-01-05T00:00:00+00:00"
+    },
+    {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "2024 年底曼谷之行",
+      "item_url": "https://1byte.io/articles/bangkok/",
+      "time": "2025-01-03T06:37:11+00:00"
     },
     {
       "blog_id": "艾逗笔",
@@ -2136,6 +2164,13 @@
       "time": "2024-11-25T16:00:00+00:00"
     },
     {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "荐书：The Blind Watchmaker",
+      "item_url": "https://1byte.io/articles/the-blind-watchmaker/",
+      "time": "2024-11-19T00:00:00+00:00"
+    },
+    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Lessons Learned Building LLM Applications",
@@ -2220,11 +2255,46 @@
       "time": "2024-07-11T10:36:18+00:00"
     },
     {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "王垠传播的「自然视力恢复法」真的有用吗？",
+      "item_url": "https://1byte.io/articles/bates-method-dont-work/",
+      "time": "2024-06-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "Notes on Project Oberon",
       "item_url": "https://sidhion.com/blog/oberon_notes/",
       "time": "2024-06-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "从高考志愿到职业选择",
+      "item_url": "https://1byte.io/articles/gaokao-choice/",
+      "time": "2024-06-25T00:00:00+00:00"
+    },
+    {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "浅谈 Apple Intelligence",
+      "item_url": "https://1byte.io/articles/apple-intelligence/",
+      "time": "2024-06-13T00:00:00+00:00"
+    },
+    {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "2024 年，我为什么开始为搜索付费",
+      "item_url": "https://1byte.io/articles/paying-for-search/",
+      "time": "2024-06-03T00:00:00+00:00"
+    },
+    {
+      "blog_id": "江宏",
+      "feed": "https://1byte.io/articles/index.xml",
+      "item_name": "运气与努力",
+      "item_url": "https://1byte.io/articles/luck/",
+      "time": "2024-05-31T00:00:00+00:00"
     },
     {
       "blog_id": "Randy",
