@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
+      "item_url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-381.html",
+      "time": "2026-01-16T00:13:47+00:00"
+    },
+    {
       "blog_id": "Collaborative Fund",
       "feed": "http://feeds.feedburner.com/collabfund",
       "item_name": "The Power of Constraints",
@@ -47,6 +54,13 @@
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "新年直播1：AI的2025与2026，技术领域的共识与非共识",
       "item_url": "https://sv101.fireside.fm/231",
+      "time": "2026-01-15T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "Podcast: На Маке нет никаких шкафов @ Думаем дальше",
+      "item_url": "https://tonsky.me/talks/#2026-01-15",
       "time": "2026-01-15T00:00:00+00:00"
     },
     {
@@ -594,13 +608,6 @@
       "item_name": "The Normalization of Deviance in AI",
       "item_url": "https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/",
       "time": "2025-12-05T02:42:03+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 376 期）：太空数据中心的争议",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-376.html",
-      "time": "2025-12-05T00:09:01+00:00"
     },
     {
       "blog_id": "sean goedecke",
