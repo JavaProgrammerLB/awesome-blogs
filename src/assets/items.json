@@ -50,6 +50,13 @@
       "time": "2026-01-15T00:00:00+00:00"
     },
     {
+      "blog_id": "Nikita Prokopov",
+      "feed": "https://tonsky.me/atom.xml",
+      "item_name": "Podcast: На Маке нет никаких шкафов @ Думаем дальше",
+      "item_url": "https://tonsky.me/talks/#2026-01-15",
+      "time": "2026-01-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "黑白厨师",
