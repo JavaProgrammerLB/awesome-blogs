@@ -2353,6 +2353,13 @@
       "time": "2024-03-26T06:30:00+00:00"
     },
     {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "一本教科书的距离",
+      "item_url": "https://littlecheesecake.me/blog2/2024/03/20/a-textbook-away.html",
+      "time": "2024-03-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "汪二 (Haozes)",
       "feed": "https://blog.yaoyaojumprope.com/feed.xml",
       "item_name": "深蹲 App(DunDun) 重制版发布啦",
@@ -2476,13 +2483,6 @@
       "feed": "https://littlecheesecake.me/feed",
       "item_name": "[Kafka Guide] Chapter 2 - Install Kafka",
       "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter2.html",
-      "time": "2023-07-31T19:00:00+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[Kafka Guide] Chapter 1 - Meet Kafka",
-      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter1.html",
       "time": "2023-07-31T19:00:00+00:00"
     },
     {
