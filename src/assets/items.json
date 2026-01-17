@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "More HTTP/3 focus, one backend less",
+      "item_url": "https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/",
+      "time": "2026-01-17T22:07:10+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "Crypto grifters are recruiting open-source AI developers",
@@ -986,13 +993,6 @@
       "item_name": "How I Coding? (Oct 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/",
       "time": "2025-10-24T01:00:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "On 110 operating systems",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/23/on-110-operating-systems/",
-      "time": "2025-10-23T06:08:37+00:00"
     },
     {
       "blog_id": "每日明",
