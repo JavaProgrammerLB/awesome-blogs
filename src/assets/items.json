@@ -3,6 +3,13 @@
     {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "My first 20,000 curl commits",
+      "item_url": "https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/",
+      "time": "2026-01-17T22:45:45+00:00"
+    },
+    {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "More HTTP/3 focus, one backend less",
       "item_url": "https://daniel.haxx.se/blog/2026/01/17/more-http-3-focus-one-backend-less/",
       "time": "2026-01-17T22:07:10+00:00"
@@ -979,13 +986,6 @@
       "item_name": "AI Assisted System Design Interview Prep",
       "item_url": "https://linghao.io/posts/ai-assisted-system-design-interview-prep",
       "time": "2025-10-27T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "A gold ceremony to remember",
-      "item_url": "https://daniel.haxx.se/blog/2025/10/25/a-gold-ceremony-to-remember/",
-      "time": "2025-10-25T11:26:40+00:00"
     },
     {
       "blog_id": "xuanwo",
