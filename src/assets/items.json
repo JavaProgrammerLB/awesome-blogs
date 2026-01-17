@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "Crypto grifters are recruiting open-source AI developers",
+      "item_url": "https://seangoedecke.com/gas-and-ralph/",
+      "time": "2026-01-17T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 381 期）：中国 AI 大模型领导者在想什么",
@@ -748,13 +755,6 @@
       "item_name": "嵌入主线程消息循环的任务调度器",
       "item_url": "https://blog.codingnow.com/2025/11/task_schedule_in_eventloop.html",
       "time": "2025-11-22T05:52:56+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Why it takes months to tell if new AI models are good",
-      "item_url": "https://seangoedecke.com/are-new-models-good/",
-      "time": "2025-11-22T00:00:00+00:00"
     },
     {
       "blog_id": "郭家宝BYVoid",
