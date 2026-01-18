@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "在树莓派上搭建家用 Agent 服务",
+      "item_url": "https://luochang212.github.io/posts/rpi_agent_server/",
+      "time": "2026-01-18T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "My first 20,000 curl commits",
@@ -1735,13 +1742,6 @@
       "item_name": "译 | 懒到不想起标题：互联网如何使你的大脑懒惰",
       "item_url": "https://zh.dailyminz.org/2025/04/19/Translation-Im-Too-Lazy-to-Come-Up-With-a-Good-Title/",
       "time": "2025-04-19T10:03:50+00:00"
-    },
-    {
-      "blog_id": "Chang Luo",
-      "feed": "https://www.luochang.ink/index.xml",
-      "item_name": "DNN 模型聚类特征更新方法",
-      "item_url": "https://luochang212.github.io/posts/cluster_label_assign/",
-      "time": "2025-04-19T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
