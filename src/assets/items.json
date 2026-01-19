@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "phodal",
+      "feed": "https://www.phodal.com/blog/feeds/rss/",
+      "item_name": "AI 时代的洞察方法论：结构化思维与能力迁移",
+      "item_url": "http://www.phodal.com/blog/modernizing-deep-research/",
+      "time": "2026-01-19T14:47:06+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "Now with MQTTS",
@@ -846,13 +853,6 @@
       "item_name": "中美洲行记（二）：陆地上的孤岛",
       "item_url": "https://byvoid.com/zhs/blog/central-america-2/",
       "time": "2025-11-14T06:56:00+00:00"
-    },
-    {
-      "blog_id": "phodal",
-      "feed": "https://www.phodal.com/blog/feeds/rss/",
-      "item_name": "2025 AI 代码检视：以 ROI 为中心的 AI 代码检视体系与分级",
-      "item_url": "http://www.phodal.com/blog/ai-code-review-2025/",
-      "time": "2025-11-14T04:10:19+00:00"
     },
     {
       "blog_id": "Daniel Stenberg",
