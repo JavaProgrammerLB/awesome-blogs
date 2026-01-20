@@ -22,6 +22,13 @@
       "time": "2026-01-19T12:14:30+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "那些年我打过的日结工",
+      "item_url": "https://geekplux.com/posts/daily-wage-jobs",
+      "time": "2026-01-18T14:30:00+00:00"
+    },
+    {
       "blog_id": "Chang Luo",
       "feed": "https://www.luochang.ink/index.xml",
       "item_name": "在树莓派上搭建家用 Agent 服务",
@@ -729,6 +736,13 @@
       "time": "2025-11-28T01:00:00+00:00"
     },
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E216｜对话机器人投资人：投资也得看论文，规模性商业化还很远",
+      "item_url": "https://sv101.fireside.fm/226",
+      "time": "2025-11-28T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AutoDev DocQL：Agentic RAG 下的结构化检索设计、实现与实验探索",
@@ -790,6 +804,13 @@
       "item_name": "嵌入主线程消息循环的任务调度器",
       "item_url": "https://blog.codingnow.com/2025/11/task_schedule_in_eventloop.html",
       "time": "2025-11-22T05:52:56+00:00"
+    },
+    {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
+      "item_url": "https://sv101.fireside.fm/225",
+      "time": "2025-11-21T00:00:00+00:00"
     },
     {
       "blog_id": "郭家宝BYVoid",
@@ -960,6 +981,13 @@
       "time": "2025-10-31T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Use Cases for Field Sizing",
+      "item_url": "https://ishadeed.com/article/field-sizing/",
+      "time": "2025-10-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "Essentials for Independent Travel in China",
@@ -1000,6 +1028,13 @@
       "item_name": "How I Coding? (Oct 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/07-how-i-coding-oct-2025-edition/",
       "time": "2025-10-24T01:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Solved By Modern CSS: Section Layout",
+      "item_url": "https://ishadeed.com/article/modern-css-section-layout/",
+      "time": "2025-10-23T00:00:00+00:00"
     },
     {
       "blog_id": "每日明",
@@ -1366,6 +1401,13 @@
       "time": "2025-08-22T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Smart Layouts (CSS Day - 06.06.2025) - Video & Slides",
+      "item_url": "https://ishadeed.com/article/smart-layouts-talk-css-day/",
+      "time": "2025-08-21T00:00:00+00:00"
+    },
+    {
       "blog_id": "每日明",
       "feed": "https://zh.dailyminz.org/atom.xml",
       "item_name": "历史的创造和创造的历史 [0]",
@@ -1385,6 +1427,13 @@
       "item_name": "从一期播客说起",
       "item_url": "https://hawstein.com/2025/08/13/starting-from-a-podcast/",
       "time": "2025-08-13T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Better CSS layouts: Time.com Hero Section",
+      "item_url": "https://ishadeed.com/article/time-layout/",
+      "time": "2025-08-12T00:00:00+00:00"
     },
     {
       "blog_id": "何同学",
@@ -1420,6 +1469,13 @@
       "item_name": "Gate-level emulation of an Intel 4004 in 4004 bytes of C",
       "item_url": "https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html",
       "time": "2025-08-04T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Inkdrop v6(canary) is now available 🥳 The new Markdown editor and more",
+      "item_url": "https://www.devas.life/inkdrop-v6-canary-is-now-available-the-new-markdown-editor-and-more/",
+      "time": "2025-08-01T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1490,6 +1546,13 @@
       "item_name": "我的新书《这就是 MCP》出版了",
       "item_url": "https://idoubi.ai/blog/my-mcp-book",
       "time": "2025-07-17T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Agentic coding made programming fun again",
+      "item_url": "https://www.devas.life/agentic-coding-made-programming-fun-again/",
+      "time": "2025-07-16T00:00:00+00:00"
     },
     {
       "blog_id": "Hawstein",
@@ -1751,10 +1814,24 @@
       "time": "2025-04-13T00:00:00+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "来美国的两年后",
+      "item_url": "https://geekplux.com/posts/two-years-in-usa",
+      "time": "2025-04-12T22:00:00+00:00"
+    },
+    {
       "blog_id": "艾逗笔",
       "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
       "item_name": "详解 MCP 连接生命周期",
       "item_url": "https://idoubi.ai/blog/mcp-lifecycle",
+      "time": "2025-04-12T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Item Flow",
+      "item_url": "https://ishadeed.com/article/item-flow/",
       "time": "2025-04-12T00:00:00+00:00"
     },
     {
@@ -1800,6 +1877,13 @@
       "time": "2025-04-06T05:50:59+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "First Look at The Modern attr()",
+      "item_url": "https://ishadeed.com/article/modern-attr/",
+      "time": "2025-04-03T00:00:00+00:00"
+    },
+    {
       "blog_id": "Randy",
       "feed": "https://lutaonan.com/rss.xml",
       "item_name": "我们高估了智力的重要性",
@@ -1840,6 +1924,13 @@
       "item_name": "On Adding HTTP/2 Support to jsoup",
       "item_url": "https://jhedley.com/posts/jsoup-http2",
       "time": "2025-03-18T00:43:49+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "Self Gap",
+      "item_url": "https://ishadeed.com/article/self-gap/",
+      "time": "2025-03-18T00:00:00+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1889,6 +1980,13 @@
       "item_name": "上海迪士尼能看什么鸟？",
       "item_url": "http://blog.wraith615.xyz/articles/p24yu3z64nmuyc6e",
       "time": "2025-03-09T13:47:37+00:00"
+    },
+    {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "CSS Relative Colors",
+      "item_url": "https://ishadeed.com/article/css-relative-colors/",
+      "time": "2025-03-09T00:00:00+00:00"
     },
     {
       "blog_id": "林小沐",
@@ -2036,13 +2134,6 @@
       "item_name": "What's involved in getting a \"modern\" terminal setup?",
       "item_url": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
       "time": "2025-01-11T09:46:01+00:00"
-    },
-    {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "New wallpaper pack: Textures of Kyoto",
-      "item_url": "https://www.devas.life/new-wallpaper-pack-textures-of-kyoto/",
-      "time": "2025-01-09T00:00:00+00:00"
     },
     {
       "blog_id": "Anthony Fu",
@@ -2234,13 +2325,6 @@
       "time": "2024-10-08T00:00:00+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "活动预告：我们硅谷线下见",
-      "item_url": "https://sv101.fireside.fm/172",
-      "time": "2024-09-19T04:15:00+00:00"
-    },
-    {
       "blog_id": "Linghao Zhang",
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Naming Matters: DRI vs. Owner in Software Projects",
@@ -2388,6 +2472,13 @@
       "time": "2023-12-31T03:41:11+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "在美国拥有一辆 Tesla 的成本",
+      "item_url": "https://geekplux.com/posts/cost-of-tesla",
+      "time": "2023-12-27T21:35:00+00:00"
+    },
+    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "What I Wish Someone Had Told Me",
@@ -2428,6 +2519,13 @@
       "item_name": "学习的本质",
       "item_url": "https://littlecheesecake.me/blog2/2023/10/21/effective-learning.html",
       "time": "2023-10-21T00:00:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "我的 Workspaces 十年进化史",
+      "item_url": "https://geekplux.com/posts/workspaces",
+      "time": "2023-10-15T16:30:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -2486,6 +2584,27 @@
       "time": "2023-07-31T19:00:00+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "How to Sync Logseq Plugins, Themes and Settings Across Multiple Devices",
+      "item_url": "https://geekplux.com/posts/how-to-sync-logseq-plugins-settings",
+      "time": "2023-07-21T23:05:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "Setting Up Umami as Your Google Analytics Alternative: A Step-by-Step Guide",
+      "item_url": "https://geekplux.com/posts/setup-umami",
+      "time": "2023-07-08T00:46:00+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "迁移豆瓣读书记录到 goodreads",
+      "item_url": "https://geekplux.com/posts/migrate-douban-to-goodreads",
+      "time": "2023-06-29T23:40:00+00:00"
+    },
+    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "PasteNow 2.12 发布（暨 618 优惠活动）",
@@ -2493,11 +2612,25 @@
       "time": "2023-06-15T05:35:10+00:00"
     },
     {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "Enhance Your Internet Privacy in 2023",
+      "item_url": "https://geekplux.com/posts/internet-privacy",
+      "time": "2023-05-03T22:15:00+00:00"
+    },
+    {
       "blog_id": "图拉鼎",
       "feed": "https://imtx.me/feed/latest/",
       "item_name": "PasteNow 两周年随感",
       "item_url": "https://imtx.me/blog/pastenow-two-years-old/",
       "time": "2023-04-10T02:47:08+00:00"
+    },
+    {
+      "blog_id": "geekplux",
+      "feed": "https://geekplux.com/feed.xml",
+      "item_name": "Refactor your blog comments system with Webmention.io",
+      "item_url": "https://geekplux.com/posts/webmention",
+      "time": "2023-03-20T22:35:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
@@ -2542,13 +2675,6 @@
       "time": "2022-11-26T09:46:47+00:00"
     },
     {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "小公告｜新播客Web3 101上线了",
-      "item_url": "https://sv101.fireside.fm/82",
-      "time": "2022-07-15T07:00:00+00:00"
-    },
-    {
       "blog_id": "Sam Altman",
       "feed": "https://blog.samaltman.com/posts.atom",
       "item_name": "Helion Needs You",
@@ -2589,20 +2715,6 @@
       "item_name": "Web 3.0 带来了什么？",
       "item_url": "https://daimajia.com/2022/03/17/web3/",
       "time": "2022-03-16T23:21:53+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Aligning Content In Different Wrappers",
-      "item_url": "https://ishadeed.com/article/aligning-content-different-wrappers/",
-      "time": "2022-03-14T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Building UI Components With SVG and CSS",
-      "item_url": "https://ishadeed.com/article/building-components-svg-css/",
-      "time": "2022-01-18T00:00:00+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
@@ -2647,20 +2759,6 @@
       "time": "2021-03-14T07:32:00+00:00"
     },
     {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "2020 恍如隔世",
-      "item_url": "https://geekplux.com/posts/2020-summary",
-      "time": "2021-01-05T18:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Aligning Logo Images in CSS",
-      "item_url": "https://ishadeed.com/article/aligning-logos-css/",
-      "time": "2020-06-25T00:00:00+00:00"
-    },
-    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "中文格式化小工具 zhlint 及其开发心得",
@@ -2668,81 +2766,11 @@
       "time": "2020-04-26T03:53:59+00:00"
     },
     {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "即将失明，还能继续做程序员吗",
-      "item_url": "https://geekplux.com/posts/a-software-engineer-going-blind",
-      "time": "2020-04-20T17:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Everything About Auto in CSS",
-      "item_url": "https://ishadeed.com/article/auto-css/",
-      "time": "2020-03-20T00:00:00+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "复式记账、财报、量化与图论",
-      "item_url": "https://geekplux.com/posts/accounting-earnings-report-graph-theory",
-      "time": "2020-01-16T01:00:00+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "2019 柳暗花明",
-      "item_url": "https://geekplux.com/posts/2019-summary",
-      "time": "2020-01-06T20:50:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Blending Modes in CSS",
-      "item_url": "https://ishadeed.com/article/blending-modes-css/",
-      "time": "2019-11-11T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Rebuilding Apple Music Header in HTML & CSS",
-      "item_url": "https://ishadeed.com/article/apple-music-header/",
-      "time": "2019-10-16T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Accessible Checkbox",
-      "item_url": "https://ishadeed.com/article/accessible-checkbox/",
-      "time": "2019-09-17T18:47:11+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Building An Old Nav Design",
-      "item_url": "https://ishadeed.com/article/building-an-old-nav-design/",
-      "time": "2019-04-15T00:00:00+00:00"
-    },
-    {
       "blog_id": "勾股",
       "feed": "https://jiongks.name/atom.xml",
       "item_name": "vue-mark-display：用 markdown 语法轻松撰写幻灯片",
       "item_url": "https://jiongks.name/blog/introducing-vue-mark-display",
       "time": "2019-04-04T23:21:27+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "给想转行作程序员的人泼一盆冷水",
-      "item_url": "https://geekplux.com/posts/advice-for-who-wanna-switch-to-programmer",
-      "time": "2019-04-02T20:20:00+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "2018 平淡无奇",
-      "item_url": "https://geekplux.com/posts/2018-summary",
-      "time": "2019-01-05T20:53:00+00:00"
     },
     {
       "blog_id": "勾股",
@@ -2757,34 +2785,6 @@
       "item_name": "VueConf Hangzhou 见闻",
       "item_url": "https://jiongks.name/blog/vueconf-hangzhou",
       "time": "2018-12-05T04:37:32+00:00"
-    },
-    {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo",
-      "item_url": "https://www.devas.life/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/",
-      "time": "2018-10-15T00:00:00+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "Web 前端中的增强现实（AR）开发技术",
-      "item_url": "https://geekplux.com/posts/augmented-reality-development-tech-in-web-frontend",
-      "time": "2018-01-18T00:24:00+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "数据可视化基础——数据模型",
-      "item_url": "https://geekplux.com/posts/basics-of-data-visualization-data-model",
-      "time": "2017-01-02T12:01:00+00:00"
-    },
-    {
-      "blog_id": "geekplux",
-      "feed": "https://geekplux.com/feed.xml",
-      "item_name": "Android 开发如何入门",
-      "item_url": "https://geekplux.com/posts/android_get_started",
-      "time": "2013-09-02T16:34:00+00:00"
     }
   ]
 }
