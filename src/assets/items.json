@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E221｜聊聊CES与中国品牌出海：我们真的需要人形机器人吗？",
+      "item_url": "https://sv101.fireside.fm/234",
+      "time": "2026-01-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AI 时代的洞察方法论：结构化思维与能力迁移",
@@ -720,13 +727,6 @@
       "item_name": "How I Coding? (Nov 2025 Edition)",
       "item_url": "https://xuanwo.io/2025/08-how-i-coding-nov-2025-edition/",
       "time": "2025-11-28T01:00:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E216｜对话机器人投资人：投资也得看论文，规模性商业化还很远",
-      "item_url": "https://sv101.fireside.fm/226",
-      "time": "2025-11-28T00:00:00+00:00"
     },
     {
       "blog_id": "phodal",
