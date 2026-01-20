@@ -8,6 +8,13 @@
       "time": "2026-01-20T00:00:00+00:00"
     },
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "I'm addicted to being useful",
+      "item_url": "https://seangoedecke.com/addicted-to-being-useful/",
+      "time": "2026-01-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "phodal",
       "feed": "https://www.phodal.com/blog/feeds/rss/",
       "item_name": "AI 时代的洞察方法论：结构化思维与能力迁移",
@@ -762,13 +769,6 @@
       "item_name": "AI 代码审查再进化：AutoDev 多智能体协作架构深度解析",
       "item_url": "http://www.phodal.com/blog/autodev-multi-agents-code-review/",
       "time": "2025-11-26T09:19:56+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Becoming unblockable",
-      "item_url": "https://seangoedecke.com/unblockable/",
-      "time": "2025-11-26T00:00:00+00:00"
     },
     {
       "blog_id": "Nikita Prokopov",
