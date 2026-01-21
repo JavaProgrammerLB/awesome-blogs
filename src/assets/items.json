@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "yihong",
+      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
+      "item_name": "Something Boring or Interesting",
+      "item_url": "https://blog.yihong0618.me/issue-335/",
+      "time": "2026-01-20T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E221｜聊聊CES与中国品牌出海：我们真的需要人形机器人吗？",
@@ -1721,13 +1728,6 @@
       "item_name": "Using `make` to compile C programs (for non-C-programmers)",
       "item_url": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
       "time": "2025-06-10T00:00:00+00:00"
-    },
-    {
-      "blog_id": "yihong",
-      "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
-      "item_name": "Notes on May",
-      "item_url": "https://blog.yihong0618.me/issue-318/",
-      "time": "2025-06-01T00:00:00+00:00"
     },
     {
       "blog_id": "林小沐",
