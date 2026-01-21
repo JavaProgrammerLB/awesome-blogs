@@ -176,13 +176,6 @@
       "time": "2026-01-11T00:00:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "我們做了一台魔法鋼琴...",
-      "item_url": "https://www.youtube.com/watch?v=bxm-Gt00-R4",
-      "time": "2026-01-10T16:07:28+00:00"
-    },
-    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "Weekly Links, 01/09/2026",
@@ -827,13 +820,6 @@
       "time": "2025-11-19T00:00:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "為了幫粉絲放牛，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=h_NnHgmB530",
-      "time": "2025-11-18T15:28:08+00:00"
-    },
-    {
       "blog_id": "Eric Migicovsky",
       "feed": "https://ericmigi.com/rss.xml",
       "item_name": "Pebble, Rebble, and a Path Forward",
@@ -960,13 +946,6 @@
       "time": "2025-11-04T03:13:47+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "我們做了個漂移輪椅…",
-      "item_url": "https://www.youtube.com/shorts/I8gmrqJPPcU",
-      "time": "2025-11-03T15:00:37+00:00"
-    },
-    {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
       "item_name": "我的第一款 iOS App：PingMind",
@@ -1056,13 +1035,6 @@
       "item_name": "构建自己的反思系统",
       "item_url": "https://limboy.me/posts/review-system",
       "time": "2025-10-17T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "在轉，但沒在轉？",
-      "item_url": "https://www.youtube.com/shorts/zywQICdbtZQ",
-      "time": "2025-10-16T10:15:51+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
@@ -1233,13 +1205,6 @@
       "time": "2025-09-17T21:52:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "最聽勸的一代，但是...iPhone 17 系列首發體驗",
-      "item_url": "https://www.youtube.com/watch?v=su9aqYLcAhw",
-      "time": "2025-09-17T12:33:42+00:00"
-    },
-    {
       "blog_id": "Bernardo",
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "We have outgrown the Process model",
@@ -1329,13 +1294,6 @@
       "item_name": "AgentHopper: An AI Virus",
       "item_url": "https://embracethered.com/blog/posts/2025/agenthopper-a-poc-ai-virus/",
       "time": "2025-08-30T03:20:58+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "把星空放大 200 倍能看到什麼？",
-      "item_url": "https://www.youtube.com/shorts/A5r5wQXHx1I",
-      "time": "2025-08-29T15:00:31+00:00"
     },
     {
       "blog_id": "wunderwuzzi",
@@ -1436,13 +1394,6 @@
       "time": "2025-08-12T00:00:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "【何同學】為了拍到最美的星雲，我們做了一個移動天文台",
-      "item_url": "https://www.youtube.com/watch?v=CYENwrdCZxI",
-      "time": "2025-08-08T10:00:24+00:00"
-    },
-    {
       "blog_id": "xuanwo",
       "feed": "https://xuanwo.io/index.xml",
       "item_name": "Learn Rust by Reasoning with Code Agents",
@@ -1455,13 +1406,6 @@
       "item_name": "周报 #100 - 过去这十年",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_100",
       "time": "2025-08-05T10:43:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "這不是特效，是3D打印",
-      "item_url": "https://www.youtube.com/shorts/yNe26VO8C3c",
-      "time": "2025-08-04T10:01:28+00:00"
     },
     {
       "blog_id": "Nicholas Carlini",
@@ -1485,25 +1429,11 @@
       "time": "2025-07-31T00:00:00+00:00"
     },
     {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "為了不用倒垃圾，我們做了這個...",
-      "item_url": "https://www.youtube.com/shorts/WkY-F2p6SQ8",
-      "time": "2025-07-29T10:00:53+00:00"
-    },
-    {
       "blog_id": "Chang Luo",
       "feed": "https://www.luochang.ink/index.xml",
       "item_name": "耶是 ClickHouse！我们有救了！！",
       "item_url": "https://luochang212.github.io/posts/chat_to_clickhouse/",
       "time": "2025-07-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "何同学",
-      "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
-      "item_name": "為了不用擦白板，我們做了這個...",
-      "item_url": "https://www.youtube.com/watch?v=gIfD6YtY0ts",
-      "time": "2025-07-25T09:01:13+00:00"
     },
     {
       "blog_id": "xuanwo",
