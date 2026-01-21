@@ -550,23 +550,6 @@
     ]
   },
   {
-    "name": "王垠",
-    "url": "https://www.yinwang.org/?page=1",
-    "describe": "很早就听说过的很有名的程序员(从清华大学和美国多所计算机名校读博期间退学)",
-    "avatar": "https://webp.yitianyigexiangfa.com/1763446232_d2eedb6a.webp",
-    "feed": "https://feeds.yitianyigexiangfa.com/WangYin.xml",
-    "like": [
-      {
-        "title": "大提琴为什么这么难学",
-        "url": "https://www.yinwang.org/posts/cello-technique"
-      },
-      {
-        "title": "我和 Google 的故事",
-        "url": "https://www.yinwang.org/posts/google-story"
-      }
-    ]
-  },
-  {
     "name": "林小沐",
     "url": "https://immmmm.com/archives/",
     "describe": "生活在江浙沪，从事web相关开发工作，有家庭，喜欢旅游的开发者",
