@@ -3,6 +3,13 @@
     {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
+      "item_url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html",
+      "time": "2026-01-23T00:13:47+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "AI native Workspace 也许是智能体的下一阶段",
       "item_url": "http://www.ruanyifeng.com/blog/2026/01/ai-native-workspace.html",
       "time": "2026-01-22T11:46:37+00:00"
@@ -552,13 +559,6 @@
       "item_name": "Weekly Links, 12/19/2025",
       "item_url": "https://kk.org/thetechnium/weekly-links-12-19-2025/",
       "time": "2025-12-19T21:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 378 期）：预测是新的互联网热点",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-378.html",
-      "time": "2025-12-19T00:06:47+00:00"
     },
     {
       "blog_id": "林惠文(daimajia)",
