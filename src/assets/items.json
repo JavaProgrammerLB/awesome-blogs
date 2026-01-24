@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "yulu",
+      "feed": "https://littlecheesecake.me/feed",
+      "item_name": "My First Vibe Coding",
+      "item_url": "https://littlecheesecake.me/blog1/2026/01/24/my-first-vibe-coding.html",
+      "time": "2026-01-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "How I estimate work as a staff software engineer",
@@ -2574,13 +2581,6 @@
       "feed": "https://littlecheesecake.me/feed",
       "item_name": "[Kafka Guide] Chapter 3 - Kafka Producer",
       "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter3.html",
-      "time": "2023-07-31T19:00:00+00:00"
-    },
-    {
-      "blog_id": "yulu",
-      "feed": "https://littlecheesecake.me/feed",
-      "item_name": "[Kafka Guide] Chapter 2 - Install Kafka",
-      "item_url": "https://littlecheesecake.me/blog1/2023/08/01/kafka-notes-chapter2.html",
       "time": "2023-07-31T19:00:00+00:00"
     },
     {
