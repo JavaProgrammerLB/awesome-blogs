@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "How I estimate work as a staff software engineer",
+      "item_url": "https://seangoedecke.com/how-i-estimate-work/",
+      "time": "2026-01-24T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
@@ -734,13 +741,6 @@
       "item_name": "DailyMinz 一周年，兼谈：何以维持创作输出流",
       "item_url": "https://zh.dailyminz.org/2025/11/30/1st-Anniversary/",
       "time": "2025-11-30T03:48:15+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "How good engineers write bad code at big companies",
-      "item_url": "https://seangoedecke.com/bad-code-at-big-companies/",
-      "time": "2025-11-29T00:00:00+00:00"
     },
     {
       "blog_id": "云风",
