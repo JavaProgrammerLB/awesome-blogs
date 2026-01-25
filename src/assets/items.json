@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "林小沐",
+      "feed": "https://immmmm.com/atom.xml",
+      "item_name": "二〇二六，你好",
+      "item_url": "https://immmmm.com/hi-2026/",
+      "time": "2026-01-25T00:22:01+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "介绍几款单人桌游",
@@ -27,6 +34,13 @@
       "item_name": "科技爱好者周刊（第 382 期）：独立软件的黄昏",
       "item_url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html",
       "time": "2026-01-23T00:13:47+00:00"
+    },
+    {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "YouMind: Finding Product Balance Through Subtraction",
+      "item_url": "https://www.caicai.me/blogs/youmind-finding-product-balance-through-subtraction",
+      "time": "2026-01-23T00:00:00+00:00"
     },
     {
       "blog_id": "阮一峰",
@@ -61,6 +75,13 @@
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "I'm addicted to being useful",
       "item_url": "https://seangoedecke.com/addicted-to-being-useful/",
+      "time": "2026-01-20T00:00:00+00:00"
+    },
+    {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "What AI Coding Means for Product Designers",
+      "item_url": "https://www.caicai.me/blogs/what-ai-coding-means-for-product-designers",
       "time": "2026-01-20T00:00:00+00:00"
     },
     {
@@ -498,6 +519,13 @@
       "time": "2025-12-27T00:00:00+00:00"
     },
     {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "2025 Annual Summary",
+      "item_url": "https://www.caicai.me/blogs/2025-annual-summary",
+      "time": "2025-12-27T00:00:00+00:00"
+    },
+    {
       "blog_id": "yihong",
       "feed": "https://feeds.yitianyigexiangfa.com/yihong.xml",
       "item_name": "2025 年我提了 500 个 Pull Requests",
@@ -659,6 +687,13 @@
       "time": "2025-12-15T00:00:00+00:00"
     },
     {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "The meaning of life",
+      "item_url": "https://www.caicai.me/blogs/the-meaning-of-life",
+      "time": "2025-12-15T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E218｜Netflix与派拉蒙竞购华纳兄弟，好莱坞的洗牌时刻？",
@@ -680,6 +715,13 @@
       "time": "2025-12-11T00:00:00+00:00"
     },
     {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "The Hidden Complexity of Dark Mode Design",
+      "item_url": "https://www.caicai.me/blogs/the-hidden-complexity-of-dark-mode-design",
+      "time": "2025-12-11T00:00:00+00:00"
+    },
+    {
       "blog_id": "owenyoung",
       "feed": "https://www.owenyoung.com/atom.xml",
       "item_name": "2025.12.11: 各种链接",
@@ -692,6 +734,13 @@
       "item_name": "Meet Pebble Index 01 - External Memory For Your Brain",
       "item_url": "https://repebble.com/blog/meet-pebble-index-01-external-memory-for-your-brain",
       "time": "2025-12-09T00:00:00+00:00"
+    },
+    {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "I Love Obsidian, But We're Not Right for Each Other",
+      "item_url": "https://www.caicai.me/blogs/i-love-obsidian-but-were-not-right-for-each-other",
+      "time": "2025-12-08T00:00:00+00:00"
     },
     {
       "blog_id": "汪二 (Haozes)",
@@ -834,6 +883,13 @@
       "time": "2025-11-22T05:52:56+00:00"
     },
     {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "Building YouMind: A Year of Extension Design",
+      "item_url": "https://www.caicai.me/blogs/building-youmind-a-year-of-extension-design",
+      "time": "2025-11-22T00:00:00+00:00"
+    },
+    {
       "blog_id": "刘泓君",
       "feed": "https://feeds.fireside.fm/sv101/rss",
       "item_name": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
@@ -852,6 +908,20 @@
       "feed": "https://nicholas.carlini.com/writing/feed.xml",
       "item_name": "Are large language models worth it?",
       "item_url": "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html",
+      "time": "2025-11-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "Why we build Audio Pod in YouMind？",
+      "item_url": "https://www.caicai.me/blogs/why-we-build-audio-pod-in-youmind",
+      "time": "2025-11-19T00:00:00+00:00"
+    },
+    {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "The Gemini 3 I See: A Different Take",
+      "item_url": "https://www.caicai.me/blogs/the-gemini-3-i-see-a-different-take",
       "time": "2025-11-19T00:00:00+00:00"
     },
     {
@@ -881,6 +951,13 @@
       "item_name": "AutoDev Code Review Agent：应对 10 倍代码量的 Agentic 代码审查",
       "item_url": "http://www.phodal.com/blog/autodev-review-agent/",
       "time": "2025-11-17T04:19:07+00:00"
+    },
+    {
+      "blog_id": "蔡蔡",
+      "feed": "https://www.caicai.me/rss.xml",
+      "item_name": "YouMind Startup Journey (2)",
+      "item_url": "https://www.caicai.me/blogs/youmind-startup-journey-2",
+      "time": "2025-11-17T00:00:00+00:00"
     },
     {
       "blog_id": "Chang Luo",
@@ -2120,13 +2197,6 @@
       "item_name": "2025.01.22: 各种链接",
       "item_url": "https://www.owenyoung.com/blog/journals/2025-01-22/",
       "time": "2025-01-22T06:14:01+00:00"
-    },
-    {
-      "blog_id": "林小沐",
-      "feed": "https://immmmm.com/atom.xml",
-      "item_name": "尊贵的 Tesla 车主 +1",
-      "item_url": "https://immmmm.com/hi-tesla-2025/",
-      "time": "2025-01-19T11:48:13+00:00"
     },
     {
       "blog_id": "江宏",
