@@ -692,5 +692,13 @@
         "url": "https://1byte.io/articles/gaokao-choice/"
       }
     ]
+  },
+  {
+    "name": "蔡蔡",
+    "url": "https://www.caicai.me/zh/blogs",
+    "describe": "和玉伯一起构建YouMind",
+    "avatar": "https://webp.yitianyigexiangfa.com/1769313077_46537cb7.jpg",
+    "feed": "https://www.caicai.me/rss.xml",
+    "like": []
   }
 ]
