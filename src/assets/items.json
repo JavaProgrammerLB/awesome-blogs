@@ -15,6 +15,13 @@
       "time": "2026-01-25T00:22:01+00:00"
     },
     {
+      "blog_id": "Eric Migicovsky",
+      "feed": "https://ericmigi.com/rss.xml",
+      "item_name": "On Being A Canadian In America In 2026",
+      "item_url": "https://ericmigi.com/blog/on-being-a-canadian-in-america-in-2026",
+      "time": "2026-01-25T00:00:00+00:00"
+    },
+    {
       "blog_id": "云风",
       "feed": "https://blog.codingnow.com/atom.xml",
       "item_name": "介绍几款单人桌游",
@@ -1475,13 +1482,6 @@
       "feed": "https://linghao.io/feed.xml",
       "item_name": "Hotel California",
       "item_url": "https://linghao.io/posts/hotel-california-2025",
-      "time": "2025-08-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Eric Migicovsky",
-      "feed": "https://ericmigi.com/rss.xml",
-      "item_name": "Pebble 2 Duo is in mass production!",
-      "item_url": "https://ericmigi.com/blog/pebble-2-duo-is-in-mass-production",
       "time": "2025-08-22T00:00:00+00:00"
     },
     {
