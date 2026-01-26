@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Kevin Kelly",
+      "feed": "https://feedpress.me/TheTechnium",
+      "item_name": "The March of Nines",
+      "item_url": "https://kk.org/thetechnium/the-march-of-nines/",
+      "time": "2026-01-26T16:21:12+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "The end of the curl bug-bounty",
@@ -1462,13 +1469,6 @@
       "item_name": "Cline: Vulnerable To Data Exfiltration And How To Protect Your Data",
       "item_url": "https://embracethered.com/blog/posts/2025/cline-vulnerable-to-data-exfiltration/",
       "time": "2025-08-27T15:20:58+00:00"
-    },
-    {
-      "blog_id": "Kevin Kelly",
-      "feed": "https://feedpress.me/TheTechnium",
-      "item_name": "Emotional Agents",
-      "item_url": "https://kk.org/thetechnium/emotional-agents/",
-      "time": "2025-08-23T21:57:26+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
