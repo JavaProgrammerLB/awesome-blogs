@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "刘泓君",
+      "feed": "https://feeds.fireside.fm/sv101/rss",
+      "item_name": "E222｜紧身裤消失，谁在定义时尚潮流？",
+      "item_url": "https://sv101.fireside.fm/235",
+      "time": "2026-01-26T00:00:00+00:00"
+    },
+    {
       "blog_id": "林小沐",
       "feed": "https://immmmm.com/atom.xml",
       "item_name": "二〇二六，你好",
@@ -881,13 +888,6 @@
       "item_name": "Building YouMind: A Year of Extension Design",
       "item_url": "https://www.caicai.me/blogs/building-youmind-a-year-of-extension-design",
       "time": "2025-11-22T00:00:00+00:00"
-    },
-    {
-      "blog_id": "刘泓君",
-      "feed": "https://feeds.fireside.fm/sv101/rss",
-      "item_name": "E215｜资本视角聊聊万亿大基建钱从哪儿来，以及电力破局的六条路径",
-      "item_url": "https://sv101.fireside.fm/225",
-      "time": "2025-11-21T00:00:00+00:00"
     },
     {
       "blog_id": "郭家宝BYVoid",
