@@ -695,6 +695,11 @@
     "describe": "clawbot作者",
     "avatar": "https://webp.yitianyigexiangfa.com/1769503124_d1c5c0c3.jpg",
     "feed": "https://steipete.me/rss.xml",
-    "like": []
+    "like": [
+      {
+        "title": "Clawdbot Showcase",
+        "url": "https://docs.molt.bot/start/showcase"
+      }
+    ]
   }
 ]
