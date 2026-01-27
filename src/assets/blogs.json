@@ -656,19 +656,6 @@
     ]
   },
   {
-    "name": "Nikita Prokopov",
-    "url": "https://tonsky.me/",
-    "describe": "拥有20多年开发经验的程序员，开发了很多clojure语言的开源项目",
-    "avatar": "https://webp.yitianyigexiangfa.com/1765248323_20bfba24.jpg",
-    "feed": "https://tonsky.me/atom.xml",
-    "like": [
-      {
-        "title": "What I worked on",
-        "url": "https://tonsky.me/projects/"
-      }
-    ]
-  },
-  {
     "name": "江宏",
     "url": "https://1byte.io/",
     "describe": "LeanCloud公司创始人",
