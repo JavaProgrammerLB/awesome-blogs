@@ -230,6 +230,27 @@
     ]
   },
   {
+    "name": "郭家宝",
+    "url": "https://byvoid.com/zhs/blog/archive/",
+    "describe": "《Node.js开发指南》作者，2010年入学清华大学Computer Science专业，从2014年开始在Google工作，去了很多地方旅行，写了很多游记",
+    "avatar": "https://webp.yitianyigexiangfa.com/1767582855_d9e34f0d.jpg",
+    "feed": "https://byvoid.com/zhs/blog/feed.xml",
+    "like": [
+      {
+        "title": "写书小记",
+        "url": "https://byvoid.com/zhs/blog/compose-a-book/"
+      },
+      {
+        "title": "在Google的这四年（一）",
+        "url": "https://byvoid.com/zhs/blog/4-years-at-google-1/"
+      },
+      {
+        "title": "无家可归",
+        "url": "https://byvoid.com/zhs/blog/homeless/"
+      }
+    ]
+  },
+  {
     "name": "Julia Evans",
     "url": "https://jvns.ca",
     "describe": "Make hard things Easy",
@@ -644,27 +665,6 @@
       {
         "title": "What I worked on",
         "url": "https://tonsky.me/projects/"
-      }
-    ]
-  },
-  {
-    "name": "郭家宝BYVoid",
-    "url": "https://byvoid.com/zhs/blog/archive/",
-    "describe": "《Node.js开发指南》作者，2010年入学清华大学Computer Science专业，从2014年开始在Google工作，去了很多地方旅行，写了很多游记",
-    "avatar": "https://webp.yitianyigexiangfa.com/1767582855_d9e34f0d.jpg",
-    "feed": "https://byvoid.com/zhs/blog/feed.xml",
-    "like": [
-      {
-        "title": "写书小记",
-        "url": "https://byvoid.com/zhs/blog/compose-a-book/"
-      },
-      {
-        "title": "在Google的这四年（一）",
-        "url": "https://byvoid.com/zhs/blog/4-years-at-google-1/"
-      },
-      {
-        "title": "无家可归",
-        "url": "https://byvoid.com/zhs/blog/homeless/"
       }
     ]
   },
