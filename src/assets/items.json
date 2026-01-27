@@ -79,9 +79,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "YouMind: Finding Product Balance Through Subtraction",
-      "item_url": "https://www.caicai.me/blogs/youmind-finding-product-balance-through-subtraction",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "YouMind：在做减法中找到产品的平衡",
+      "item_url": "https://www.caicai.me/zh/blogs/youmind-finding-product-balance-through-subtraction",
       "time": "2026-01-23T00:00:00+00:00"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "What AI Coding Means for Product Designers",
-      "item_url": "https://www.caicai.me/blogs/what-ai-coding-means-for-product-designers",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "AI coding 对于产品设计师的意义",
+      "item_url": "https://www.caicai.me/zh/blogs/what-ai-coding-means-for-product-designers",
       "time": "2026-01-20T00:00:00+00:00"
     },
     {
@@ -555,9 +555,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "2025 Annual Summary",
-      "item_url": "https://www.caicai.me/blogs/2025-annual-summary",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "2025 年度总结",
+      "item_url": "https://www.caicai.me/zh/blogs/2025-annual-summary",
       "time": "2025-12-27T00:00:00+00:00"
     },
     {
@@ -716,9 +716,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "The meaning of life",
-      "item_url": "https://www.caicai.me/blogs/the-meaning-of-life",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "人生的意义",
+      "item_url": "https://www.caicai.me/zh/blogs/the-meaning-of-life",
       "time": "2025-12-15T00:00:00+00:00"
     },
     {
@@ -744,9 +744,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "The Hidden Complexity of Dark Mode Design",
-      "item_url": "https://www.caicai.me/blogs/the-hidden-complexity-of-dark-mode-design",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "不太容易的深色主题设计",
+      "item_url": "https://www.caicai.me/zh/blogs/the-hidden-complexity-of-dark-mode-design",
       "time": "2025-12-11T00:00:00+00:00"
     },
     {
@@ -765,9 +765,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "I Love Obsidian, But We're Not Right for Each Other",
-      "item_url": "https://www.caicai.me/blogs/i-love-obsidian-but-were-not-right-for-each-other",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "我为什么又放弃了 Obsidian",
+      "item_url": "https://www.caicai.me/zh/blogs/i-love-obsidian-but-were-not-right-for-each-other",
       "time": "2025-12-08T00:00:00+00:00"
     },
     {
@@ -905,9 +905,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "Building YouMind: A Year of Extension Design",
-      "item_url": "https://www.caicai.me/blogs/building-youmind-a-year-of-extension-design",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "YouMind 插件设计的故事",
+      "item_url": "https://www.caicai.me/zh/blogs/building-youmind-a-year-of-extension-design",
       "time": "2025-11-22T00:00:00+00:00"
     },
     {
@@ -926,16 +926,16 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "Why we build Audio Pod in YouMind？",
-      "item_url": "https://www.caicai.me/blogs/why-we-build-audio-pod-in-youmind",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "为什么我们在 YouMind 里设计了 Audio Pod",
+      "item_url": "https://www.caicai.me/zh/blogs/why-we-build-audio-pod-in-youmind",
       "time": "2025-11-19T00:00:00+00:00"
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "The Gemini 3 I See: A Different Take",
-      "item_url": "https://www.caicai.me/blogs/the-gemini-3-i-see-a-different-take",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "我看到的不一样的 Gemini 3",
+      "item_url": "https://www.caicai.me/zh/blogs/the-gemini-3-i-see-a-different-take",
       "time": "2025-11-19T00:00:00+00:00"
     },
     {
@@ -968,9 +968,9 @@
     },
     {
       "blog_id": "蔡蔡",
-      "feed": "https://www.caicai.me/rss.xml",
-      "item_name": "YouMind Startup Journey (2)",
-      "item_url": "https://www.caicai.me/blogs/youmind-startup-journey-2",
+      "feed": "https://www.caicai.me/zh/rss.xml",
+      "item_name": "YouMind 创业历程（二）",
+      "item_url": "https://www.caicai.me/zh/blogs/youmind-startup-journey-2",
       "time": "2025-11-17T00:00:00+00:00"
     },
     {
