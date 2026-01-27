@@ -688,5 +688,13 @@
     "avatar": "https://webp.yitianyigexiangfa.com/1769313077_46537cb7.jpg",
     "feed": "https://www.caicai.me/zh/rss.xml",
     "like": []
+  },
+  {
+    "name": "Peter Steinberger",
+    "url": "https://steipete.me/",
+    "describe": "clawbot作者",
+    "avatar": "https://webp.yitianyigexiangfa.com/1769503124_d1c5c0c3.jpg",
+    "feed": "https://steipete.me/rss.xml",
+    "like": []
   }
 ]
