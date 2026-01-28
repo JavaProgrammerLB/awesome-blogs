@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Daniel Stenberg",
+      "feed": "https://daniel.haxx.se/blog/feed/",
+      "item_name": "curl distro meeting 2026",
+      "item_url": "https://daniel.haxx.se/blog/2026/01/28/curl-distro-meeting-2026/",
+      "time": "2026-01-28T09:44:51+00:00"
+    },
+    {
       "blog_id": "何同学",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
       "item_name": "當郎朗遇上魔法鋼琴…",
@@ -601,13 +608,6 @@
       "item_name": "Agentic UI：重新定义“好体验”——不是美化按钮，而是让认知负担归零",
       "item_url": "http://www.phodal.com/blog/agentic-frontend/",
       "time": "2025-12-23T12:42:27+00:00"
-    },
-    {
-      "blog_id": "Daniel Stenberg",
-      "feed": "https://daniel.haxx.se/blog/feed/",
-      "item_name": "A curl 2025 review",
-      "item_url": "https://daniel.haxx.se/blog/2025/12/23/a-curl-2025-review/",
-      "time": "2025-12-23T12:00:18+00:00"
     },
     {
       "blog_id": "阮一峰",
