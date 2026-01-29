@@ -22,6 +22,13 @@
       "time": "2026-01-29T00:00:00+00:00"
     },
     {
+      "blog_id": "Chang Luo",
+      "feed": "https://www.luochang.ink/index.xml",
+      "item_name": "智能的本质是对抗不确定",
+      "item_url": "https://luochang212.github.io/posts/the_essence/",
+      "time": "2026-01-29T00:00:00+00:00"
+    },
+    {
       "blog_id": "何同学",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
       "item_name": "當世界級鋼琴家彈奏我們的魔法鋼琴...",
@@ -1889,13 +1896,6 @@
       "item_name": "松弛的泉州行（上)",
       "item_url": "http://blog.wraith615.xyz/articles/kjkpm7csmgtejw6g",
       "time": "2025-04-28T00:12:23+00:00"
-    },
-    {
-      "blog_id": "Chang Luo",
-      "feed": "https://www.luochang.ink/index.xml",
-      "item_name": "三种方法实现监督微调：LLaMA Factory, trl 和 unsloth",
-      "item_url": "https://luochang212.github.io/posts/sft_note/",
-      "time": "2025-04-26T00:00:00+00:00"
     },
     {
       "blog_id": "图拉鼎",
