@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Coding Agent 时代，App 的核心竞争力是什么？",
+      "item_url": "https://limboy.me/posts/coding-agent-app-core-compentencies",
+      "time": "2026-01-29T00:00:00+00:00"
+    },
+    {
+      "blog_id": "Takuya Matsuyama",
+      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
+      "item_name": "Note-driven agentic coding workflow using Claude Code and Inkdrop",
+      "item_url": "https://www.devas.life/note-driven-agentic-coding-workflow-using-claude-code-and-inkdrop/",
+      "time": "2026-01-29T00:00:00+00:00"
+    },
+    {
       "blog_id": "何同学",
       "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP5Kd0smdWe9H_bDH-73c6Q",
       "item_name": "當世界級鋼琴家彈奏我們的魔法鋼琴...",
@@ -13,6 +27,13 @@
       "item_name": "curl distro meeting 2026",
       "item_url": "https://daniel.haxx.se/blog/2026/01/28/curl-distro-meeting-2026/",
       "time": "2026-01-28T09:44:51+00:00"
+    },
+    {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "我的笔记系统",
+      "item_url": "https://limboy.me/posts/my-notes-system",
+      "time": "2026-01-28T00:00:00+00:00"
     },
     {
       "blog_id": "何同学",
@@ -353,7 +374,7 @@
     {
       "blog_id": "Limboy",
       "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "答题者心态",
+      "item_name": "人生的意义或许就是好好做题",
       "item_url": "https://limboy.me/posts/the-mindset-of-the-answerer",
       "time": "2026-01-07T00:00:00+00:00"
     },
@@ -1282,13 +1303,6 @@
       "time": "2025-09-24T19:20:58+00:00"
     },
     {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "避风塘 V2",
-      "item_url": "https://limboy.me/posts/before-town-v2",
-      "time": "2025-09-24T00:00:00+00:00"
-    },
-    {
       "blog_id": "Kevin Kelly",
       "feed": "https://feedpress.me/TheTechnium",
       "item_name": "The Periodic Table of Cognition",
@@ -1653,13 +1667,6 @@
       "time": "2025-07-17T00:00:00+00:00"
     },
     {
-      "blog_id": "Takuya Matsuyama",
-      "feed": "https://feeds.yitianyigexiangfa.com/TakuyaMatsuyama.xml",
-      "item_name": "Agentic coding made programming fun again",
-      "item_url": "https://www.devas.life/agentic-coding-made-programming-fun-again/",
-      "time": "2025-07-16T00:00:00+00:00"
-    },
-    {
       "blog_id": "Hawstein",
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 YF：自由生活与创造",
@@ -1678,13 +1685,6 @@
       "feed": "https://hawstein.com/feed.xml",
       "item_name": "写给 YK：系统与规则",
       "item_url": "https://hawstein.com/2025/07/12/system-and-rules/",
-      "time": "2025-07-12T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "35mm Coffee - 一个创意工作者的线上社区",
-      "item_url": "https://limboy.me/posts/35mm-coffee",
       "time": "2025-07-12T00:00:00+00:00"
     },
     {
