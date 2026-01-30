@@ -3,6 +3,13 @@
     {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
+      "item_name": "科技爱好者周刊（第 383 期）：你是第几级 AI 编程",
+      "item_url": "http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html",
+      "time": "2026-01-30T00:10:32+00:00"
+    },
+    {
+      "blog_id": "阮一峰",
+      "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "Kimi 的一体化，Manus 的分层",
       "item_url": "http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html",
       "time": "2026-01-29T08:02:30+00:00"
@@ -629,13 +636,6 @@
       "item_name": "2025 年我提了 500 个 Pull Requests",
       "item_url": "https://blog.yihong0618.me/issue-334/",
       "time": "2025-12-26T00:00:00+00:00"
-    },
-    {
-      "blog_id": "阮一峰",
-      "feed": "https://feeds.feedburner.com/ruanyifeng",
-      "item_name": "科技爱好者周刊（第 379 期）：《硅谷钢铁侠》摘录",
-      "item_url": "http://www.ruanyifeng.com/blog/2025/12/weekly-issue-379.html",
-      "time": "2025-12-25T23:51:08+00:00"
     },
     {
       "blog_id": "Takuya Matsuyama",
