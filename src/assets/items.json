@@ -8,6 +8,13 @@
       "time": "2026-01-30T00:10:32+00:00"
     },
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "Routine 就是人生的复利",
+      "item_url": "https://limboy.me/posts/routine-compound-interest",
+      "time": "2026-01-30T00:00:00+00:00"
+    },
+    {
       "blog_id": "阮一峰",
       "feed": "https://feeds.feedburner.com/ruanyifeng",
       "item_name": "Kimi 的一体化，Manus 的分层",
@@ -131,6 +138,13 @@
       "feed": "https://littlecheesecake.me/feed",
       "item_name": "My First Vibe Coding",
       "item_url": "https://littlecheesecake.me/blog1/2026/01/24/my-first-vibe-coding.html",
+      "time": "2026-01-24T00:00:00+00:00"
+    },
+    {
+      "blog_id": "艾逗笔",
+      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
+      "item_name": "我 Vibe Coding 一周，做了个桌面 Agent",
+      "item_url": "https://idoubi.ai/blog/vibe-coding-workany",
       "time": "2026-01-24T00:00:00+00:00"
     },
     {
@@ -1182,13 +1196,6 @@
       "item_name": "周报 #101 - 消失了三个月，我的生活发生了什么变化",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_101",
       "time": "2025-10-20T01:41:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "构建自己的反思系统",
-      "item_url": "https://limboy.me/posts/review-system",
-      "time": "2025-10-17T00:00:00+00:00"
     },
     {
       "blog_id": "何同学",
@@ -2274,13 +2281,6 @@
       "item_name": "2024 年底曼谷之行",
       "item_url": "https://1byte.io/articles/bangkok/",
       "time": "2025-01-03T06:37:11+00:00"
-    },
-    {
-      "blog_id": "艾逗笔",
-      "feed": "https://feeds.yitianyigexiangfa.com/idoubi.xml",
-      "item_name": "2024，我追过的 AI 风口",
-      "item_url": "https://idoubi.ai/blog/my-ai-2024",
-      "time": "2025-01-01T00:00:00+00:00"
     },
     {
       "blog_id": "艾逗笔",
