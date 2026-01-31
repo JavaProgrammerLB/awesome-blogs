@@ -15,6 +15,13 @@
       "time": "2026-01-31T00:00:00+00:00"
     },
     {
+      "blog_id": "Ahmad Shadeed",
+      "feed": "https://ishadeed.com/feed.xml",
+      "item_name": "The Too Early Breakpoint",
+      "item_url": "https://ishadeed.com/article/too-early-breakpoint/",
+      "time": "2026-01-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "GregKH awarded the Prize for Excellence in Open Source 2026",
@@ -2266,13 +2273,6 @@
       "feed": "https://sidhion.com/rss.xml",
       "item_name": "28h Days: year 1 update",
       "item_url": "https://sidhion.com/blog/28h_days_update_1/",
-      "time": "2025-01-05T00:00:00+00:00"
-    },
-    {
-      "blog_id": "Ahmad Shadeed",
-      "feed": "https://ishadeed.com/feed.xml",
-      "item_name": "Balancing Text In CSS",
-      "item_url": "https://ishadeed.com/article/balancing-text-css/",
       "time": "2025-01-05T00:00:00+00:00"
     },
     {
