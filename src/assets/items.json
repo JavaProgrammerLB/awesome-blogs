@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "Limboy",
+      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
+      "item_name": "冷水澡是一座小金矿",
+      "item_url": "https://limboy.me/posts/taking-cold-showers-is-a-hidden-treasure",
+      "time": "2026-01-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "sean goedecke",
       "feed": "https://www.seangoedecke.com/rss.xml",
       "item_name": "How does AI impact skill formation?",
@@ -1154,13 +1161,6 @@
       "item_name": "周报 #102 - 我是如何使用 AI 的",
       "item_url": "https://www.pseudoyu.com/posts/weekly_review_102",
       "time": "2025-10-27T18:38:00+00:00"
-    },
-    {
-      "blog_id": "Limboy",
-      "feed": "https://feeds.yitianyigexiangfa.com/limboy.xml",
-      "item_name": "记一次与 Coding Agent 合作实现 Feature 的过程",
-      "item_url": "https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature",
-      "time": "2025-10-27T00:00:00+00:00"
     },
     {
       "blog_id": "Linghao Zhang",
