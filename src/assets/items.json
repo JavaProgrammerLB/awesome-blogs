@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "blog_id": "sean goedecke",
+      "feed": "https://www.seangoedecke.com/rss.xml",
+      "item_name": "How does AI impact skill formation?",
+      "item_url": "https://seangoedecke.com/how-does-ai-impact-skill-formation/",
+      "time": "2026-01-31T00:00:00+00:00"
+    },
+    {
       "blog_id": "Daniel Stenberg",
       "feed": "https://daniel.haxx.se/blog/feed/",
       "item_name": "GregKH awarded the Prize for Excellence in Open Source 2026",
@@ -664,13 +671,6 @@
       "item_name": "Write, then walk: Why a simple notes app is sufficient",
       "item_url": "https://www.devas.life/why-a-linear-notes-app-is-sufficient/",
       "time": "2025-12-25T00:00:00+00:00"
-    },
-    {
-      "blog_id": "sean goedecke",
-      "feed": "https://www.seangoedecke.com/rss.xml",
-      "item_name": "Nobody knows how large software products work",
-      "item_url": "https://seangoedecke.com/nobody-knows-how-software-products-work/",
-      "time": "2025-12-24T00:00:00+00:00"
     },
     {
       "blog_id": "phodal",
